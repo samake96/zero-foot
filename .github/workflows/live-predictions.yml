@@ -1,6 +1,9 @@
 name: Generate ZEROFOOT experimental forecasts
 on:
   workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/live-predictions.yml'
   schedule:
     - cron: '20 7 * * *'
 permissions:
