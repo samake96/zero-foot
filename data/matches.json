@@ -1,13 +1,13 @@
 {
   "source": "API-Football",
-  "updated_at": "2026-11-20T02:02:30.037718+00:00",
+  "updated_at": "2026-11-20T03:59:21.014430+00:00",
   "date_utc": "2026-11-20",
   "matches": [
     {
       "id": 1492457,
       "kickoff": "2026-11-20T00:30:00+00:00",
-      "status": "2H",
-      "elapsed": 70,
+      "status": "FT",
+      "elapsed": 90,
       "league": {
         "id": 71,
         "name": "Serie A",
@@ -27,8 +27,8 @@
     {
       "id": 1649491,
       "kickoff": "2026-11-20T00:30:00+00:00",
-      "status": "2H",
-      "elapsed": 61,
+      "status": "FT",
+      "elapsed": 90,
       "league": {
         "id": 253,
         "name": "Major League Soccer",
@@ -42,14 +42,14 @@
       "away": {
         "name": "FC Cincinnati",
         "logo": "https://media.api-sports.io/football/teams/2242.png",
-        "goals": 2
+        "goals": 3
       }
     },
     {
       "id": 1647453,
       "kickoff": "2026-11-20T00:45:00+00:00",
-      "status": "2H",
-      "elapsed": 58,
+      "status": "FT",
+      "elapsed": 90,
       "league": {
         "id": 240,
         "name": "Primera B",
@@ -58,7 +58,7 @@
       "home": {
         "name": "Real Cartagena",
         "logo": "https://media.api-sports.io/football/teams/1459.png",
-        "goals": 3
+        "goals": 5
       },
       "away": {
         "name": "Tigres FC",
@@ -69,8 +69,8 @@
     {
       "id": 1647454,
       "kickoff": "2026-11-20T00:45:00+00:00",
-      "status": "2H",
-      "elapsed": 58,
+      "status": "FT",
+      "elapsed": 90,
       "league": {
         "id": 240,
         "name": "Primera B",
@@ -90,8 +90,8 @@
     {
       "id": 1649492,
       "kickoff": "2026-11-20T03:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
+      "status": "1H",
+      "elapsed": 45,
       "league": {
         "id": 253,
         "name": "Major League Soccer",
@@ -100,12 +100,12 @@
       "home": {
         "name": "Seattle Sounders",
         "logo": "https://media.api-sports.io/football/teams/1595.png",
-        "goals": null
+        "goals": 1
       },
       "away": {
         "name": "Real Salt Lake",
         "logo": "https://media.api-sports.io/football/teams/1606.png",
-        "goals": null
+        "goals": 0
       }
     },
     {
