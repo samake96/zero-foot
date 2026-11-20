@@ -109,6 +109,29 @@ def forecast(rows, home, away):
             {'home': round(lh, 3), 'away': round(la, 3)},
             {'home': len(hh), 'away': len(aa)})
 
+def explain_forecast(probs, goals, samples, home_name, away_name):
+    """Evidence-backed editorial opinion, never a guarantee or fabricated team news."""
+    choices = [('home', home_name), ('draw', 'Match nul'), ('away', away_name)]
+    winner, label = max(choices, key=lambda pair: probs[pair[0]])
+    gap = sorted(probs.values(), reverse=True)[0] - sorted(probs.values(), reverse=True)[1]
+    confidence = 'moderee' if gap >= .12 else 'prudente'
+    evidence = [
+        {'type': 'expected_goals', 'home': goals['home'], 'away': goals['away'],
+         'text_fr': f"Buts attendus selon le modele : {goals['home']:.2f} pour {home_name}, {goals['away']:.2f} pour {away_name}.",
+         'text_en': f"Model expected goals: {home_name} {goals['home']:.2f}, {away_name} {goals['away']:.2f}."},
+        {'type': 'historical_samples', 'home': samples['home'], 'away': samples['away'],
+         'text_fr': f"Base statistique : {samples['home']} matchs a domicile de {home_name} et {samples['away']} matchs a l'exterieur de {away_name}.",
+         'text_en': f"Statistical sample: {samples['home']} home games for {home_name} and {samples['away']} away games for {away_name}."},
+    ]
+    return {
+        'pick': winner, 'pick_label': label, 'confidence': confidence,
+        'reasons': evidence,
+        'opinion_fr': f"Notre avis : {label}. Cette orientation repose sur les buts attendus et les performances historiques domicile/exterieur. L'ecart entre les scenarios reste {'limite' if gap < .12 else 'notable'}, et une surprise demeure possible.",
+        'opinion_en': f"Our view: {('draw' if winner == 'draw' else label + ' to win')}. This opinion uses expected goals and historical home/away performance. The gap between outcomes is {'narrow' if gap < .12 else 'meaningful'}, and an upset remains possible.",
+        'limitations_fr': "Avis statistique, sans prise en compte confirmee des blessures, compositions ou informations de derniere minute. Aucun resultat garanti.",
+        'limitations_en': "Statistical opinion; injuries, lineups and late news have not been verified. No outcome is guaranteed.",
+    }
+
 def main():
     history = json.loads((DATA / 'historical_matches.json').read_text(encoding='utf-8'))['matches']
     fixtures = json.loads((DATA / 'prediction_fixtures.json').read_text(encoding='utf-8'))['matches']
@@ -178,7 +201,9 @@ def main():
                             'home': (m.get('home') or {}).get('name'),
                             'away': (m.get('away') or {}).get('name'),
                             'probabilities_1x2': probs, 'expected_goals': goals,
-                            'historical_samples': samples, 'model': 'poisson_v33_prototype',
+                            'historical_samples': samples,
+                            'analysis': explain_forecast(probs, goals, samples, (m.get('home') or {}).get('name'), (m.get('away') or {}).get('name')),
+                            'model': 'poisson_v33_prototype',
                             'experimental': True,
                         })
         if reason:
