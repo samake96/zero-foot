@@ -93,7 +93,7 @@ def forecast(rows, home, away):
 
 def main():
     history = json.loads((DATA / 'historical_matches.json').read_text(encoding='utf-8'))['matches']
-    fixtures = json.loads((DATA / 'matches.json').read_text(encoding='utf-8'))['matches']
+    fixtures = json.loads((DATA / 'prediction_fixtures.json').read_text(encoding='utf-8'))['matches']
     now = datetime.now(timezone.utc)
     grouped = defaultdict(list)
     bad_history = 0
