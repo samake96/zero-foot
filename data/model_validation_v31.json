@@ -1,0 +1,313 @@
+{
+  "model": "poisson_v31_experimental",
+  "created_at": "2026-11-20T11:16:01.719220+00:00",
+  "method": "Per-league chronological train/tune/test by kickoff; hyperparameters chosen on tuning only; final 20% holdout untouched; no future match data",
+  "warning": "Historical-only evaluation, not calibrated for live predictions or betting",
+  "competitions": {
+    "BL1": {
+      "status": "ok",
+      "historical_matches": 306,
+      "tuning_matches": 60,
+      "test_matches": 67,
+      "chosen_parameters": {
+        "prior": 8,
+        "decay": 0
+      },
+      "tuning_log_loss": 1.0051,
+      "holdout_v31": {
+        "matches": 67,
+        "accuracy": 0.5373,
+        "brier": 0.6031,
+        "log_loss": 1.0108
+      },
+      "holdout_v0": {
+        "matches": 67,
+        "accuracy": 0.5373,
+        "brier": 0.6018,
+        "log_loss": 1.0103
+      },
+      "holdout_baseline": {
+        "matches": 67,
+        "accuracy": 0.3881,
+        "brier": 0.6627,
+        "log_loss": 1.0907
+      },
+      "confidence_calibration": [
+        {
+          "range": "0.0-0.2",
+          "count": 0,
+          "mean_confidence": null,
+          "observed_accuracy": null
+        },
+        {
+          "range": "0.2-0.4",
+          "count": 11,
+          "mean_confidence": 0.3895,
+          "observed_accuracy": 0.5455
+        },
+        {
+          "range": "0.4-0.6",
+          "count": 39,
+          "mean_confidence": 0.4859,
+          "observed_accuracy": 0.4103
+        },
+        {
+          "range": "0.6-0.8",
+          "count": 15,
+          "mean_confidence": 0.6658,
+          "observed_accuracy": 0.8667
+        },
+        {
+          "range": "0.8-1.0",
+          "count": 2,
+          "mean_confidence": 0.8357,
+          "observed_accuracy": 0.5
+        }
+      ]
+    },
+    "FL1": {
+      "status": "ok",
+      "historical_matches": 305,
+      "tuning_matches": 55,
+      "test_matches": 70,
+      "chosen_parameters": {
+        "prior": 8,
+        "decay": 0
+      },
+      "tuning_log_loss": 1.0157,
+      "holdout_v31": {
+        "matches": 70,
+        "accuracy": 0.4429,
+        "brier": 0.6552,
+        "log_loss": 1.0746
+      },
+      "holdout_v0": {
+        "matches": 70,
+        "accuracy": 0.4286,
+        "brier": 0.6588,
+        "log_loss": 1.0788
+      },
+      "holdout_baseline": {
+        "matches": 70,
+        "accuracy": 0.3857,
+        "brier": 0.6766,
+        "log_loss": 1.1132
+      },
+      "confidence_calibration": [
+        {
+          "range": "0.0-0.2",
+          "count": 0,
+          "mean_confidence": null,
+          "observed_accuracy": null
+        },
+        {
+          "range": "0.2-0.4",
+          "count": 9,
+          "mean_confidence": 0.3847,
+          "observed_accuracy": 0.4444
+        },
+        {
+          "range": "0.4-0.6",
+          "count": 51,
+          "mean_confidence": 0.5034,
+          "observed_accuracy": 0.4314
+        },
+        {
+          "range": "0.6-0.8",
+          "count": 10,
+          "mean_confidence": 0.6888,
+          "observed_accuracy": 0.5
+        },
+        {
+          "range": "0.8-1.0",
+          "count": 0,
+          "mean_confidence": null,
+          "observed_accuracy": null
+        }
+      ]
+    },
+    "PD": {
+      "status": "ok",
+      "historical_matches": 380,
+      "tuning_matches": 72,
+      "test_matches": 90,
+      "chosen_parameters": {
+        "prior": 8,
+        "decay": 0
+      },
+      "tuning_log_loss": 0.9878,
+      "holdout_v31": {
+        "matches": 90,
+        "accuracy": 0.5,
+        "brier": 0.596,
+        "log_loss": 0.9981
+      },
+      "holdout_v0": {
+        "matches": 90,
+        "accuracy": 0.5111,
+        "brier": 0.5975,
+        "log_loss": 0.9999
+      },
+      "holdout_baseline": {
+        "matches": 90,
+        "accuracy": 0.5111,
+        "brier": 0.6214,
+        "log_loss": 1.0347
+      },
+      "confidence_calibration": [
+        {
+          "range": "0.0-0.2",
+          "count": 0,
+          "mean_confidence": null,
+          "observed_accuracy": null
+        },
+        {
+          "range": "0.2-0.4",
+          "count": 13,
+          "mean_confidence": 0.3799,
+          "observed_accuracy": 0.3077
+        },
+        {
+          "range": "0.4-0.6",
+          "count": 64,
+          "mean_confidence": 0.481,
+          "observed_accuracy": 0.4688
+        },
+        {
+          "range": "0.6-0.8",
+          "count": 13,
+          "mean_confidence": 0.6765,
+          "observed_accuracy": 0.8462
+        },
+        {
+          "range": "0.8-1.0",
+          "count": 0,
+          "mean_confidence": null,
+          "observed_accuracy": null
+        }
+      ]
+    },
+    "PL": {
+      "status": "ok",
+      "historical_matches": 380,
+      "tuning_matches": 73,
+      "test_matches": 74,
+      "chosen_parameters": {
+        "prior": 8,
+        "decay": 0.6
+      },
+      "tuning_log_loss": 1.1009,
+      "holdout_v31": {
+        "matches": 74,
+        "accuracy": 0.4865,
+        "brier": 0.6308,
+        "log_loss": 1.047
+      },
+      "holdout_v0": {
+        "matches": 74,
+        "accuracy": 0.4865,
+        "brier": 0.61,
+        "log_loss": 1.0225
+      },
+      "holdout_baseline": {
+        "matches": 74,
+        "accuracy": 0.4595,
+        "brier": 0.6469,
+        "log_loss": 1.0704
+      },
+      "confidence_calibration": [
+        {
+          "range": "0.0-0.2",
+          "count": 0,
+          "mean_confidence": null,
+          "observed_accuracy": null
+        },
+        {
+          "range": "0.2-0.4",
+          "count": 15,
+          "mean_confidence": 0.3847,
+          "observed_accuracy": 0.3333
+        },
+        {
+          "range": "0.4-0.6",
+          "count": 58,
+          "mean_confidence": 0.4588,
+          "observed_accuracy": 0.5172
+        },
+        {
+          "range": "0.6-0.8",
+          "count": 1,
+          "mean_confidence": 0.6026,
+          "observed_accuracy": 1.0
+        },
+        {
+          "range": "0.8-1.0",
+          "count": 0,
+          "mean_confidence": null,
+          "observed_accuracy": null
+        }
+      ]
+    },
+    "SA": {
+      "status": "ok",
+      "historical_matches": 380,
+      "tuning_matches": 70,
+      "test_matches": 78,
+      "chosen_parameters": {
+        "prior": 5,
+        "decay": 0
+      },
+      "tuning_log_loss": 0.9767,
+      "holdout_v31": {
+        "matches": 78,
+        "accuracy": 0.4615,
+        "brier": 0.62,
+        "log_loss": 1.033
+      },
+      "holdout_v0": {
+        "matches": 78,
+        "accuracy": 0.4615,
+        "brier": 0.62,
+        "log_loss": 1.033
+      },
+      "holdout_baseline": {
+        "matches": 78,
+        "accuracy": 0.359,
+        "brier": 0.6621,
+        "log_loss": 1.091
+      },
+      "confidence_calibration": [
+        {
+          "range": "0.0-0.2",
+          "count": 0,
+          "mean_confidence": null,
+          "observed_accuracy": null
+        },
+        {
+          "range": "0.2-0.4",
+          "count": 13,
+          "mean_confidence": 0.3744,
+          "observed_accuracy": 0.2308
+        },
+        {
+          "range": "0.4-0.6",
+          "count": 50,
+          "mean_confidence": 0.489,
+          "observed_accuracy": 0.46
+        },
+        {
+          "range": "0.6-0.8",
+          "count": 14,
+          "mean_confidence": 0.6718,
+          "observed_accuracy": 0.7143
+        },
+        {
+          "range": "0.8-1.0",
+          "count": 1,
+          "mean_confidence": 0.861,
+          "observed_accuracy": 0.0
+        }
+      ]
+    }
+  }
+}
