@@ -1,0 +1,2624 @@
+{
+  "created_at": "2026-11-20T12:32:09.218591+00:00",
+  "historical_by_competition": {
+    "PD": 380,
+    "FL1": 305,
+    "PL": 380,
+    "BL1": 306,
+    "SA": 380
+  },
+  "invalid_historical_rows": 0,
+  "fixture_count": 373,
+  "predictions_count": 1,
+  "excluded_count": 372,
+  "exclusion_reasons": {
+    "unsupported_competition": 370,
+    "unmatched_team": 2
+  },
+  "exclusions": [
+    {
+      "match_id": 1492457,
+      "reason": "unsupported_competition",
+      "league_id": 71,
+      "home": "Sao Paulo",
+      "away": "Fluminense"
+    },
+    {
+      "match_id": 1649491,
+      "reason": "unsupported_competition",
+      "league_id": 253,
+      "home": "Orlando City SC",
+      "away": "FC Cincinnati"
+    },
+    {
+      "match_id": 1647453,
+      "reason": "unsupported_competition",
+      "league_id": 240,
+      "home": "Real Cartagena",
+      "away": "Tigres FC"
+    },
+    {
+      "match_id": 1647454,
+      "reason": "unsupported_competition",
+      "league_id": 240,
+      "home": "Real Cundinamarca",
+      "away": "Quindio"
+    },
+    {
+      "match_id": 1649492,
+      "reason": "unsupported_competition",
+      "league_id": 253,
+      "home": "Seattle Sounders",
+      "away": "Real Salt Lake"
+    },
+    {
+      "match_id": 1632127,
+      "reason": "unsupported_competition",
+      "league_id": 190,
+      "home": "Western Sydney Wanderers W",
+      "away": "Wellington Phoenix W"
+    },
+    {
+      "match_id": 1638054,
+      "reason": "unsupported_competition",
+      "league_id": 1012,
+      "home": "Singapore U17",
+      "away": "Palestine U17"
+    },
+    {
+      "match_id": 1638045,
+      "reason": "unsupported_competition",
+      "league_id": 1012,
+      "home": "Chinese Taipei U17",
+      "away": "Hong Kong U17"
+    },
+    {
+      "match_id": 1638057,
+      "reason": "unsupported_competition",
+      "league_id": 1012,
+      "home": "Yemen U17",
+      "away": "Turkmenistan U17"
+    },
+    {
+      "match_id": 1622835,
+      "reason": "unsupported_competition",
+      "league_id": 274,
+      "home": "Garudayaksa",
+      "away": "Persepam Madura Utd"
+    },
+    {
+      "match_id": 1622836,
+      "reason": "unsupported_competition",
+      "league_id": 274,
+      "home": "PSS Sleman",
+      "away": "Arema FC"
+    },
+    {
+      "match_id": 1637711,
+      "reason": "unsupported_competition",
+      "league_id": 275,
+      "home": "PSBS Biak Numfor",
+      "away": "Tornado Pekanbaru"
+    },
+    {
+      "match_id": 1638047,
+      "reason": "unsupported_competition",
+      "league_id": 1012,
+      "home": "Indonesia U17",
+      "away": "Myanmar U17"
+    },
+    {
+      "match_id": 1638053,
+      "reason": "unsupported_competition",
+      "league_id": 1012,
+      "home": "Philippines U17",
+      "away": "Afghanistan U17"
+    },
+    {
+      "match_id": 1640370,
+      "reason": "unsupported_competition",
+      "league_id": 1202,
+      "home": "South Melbourne",
+      "away": "Canberra FC"
+    },
+    {
+      "match_id": 1640371,
+      "reason": "unsupported_competition",
+      "league_id": 1202,
+      "home": "Sydney United",
+      "away": "Sutherland Sharks"
+    },
+    {
+      "match_id": 1593704,
+      "reason": "unsupported_competition",
+      "league_id": 188,
+      "home": "Western Sydney Wanderers",
+      "away": "Adelaide United"
+    },
+    {
+      "match_id": 1601152,
+      "reason": "unsupported_competition",
+      "league_id": 278,
+      "home": "Negeri Sembilan",
+      "away": "Kuching FA"
+    },
+    {
+      "match_id": 1638052,
+      "reason": "unsupported_competition",
+      "league_id": 1012,
+      "home": "Pakistan U17",
+      "away": "Jordan U17"
+    },
+    {
+      "match_id": 1644141,
+      "reason": "unsupported_competition",
+      "league_id": 636,
+      "home": "Köpetdag Aşgabat",
+      "away": "Merw"
+    },
+    {
+      "match_id": 1644142,
+      "reason": "unsupported_competition",
+      "league_id": 636,
+      "home": "Nebitci",
+      "away": "Ahal"
+    },
+    {
+      "match_id": 1644143,
+      "reason": "unsupported_competition",
+      "league_id": 636,
+      "home": "Şagadam",
+      "away": "Altyn Asyr"
+    },
+    {
+      "match_id": 1646631,
+      "reason": "unsupported_competition",
+      "league_id": 324,
+      "home": "Rajasthan United",
+      "away": "Chanmari"
+    },
+    {
+      "match_id": 1507490,
+      "reason": "unsupported_competition",
+      "league_id": 1104,
+      "home": "Dinamo Tbilisi II",
+      "away": "Betlemi"
+    },
+    {
+      "match_id": 1507492,
+      "reason": "unsupported_competition",
+      "league_id": 1104,
+      "home": "Guria",
+      "away": "Irao"
+    },
+    {
+      "match_id": 1507496,
+      "reason": "unsupported_competition",
+      "league_id": 1104,
+      "home": "Varketili",
+      "away": "Merani Tbilisi"
+    },
+    {
+      "match_id": 1507497,
+      "reason": "unsupported_competition",
+      "league_id": 1104,
+      "home": "WIT Georgia",
+      "away": "Didube 2014"
+    },
+    {
+      "match_id": 1556143,
+      "reason": "unsupported_competition",
+      "league_id": 98,
+      "home": "Kashima",
+      "away": "Shimizu S-pulse"
+    },
+    {
+      "match_id": 1556144,
+      "reason": "unsupported_competition",
+      "league_id": 98,
+      "home": "Kashiwa Reysol",
+      "away": "JEF United Chiba"
+    },
+    {
+      "match_id": 1556150,
+      "reason": "unsupported_competition",
+      "league_id": 98,
+      "home": "Vissel Kobe",
+      "away": "Mito Hollyhock"
+    },
+    {
+      "match_id": 1593082,
+      "reason": "unsupported_competition",
+      "league_id": 336,
+      "home": "Atlet",
+      "away": "SC Poltava 2"
+    },
+    {
+      "match_id": 1630468,
+      "reason": "unsupported_competition",
+      "league_id": 418,
+      "home": "Şahdağ",
+      "away": "Cəbrayıl"
+    },
+    {
+      "match_id": 1630469,
+      "reason": "unsupported_competition",
+      "league_id": 418,
+      "home": "Şimal",
+      "away": "Zaqatala"
+    },
+    {
+      "match_id": 1633935,
+      "reason": "unsupported_competition",
+      "league_id": 340,
+      "home": "Thanh Hóa",
+      "away": "Hoang Anh Gia Lai"
+    },
+    {
+      "match_id": 1635011,
+      "reason": "unsupported_competition",
+      "league_id": 637,
+      "home": "Ho Chi Minh",
+      "away": "Thai Nguyen"
+    },
+    {
+      "match_id": 1601934,
+      "reason": "unsupported_competition",
+      "league_id": 419,
+      "home": "Imisli FK",
+      "away": "Zira"
+    },
+    {
+      "match_id": 1605121,
+      "reason": "unsupported_competition",
+      "league_id": 343,
+      "home": "Araks Ararat",
+      "away": "Sardarapat 2"
+    },
+    {
+      "match_id": 1605122,
+      "reason": "unsupported_competition",
+      "league_id": 343,
+      "home": "Ararat II",
+      "away": "Bentonit Ijevan"
+    },
+    {
+      "match_id": 1507493,
+      "reason": "unsupported_competition",
+      "league_id": 1104,
+      "home": "FC Iberia 1999 II",
+      "away": "Margveti 2006"
+    },
+    {
+      "match_id": 1576950,
+      "reason": "unsupported_competition",
+      "league_id": 395,
+      "home": "Iskra",
+      "away": "Spartanii Selemet"
+    },
+    {
+      "match_id": 1576953,
+      "reason": "unsupported_competition",
+      "league_id": 395,
+      "home": "Univer Comrat",
+      "away": "Vulturii Cutezători"
+    },
+    {
+      "match_id": 1576954,
+      "reason": "unsupported_competition",
+      "league_id": 395,
+      "home": "Zimbru II",
+      "away": "FCM Ungheni"
+    },
+    {
+      "match_id": 1581564,
+      "reason": "unsupported_competition",
+      "league_id": 342,
+      "home": "Van",
+      "away": "Ararat-Armenia"
+    },
+    {
+      "match_id": 1629123,
+      "reason": "unsupported_competition",
+      "league_id": 276,
+      "home": "Bandari",
+      "away": "Murang'a SEAL"
+    },
+    {
+      "match_id": 1629125,
+      "reason": "unsupported_competition",
+      "league_id": 276,
+      "home": "Mathare United",
+      "away": "Homeboyz"
+    },
+    {
+      "match_id": 1633694,
+      "reason": "unsupported_competition",
+      "league_id": 790,
+      "home": "Progresul Pecica",
+      "away": "Cetate Deva"
+    },
+    {
+      "match_id": 1628043,
+      "reason": "unsupported_competition",
+      "league_id": 542,
+      "home": "Al Zawra'a",
+      "away": "Al Talaba"
+    },
+    {
+      "match_id": 1638044,
+      "reason": "unsupported_competition",
+      "league_id": 1012,
+      "home": "Bhutan U17",
+      "away": "Syria U17"
+    },
+    {
+      "match_id": 1561738,
+      "reason": "unsupported_competition",
+      "league_id": 109,
+      "home": "Świt Skolwin",
+      "away": "Stal Stalowa Wola"
+    },
+    {
+      "match_id": 1581977,
+      "reason": "unsupported_competition",
+      "league_id": 334,
+      "home": "Yarud Mariupol'",
+      "away": "Ahrobiznes Volochysk"
+    },
+    {
+      "match_id": 1603483,
+      "reason": "unsupported_competition",
+      "league_id": 368,
+      "home": "Albirex Niigata S",
+      "away": "Balestier Khalsa"
+    },
+    {
+      "match_id": 1604166,
+      "reason": "unsupported_competition",
+      "league_id": 782,
+      "home": "Rakow II",
+      "away": "Górnik Polkowice"
+    },
+    {
+      "match_id": 1642195,
+      "reason": "unsupported_competition",
+      "league_id": 323,
+      "home": "East Bengal II",
+      "away": "SC Delhi"
+    },
+    {
+      "match_id": 1638058,
+      "reason": "unsupported_competition",
+      "league_id": 171,
+      "home": "Beijing Guoan",
+      "away": "SHANGHAI SIPG"
+    },
+    {
+      "match_id": 1634418,
+      "reason": "unsupported_competition",
+      "league_id": 309,
+      "home": "Al Sahel",
+      "away": "Afif"
+    },
+    {
+      "match_id": 1634419,
+      "reason": "unsupported_competition",
+      "league_id": 309,
+      "home": "Al Taraji",
+      "away": "Al Safa"
+    },
+    {
+      "match_id": 1634420,
+      "reason": "unsupported_competition",
+      "league_id": 309,
+      "home": "Mudhar Club",
+      "away": "Al Baten"
+    },
+    {
+      "match_id": 1634426,
+      "reason": "unsupported_competition",
+      "league_id": 309,
+      "home": "Al Hada",
+      "away": "Najran"
+    },
+    {
+      "match_id": 1516190,
+      "reason": "unsupported_competition",
+      "league_id": 369,
+      "home": "Olmaliq",
+      "away": "Qizilqum"
+    },
+    {
+      "match_id": 1516192,
+      "reason": "unsupported_competition",
+      "league_id": 369,
+      "home": "Lokomotiv",
+      "away": "Pakhtakor"
+    },
+    {
+      "match_id": 1551493,
+      "reason": "unsupported_competition",
+      "league_id": 371,
+      "home": "Shkëndija Haraçinë",
+      "away": "Bashkimi Kumanovo"
+    },
+    {
+      "match_id": 1559425,
+      "reason": "unsupported_competition",
+      "league_id": 356,
+      "home": "Kom",
+      "away": "Zeta"
+    },
+    {
+      "match_id": 1593966,
+      "reason": "unsupported_competition",
+      "league_id": 633,
+      "home": "Tiszafuredi VSE",
+      "away": "Eger"
+    },
+    {
+      "match_id": 1602736,
+      "reason": "unsupported_competition",
+      "league_id": 297,
+      "home": "Police Tero",
+      "away": "Chanthaburi"
+    },
+    {
+      "match_id": 1607341,
+      "reason": "unsupported_competition",
+      "league_id": 380,
+      "home": "Warriors",
+      "away": "North District"
+    },
+    {
+      "match_id": 1609969,
+      "reason": "unsupported_competition",
+      "league_id": 317,
+      "home": "FK Majevica Lopare",
+      "away": "Zvijezda 09"
+    },
+    {
+      "match_id": 1622837,
+      "reason": "unsupported_competition",
+      "league_id": 274,
+      "home": "Dewa United",
+      "away": "Persita"
+    },
+    {
+      "match_id": 1632900,
+      "reason": "unsupported_competition",
+      "league_id": 784,
+      "home": "Aerostar Bacau",
+      "away": "CSM FC Vaslui"
+    },
+    {
+      "match_id": 1632902,
+      "reason": "unsupported_competition",
+      "league_id": 784,
+      "home": "Paşcani",
+      "away": "Gheorgheni"
+    },
+    {
+      "match_id": 1632903,
+      "reason": "unsupported_competition",
+      "league_id": 784,
+      "home": "Odorheiu Secuiesc",
+      "away": "Bradul Putna"
+    },
+    {
+      "match_id": 1633036,
+      "reason": "unsupported_competition",
+      "league_id": 785,
+      "home": "Sepsi II",
+      "away": "Săcele"
+    },
+    {
+      "match_id": 1633164,
+      "reason": "unsupported_competition",
+      "league_id": 786,
+      "home": "Blejoi",
+      "away": "Pucioasa"
+    },
+    {
+      "match_id": 1633165,
+      "reason": "unsupported_competition",
+      "league_id": 786,
+      "home": "Flacăra Moreni",
+      "away": "Voința Crevedia"
+    },
+    {
+      "match_id": 1633169,
+      "reason": "unsupported_competition",
+      "league_id": 786,
+      "home": "Viitorul Corbeanca",
+      "away": "Plopeni"
+    },
+    {
+      "match_id": 1633296,
+      "reason": "unsupported_competition",
+      "league_id": 787,
+      "home": "Axiopolis",
+      "away": "FC Oţelul II"
+    },
+    {
+      "match_id": 1633428,
+      "reason": "unsupported_competition",
+      "league_id": 788,
+      "home": "Alexandria",
+      "away": "Omega Sport"
+    },
+    {
+      "match_id": 1633429,
+      "reason": "unsupported_competition",
+      "league_id": 788,
+      "home": "Cetatea",
+      "away": "Axi Adunații-Copăceni"
+    },
+    {
+      "match_id": 1633430,
+      "reason": "unsupported_competition",
+      "league_id": 788,
+      "home": "Dinamo Bucureşti II",
+      "away": "Voluntari II"
+    },
+    {
+      "match_id": 1633431,
+      "reason": "unsupported_competition",
+      "league_id": 788,
+      "home": "LPS HD Clinceni",
+      "away": "FCSB II"
+    },
+    {
+      "match_id": 1633564,
+      "reason": "unsupported_competition",
+      "league_id": 789,
+      "home": "Petrolul Hartiesti",
+      "away": "Academica Balș"
+    },
+    {
+      "match_id": 1633565,
+      "reason": "unsupported_competition",
+      "league_id": 789,
+      "home": "Unirea Bascov",
+      "away": "Minerul Lupeni"
+    },
+    {
+      "match_id": 1633693,
+      "reason": "unsupported_competition",
+      "league_id": 790,
+      "home": "Ghiroda şi Giarmata Vii",
+      "away": "Unirea Alba Iulia"
+    },
+    {
+      "match_id": 1633696,
+      "reason": "unsupported_competition",
+      "league_id": 790,
+      "home": "Timişul Şag",
+      "away": "Metalurgistul Cugir"
+    },
+    {
+      "match_id": 1633697,
+      "reason": "unsupported_competition",
+      "league_id": 790,
+      "home": "Universitatea Alba Iulia",
+      "away": "Poli Timisoara 2"
+    },
+    {
+      "match_id": 1633827,
+      "reason": "unsupported_competition",
+      "league_id": 791,
+      "home": "Unirea Dej",
+      "away": "Academica Recea"
+    },
+    {
+      "match_id": 1633829,
+      "reason": "unsupported_competition",
+      "league_id": 791,
+      "home": "Viitorul Cluj",
+      "away": "SCM Zalău"
+    },
+    {
+      "match_id": 1637712,
+      "reason": "unsupported_competition",
+      "league_id": 275,
+      "home": "Persiba Balikpapan",
+      "away": "Barito Putera"
+    },
+    {
+      "match_id": 1637713,
+      "reason": "unsupported_competition",
+      "league_id": 275,
+      "home": "Dejan",
+      "away": "Persis Solo"
+    },
+    {
+      "match_id": 1637714,
+      "reason": "unsupported_competition",
+      "league_id": 275,
+      "home": "PSMS Medan",
+      "away": "Sumsel United"
+    },
+    {
+      "match_id": 1638048,
+      "reason": "unsupported_competition",
+      "league_id": 1012,
+      "home": "IR Iran U17",
+      "away": "Laos U17"
+    },
+    {
+      "match_id": 1638050,
+      "reason": "unsupported_competition",
+      "league_id": 1012,
+      "home": "Mongolia U17",
+      "away": "Kyrgyzstan U17"
+    },
+    {
+      "match_id": 1638055,
+      "reason": "unsupported_competition",
+      "league_id": 1012,
+      "home": "Thailand U17",
+      "away": "Iraq U17"
+    },
+    {
+      "match_id": 1645700,
+      "reason": "unsupported_competition",
+      "league_id": 425,
+      "home": "Damascus Al-Ahli",
+      "away": "Al Nawaeir"
+    },
+    {
+      "match_id": 1645701,
+      "reason": "unsupported_competition",
+      "league_id": 425,
+      "home": "Foutoua",
+      "away": "Al Karama"
+    },
+    {
+      "match_id": 1645702,
+      "reason": "unsupported_competition",
+      "league_id": 425,
+      "home": "Wathba",
+      "away": "Horriya"
+    },
+    {
+      "match_id": 1645704,
+      "reason": "unsupported_competition",
+      "league_id": 425,
+      "home": "Al Taliya",
+      "away": "Qamishli"
+    },
+    {
+      "match_id": 1649587,
+      "reason": "unsupported_competition",
+      "league_id": 290,
+      "home": "Fajr Sepasi",
+      "away": "Chadormalu SC"
+    },
+    {
+      "match_id": 1649588,
+      "reason": "unsupported_competition",
+      "league_id": 290,
+      "home": "ZOB Ahan",
+      "away": "Shams Azar Qazvin"
+    },
+    {
+      "match_id": 1650828,
+      "reason": "unsupported_competition",
+      "league_id": 1195,
+      "home": "Ferizaj",
+      "away": "Prishtina e Re"
+    },
+    {
+      "match_id": 1633936,
+      "reason": "unsupported_competition",
+      "league_id": 340,
+      "home": "Viettel",
+      "away": "Song Lam Nghe An"
+    },
+    {
+      "match_id": 1634421,
+      "reason": "unsupported_competition",
+      "league_id": 309,
+      "home": "Al Qwarah",
+      "away": "Al Nairyah"
+    },
+    {
+      "match_id": 1642068,
+      "reason": "unsupported_competition",
+      "league_id": 390,
+      "home": "Al Hikma",
+      "away": "Shabab Al Sahel"
+    },
+    {
+      "match_id": 1590223,
+      "reason": "unsupported_competition",
+      "league_id": 211,
+      "home": "Opatija",
+      "away": "Dinamo Zagreb U21"
+    },
+    {
+      "match_id": 1594909,
+      "reason": "unsupported_competition",
+      "league_id": 887,
+      "home": "El Mansura",
+      "away": "Dayrout"
+    },
+    {
+      "match_id": 1594910,
+      "reason": "unsupported_competition",
+      "league_id": 887,
+      "home": "Kahraba Ismailia",
+      "away": "AL Nasr SC"
+    },
+    {
+      "match_id": 1594911,
+      "reason": "unsupported_competition",
+      "league_id": 887,
+      "home": "Proxy",
+      "away": "Tanta SC"
+    },
+    {
+      "match_id": 1594912,
+      "reason": "unsupported_competition",
+      "league_id": 887,
+      "home": "Team",
+      "away": "Masar"
+    },
+    {
+      "match_id": 1595150,
+      "reason": "unsupported_competition",
+      "league_id": 887,
+      "home": "Maleyet Kafr El Zayiat",
+      "away": "Mega Sport"
+    },
+    {
+      "match_id": 1602557,
+      "reason": "unsupported_competition",
+      "league_id": 284,
+      "home": "Bihor Oradea",
+      "away": "Gloria Bistriţa"
+    },
+    {
+      "match_id": 1641355,
+      "reason": "unsupported_competition",
+      "league_id": 363,
+      "home": "Kedus Giorgis",
+      "away": "Hadiya Hosaena"
+    },
+    {
+      "match_id": 1634424,
+      "reason": "unsupported_competition",
+      "league_id": 309,
+      "home": "Al-Ain",
+      "away": "Al Gottah"
+    },
+    {
+      "match_id": 1634425,
+      "reason": "unsupported_competition",
+      "league_id": 309,
+      "home": "Al-Wajj",
+      "away": "Al Qalah"
+    },
+    {
+      "match_id": 1643064,
+      "reason": "unsupported_competition",
+      "league_id": 301,
+      "home": "Al-Ittihad Kalba",
+      "away": "Sharjah FC"
+    },
+    {
+      "match_id": 1643131,
+      "reason": "unsupported_competition",
+      "league_id": 1218,
+      "home": "Al Dhafra U23",
+      "away": "Al Ain U23"
+    },
+    {
+      "match_id": 1643132,
+      "reason": "unsupported_competition",
+      "league_id": 1218,
+      "home": "Hatta U23",
+      "away": "Al Wasl U23"
+    },
+    {
+      "match_id": 1644284,
+      "reason": "unsupported_competition",
+      "league_id": 303,
+      "home": "Palm City",
+      "away": "Dubai City"
+    },
+    {
+      "match_id": 1644285,
+      "reason": "unsupported_competition",
+      "league_id": 303,
+      "home": "Al Arabi",
+      "away": "Al Jazira Al Hamra"
+    },
+    {
+      "match_id": 1644286,
+      "reason": "unsupported_competition",
+      "league_id": 303,
+      "home": "Al Hamriyah",
+      "away": "Al Thaid"
+    },
+    {
+      "match_id": 1649589,
+      "reason": "unsupported_competition",
+      "league_id": 290,
+      "home": "Persepolis FC",
+      "away": "Paykan"
+    },
+    {
+      "match_id": 1507495,
+      "reason": "unsupported_competition",
+      "league_id": 1104,
+      "home": "Lokomotivi Tbilisi",
+      "away": "Kolkheti Khobi"
+    },
+    {
+      "match_id": 1519198,
+      "reason": "unsupported_competition",
+      "league_id": 238,
+      "home": "Dynamo Makhachkala U19",
+      "away": "Nizhny Novgorod U19"
+    },
+    {
+      "match_id": 1519199,
+      "reason": "unsupported_competition",
+      "league_id": 238,
+      "home": "Dinamo Moskva U19",
+      "away": "Rubin Kazan U20"
+    },
+    {
+      "match_id": 1519200,
+      "reason": "unsupported_competition",
+      "league_id": 238,
+      "home": "Rostov U19",
+      "away": "Rodina Moscow U19"
+    },
+    {
+      "match_id": 1519201,
+      "reason": "unsupported_competition",
+      "league_id": 238,
+      "home": "Akademiya Konoplev U20",
+      "away": "Lokomotiv Moskva U19"
+    },
+    {
+      "match_id": 1519202,
+      "reason": "unsupported_competition",
+      "league_id": 238,
+      "home": "Krasnodar U19",
+      "away": "Chertanovo U20"
+    },
+    {
+      "match_id": 1519203,
+      "reason": "unsupported_competition",
+      "league_id": 238,
+      "home": "Ural U20",
+      "away": "Fakel U19"
+    },
+    {
+      "match_id": 1519204,
+      "reason": "unsupported_competition",
+      "league_id": 238,
+      "home": "Zenit U19",
+      "away": "CSKA Moskva U19"
+    },
+    {
+      "match_id": 1519234,
+      "reason": "unsupported_competition",
+      "league_id": 238,
+      "home": "Spartak Moskva U19",
+      "away": "Almaz Antey U19"
+    },
+    {
+      "match_id": 1546142,
+      "reason": "unsupported_competition",
+      "league_id": 587,
+      "home": "Belgium U17",
+      "away": "Vietnam U17"
+    },
+    {
+      "match_id": 1546146,
+      "reason": "unsupported_competition",
+      "league_id": 587,
+      "home": "Cuba U17",
+      "away": "Tajikistan U17"
+    },
+    {
+      "match_id": 1597963,
+      "reason": "unsupported_competition",
+      "league_id": 305,
+      "home": "Al-Duhail SC",
+      "away": "Qatar SC"
+    },
+    {
+      "match_id": 1597965,
+      "reason": "unsupported_competition",
+      "league_id": 305,
+      "home": "Al Sadd",
+      "away": "Lusail City"
+    },
+    {
+      "match_id": 1600820,
+      "reason": "unsupported_competition",
+      "league_id": 567,
+      "home": "Polisi Tanzania",
+      "away": "Young Africans"
+    },
+    {
+      "match_id": 1601153,
+      "reason": "unsupported_competition",
+      "league_id": 278,
+      "home": "Terengganu",
+      "away": "DPMM FC Brunei"
+    },
+    {
+      "match_id": 1619626,
+      "reason": "unsupported_competition",
+      "league_id": 566,
+      "home": "Bumamuru",
+      "away": "Inter Star"
+    },
+    {
+      "match_id": 1628048,
+      "reason": "unsupported_competition",
+      "league_id": 542,
+      "home": "Zakho",
+      "away": "Al Shorta"
+    },
+    {
+      "match_id": 1632534,
+      "reason": "unsupported_competition",
+      "league_id": 405,
+      "home": "Amagaju",
+      "away": "Marines"
+    },
+    {
+      "match_id": 1632535,
+      "reason": "unsupported_competition",
+      "league_id": 405,
+      "home": "Etoile de l'Est",
+      "away": "Bugesera"
+    },
+    {
+      "match_id": 1632536,
+      "reason": "unsupported_competition",
+      "league_id": 405,
+      "home": "Gasogi United",
+      "away": "Kiyovu Sports"
+    },
+    {
+      "match_id": 1635329,
+      "reason": "unsupported_competition",
+      "league_id": 585,
+      "home": "Police",
+      "away": "KCCA"
+    },
+    {
+      "match_id": 1635330,
+      "reason": "unsupported_competition",
+      "league_id": 585,
+      "home": "URA",
+      "away": "Ntugasaze"
+    },
+    {
+      "match_id": 1635331,
+      "reason": "unsupported_competition",
+      "league_id": 585,
+      "home": "SC Villa",
+      "away": "UPDF"
+    },
+    {
+      "match_id": 1638046,
+      "reason": "unsupported_competition",
+      "league_id": 1012,
+      "home": "India U17",
+      "away": "Malaysia U17"
+    },
+    {
+      "match_id": 1638049,
+      "reason": "unsupported_competition",
+      "league_id": 1012,
+      "home": "Lebanon U17",
+      "away": "Bahrain U17"
+    },
+    {
+      "match_id": 1641356,
+      "reason": "unsupported_competition",
+      "league_id": 363,
+      "home": "Welwalo Adigrat Uni",
+      "away": "Mekelakeya"
+    },
+    {
+      "match_id": 1646475,
+      "reason": "unsupported_competition",
+      "league_id": 813,
+      "home": "Tonnerre",
+      "away": "Elecsport"
+    },
+    {
+      "match_id": 1646632,
+      "reason": "unsupported_competition",
+      "league_id": 324,
+      "home": "Mohammedan",
+      "away": "Gokulam"
+    },
+    {
+      "match_id": 1516189,
+      "reason": "unsupported_competition",
+      "league_id": 369,
+      "home": "Navbahor",
+      "away": "Neftchi"
+    },
+    {
+      "match_id": 1546153,
+      "reason": "unsupported_competition",
+      "league_id": 587,
+      "home": "Mali U17",
+      "away": "New Zealand U17"
+    },
+    {
+      "match_id": 1607469,
+      "reason": "unsupported_competition",
+      "league_id": 202,
+      "home": "ES Hammam-Sousse",
+      "away": "Progrès Sakiet Eddaïer"
+    },
+    {
+      "match_id": 1607470,
+      "reason": "unsupported_competition",
+      "league_id": 202,
+      "home": "CS Hammam-Lif",
+      "away": "ES Metlaoui"
+    },
+    {
+      "match_id": 1607472,
+      "reason": "unsupported_competition",
+      "league_id": 202,
+      "home": "Olympique Béja",
+      "away": "AS Marsa"
+    },
+    {
+      "match_id": 1627776,
+      "reason": "unsupported_competition",
+      "league_id": 289,
+      "home": "Highbury",
+      "away": "University of Pretoria"
+    },
+    {
+      "match_id": 1507491,
+      "reason": "unsupported_competition",
+      "league_id": 1104,
+      "home": "Gonio",
+      "away": "Gardabani"
+    },
+    {
+      "match_id": 1509220,
+      "reason": "unsupported_competition",
+      "league_id": 327,
+      "home": "Gagra",
+      "away": "Dila"
+    },
+    {
+      "match_id": 1509222,
+      "reason": "unsupported_competition",
+      "league_id": 327,
+      "home": "Spaeri",
+      "away": "Meshakhte"
+    },
+    {
+      "match_id": 1546160,
+      "reason": "unsupported_competition",
+      "league_id": 587,
+      "home": "Spain U17",
+      "away": "China PR U17"
+    },
+    {
+      "match_id": 1598744,
+      "reason": "unsupported_competition",
+      "league_id": 701,
+      "home": "Estoril U23",
+      "away": "Benfica U23"
+    },
+    {
+      "match_id": 1628042,
+      "reason": "unsupported_competition",
+      "league_id": 542,
+      "home": "Al Minaa Basra",
+      "away": "Karbala"
+    },
+    {
+      "match_id": 1642196,
+      "reason": "unsupported_competition",
+      "league_id": 323,
+      "home": "Bengaluru",
+      "away": "Mumbai City"
+    },
+    {
+      "match_id": 1644140,
+      "reason": "unsupported_competition",
+      "league_id": 636,
+      "home": "Aşgabat",
+      "away": "Arkadag"
+    },
+    {
+      "match_id": 1649268,
+      "reason": "unsupported_competition",
+      "league_id": 584,
+      "home": "Assabah SC",
+      "away": "Al Bashaer Club"
+    },
+    {
+      "match_id": 1650138,
+      "reason": "unsupported_competition",
+      "league_id": 187,
+      "home": "RC Arba",
+      "away": "RC Kouba"
+    },
+    {
+      "match_id": 1650139,
+      "reason": "unsupported_competition",
+      "league_id": 187,
+      "home": "CA Batna",
+      "away": "JSM Skikda"
+    },
+    {
+      "match_id": 1650140,
+      "reason": "unsupported_competition",
+      "league_id": 187,
+      "home": "El Bayadh",
+      "away": "Taghit"
+    },
+    {
+      "match_id": 1650141,
+      "reason": "unsupported_competition",
+      "league_id": 187,
+      "home": "GC Mascara",
+      "away": "MC Saida"
+    },
+    {
+      "match_id": 1650142,
+      "reason": "unsupported_competition",
+      "league_id": 187,
+      "home": "Hussein Dey",
+      "away": "Usm El Harrach"
+    },
+    {
+      "match_id": 1650143,
+      "reason": "unsupported_competition",
+      "league_id": 187,
+      "home": "Koléa",
+      "away": "WA Tlemcen"
+    },
+    {
+      "match_id": 1650144,
+      "reason": "unsupported_competition",
+      "league_id": 187,
+      "home": "Mostaganem",
+      "away": "ASM Oran"
+    },
+    {
+      "match_id": 1650145,
+      "reason": "unsupported_competition",
+      "league_id": 187,
+      "home": "Sidi Benali",
+      "away": "WA Mostaganem"
+    },
+    {
+      "match_id": 1650146,
+      "reason": "unsupported_competition",
+      "league_id": 187,
+      "home": "Blida",
+      "away": "Tiaret"
+    },
+    {
+      "match_id": 1650522,
+      "reason": "unsupported_competition",
+      "league_id": 820,
+      "home": "Al Salmiyah",
+      "away": "Khaitan"
+    },
+    {
+      "match_id": 1627329,
+      "reason": "unsupported_competition",
+      "league_id": 397,
+      "home": "São Salvador",
+      "away": "1º de Agosto"
+    },
+    {
+      "match_id": 1649590,
+      "reason": "unsupported_competition",
+      "league_id": 290,
+      "home": "Sanat Naft",
+      "away": "Esteghlal Khuzestan"
+    },
+    {
+      "match_id": 1507494,
+      "reason": "unsupported_competition",
+      "league_id": 1104,
+      "home": "Iveria Khashuri",
+      "away": "Iberia 2010"
+    },
+    {
+      "match_id": 1546150,
+      "reason": "unsupported_competition",
+      "league_id": 587,
+      "home": "Italy U17",
+      "away": "Jamaica U17"
+    },
+    {
+      "match_id": 1581567,
+      "reason": "unsupported_competition",
+      "league_id": 342,
+      "home": "Shirak",
+      "away": "Gandzasar"
+    },
+    {
+      "match_id": 1590097,
+      "reason": "unsupported_competition",
+      "league_id": 310,
+      "home": "Skenderbeu Korce",
+      "away": "Egnatia Rrogozhinë"
+    },
+    {
+      "match_id": 1592923,
+      "reason": "unsupported_competition",
+      "league_id": 1200,
+      "home": "Puebla U21",
+      "away": "Atl. San Luis U21"
+    },
+    {
+      "match_id": 1601938,
+      "reason": "unsupported_competition",
+      "league_id": 419,
+      "home": "Sumqayıt",
+      "away": "Sabah FA"
+    },
+    {
+      "match_id": 1630973,
+      "reason": "unsupported_competition",
+      "league_id": 1196,
+      "home": "Attram de Visser",
+      "away": "WAFA"
+    },
+    {
+      "match_id": 1633560,
+      "reason": "unsupported_competition",
+      "league_id": 789,
+      "home": "CSM Targu Jiu",
+      "away": "Păușești"
+    },
+    {
+      "match_id": 1649991,
+      "reason": "unsupported_competition",
+      "league_id": 714,
+      "home": "Kahraba Ismailia",
+      "away": "Ceramica Cleopatra"
+    },
+    {
+      "match_id": 1638056,
+      "reason": "unsupported_competition",
+      "league_id": 1012,
+      "home": "United Arab Emirates U17",
+      "away": "Bangladesh U17"
+    },
+    {
+      "match_id": 1643065,
+      "reason": "unsupported_competition",
+      "league_id": 301,
+      "home": "Shabab Al Ahli Dubai",
+      "away": "Ajman"
+    },
+    {
+      "match_id": 1546158,
+      "reason": "unsupported_competition",
+      "league_id": 587,
+      "home": "Senegal U17",
+      "away": "Croatia U17"
+    },
+    {
+      "match_id": 1565308,
+      "reason": "unsupported_competition",
+      "league_id": 283,
+      "home": "FC Botosani",
+      "away": "FC Voluntari"
+    },
+    {
+      "match_id": 1597964,
+      "reason": "unsupported_competition",
+      "league_id": 305,
+      "home": "Al-Gharafa",
+      "away": "Al-Arabi SC"
+    },
+    {
+      "match_id": 1600821,
+      "reason": "unsupported_competition",
+      "league_id": 567,
+      "home": "Namungo",
+      "away": "Mbeya City"
+    },
+    {
+      "match_id": 1610044,
+      "reason": "unsupported_competition",
+      "league_id": 317,
+      "home": "Potkozarje",
+      "away": "Famos Vojkovići"
+    },
+    {
+      "match_id": 1648522,
+      "reason": "unsupported_competition",
+      "league_id": 423,
+      "home": "Salitas",
+      "away": "SONABEL"
+    },
+    {
+      "match_id": 1649038,
+      "reason": "unsupported_competition",
+      "league_id": 386,
+      "home": "Mouna",
+      "away": "US Tchologo"
+    },
+    {
+      "match_id": 1509219,
+      "reason": "unsupported_competition",
+      "league_id": 327,
+      "home": "Dinamo Tbilisi",
+      "away": "Torpedo Kutaisi"
+    },
+    {
+      "match_id": 1546148,
+      "reason": "unsupported_competition",
+      "league_id": 587,
+      "home": "Fiji U17",
+      "away": "Morocco U17"
+    },
+    {
+      "match_id": 1546151,
+      "reason": "unsupported_competition",
+      "league_id": 587,
+      "home": "Côte d'Ivoire U17",
+      "away": "Uzbekistan U17"
+    },
+    {
+      "match_id": 1551149,
+      "reason": "unsupported_competition",
+      "league_id": 172,
+      "home": "Septemvri Sofia",
+      "away": "Lokomotiv Plovdiv"
+    },
+    {
+      "match_id": 1554228,
+      "reason": "unsupported_competition",
+      "league_id": 287,
+      "home": "Naftagas",
+      "away": "Borac Cacak"
+    },
+    {
+      "match_id": 1559008,
+      "reason": "unsupported_competition",
+      "league_id": 374,
+      "home": "Dravinja",
+      "away": "Ilirija"
+    },
+    {
+      "match_id": 1559014,
+      "reason": "unsupported_competition",
+      "league_id": 374,
+      "home": "Triglav",
+      "away": "Dren Vrhnika"
+    },
+    {
+      "match_id": 1559837,
+      "reason": "unsupported_competition",
+      "league_id": 346,
+      "home": "Táborsko",
+      "away": "Slavia Praha II"
+    },
+    {
+      "match_id": 1565534,
+      "reason": "unsupported_competition",
+      "league_id": 333,
+      "home": "Shakhtar Donetsk",
+      "away": "Livyi Bereh"
+    },
+    {
+      "match_id": 1592924,
+      "reason": "unsupported_competition",
+      "league_id": 1200,
+      "home": "Juarez U21",
+      "away": "Atlas U21"
+    },
+    {
+      "match_id": 1611451,
+      "reason": "unsupported_competition",
+      "league_id": 186,
+      "home": "ASO Chlef",
+      "away": "Khenchela"
+    },
+    {
+      "match_id": 1611453,
+      "reason": "unsupported_competition",
+      "league_id": 186,
+      "home": "ES Setif",
+      "away": "US Biskra"
+    },
+    {
+      "match_id": 1631645,
+      "reason": "unsupported_competition",
+      "league_id": 872,
+      "home": "Celaya 2",
+      "away": "Heroes de Zaci 2"
+    },
+    {
+      "match_id": 1631649,
+      "reason": "unsupported_competition",
+      "league_id": 872,
+      "home": "Atletico Hidalgo",
+      "away": "Cruz Azul Lagunas"
+    },
+    {
+      "match_id": 1633034,
+      "reason": "unsupported_competition",
+      "league_id": 785,
+      "home": "Inter Sibiu",
+      "away": "Kids Tâmpa Braşov"
+    },
+    {
+      "match_id": 1638051,
+      "reason": "unsupported_competition",
+      "league_id": 1012,
+      "home": "Oman U17",
+      "away": "Kuwait U17"
+    },
+    {
+      "match_id": 1645699,
+      "reason": "unsupported_competition",
+      "league_id": 425,
+      "home": "Al Ittihad",
+      "away": "Jaish"
+    },
+    {
+      "match_id": 1645703,
+      "reason": "unsupported_competition",
+      "league_id": 425,
+      "home": "Hottin",
+      "away": "Al Wahda"
+    },
+    {
+      "match_id": 1648184,
+      "reason": "unsupported_competition",
+      "league_id": 863,
+      "home": "Al Wihdat",
+      "away": "Al Arabi"
+    },
+    {
+      "match_id": 1649706,
+      "reason": "unsupported_competition",
+      "league_id": 664,
+      "home": "Prishtina",
+      "away": "Drenica Skënderaj"
+    },
+    {
+      "match_id": 1650542,
+      "reason": "unsupported_competition",
+      "league_id": 598,
+      "home": "ASKO",
+      "away": "Onze Créateurs"
+    },
+    {
+      "match_id": 1628044,
+      "reason": "unsupported_competition",
+      "league_id": 542,
+      "home": "Duhok",
+      "away": "Erbil"
+    },
+    {
+      "match_id": 1561447,
+      "reason": "unsupported_competition",
+      "league_id": 235,
+      "home": "FC Rostov",
+      "away": "Krylia Sovetov"
+    },
+    {
+      "match_id": 1632537,
+      "reason": "unsupported_competition",
+      "league_id": 405,
+      "home": "Police",
+      "away": "Al Hilal Omdurman"
+    },
+    {
+      "match_id": 1650523,
+      "reason": "unsupported_competition",
+      "league_id": 820,
+      "home": "Al Tadhamon",
+      "away": "Al Jazira"
+    },
+    {
+      "match_id": 1553229,
+      "reason": "unsupported_competition",
+      "league_id": 106,
+      "home": "Piast Gliwice",
+      "away": "Korona Kielce"
+    },
+    {
+      "match_id": 1558275,
+      "reason": "unsupported_competition",
+      "league_id": 107,
+      "home": "Chrobry Głogów",
+      "away": "Puszcza Niepołomice"
+    },
+    {
+      "match_id": 1559833,
+      "reason": "unsupported_competition",
+      "league_id": 346,
+      "home": "Karviná",
+      "away": "Baník Ostrava II"
+    },
+    {
+      "match_id": 1559835,
+      "reason": "unsupported_competition",
+      "league_id": 346,
+      "home": "Příbram",
+      "away": "Ústí nad Labem"
+    },
+    {
+      "match_id": 1561740,
+      "reason": "unsupported_competition",
+      "league_id": 109,
+      "home": "Lechia Zielona Góra",
+      "away": "Chojniczanka Chojnice"
+    },
+    {
+      "match_id": 1568397,
+      "reason": "unsupported_competition",
+      "league_id": 783,
+      "home": "Wisłoka Dębica",
+      "away": "Busko-Zdroj"
+    },
+    {
+      "match_id": 1574657,
+      "reason": "unsupported_competition",
+      "league_id": 484,
+      "home": "Südburgenland W",
+      "away": "Sturm Graz W"
+    },
+    {
+      "match_id": 1582167,
+      "reason": "unsupported_competition",
+      "league_id": 638,
+      "home": "Nordsjælland W",
+      "away": "Fortuna Hjørring W"
+    },
+    {
+      "match_id": 1585833,
+      "reason": "unsupported_competition",
+      "league_id": 204,
+      "home": "Iğdır FK",
+      "away": "Ümraniyespor"
+    },
+    {
+      "match_id": 1609558,
+      "reason": "unsupported_competition",
+      "league_id": 319,
+      "home": "PAEEK",
+      "away": "Halkanoras"
+    },
+    {
+      "match_id": 1628607,
+      "reason": "unsupported_competition",
+      "league_id": 399,
+      "home": "Ranchers Bees",
+      "away": "Plateau United"
+    },
+    {
+      "match_id": 1639806,
+      "reason": "unsupported_competition",
+      "league_id": 242,
+      "home": "Independiente del Valle",
+      "away": "Macara"
+    },
+    {
+      "match_id": 1648806,
+      "reason": "unsupported_competition",
+      "league_id": 393,
+      "home": "Zabbar St. Patrick",
+      "away": "Gzira United"
+    },
+    {
+      "match_id": 1650256,
+      "reason": "unsupported_competition",
+      "league_id": 503,
+      "home": "Minas Pamputa",
+      "away": "Atletico Nacional"
+    },
+    {
+      "match_id": 1651041,
+      "reason": "unsupported_competition",
+      "league_id": 762,
+      "home": "Armée",
+      "away": "Nouakchott King's"
+    },
+    {
+      "match_id": 1567958,
+      "reason": "unsupported_competition",
+      "league_id": 219,
+      "home": "Floridsdorfer AC",
+      "away": "Austria Vienna (Am)"
+    },
+    {
+      "match_id": 1567959,
+      "reason": "unsupported_competition",
+      "league_id": 219,
+      "home": "SV Kapfenberg",
+      "away": "WSPG Wels"
+    },
+    {
+      "match_id": 1567961,
+      "reason": "unsupported_competition",
+      "league_id": 219,
+      "home": "Rapid Wien II",
+      "away": "FC BW Linz"
+    },
+    {
+      "match_id": 1567962,
+      "reason": "unsupported_competition",
+      "league_id": 219,
+      "home": "SKN ST. Polten",
+      "away": "Voitsberg"
+    },
+    {
+      "match_id": 1576233,
+      "reason": "unsupported_competition",
+      "league_id": 79,
+      "home": "Arminia Bielefeld",
+      "away": "1. FC Magdeburg"
+    },
+    {
+      "match_id": 1576235,
+      "reason": "unsupported_competition",
+      "league_id": 79,
+      "home": "SV Darmstadt 98",
+      "away": "1. FC Heidenheim"
+    },
+    {
+      "match_id": 1587549,
+      "reason": "unsupported_competition",
+      "league_id": 87,
+      "home": "SG Wattenscheid 09",
+      "away": "Köln II"
+    },
+    {
+      "match_id": 1590095,
+      "reason": "unsupported_competition",
+      "league_id": 310,
+      "home": "AF Elbasani",
+      "away": "Dinamo Tirana"
+    },
+    {
+      "match_id": 1593183,
+      "reason": "unsupported_competition",
+      "league_id": 82,
+      "home": "Union Berlin W",
+      "away": "Bayer Leverkusen W"
+    },
+    {
+      "match_id": 1603044,
+      "reason": "unsupported_competition",
+      "league_id": 307,
+      "home": "Al-Ahli Jeddah",
+      "away": "Al-Nassr"
+    },
+    {
+      "match_id": 1638220,
+      "reason": "unsupported_competition",
+      "league_id": 658,
+      "home": "Auda",
+      "away": "Riga"
+    },
+    {
+      "match_id": 1494808,
+      "reason": "unsupported_competition",
+      "league_id": 103,
+      "home": "Molde",
+      "away": "Bodo/Glimt"
+    },
+    {
+      "match_id": 1549058,
+      "reason": "unsupported_competition",
+      "league_id": 119,
+      "home": "Aarhus",
+      "away": "Lyngby"
+    },
+    {
+      "match_id": 1551377,
+      "reason": "unsupported_competition",
+      "league_id": 120,
+      "home": "Aarhus Fremad",
+      "away": "Hobro"
+    },
+    {
+      "match_id": 1551380,
+      "reason": "unsupported_competition",
+      "league_id": 120,
+      "home": "Kolding IF",
+      "away": "Aalborg"
+    },
+    {
+      "match_id": 1566424,
+      "reason": "unsupported_competition",
+      "league_id": 745,
+      "home": "Concordia",
+      "away": "Tus Dassendorf"
+    },
+    {
+      "match_id": 1566863,
+      "reason": "unsupported_competition",
+      "league_id": 938,
+      "home": "Kornburg",
+      "away": "ASV Neumarkt"
+    },
+    {
+      "match_id": 1566864,
+      "reason": "unsupported_competition",
+      "league_id": 938,
+      "home": "Weiden",
+      "away": "DJK Bamberg"
+    },
+    {
+      "match_id": 1571223,
+      "reason": "unsupported_competition",
+      "league_id": 436,
+      "home": "Teruel",
+      "away": "Hércules"
+    },
+    {
+      "match_id": 1577051,
+      "reason": "unsupported_competition",
+      "league_id": 754,
+      "home": "Lichtenberg",
+      "away": "Reinickendorfer Fuchse"
+    },
+    {
+      "match_id": 1581810,
+      "reason": "unsupported_competition",
+      "league_id": 739,
+      "home": "Grasshopper W",
+      "away": "Basel W"
+    },
+    {
+      "match_id": 1584082,
+      "reason": "unsupported_competition",
+      "league_id": 80,
+      "home": "Havelse",
+      "away": "FC Viktoria Köln"
+    },
+    {
+      "match_id": 1586312,
+      "reason": "unsupported_competition",
+      "league_id": 83,
+      "home": "Buchbach",
+      "away": "Schwaben Augsburg"
+    },
+    {
+      "match_id": 1586319,
+      "reason": "unsupported_competition",
+      "league_id": 83,
+      "home": "Illertissen",
+      "away": "Eichstätt"
+    },
+    {
+      "match_id": 1586645,
+      "reason": "unsupported_competition",
+      "league_id": 84,
+      "home": "Kickers Emden",
+      "away": "Bremer SV"
+    },
+    {
+      "match_id": 1586935,
+      "reason": "unsupported_competition",
+      "league_id": 85,
+      "home": "FC Rot-Weiß Erfurt",
+      "away": "Altglienicke"
+    },
+    {
+      "match_id": 1586937,
+      "reason": "unsupported_competition",
+      "league_id": 85,
+      "home": "Lokomotive Leipzig",
+      "away": "RSV Eintracht"
+    },
+    {
+      "match_id": 1586939,
+      "reason": "unsupported_competition",
+      "league_id": 85,
+      "home": "Magdeburg II",
+      "away": "FSV Zwickau"
+    },
+    {
+      "match_id": 1587241,
+      "reason": "unsupported_competition",
+      "league_id": 86,
+      "home": "FSV Mainz 05 II",
+      "away": "TSV Steinbach"
+    },
+    {
+      "match_id": 1587242,
+      "reason": "unsupported_competition",
+      "league_id": 86,
+      "home": "Kickers Offenbach",
+      "away": "VfR Mannheim"
+    },
+    {
+      "match_id": 1599537,
+      "reason": "unsupported_competition",
+      "league_id": 67,
+      "home": "Furiani-Agliani",
+      "away": "Le Pays du Valois"
+    },
+    {
+      "match_id": 1599772,
+      "reason": "unsupported_competition",
+      "league_id": 68,
+      "home": "Granville",
+      "away": "Angoulême"
+    },
+    {
+      "match_id": 1599776,
+      "reason": "unsupported_competition",
+      "league_id": 68,
+      "home": "Saint-Malo",
+      "away": "Les Herbiers"
+    },
+    {
+      "match_id": 1600003,
+      "reason": "unsupported_competition",
+      "league_id": 69,
+      "home": "Chateauroux",
+      "away": "Toulon"
+    },
+    {
+      "match_id": 1600822,
+      "reason": "unsupported_competition",
+      "league_id": 567,
+      "home": "Azam",
+      "away": "Singida Black Stars"
+    },
+    {
+      "match_id": 1604308,
+      "reason": "unsupported_competition",
+      "league_id": 749,
+      "home": "OSC Bremerhaven",
+      "away": "Geestemünde"
+    },
+    {
+      "match_id": 1631816,
+      "reason": "unsupported_competition",
+      "league_id": 722,
+      "home": "Héroes de Zaci",
+      "away": "Delfines Coatzacoalcos"
+    },
+    {
+      "match_id": 1643236,
+      "reason": "unsupported_competition",
+      "league_id": 667,
+      "home": "AFC Eskilstuna",
+      "away": "Enköping"
+    },
+    {
+      "match_id": 1650543,
+      "reason": "unsupported_competition",
+      "league_id": 598,
+      "home": "Diarra",
+      "away": "AS Kayes"
+    },
+    {
+      "match_id": 1555082,
+      "reason": "unsupported_competition",
+      "league_id": 208,
+      "home": "Stade Lausanne-Ouchy",
+      "away": "SC Kriens"
+    },
+    {
+      "match_id": 1555083,
+      "reason": "unsupported_competition",
+      "league_id": 208,
+      "home": "Rapperswil",
+      "away": "FC Aarau"
+    },
+    {
+      "match_id": 1555084,
+      "reason": "unsupported_competition",
+      "league_id": 208,
+      "home": "Stade Nyonnais",
+      "away": "FC WIL 1900"
+    },
+    {
+      "match_id": 1555085,
+      "reason": "unsupported_competition",
+      "league_id": 208,
+      "home": "Neuchatel Xamax FC",
+      "away": "Étoile Carouge"
+    },
+    {
+      "match_id": 1565306,
+      "reason": "unsupported_competition",
+      "league_id": 283,
+      "home": "Farul Constanta",
+      "away": "Universitatea Cluj"
+    },
+    {
+      "match_id": 1566425,
+      "reason": "unsupported_competition",
+      "league_id": 745,
+      "home": "ETSV Hamburg",
+      "away": "Sasel"
+    },
+    {
+      "match_id": 1566426,
+      "reason": "unsupported_competition",
+      "league_id": 745,
+      "home": "Harksheide",
+      "away": "Victoria Hamburg"
+    },
+    {
+      "match_id": 1587545,
+      "reason": "unsupported_competition",
+      "league_id": 87,
+      "home": "Borussia Dortmund II",
+      "away": "Sportfreunde Lotte"
+    },
+    {
+      "match_id": 1587551,
+      "reason": "unsupported_competition",
+      "league_id": 87,
+      "home": "Wiedenbrück",
+      "away": "Bochum II"
+    },
+    {
+      "match_id": 1592757,
+      "reason": "unsupported_competition",
+      "league_id": 751,
+      "home": "Solingen-Wald",
+      "away": "Germania Ratingen"
+    },
+    {
+      "match_id": 1611701,
+      "reason": "unsupported_competition",
+      "league_id": 518,
+      "home": "Waasland-Beveren U21",
+      "away": "Lierse K. U21"
+    },
+    {
+      "match_id": 1637986,
+      "reason": "unsupported_competition",
+      "league_id": 1133,
+      "home": "Royal",
+      "away": "Novo Horizonte"
+    },
+    {
+      "match_id": 1566429,
+      "reason": "unsupported_competition",
+      "league_id": 745,
+      "home": "Teutonia Ottensen",
+      "away": "HEBC"
+    },
+    {
+      "match_id": 1551887,
+      "reason": "unsupported_competition",
+      "league_id": 89,
+      "home": "Almere City FC",
+      "away": "NAC Breda"
+    },
+    {
+      "match_id": 1551888,
+      "reason": "unsupported_competition",
+      "league_id": 89,
+      "home": "De Graafschap",
+      "away": "MVV"
+    },
+    {
+      "match_id": 1551889,
+      "reason": "unsupported_competition",
+      "league_id": 89,
+      "home": "Den Bosch",
+      "away": "VVV Venlo"
+    },
+    {
+      "match_id": 1551890,
+      "reason": "unsupported_competition",
+      "league_id": 89,
+      "home": "FC Volendam",
+      "away": "Jong Ajax"
+    },
+    {
+      "match_id": 1551891,
+      "reason": "unsupported_competition",
+      "league_id": 89,
+      "home": "Helmond Sport",
+      "away": "Dordrecht"
+    },
+    {
+      "match_id": 1551892,
+      "reason": "unsupported_competition",
+      "league_id": 89,
+      "home": "Heracles",
+      "away": "Jong PSV U21"
+    },
+    {
+      "match_id": 1551893,
+      "reason": "unsupported_competition",
+      "league_id": 89,
+      "home": "Jong Utrecht",
+      "away": "Emmen"
+    },
+    {
+      "match_id": 1551894,
+      "reason": "unsupported_competition",
+      "league_id": 89,
+      "home": "FC OSS",
+      "away": "Roda"
+    },
+    {
+      "match_id": 1551895,
+      "reason": "unsupported_competition",
+      "league_id": 89,
+      "home": "Vitesse",
+      "away": "Jong AZ"
+    },
+    {
+      "match_id": 1552531,
+      "reason": "unsupported_competition",
+      "league_id": 62,
+      "home": "Annecy",
+      "away": "Clermont Foot"
+    },
+    {
+      "match_id": 1552532,
+      "reason": "unsupported_competition",
+      "league_id": 62,
+      "home": "Guingamp",
+      "away": "Rodez"
+    },
+    {
+      "match_id": 1552534,
+      "reason": "unsupported_competition",
+      "league_id": 62,
+      "home": "Metz",
+      "away": "Boulogne"
+    },
+    {
+      "match_id": 1552535,
+      "reason": "unsupported_competition",
+      "league_id": 62,
+      "home": "Nancy",
+      "away": "Dijon"
+    },
+    {
+      "match_id": 1552537,
+      "reason": "unsupported_competition",
+      "league_id": 62,
+      "home": "RED Star FC 93",
+      "away": "PAU"
+    },
+    {
+      "match_id": 1558563,
+      "reason": "unsupported_competition",
+      "league_id": 355,
+      "home": "Mornar",
+      "away": "Sutjeska"
+    },
+    {
+      "match_id": 1559198,
+      "reason": "unsupported_competition",
+      "league_id": 145,
+      "home": "Club Brugge II",
+      "away": "Excelsior Virton"
+    },
+    {
+      "match_id": 1559201,
+      "reason": "unsupported_competition",
+      "league_id": 145,
+      "home": "K. Lierse S.K.",
+      "away": "Lokeren-Temse"
+    },
+    {
+      "match_id": 1566427,
+      "reason": "unsupported_competition",
+      "league_id": 745,
+      "home": "Norderstedt II",
+      "away": "Vorwärts-Wacker 04"
+    },
+    {
+      "match_id": 1599538,
+      "reason": "unsupported_competition",
+      "league_id": 67,
+      "home": "Montlouis",
+      "away": "Bastia-Borgo"
+    },
+    {
+      "match_id": 1611456,
+      "reason": "unsupported_competition",
+      "league_id": 186,
+      "home": "MC Oran",
+      "away": "JS Saoura"
+    },
+    {
+      "match_id": 1611655,
+      "reason": "unsupported_competition",
+      "league_id": 518,
+      "home": "K. Beerschot V.A. Reserve U21",
+      "away": "Francs Borains U21"
+    },
+    {
+      "match_id": 1611657,
+      "reason": "unsupported_competition",
+      "league_id": 518,
+      "home": "RFC de Liege U21",
+      "away": "Westerlo U21"
+    },
+    {
+      "match_id": 1611658,
+      "reason": "unsupported_competition",
+      "league_id": 518,
+      "home": "RFC Seraing Reserve U21",
+      "away": "RWDM U21"
+    },
+    {
+      "match_id": 1623287,
+      "reason": "unsupported_competition",
+      "league_id": 1039,
+      "home": "Fulham U21",
+      "away": "Sporting CP B"
+    },
+    {
+      "match_id": 1627119,
+      "reason": "unsupported_competition",
+      "league_id": 871,
+      "home": "Bristol City U21",
+      "away": "Norwich City U21"
+    },
+    {
+      "match_id": 1627120,
+      "reason": "unsupported_competition",
+      "league_id": 871,
+      "home": "Burnley U21",
+      "away": "Fleetwood Town U21"
+    },
+    {
+      "match_id": 1627121,
+      "reason": "unsupported_competition",
+      "league_id": 871,
+      "home": "Leeds United U21",
+      "away": "Charlton Athletic U21"
+    },
+    {
+      "match_id": 1627122,
+      "reason": "unsupported_competition",
+      "league_id": 871,
+      "home": "Queens Park Rangers U21",
+      "away": "Blackburn Rovers U21"
+    },
+    {
+      "match_id": 1627124,
+      "reason": "unsupported_competition",
+      "league_id": 871,
+      "home": "West Bromwich Albion U21",
+      "away": "Coventry City U21"
+    },
+    {
+      "match_id": 1627166,
+      "reason": "unsupported_competition",
+      "league_id": 871,
+      "home": "Cardiff City U21",
+      "away": "Plymouth U21"
+    },
+    {
+      "match_id": 1641840,
+      "reason": "unsupported_competition",
+      "league_id": 1039,
+      "home": "Ipswich Town U21",
+      "away": "FC Porto U21"
+    },
+    {
+      "match_id": 1555086,
+      "reason": "unsupported_competition",
+      "league_id": 208,
+      "home": "Yverdon Sport",
+      "away": "FC Winterthur"
+    },
+    {
+      "match_id": 1553230,
+      "reason": "unsupported_competition",
+      "league_id": 106,
+      "home": "Pogon Szczecin",
+      "away": "Slask Wroclaw"
+    },
+    {
+      "match_id": 1556903,
+      "reason": "unsupported_competition",
+      "league_id": 180,
+      "home": "Inverness CT",
+      "away": "Ayr Utd"
+    },
+    {
+      "match_id": 1558278,
+      "reason": "unsupported_competition",
+      "league_id": 107,
+      "home": "Miedz Legnica",
+      "away": "ŁKS Łódź"
+    },
+    {
+      "match_id": 1567956,
+      "reason": "unsupported_competition",
+      "league_id": 219,
+      "home": "Austria Salzburg",
+      "away": "Admira Wacker"
+    },
+    {
+      "match_id": 1570025,
+      "reason": "unsupported_competition",
+      "league_id": 141,
+      "home": "FC Andorra",
+      "away": "Leganes"
+    },
+    {
+      "match_id": 1580018,
+      "reason": "unsupported_competition",
+      "league_id": 487,
+      "home": "Hoogstraten",
+      "away": "Thes Sport"
+    },
+    {
+      "match_id": 1580800,
+      "reason": "unsupported_competition",
+      "league_id": 111,
+      "home": "Pontypridd Town",
+      "away": "Carmarthen Town"
+    },
+    {
+      "match_id": 1580801,
+      "reason": "unsupported_competition",
+      "league_id": 111,
+      "home": "Swansea University",
+      "away": "Trethomas Bluebirds"
+    },
+    {
+      "match_id": 1601612,
+      "reason": "unsupported_competition",
+      "league_id": 136,
+      "home": "Hellas Verona",
+      "away": "Cesena"
+    },
+    {
+      "match_id": 1608379,
+      "reason": "unsupported_competition",
+      "league_id": 138,
+      "home": "Trento",
+      "away": "Cittadella"
+    },
+    {
+      "match_id": 1609133,
+      "reason": "unsupported_competition",
+      "league_id": 943,
+      "home": "Casertana",
+      "away": "Salernitana"
+    },
+    {
+      "match_id": 1610758,
+      "reason": "unsupported_competition",
+      "league_id": 948,
+      "home": "Rio Ave W",
+      "away": "Vitoria Guimaraes W"
+    },
+    {
+      "match_id": 1611659,
+      "reason": "unsupported_competition",
+      "league_id": 518,
+      "home": "RAAL La Louviere U21",
+      "away": "Kortrijk U21"
+    },
+    {
+      "match_id": 1650503,
+      "reason": "unsupported_competition",
+      "league_id": 268,
+      "home": "Cerro",
+      "away": "Club Nacional"
+    },
+    {
+      "match_id": 1650504,
+      "reason": "unsupported_competition",
+      "league_id": 268,
+      "home": "Liverpool Montevideo",
+      "away": "Wanderers"
+    },
+    {
+      "match_id": 1650505,
+      "reason": "unsupported_competition",
+      "league_id": 268,
+      "home": "Racing Montevideo",
+      "away": "Central Espanol"
+    },
+    {
+      "match_id": 1552827,
+      "reason": "unmatched_team",
+      "league_id": 61,
+      "home": "Estac Troyes",
+      "away": "Le Havre"
+    },
+    {
+      "match_id": 1558682,
+      "reason": "unsupported_competition",
+      "league_id": 144,
+      "home": "Cercle Brugge",
+      "away": "KVC Westerlo"
+    },
+    {
+      "match_id": 1562123,
+      "reason": "unsupported_competition",
+      "league_id": 408,
+      "home": "Cliftonville FC",
+      "away": "Glentoran"
+    },
+    {
+      "match_id": 1564936,
+      "reason": "unsupported_competition",
+      "league_id": 407,
+      "home": "Ballinamallard United",
+      "away": "Loughgall"
+    },
+    {
+      "match_id": 1564940,
+      "reason": "unsupported_competition",
+      "league_id": 407,
+      "home": "Strabane Athletic",
+      "away": "Dundela"
+    },
+    {
+      "match_id": 1576012,
+      "reason": "unsupported_competition",
+      "league_id": 110,
+      "home": "Airbus UK",
+      "away": "Colwyn Bay"
+    },
+    {
+      "match_id": 1576013,
+      "reason": "unsupported_competition",
+      "league_id": 110,
+      "home": "Briton Ferry",
+      "away": "Holywell"
+    },
+    {
+      "match_id": 1576014,
+      "reason": "unsupported_competition",
+      "league_id": 110,
+      "home": "Caernarfon Town",
+      "away": "GAP Connah S Quay FC"
+    },
+    {
+      "match_id": 1576015,
+      "reason": "unsupported_competition",
+      "league_id": 110,
+      "home": "Cardiff MET",
+      "away": "Ammanford AFC"
+    },
+    {
+      "match_id": 1576016,
+      "reason": "unsupported_competition",
+      "league_id": 110,
+      "home": "Flint Town United",
+      "away": "Cambrian & Clydach"
+    },
+    {
+      "match_id": 1576017,
+      "reason": "unsupported_competition",
+      "league_id": 110,
+      "home": "Llandudno",
+      "away": "Barry Town"
+    },
+    {
+      "match_id": 1576018,
+      "reason": "unsupported_competition",
+      "league_id": 110,
+      "home": "Penybont",
+      "away": "Haverfordwest County AFC"
+    },
+    {
+      "match_id": 1576019,
+      "reason": "unsupported_competition",
+      "league_id": 110,
+      "home": "The New Saints",
+      "away": "Trefelin"
+    },
+    {
+      "match_id": 1580799,
+      "reason": "unsupported_competition",
+      "league_id": 111,
+      "home": "Caerphilly Athletic",
+      "away": "llanelli AFC"
+    },
+    {
+      "match_id": 1580802,
+      "reason": "unsupported_competition",
+      "league_id": 111,
+      "home": "Caerau (Ely)",
+      "away": "Newport City"
+    },
+    {
+      "match_id": 1585341,
+      "reason": "unsupported_competition",
+      "league_id": 43,
+      "home": "Southend",
+      "away": "Boreham Wood"
+    },
+    {
+      "match_id": 1648807,
+      "reason": "unsupported_competition",
+      "league_id": 393,
+      "home": "Balzan FC",
+      "away": "Mosta"
+    },
+    {
+      "match_id": 1651042,
+      "reason": "unsupported_competition",
+      "league_id": 762,
+      "home": "Police",
+      "away": "Pompiers"
+    },
+    {
+      "match_id": 1564415,
+      "reason": "unsupported_competition",
+      "league_id": 41,
+      "home": "Barnsley",
+      "away": "Sheffield Wednesday"
+    },
+    {
+      "match_id": 1570454,
+      "reason": "unmatched_team",
+      "league_id": 140,
+      "home": "Athletic Club",
+      "away": "Espanyol"
+    },
+    {
+      "match_id": 1571224,
+      "reason": "unsupported_competition",
+      "league_id": 436,
+      "home": "Villarreal II",
+      "away": "Gimnastic"
+    },
+    {
+      "match_id": 1581016,
+      "reason": "unsupported_competition",
+      "league_id": 64,
+      "home": "Toulouse W",
+      "away": "Marseille W"
+    },
+    {
+      "match_id": 1592067,
+      "reason": "unsupported_competition",
+      "league_id": 1041,
+      "home": "Moreirense U19",
+      "away": "Porto U19"
+    },
+    {
+      "match_id": 1619766,
+      "reason": "unsupported_competition",
+      "league_id": 758,
+      "home": "Europa Point",
+      "away": "Mons Calpe"
+    },
+    {
+      "match_id": 1650254,
+      "reason": "unsupported_competition",
+      "league_id": 503,
+      "home": "Cajabamba",
+      "away": "Bella Esperanza"
+    },
+    {
+      "match_id": 1571221,
+      "reason": "unsupported_competition",
+      "league_id": 436,
+      "home": "Real Madrid II",
+      "away": "Real Murcia"
+    },
+    {
+      "match_id": 1648108,
+      "reason": "unsupported_competition",
+      "league_id": 404,
+      "home": "La Fiorita",
+      "away": "Folgore"
+    },
+    {
+      "match_id": 1648109,
+      "reason": "unsupported_competition",
+      "league_id": 404,
+      "home": "Tre Fiori",
+      "away": "Juvenes / Dogana"
+    },
+    {
+      "match_id": 1632063,
+      "reason": "unsupported_competition",
+      "league_id": 252,
+      "home": "Sportivo Ameliano",
+      "away": "Sportivo Luqueno"
+    },
+    {
+      "match_id": 1647583,
+      "reason": "unsupported_competition",
+      "league_id": 96,
+      "home": "FC Porto",
+      "away": "Paredes"
+    },
+    {
+      "match_id": 1505563,
+      "reason": "unsupported_competition",
+      "league_id": 265,
+      "home": "Cobresal",
+      "away": "A. Italiano"
+    },
+    {
+      "match_id": 1616168,
+      "reason": "unsupported_competition",
+      "league_id": 450,
+      "home": "Anaza",
+      "away": "Marino"
+    },
+    {
+      "match_id": 1650549,
+      "reason": "unsupported_competition",
+      "league_id": 266,
+      "home": "Recoleta",
+      "away": "Santiago Wanderers"
+    },
+    {
+      "match_id": 1631646,
+      "reason": "unsupported_competition",
+      "league_id": 872,
+      "home": "Huracanes Izcalli",
+      "away": "Gorilas de Juanacatlan"
+    },
+    {
+      "match_id": 1650175,
+      "reason": "unsupported_competition",
+      "league_id": 239,
+      "home": "Independiente Medellin",
+      "away": "Santa Fe"
+    },
+    {
+      "match_id": 1632066,
+      "reason": "unsupported_competition",
+      "league_id": 252,
+      "home": "Deportivo Recoleta",
+      "away": "Club Guarani"
+    },
+    {
+      "match_id": 1649571,
+      "reason": "unsupported_competition",
+      "league_id": 128,
+      "home": "Velez Sarsfield",
+      "away": "Belgrano Cordoba"
+    },
+    {
+      "match_id": 1505569,
+      "reason": "unsupported_competition",
+      "league_id": 265,
+      "home": "Palestino",
+      "away": "Union La Calera"
+    },
+    {
+      "match_id": 1650173,
+      "reason": "unsupported_competition",
+      "league_id": 239,
+      "home": "Bucaramanga",
+      "away": "America de Cali"
+    },
+    {
+      "match_id": 1592925,
+      "reason": "unsupported_competition",
+      "league_id": 1200,
+      "home": "Club Tijuana U21",
+      "away": "Atlante U21"
+    }
+  ]
+}
