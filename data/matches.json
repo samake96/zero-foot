@@ -1,6 +1,6 @@
 {
   "source": "API-Football",
-  "updated_at": "2026-11-20T03:59:21.014430+00:00",
+  "updated_at": "2026-11-20T07:25:33.622649+00:00",
   "date_utc": "2026-11-20",
   "matches": [
     {
@@ -90,8 +90,8 @@
     {
       "id": 1649492,
       "kickoff": "2026-11-20T03:00:00+00:00",
-      "status": "1H",
-      "elapsed": 45,
+      "status": "PEN",
+      "elapsed": 120,
       "league": {
         "id": 253,
         "name": "Major League Soccer",
@@ -105,7 +105,7 @@
       "away": {
         "name": "Real Salt Lake",
         "logo": "https://media.api-sports.io/football/teams/1606.png",
-        "goals": 0
+        "goals": 1
       }
     },
     {
