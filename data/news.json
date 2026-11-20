@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-11-20T01:10:12.977800+00:00",
+  "updated_at": "2026-11-20T04:02:15.004753+00:00",
   "items": [
+    {
+      "id": "76b06264c9810978",
+      "title": "Socceroos’ future looks bright as Australia stun Argentina in U17 World Cup",
+      "url": "https://www.theguardian.com/football/2026/nov/20/joeys-australia-stun-argentina-in-u17-world-cup",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-20T01:31:38+00:00",
+      "category": "competitions",
+      "language": "en"
+    },
     {
       "id": "37afb463603c1b14",
       "title": "Premier League: 10 things to look out for this weekend",
@@ -259,15 +268,6 @@
       "url": "https://www.theguardian.com/football/2026/nov/19/danny-kelly-death-football-radio",
       "source": "The Guardian Football",
       "published_at": "2026-11-19T12:28:40+00:00",
-      "category": "clubs",
-      "language": "en"
-    },
-    {
-      "id": "32ee41c0c7104945",
-      "title": "Gonzalo García: ‘I love Craven Cottage – the fans can reach out and touch you’",
-      "url": "https://www.theguardian.com/football/2026/nov/19/gonzalo-garcia-fulham-spain-premier-leaue-interview",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-19T12:16:42+00:00",
       "category": "clubs",
       "language": "en"
     },
