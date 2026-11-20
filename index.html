@@ -31,6 +31,27 @@ el('standingsBody').innerHTML=selectedStanding?.teams?.length?selectedStanding.t
 let items=liveNews.filter(n=>el('newsCategory').value==='all'||(n.category||n.cat)===el('newsCategory').value);el('feedStatus').textContent=(lang==='fr'?'Dernière collecte actualités : ':'Last news collection: ')+(newsUpdated?new Date(newsUpdated).toLocaleString(lang):'—')+' · '+(lang==='fr'?'Dernière collecte matchs : ':'Last match collection: ')+(matchesUpdated?new Date(matchesUpdated).toLocaleString(lang):'—');el('newsCards').innerHTML=items.length?items.slice(0,60).map(n=>`<article class="panel news-card"><span class="news-pill">${esc(n.category||n.cat||'Football')}</span><div class="news-meta">${esc(n.source||'')} · ${n.published_at?new Date(n.published_at).toLocaleDateString(lang):'—'}</div><h3>${esc(n.title)}</h3><a href="${esc(n.url)}" target="_blank" rel="noopener noreferrer">${lang==='fr'?'Lire la source':'Read original source'} ↗</a></article>`).join(''):'<p class="small">'+(lang==='fr'?'Aucune actualité disponible.':'No news available.')+'</p>';
 }
 
+function renderPreviews(){
+ const target=el('predCards');
+ const fr=lang==='fr';
+ const say=(a,b)=>fr?a:b;
+ el('predUpdated').textContent=previewsUpdated?say('Analyses mises à jour : ','Previews updated: ')+new Date(previewsUpdated).toLocaleString(lang):'';
+ if(previewsError){target.innerHTML='<p class="panel small">'+say('Impossible de charger les analyses. Réessayez plus tard.','Unable to load previews. Please try again later.')+'</p>';return;}
+ if(!previews.length){target.innerHTML='<p class="panel small">'+say('Aucune analyse disponible pour le moment.','No previews available at this time.')+'</p>';return;}
+ const safeLogo=u=>typeof u==='string'&&/^https:\/\/[a-z0-9.-]+\//i.test(u)?'<img src="'+esc(u)+'" alt="" loading="lazy" referrerpolicy="no-referrer">':'';
+ const val=v=>v===null||v===undefined?'—':esc(v);
+ const row=(label,a,b)=>'<tr><td>'+esc(label)+'</td><td>'+val(a)+'</td><td>'+val(b)+'</td></tr>';
+ target.innerHTML=previews.slice(0,30).map(p=>{
+  const home=p.home||{},away=p.away||{},hs=home.stats||{},as=away.stats||{};
+  const date=p.kickoff&&!Number.isNaN(Date.parse(p.kickoff))?new Date(p.kickoff).toLocaleString(lang):'—';
+  return '<article class="panel preview-card"><div class="preview-top"><strong>'+esc(p.league||say('Compétition','Competition'))+'</strong><span class="small">'+esc(date)+'</span></div>'+
+   '<div class="preview-teams"><div class="preview-team">'+safeLogo(home.logo)+'<span>'+esc(home.name||'—')+'</span></div><div class="preview-versus">VS</div><div class="preview-team">'+safeLogo(away.logo)+'<span>'+esc(away.name||'—')+'</span></div></div>'+
+   '<div style="overflow-x:auto"><table><thead><tr><th>'+say('Indicateur','Metric')+'</th><th>'+esc(home.name||'—')+'</th><th>'+esc(away.name||'—')+'</th></tr></thead><tbody>'+
+   row(say('Classement','Rank'),hs.rank,as.rank)+row(say('Matchs joués','Played'),hs.played,as.played)+row(say('Points','Points'),hs.points,as.points)+row(say('Victoires','Wins'),hs.win,as.win)+row(say('Nuls','Draws'),hs.draw,as.draw)+row(say('Défaites','Losses'),hs.lose,as.lose)+row(say('Buts marqués','Goals for'),hs.goals_for,as.goals_for)+row(say('Buts encaissés','Goals against'),hs.goals_against,as.goals_against)+'</tbody></table></div>'+
+   '<p class="analysis-note">'+say('Comparaison descriptive des classements ; aucune probabilité de résultat validée.','Descriptive standings comparison; no validated outcome probabilities.')+'</p></article>';
+ }).join('');
+}
+
 function renderAnalysis(league){
  const fr=lang==='fr', teams=league?.teams||[];
  const txt=(a,b)=>fr?a:b;
