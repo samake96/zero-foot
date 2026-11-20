@@ -1,6 +1,6 @@
 {
   "model": "poisson_v0_experimental",
-  "created_at": "2026-11-20T10:57:52.937589+00:00",
+  "created_at": "2026-11-20T10:50:00.431922+00:00",
   "source": "football-data.org",
   "input_matches": 1751,
   "valid_matches": 1751,
