@@ -1,12 +1,75 @@
 {
-  "updated_at": "2026-11-20T10:16:12.763329+00:00",
+  "updated_at": "2026-11-20T13:24:08.409254+00:00",
   "items": [
     {
-      "id": "6373a4dd7f50d0bb",
-      "title": "Pochettino’s first United training session leaked on drone footage; Premier League returns – football live",
+      "id": "1bc330cf6c89f085",
+      "title": "Pochettino’s first session leaked on drone footage; Nations League draw; Premier League news – football live",
       "url": "https://www.theguardian.com/football/live/2026/nov/20/weekend-football-countdown-live-news-updates",
       "source": "The Guardian Football",
-      "published_at": "2026-11-20T09:55:35+00:00",
+      "published_at": "2026-11-20T13:19:19+00:00",
+      "category": "clubs",
+      "language": "en"
+    },
+    {
+      "id": "b5203b297580c81c",
+      "title": "Southampton give head coach Eckert new deal",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwm25yx3kj5lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-20T13:10:33+00:00",
+      "category": "transfers",
+      "language": "en"
+    },
+    {
+      "id": "c34911cd2f321432",
+      "title": "Arsenal’s Lisa Baum: ‘I believe in us. I think it’s all about the small margins’",
+      "url": "https://www.theguardian.com/football/2026/nov/20/arsenal-lisa-baum-germany-brother-dennis",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-20T13:00:29+00:00",
+      "category": "clubs",
+      "language": "en"
+    },
+    {
+      "id": "241c4dbd0ae7d89d",
+      "title": "Liverpool fan found not guilty of racial abuse after Antoine Semenyo withdraws from case",
+      "url": "https://www.theguardian.com/football/2026/nov/20/liverpool-fan-not-guilty-racial-abuse-antoine-semenyo-withdraws-from-case-bournemouth-liverpool",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-20T12:20:00+00:00",
+      "category": "clubs",
+      "language": "en"
+    },
+    {
+      "id": "159826e09ff69f03",
+      "title": "Stoke and Birmingham proving you shouldn't judge a book by its cover",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmy8670vjlx0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-20T11:35:16+00:00",
+      "category": "clubs",
+      "language": "en"
+    },
+    {
+      "id": "47471004a5268644",
+      "title": "Fan found not guilty of racially abusing Semenyo",
+      "url": "https://www.bbc.co.uk/news/articles/c5y4jvg27j2po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-20T11:12:35+00:00",
+      "category": "clubs",
+      "language": "en"
+    },
+    {
+      "id": "c3f1a1c07cf842ae",
+      "title": "How the Columbus Crew switched paths en route to the MLS playoffs",
+      "url": "https://www.theguardian.com/football/2026/nov/20/columbus-crew-mls-playoffs",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-20T11:00:29+00:00",
+      "category": "clubs",
+      "language": "en"
+    },
+    {
+      "id": "6e68da3f960509d3",
+      "title": "Bukayo Saka may not return for Arsenal before Christmas, Mikel Arteta admits",
+      "url": "https://www.theguardian.com/football/2026/nov/20/bukayo-saka-injury-may-not-play-arsenal-before-christmas-mikel-arteta",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-20T10:46:32+00:00",
       "category": "clubs",
       "language": "en"
     },
@@ -250,69 +313,6 @@
       "url": "https://www.bbc.co.uk/sport/football/articles/cm4g1rzjj4v2o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
       "published_at": "2026-11-19T16:12:14+00:00",
-      "category": "clubs",
-      "language": "en"
-    },
-    {
-      "id": "807f5f89403f1fcc",
-      "title": "Premier League clubs vote through new rules to increase legal protection for board",
-      "url": "https://www.theguardian.com/football/2026/nov/19/premier-league-vote-new-rules-financial-indemnity-lawsuits",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-19T16:03:07+00:00",
-      "category": "clubs",
-      "language": "en"
-    },
-    {
-      "id": "f7fdbb18dbdda943",
-      "title": "Fifa sparks tension with demand for tax-free status in UK for Women’s World Cup",
-      "url": "https://www.theguardian.com/football/2026/nov/19/fifa-demand-tax-free-status-in-uk-womens-world-cup-2035-government",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-19T16:00:06+00:00",
-      "category": "competitions",
-      "language": "en"
-    },
-    {
-      "id": "96fd6eea306a460c",
-      "title": "Football Daily | Football’s political gamers face off at Fifa with the real-life final boss",
-      "url": "https://www.theguardian.com/football/2026/nov/19/football-daily-fifa-presidential-election",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-19T15:42:09+00:00",
-      "category": "clubs",
-      "language": "en"
-    },
-    {
-      "id": "269232fa8a87ac38",
-      "title": "Culture, defence, Fernandes - Pochettino's priorities at Man Utd",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cxlylzyg38l8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-19T15:05:21+00:00",
-      "category": "clubs",
-      "language": "en"
-    },
-    {
-      "id": "feb4fbca774dbed7",
-      "title": "Five return for Wales' World Cup play-off final",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c620535y8zpjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-19T13:40:43+00:00",
-      "category": "competitions",
-      "language": "en"
-    },
-    {
-      "id": "c8e13f1e3f9f7d04",
-      "title": "Premier League clubs to cover legal costs if Man City sponsors sue",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqy4jvdw7jdlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-19T13:29:42+00:00",
-      "category": "clubs",
-      "language": "en"
-    },
-    {
-      "id": "7c9bbca80dbd744f",
-      "title": "Scotland smashed by the Swiss and Mauricio Pochettino takes charge | Football Weekly – video",
-      "url": "https://www.theguardian.com/football/video/2026/nov/19/scotland-smashed-by-the-swiss-and-mauricio-pochettino-takes-charge-football-weekly-video",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-19T13:18:36+00:00",
       "category": "clubs",
       "language": "en"
     }
