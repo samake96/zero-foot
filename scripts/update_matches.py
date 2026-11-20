@@ -7,6 +7,8 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 DEST = ROOT / 'data' / 'matches.json'
+ARCHIVE = ROOT / 'data' / 'match_results_archive.json'
+MAX_ARCHIVE_MATCHES = 25000
 KEY = os.environ.get('API_FOOTBALL_KEY')
 if not KEY:
     raise SystemExit('Missing API_FOOTBALL_KEY secret')
@@ -41,6 +43,29 @@ for item in payload['response']:
         'away': {'name': (teams.get('away') or {}).get('name'), 'logo': (teams.get('away') or {}).get('logo'), 'goals': goals.get('away')},
     })
 
+# Preserve final results across daily refreshes. Only finalized fixtures enter the archive.
+FINAL_STATUSES = {'FT', 'AET', 'PEN'}
+today_final = [m for m in matches if m['status'] in FINAL_STATUSES and
+               isinstance(m['home']['goals'], int) and isinstance(m['away']['goals'], int)]
+try:
+    existing = json.loads(ARCHIVE.read_text(encoding='utf-8')) if ARCHIVE.exists() else {}
+    previous = existing.get('matches', [])
+    if not isinstance(previous, list):
+        raise ValueError('Invalid archive')
+except (OSError, ValueError, json.JSONDecodeError) as exc:
+    raise SystemExit('Archive invalid; refusing to overwrite historical results') from exc
+by_id = {str(m['id']): m for m in previous if isinstance(m, dict) and m.get('id') is not None}
+for match in today_final:
+    if match.get('id') is not None:
+        by_id[str(match['id'])] = match
+all_results = sorted(by_id.values(), key=lambda m: str(m.get('kickoff') or ''), reverse=True)[:MAX_ARCHIVE_MATCHES]
+archive_payload = {
+    'source': 'API-Football',
+    'updated_at': datetime.now(timezone.utc).isoformat(),
+    'total': len(all_results),
+    'matches': all_results,
+}
 DEST.parent.mkdir(parents=True, exist_ok=True)
+ARCHIVE.write_text(json.dumps(archive_payload, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
 DEST.write_text(json.dumps({'source': 'API-Football', 'updated_at': datetime.now(timezone.utc).isoformat(), 'date_utc': datetime.now(timezone.utc).strftime('%Y-%m-%d'), 'matches': matches}, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
-print(f'Updated {len(matches)} fixtures')
+print(f'Updated {len(matches)} fixtures; archived {len(today_final)} final matches; total archive {len(all_results)}')
