@@ -1,14 +1,13 @@
 {
   "source": "ZEROFOOT",
-  "created_at": "2026-11-20T12:32:09.218591+00:00",
+  "created_at": "2026-11-20T13:21:49.698765+00:00",
   "model": "poisson_v33_prototype",
   "warning": "Experimental forecasts based on available historical data, not validated for future betting or guaranteed returns.",
-  "input_matches": 373,
+  "input_matches": 29,
   "historical_matches": 1751,
-  "predictions_count": 1,
+  "predictions_count": 11,
   "skipped": {
-    "unsupported_competition": 370,
-    "unmatched_team": 2
+    "unmatched_team": 18
   },
   "predictions": [
     {
@@ -30,6 +29,236 @@
       "historical_samples": {
         "home": 17,
         "away": 17
+      },
+      "model": "poisson_v33_prototype",
+      "experimental": true
+    },
+    {
+      "match_id": 1557474,
+      "kickoff": "2026-11-21T12:30:00+00:00",
+      "competition": "PL",
+      "league": "Premier League",
+      "home": "Manchester City",
+      "away": "Fulham",
+      "probabilities_1x2": {
+        "home": 0.7177,
+        "draw": 0.1772,
+        "away": 0.105
+      },
+      "expected_goals": {
+        "home": 2.222,
+        "away": 0.714
+      },
+      "historical_samples": {
+        "home": 19,
+        "away": 19
+      },
+      "model": "poisson_v33_prototype",
+      "experimental": true
+    },
+    {
+      "match_id": 1575226,
+      "kickoff": "2026-11-21T14:30:00+00:00",
+      "competition": "BL1",
+      "league": "Bundesliga",
+      "home": "Borussia Mönchengladbach",
+      "away": "Borussia Dortmund",
+      "probabilities_1x2": {
+        "home": 0.2587,
+        "draw": 0.2461,
+        "away": 0.4952
+      },
+      "expected_goals": {
+        "home": 1.108,
+        "away": 1.631
+      },
+      "historical_samples": {
+        "home": 17,
+        "away": 17
+      },
+      "model": "poisson_v33_prototype",
+      "experimental": true
+    },
+    {
+      "match_id": 1557467,
+      "kickoff": "2026-11-21T15:00:00+00:00",
+      "competition": "PL",
+      "league": "Premier League",
+      "home": "Aston Villa",
+      "away": "Sunderland",
+      "probabilities_1x2": {
+        "home": 0.524,
+        "draw": 0.2505,
+        "away": 0.2256
+      },
+      "expected_goals": {
+        "home": 1.598,
+        "away": 0.955
+      },
+      "historical_samples": {
+        "home": 19,
+        "away": 19
+      },
+      "model": "poisson_v33_prototype",
+      "experimental": true
+    },
+    {
+      "match_id": 1570460,
+      "kickoff": "2026-11-21T15:15:00+00:00",
+      "competition": "PD",
+      "league": "La Liga",
+      "home": "Rayo Vallecano",
+      "away": "Valencia",
+      "probabilities_1x2": {
+        "home": 0.5122,
+        "draw": 0.2713,
+        "away": 0.2166
+      },
+      "expected_goals": {
+        "home": 1.422,
+        "away": 0.82
+      },
+      "historical_samples": {
+        "home": 19,
+        "away": 19
+      },
+      "model": "poisson_v33_prototype",
+      "experimental": true
+    },
+    {
+      "match_id": 1552824,
+      "kickoff": "2026-11-21T16:15:00+00:00",
+      "competition": "FL1",
+      "league": "Ligue 1",
+      "home": "Nice",
+      "away": "Paris Saint Germain",
+      "probabilities_1x2": {
+        "home": 0.167,
+        "draw": 0.2062,
+        "away": 0.6268
+      },
+      "expected_goals": {
+        "home": 0.949,
+        "away": 2.042
+      },
+      "historical_samples": {
+        "home": 17,
+        "away": 17
+      },
+      "model": "poisson_v33_prototype",
+      "experimental": true
+    },
+    {
+      "match_id": 1570462,
+      "kickoff": "2026-11-21T17:30:00+00:00",
+      "competition": "PD",
+      "league": "La Liga",
+      "home": "Sevilla",
+      "away": "Real Betis",
+      "probabilities_1x2": {
+        "home": 0.3525,
+        "draw": 0.2558,
+        "away": 0.3917
+      },
+      "expected_goals": {
+        "home": 1.326,
+        "away": 1.412
+      },
+      "historical_samples": {
+        "home": 19,
+        "away": 19
+      },
+      "model": "poisson_v33_prototype",
+      "experimental": true
+    },
+    {
+      "match_id": 1552819,
+      "kickoff": "2026-11-21T19:45:00+00:00",
+      "competition": "FL1",
+      "league": "Ligue 1",
+      "home": "Lens",
+      "away": "Toulouse",
+      "probabilities_1x2": {
+        "home": 0.5512,
+        "draw": 0.2364,
+        "away": 0.2124
+      },
+      "expected_goals": {
+        "home": 1.738,
+        "away": 0.983
+      },
+      "historical_samples": {
+        "home": 17,
+        "away": 16
+      },
+      "model": "poisson_v33_prototype",
+      "experimental": true
+    },
+    {
+      "match_id": 1552820,
+      "kickoff": "2026-11-21T19:45:00+00:00",
+      "competition": "FL1",
+      "league": "Ligue 1",
+      "home": "Lille",
+      "away": "Lyon",
+      "probabilities_1x2": {
+        "home": 0.397,
+        "draw": 0.274,
+        "away": 0.329
+      },
+      "expected_goals": {
+        "home": 1.284,
+        "away": 1.143
+      },
+      "historical_samples": {
+        "home": 17,
+        "away": 17
+      },
+      "model": "poisson_v33_prototype",
+      "experimental": true
+    },
+    {
+      "match_id": 1552826,
+      "kickoff": "2026-11-21T19:45:00+00:00",
+      "competition": "FL1",
+      "league": "Ligue 1",
+      "home": "Strasbourg",
+      "away": "Stade Brestois 29",
+      "probabilities_1x2": {
+        "home": 0.6065,
+        "draw": 0.2171,
+        "away": 0.1765
+      },
+      "expected_goals": {
+        "home": 1.924,
+        "away": 0.929
+      },
+      "historical_samples": {
+        "home": 17,
+        "away": 17
+      },
+      "model": "poisson_v33_prototype",
+      "experimental": true
+    },
+    {
+      "match_id": 1570461,
+      "kickoff": "2026-11-21T20:00:00+00:00",
+      "competition": "PD",
+      "league": "La Liga",
+      "home": "Real Madrid",
+      "away": "Celta Vigo",
+      "probabilities_1x2": {
+        "home": 0.5206,
+        "draw": 0.2464,
+        "away": 0.2329
+      },
+      "expected_goals": {
+        "home": 1.636,
+        "away": 1.007
+      },
+      "historical_samples": {
+        "home": 19,
+        "away": 19
       },
       "model": "poisson_v33_prototype",
       "experimental": true
