@@ -1,0 +1,31 @@
+name: Update football matches
+on:
+  schedule:
+    - cron: '15 */3 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: update-football-matches
+  cancel-in-progress: false
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Fetch football matches
+        env:
+          API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
+        run: python scripts/update_matches.py
+      - name: Commit updated matches
+        run: |
+          git config user.name "zerofoot-bot"
+          git config user.email "zerofoot-bot@users.noreply.github.com"
+          git add data/matches.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Update football matches"
+            git push
+          fi
