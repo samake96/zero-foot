@@ -15,7 +15,7 @@ export async function onRequestPost({request,env,params}){
  if(parent&&!/^[0-9a-f-]{36}$/i.test(parent))return json({error:'Invalid reply'},400);
  try{
   if(parent){const p=await env.COMMUNITY_DB.prepare("SELECT id,parent_id FROM community_posts WHERE id=? AND match_id=? AND status='visible'").bind(parent,id).first();if(!p||p.parent_id)return json({error:'Reply target unavailable'},400)}
-  const recent=await env.COMMUNITY_DB.prepare("SELECT COUNT(*) AS count FROM community_posts WHERE user_id=? AND created_at>datetime('now','-1 minute')").bind(user.id).first();
+  const recent=await env.COMMUNITY_DB.prepare("SELECT COUNT(*) AS count FROM community_posts WHERE user_id=? AND created_at>strftime('%Y-%m-%dT%H:%M:%fZ','now','-1 minute')").bind(user.id).first();
   if((recent?.count||0)>=3)return json({error:'Too many messages, try again later'},429);
   const uuid=crypto.randomUUID();
   await env.COMMUNITY_DB.prepare("INSERT INTO community_posts(id,match_id,user_id,display_name,parent_id,body) VALUES(?,?,?,?,?,?)").bind(uuid,id,user.id,user.name,parent,body).run();
