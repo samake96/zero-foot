@@ -1,0 +1,109 @@
+{
+  "source": "ZEROFOOT",
+  "updated_at": "2026-11-20T10:06:05.048237+00:00",
+  "matches_updated_at": "2026-11-20T07:25:33.622649+00:00",
+  "standings_updated_at": "2026-11-20T08:15:28.805913+00:00",
+  "method": "Descriptive standings comparison; no prediction model validated",
+  "previews": [
+    {
+      "match_id": 1575221,
+      "kickoff": "2026-11-20T19:30:00+00:00",
+      "league_id": 78,
+      "league": "Bundesliga",
+      "country": "Germany",
+      "home": {
+        "name": "Bayern München",
+        "logo": "https://media.api-sports.io/football/teams/157.png",
+        "stats": {
+          "rank": 1,
+          "played": 9,
+          "points": 21,
+          "win": 6,
+          "draw": 3,
+          "lose": 0,
+          "goals_for": 29,
+          "goals_against": 9,
+          "goal_diff": 20
+        }
+      },
+      "away": {
+        "name": "1. FC Köln",
+        "logo": "https://media.api-sports.io/football/teams/192.png",
+        "stats": {
+          "rank": 15,
+          "played": 9,
+          "points": 9,
+          "win": 2,
+          "draw": 3,
+          "lose": 4,
+          "goals_for": 10,
+          "goals_against": 14,
+          "goal_diff": -4
+        }
+      },
+      "analysis_status": "standings_comparison",
+      "probabilities": null,
+      "note": "Comparaison descriptive uniquement ; aucune probabilité validée."
+    },
+    {
+      "match_id": 1552827,
+      "kickoff": "2026-11-20T19:45:00+00:00",
+      "league_id": 61,
+      "league": "Ligue 1",
+      "country": "France",
+      "home": {
+        "name": "Estac Troyes",
+        "logo": "https://media.api-sports.io/football/teams/110.png",
+        "stats": null
+      },
+      "away": {
+        "name": "Le Havre",
+        "logo": "https://media.api-sports.io/football/teams/111.png",
+        "stats": {
+          "rank": 18,
+          "played": 10,
+          "points": 2,
+          "win": 0,
+          "draw": 2,
+          "lose": 8,
+          "goals_for": 9,
+          "goals_against": 22,
+          "goal_diff": -13
+        }
+      },
+      "analysis_status": "insufficient_data",
+      "probabilities": null,
+      "note": "Comparaison descriptive uniquement ; aucune probabilité validée."
+    },
+    {
+      "match_id": 1570454,
+      "kickoff": "2026-11-20T20:00:00+00:00",
+      "league_id": 140,
+      "league": "La Liga",
+      "country": "Spain",
+      "home": {
+        "name": "Athletic Club",
+        "logo": "https://media.api-sports.io/football/teams/531.png",
+        "stats": {
+          "rank": 7,
+          "played": 11,
+          "points": 16,
+          "win": 4,
+          "draw": 4,
+          "lose": 3,
+          "goals_for": 15,
+          "goals_against": 11,
+          "goal_diff": 4
+        }
+      },
+      "away": {
+        "name": "Espanyol",
+        "logo": "https://media.api-sports.io/football/teams/540.png",
+        "stats": null
+      },
+      "analysis_status": "insufficient_data",
+      "probabilities": null,
+      "note": "Comparaison descriptive uniquement ; aucune probabilité validée."
+    }
+  ]
+}
