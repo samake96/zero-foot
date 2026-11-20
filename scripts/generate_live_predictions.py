@@ -48,6 +48,24 @@ ALIASES = {
     'strasbourg': 'rc strasbourg alsace',
     'brest': 'stade brestois 29',
     'nice': 'ogc nice',
+    # V3.5: verified API-Football labels against football-data.org 2025/26 club names.
+    'le havre': 'le havre ac',
+    'espanyol': 'rcd espanyol de barcelona',
+    'alaves': 'deportivo alaves',
+    'como': 'como 1907',
+    'cagliari': 'cagliari calcio',
+    'lazio': 'ss lazio',
+    'lecce': 'us lecce',
+    '1899 hoffenheim': 'tsg 1899 hoffenheim',
+    'union berlin': '1 fc union berlin',
+    'bournemouth': 'afc bournemouth',
+    'nottingham forest': 'nottingham forest',
+    'leeds': 'leeds united',
+    'parma': 'parma calcio 1913',
+    'newcastle': 'newcastle united',
+    'napoli': 'ssc napoli',
+    'torino': 'torino',
+    'auxerre': 'aj auxerre',
 }
 
 def norm(value):

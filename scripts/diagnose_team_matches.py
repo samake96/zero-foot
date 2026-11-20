@@ -5,6 +5,7 @@ import re
 import unicodedata
 from collections import defaultdict
 from pathlib import Path
+from generate_live_predictions import norm
 
 ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / 'data'
@@ -31,10 +32,11 @@ def main():
         for side in ('home','away'):
             label = item.get(side) or ''
             exact = sorted(n for n in candidates if normalize(n) == normalize(label))
-            sides[side] = {'fixture_name':label,'exact_normalized_matches':exact,'found_exact':bool(exact)}
+            aliases = sorted(n for n in candidates if norm(n) == norm(label))
+            sides[side] = {'fixture_name':label,'exact_normalized_matches':exact,'model_identity_matches':aliases,'found_exact':bool(exact),'found_by_model':bool(aliases)}
         report.append({'match_id':item.get('match_id'),'competition':code,**sides})
-    result = {'total_unmatched':len(report),'diagnosis':report,
-              'note':'Exact normalization is diagnostic only; no club identities are automatically assumed.'}
+    result = {'total_unmatched':len(report),'potentially_resolved':sum(r['home']['found_by_model'] and r['away']['found_by_model'] for r in report),'diagnosis':report,
+              'note':'Identity checks use the same explicit aliases as the prediction engine. Historical sample thresholds are still enforced by that engine.'}
     dest = DATA/'team_identity_diagnostic.json'
     dest.write_text(json.dumps(result,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
     print(f'Diagnosed {len(report)} unmatched fixtures; wrote {dest}')
