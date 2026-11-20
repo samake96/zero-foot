@@ -27,5 +27,6 @@ jobs:
           git add data/matches.json
           if ! git diff --cached --quiet; then
             git commit -m "Update football matches"
-            git push
+            git pull --rebase origin main
+            git push origin HEAD:main
           fi
