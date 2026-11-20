@@ -1,11 +1,16 @@
 name: Import ZEROFOOT historical matches
 on:
+  push:
+    paths:
+      - '.github/workflows/history.yml'
+  schedule:
+    - cron: '40 6 * * 1'
   workflow_dispatch:
     inputs:
       season:
-        description: "Starting year of the season (2025 = 2025-2026)"
+        description: "Starting year of the season (2026 = 2026-2027)"
         required: true
-        default: "2025"
+        default: "2026"
 permissions:
   contents: write
 concurrency:
@@ -22,7 +27,7 @@ jobs:
       - name: Import completed matches
         env:
           FOOTBALL_DATA_TOKEN: ${{ secrets.FOOTBALL_DATA_TOKEN }}
-          HISTORY_SEASON: ${{ inputs.season }}
+          HISTORY_SEASON: ${{ github.event_name == 'workflow_dispatch' && inputs.season || '2026' }}
         run: python scripts/update_history.py
       - name: Commit historical data
         run: |
