@@ -1,6 +1,51 @@
 {
-  "updated_at": "2026-11-20T04:02:15.004753+00:00",
+  "updated_at": "2026-11-20T07:28:41.710124+00:00",
   "items": [
+    {
+      "id": "a4b3f527618565dd",
+      "title": "Moore eyes Kane shirt as Spurs' past and future stars meet",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq0k65pyp4jvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-20T07:26:36+00:00",
+      "category": "clubs",
+      "language": "en"
+    },
+    {
+      "id": "e7c902bbaa96516f",
+      "title": "Too late for Jackson? - FPL gameweek 11 dilemmas",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckp80q8p4yvyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-20T07:08:51+00:00",
+      "category": "clubs",
+      "language": "en"
+    },
+    {
+      "id": "a043b6ffd9be0abb",
+      "title": "Who am I? Plus today's other quizzes",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw772r7g87y0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-20T06:43:38+00:00",
+      "category": "clubs",
+      "language": "en"
+    },
+    {
+      "id": "3a1e73a7358cd083",
+      "title": "Loneliness & mood swings - what's it like to miss a season through injury?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqvg27m9xp1xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-20T06:13:23+00:00",
+      "category": "injuries",
+      "language": "en"
+    },
+    {
+      "id": "afc456a4cf705fef",
+      "title": "The male footballers best associated with each shirt number – the readers’ edition",
+      "url": "https://www.theguardian.com/football/ng-interactive/2026/nov/20/male-footballers-best-associated-each-shirt-number-readers-edit",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-20T06:00:24+00:00",
+      "category": "clubs",
+      "language": "en"
+    },
     {
       "id": "76b06264c9810978",
       "title": "Socceroos’ future looks bright as Australia stun Argentina in U17 World Cup",
@@ -268,51 +313,6 @@
       "url": "https://www.theguardian.com/football/2026/nov/19/danny-kelly-death-football-radio",
       "source": "The Guardian Football",
       "published_at": "2026-11-19T12:28:40+00:00",
-      "category": "clubs",
-      "language": "en"
-    },
-    {
-      "id": "38286d1902b51ac9",
-      "title": "Leicester split with sponsor after porn actress row",
-      "url": "https://www.bbc.co.uk/news/articles/cq4gnx28zp5lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-19T11:44:35+00:00",
-      "category": "clubs",
-      "language": "en"
-    },
-    {
-      "id": "6fb1c45a25e98ffc",
-      "title": "Washington Spirit v Kansas City Current: where the NWSL Championship will be won and lost",
-      "url": "https://www.theguardian.com/football/2026/nov/19/nwsl-championship-washington-spirit-kc-current-moving-the-goalposts",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-19T11:40:20+00:00",
-      "category": "clubs",
-      "language": "en"
-    },
-    {
-      "id": "d80340e9e80fc536",
-      "title": "Magill returns to NI squad for Greece friendlies",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqly43n1vjm8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-19T11:12:20+00:00",
-      "category": "clubs",
-      "language": "en"
-    },
-    {
-      "id": "9d89a45778748ff0",
-      "title": "Inside women’s football’s difficult rise in Syria: ‘A joy that everyone in the country needed’",
-      "url": "https://www.theguardian.com/football/2026/nov/19/syria-womens-football",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-19T11:00:26+00:00",
-      "category": "clubs",
-      "language": "en"
-    },
-    {
-      "id": "eba31cafde29e175",
-      "title": "'I'm very healthy' - Kompany to return to dugout after health scare",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm0rkzwgn0lro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-19T10:32:30+00:00",
       "category": "clubs",
       "language": "en"
     }
