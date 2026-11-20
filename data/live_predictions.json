@@ -1,0 +1,37 @@
+{
+  "source": "ZEROFOOT",
+  "created_at": "2026-11-20T11:49:24.221763+00:00",
+  "model": "poisson_v32_prototype",
+  "warning": "Experimental only; uses historical 2025-26 season, not current-season form. Not validated for future matches or betting.",
+  "input_matches": 373,
+  "predictions_count": 1,
+  "skipped": {
+    "unsupported_competition": 370,
+    "unmatched_team": 2
+  },
+  "predictions": [
+    {
+      "match_id": 1575221,
+      "kickoff": "2026-11-20T19:30:00+00:00",
+      "competition": "BL1",
+      "league": "Bundesliga",
+      "home": "Bayern München",
+      "away": "1. FC Köln",
+      "probabilities_1x2": {
+        "home": 0.827,
+        "draw": 0.1028,
+        "away": 0.0703
+      },
+      "expected_goals": {
+        "home": 3.494,
+        "away": 1.032
+      },
+      "historical_samples": {
+        "home": 17,
+        "away": 17
+      },
+      "model": "poisson_v32_prototype",
+      "experimental": true
+    }
+  ]
+}
