@@ -1,4 +1,4 @@
-import {accessIdentity} from '../../_lib/auth.js';
+import {accessIdentity} from '../../../_lib/auth.js';
 const json=(data,status=200)=>new Response(JSON.stringify(data),{status,headers:{'content-type':'application/json; charset=utf-8','cache-control':'no-store'}});
 export async function onRequestPost({request,env,params}){
  if(!env.COMMUNITY_DB)return json({error:'Community unavailable'},503);
