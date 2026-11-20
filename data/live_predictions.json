@@ -1,6 +1,6 @@
 {
   "source": "ZEROFOOT",
-  "created_at": "2026-11-20T16:05:46.228609+00:00",
+  "created_at": "2026-11-20T16:14:46.701752+00:00",
   "model": "poisson_v33_prototype",
   "warning": "Experimental forecasts based on available historical data, not validated for future betting or guaranteed returns.",
   "input_matches": 29,
@@ -31,6 +31,31 @@
         "home": 21,
         "away": 21
       },
+      "analysis": {
+        "pick": "home",
+        "pick_label": "Bayern München",
+        "confidence": "moderee",
+        "reasons": [
+          {
+            "type": "expected_goals",
+            "home": 3.687,
+            "away": 0.956,
+            "text_fr": "Buts attendus selon le modele : 3.69 pour Bayern München, 0.96 pour 1. FC Köln.",
+            "text_en": "Model expected goals: Bayern München 3.69, 1. FC Köln 0.96."
+          },
+          {
+            "type": "historical_samples",
+            "home": 21,
+            "away": 21,
+            "text_fr": "Base statistique : 21 matchs a domicile de Bayern München et 21 matchs a l'exterieur de 1. FC Köln.",
+            "text_en": "Statistical sample: 21 home games for Bayern München and 21 away games for 1. FC Köln."
+          }
+        ],
+        "opinion_fr": "Notre avis : Bayern München. Cette orientation repose sur les buts attendus et les performances historiques domicile/exterieur. L'ecart entre les scenarios reste notable, et une surprise demeure possible.",
+        "opinion_en": "Our view: Bayern München to win. This opinion uses expected goals and historical home/away performance. The gap between outcomes is meaningful, and an upset remains possible.",
+        "limitations_fr": "Avis statistique, sans prise en compte confirmee des blessures, compositions ou informations de derniere minute. Aucun resultat garanti.",
+        "limitations_en": "Statistical opinion; injuries, lineups and late news have not been verified. No outcome is guaranteed."
+      },
       "model": "poisson_v33_prototype",
       "experimental": true
     },
@@ -53,6 +78,31 @@
       "historical_samples": {
         "home": 25,
         "away": 25
+      },
+      "analysis": {
+        "pick": "home",
+        "pick_label": "Athletic Club",
+        "confidence": "moderee",
+        "reasons": [
+          {
+            "type": "expected_goals",
+            "home": 1.342,
+            "away": 1.07,
+            "text_fr": "Buts attendus selon le modele : 1.34 pour Athletic Club, 1.07 pour Espanyol.",
+            "text_en": "Model expected goals: Athletic Club 1.34, Espanyol 1.07."
+          },
+          {
+            "type": "historical_samples",
+            "home": 25,
+            "away": 25,
+            "text_fr": "Base statistique : 25 matchs a domicile de Athletic Club et 25 matchs a l'exterieur de Espanyol.",
+            "text_en": "Statistical sample: 25 home games for Athletic Club and 25 away games for Espanyol."
+          }
+        ],
+        "opinion_fr": "Notre avis : Athletic Club. Cette orientation repose sur les buts attendus et les performances historiques domicile/exterieur. L'ecart entre les scenarios reste notable, et une surprise demeure possible.",
+        "opinion_en": "Our view: Athletic Club to win. This opinion uses expected goals and historical home/away performance. The gap between outcomes is meaningful, and an upset remains possible.",
+        "limitations_fr": "Avis statistique, sans prise en compte confirmee des blessures, compositions ou informations de derniere minute. Aucun resultat garanti.",
+        "limitations_en": "Statistical opinion; injuries, lineups and late news have not been verified. No outcome is guaranteed."
       },
       "model": "poisson_v33_prototype",
       "experimental": true
@@ -77,6 +127,31 @@
         "home": 24,
         "away": 24
       },
+      "analysis": {
+        "pick": "home",
+        "pick_label": "Manchester City",
+        "confidence": "moderee",
+        "reasons": [
+          {
+            "type": "expected_goals",
+            "home": 2.06,
+            "away": 0.733,
+            "text_fr": "Buts attendus selon le modele : 2.06 pour Manchester City, 0.73 pour Fulham.",
+            "text_en": "Model expected goals: Manchester City 2.06, Fulham 0.73."
+          },
+          {
+            "type": "historical_samples",
+            "home": 24,
+            "away": 24,
+            "text_fr": "Base statistique : 24 matchs a domicile de Manchester City et 24 matchs a l'exterieur de Fulham.",
+            "text_en": "Statistical sample: 24 home games for Manchester City and 24 away games for Fulham."
+          }
+        ],
+        "opinion_fr": "Notre avis : Manchester City. Cette orientation repose sur les buts attendus et les performances historiques domicile/exterieur. L'ecart entre les scenarios reste notable, et une surprise demeure possible.",
+        "opinion_en": "Our view: Manchester City to win. This opinion uses expected goals and historical home/away performance. The gap between outcomes is meaningful, and an upset remains possible.",
+        "limitations_fr": "Avis statistique, sans prise en compte confirmee des blessures, compositions ou informations de derniere minute. Aucun resultat garanti.",
+        "limitations_en": "Statistical opinion; injuries, lineups and late news have not been verified. No outcome is guaranteed."
+      },
       "model": "poisson_v33_prototype",
       "experimental": true
     },
@@ -99,6 +174,31 @@
       "historical_samples": {
         "home": 23,
         "away": 25
+      },
+      "analysis": {
+        "pick": "home",
+        "pick_label": "Como",
+        "confidence": "moderee",
+        "reasons": [
+          {
+            "type": "expected_goals",
+            "home": 1.906,
+            "away": 0.715,
+            "text_fr": "Buts attendus selon le modele : 1.91 pour Como, 0.71 pour Cagliari.",
+            "text_en": "Model expected goals: Como 1.91, Cagliari 0.71."
+          },
+          {
+            "type": "historical_samples",
+            "home": 23,
+            "away": 25,
+            "text_fr": "Base statistique : 23 matchs a domicile de Como et 25 matchs a l'exterieur de Cagliari.",
+            "text_en": "Statistical sample: 23 home games for Como and 25 away games for Cagliari."
+          }
+        ],
+        "opinion_fr": "Notre avis : Como. Cette orientation repose sur les buts attendus et les performances historiques domicile/exterieur. L'ecart entre les scenarios reste notable, et une surprise demeure possible.",
+        "opinion_en": "Our view: Como to win. This opinion uses expected goals and historical home/away performance. The gap between outcomes is meaningful, and an upset remains possible.",
+        "limitations_fr": "Avis statistique, sans prise en compte confirmee des blessures, compositions ou informations de derniere minute. Aucun resultat garanti.",
+        "limitations_en": "Statistical opinion; injuries, lineups and late news have not been verified. No outcome is guaranteed."
       },
       "model": "poisson_v33_prototype",
       "experimental": true
@@ -123,6 +223,31 @@
         "home": 24,
         "away": 25
       },
+      "analysis": {
+        "pick": "home",
+        "pick_label": "Lazio",
+        "confidence": "moderee",
+        "reasons": [
+          {
+            "type": "expected_goals",
+            "home": 1.57,
+            "away": 0.976,
+            "text_fr": "Buts attendus selon le modele : 1.57 pour Lazio, 0.98 pour Lecce.",
+            "text_en": "Model expected goals: Lazio 1.57, Lecce 0.98."
+          },
+          {
+            "type": "historical_samples",
+            "home": 24,
+            "away": 25,
+            "text_fr": "Base statistique : 24 matchs a domicile de Lazio et 25 matchs a l'exterieur de Lecce.",
+            "text_en": "Statistical sample: 24 home games for Lazio and 25 away games for Lecce."
+          }
+        ],
+        "opinion_fr": "Notre avis : Lazio. Cette orientation repose sur les buts attendus et les performances historiques domicile/exterieur. L'ecart entre les scenarios reste notable, et une surprise demeure possible.",
+        "opinion_en": "Our view: Lazio to win. This opinion uses expected goals and historical home/away performance. The gap between outcomes is meaningful, and an upset remains possible.",
+        "limitations_fr": "Avis statistique, sans prise en compte confirmee des blessures, compositions ou informations de derniere minute. Aucun resultat garanti.",
+        "limitations_en": "Statistical opinion; injuries, lineups and late news have not been verified. No outcome is guaranteed."
+      },
       "model": "poisson_v33_prototype",
       "experimental": true
     },
@@ -145,6 +270,31 @@
       "historical_samples": {
         "home": 21,
         "away": 21
+      },
+      "analysis": {
+        "pick": "home",
+        "pick_label": "Eintracht Frankfurt",
+        "confidence": "prudente",
+        "reasons": [
+          {
+            "type": "expected_goals",
+            "home": 1.789,
+            "away": 1.751,
+            "text_fr": "Buts attendus selon le modele : 1.79 pour Eintracht Frankfurt, 1.75 pour 1899 Hoffenheim.",
+            "text_en": "Model expected goals: Eintracht Frankfurt 1.79, 1899 Hoffenheim 1.75."
+          },
+          {
+            "type": "historical_samples",
+            "home": 21,
+            "away": 21,
+            "text_fr": "Base statistique : 21 matchs a domicile de Eintracht Frankfurt et 21 matchs a l'exterieur de 1899 Hoffenheim.",
+            "text_en": "Statistical sample: 21 home games for Eintracht Frankfurt and 21 away games for 1899 Hoffenheim."
+          }
+        ],
+        "opinion_fr": "Notre avis : Eintracht Frankfurt. Cette orientation repose sur les buts attendus et les performances historiques domicile/exterieur. L'ecart entre les scenarios reste limite, et une surprise demeure possible.",
+        "opinion_en": "Our view: Eintracht Frankfurt to win. This opinion uses expected goals and historical home/away performance. The gap between outcomes is narrow, and an upset remains possible.",
+        "limitations_fr": "Avis statistique, sans prise en compte confirmee des blessures, compositions ou informations de derniere minute. Aucun resultat garanti.",
+        "limitations_en": "Statistical opinion; injuries, lineups and late news have not been verified. No outcome is guaranteed."
       },
       "model": "poisson_v33_prototype",
       "experimental": true
@@ -169,6 +319,31 @@
         "home": 22,
         "away": 21
       },
+      "analysis": {
+        "pick": "home",
+        "pick_label": "Union Berlin",
+        "confidence": "prudente",
+        "reasons": [
+          {
+            "type": "expected_goals",
+            "home": 1.535,
+            "away": 1.477,
+            "text_fr": "Buts attendus selon le modele : 1.53 pour Union Berlin, 1.48 pour RB Leipzig.",
+            "text_en": "Model expected goals: Union Berlin 1.53, RB Leipzig 1.48."
+          },
+          {
+            "type": "historical_samples",
+            "home": 22,
+            "away": 21,
+            "text_fr": "Base statistique : 22 matchs a domicile de Union Berlin et 21 matchs a l'exterieur de RB Leipzig.",
+            "text_en": "Statistical sample: 22 home games for Union Berlin and 21 away games for RB Leipzig."
+          }
+        ],
+        "opinion_fr": "Notre avis : Union Berlin. Cette orientation repose sur les buts attendus et les performances historiques domicile/exterieur. L'ecart entre les scenarios reste limite, et une surprise demeure possible.",
+        "opinion_en": "Our view: Union Berlin to win. This opinion uses expected goals and historical home/away performance. The gap between outcomes is narrow, and an upset remains possible.",
+        "limitations_fr": "Avis statistique, sans prise en compte confirmee des blessures, compositions ou informations de derniere minute. Aucun resultat garanti.",
+        "limitations_en": "Statistical opinion; injuries, lineups and late news have not been verified. No outcome is guaranteed."
+      },
       "model": "poisson_v33_prototype",
       "experimental": true
     },
@@ -191,6 +366,31 @@
       "historical_samples": {
         "home": 21,
         "away": 21
+      },
+      "analysis": {
+        "pick": "away",
+        "pick_label": "Borussia Dortmund",
+        "confidence": "moderee",
+        "reasons": [
+          {
+            "type": "expected_goals",
+            "home": 1.083,
+            "away": 1.788,
+            "text_fr": "Buts attendus selon le modele : 1.08 pour Borussia Mönchengladbach, 1.79 pour Borussia Dortmund.",
+            "text_en": "Model expected goals: Borussia Mönchengladbach 1.08, Borussia Dortmund 1.79."
+          },
+          {
+            "type": "historical_samples",
+            "home": 21,
+            "away": 21,
+            "text_fr": "Base statistique : 21 matchs a domicile de Borussia Mönchengladbach et 21 matchs a l'exterieur de Borussia Dortmund.",
+            "text_en": "Statistical sample: 21 home games for Borussia Mönchengladbach and 21 away games for Borussia Dortmund."
+          }
+        ],
+        "opinion_fr": "Notre avis : Borussia Dortmund. Cette orientation repose sur les buts attendus et les performances historiques domicile/exterieur. L'ecart entre les scenarios reste notable, et une surprise demeure possible.",
+        "opinion_en": "Our view: Borussia Dortmund to win. This opinion uses expected goals and historical home/away performance. The gap between outcomes is meaningful, and an upset remains possible.",
+        "limitations_fr": "Avis statistique, sans prise en compte confirmee des blessures, compositions ou informations de derniere minute. Aucun resultat garanti.",
+        "limitations_en": "Statistical opinion; injuries, lineups and late news have not been verified. No outcome is guaranteed."
       },
       "model": "poisson_v33_prototype",
       "experimental": true
@@ -215,6 +415,31 @@
         "home": 24,
         "away": 24
       },
+      "analysis": {
+        "pick": "home",
+        "pick_label": "Aston Villa",
+        "confidence": "moderee",
+        "reasons": [
+          {
+            "type": "expected_goals",
+            "home": 1.709,
+            "away": 1.017,
+            "text_fr": "Buts attendus selon le modele : 1.71 pour Aston Villa, 1.02 pour Sunderland.",
+            "text_en": "Model expected goals: Aston Villa 1.71, Sunderland 1.02."
+          },
+          {
+            "type": "historical_samples",
+            "home": 24,
+            "away": 24,
+            "text_fr": "Base statistique : 24 matchs a domicile de Aston Villa et 24 matchs a l'exterieur de Sunderland.",
+            "text_en": "Statistical sample: 24 home games for Aston Villa and 24 away games for Sunderland."
+          }
+        ],
+        "opinion_fr": "Notre avis : Aston Villa. Cette orientation repose sur les buts attendus et les performances historiques domicile/exterieur. L'ecart entre les scenarios reste notable, et une surprise demeure possible.",
+        "opinion_en": "Our view: Aston Villa to win. This opinion uses expected goals and historical home/away performance. The gap between outcomes is meaningful, and an upset remains possible.",
+        "limitations_fr": "Avis statistique, sans prise en compte confirmee des blessures, compositions ou informations de derniere minute. Aucun resultat garanti.",
+        "limitations_en": "Statistical opinion; injuries, lineups and late news have not been verified. No outcome is guaranteed."
+      },
       "model": "poisson_v33_prototype",
       "experimental": true
     },
@@ -237,6 +462,31 @@
       "historical_samples": {
         "home": 24,
         "away": 24
+      },
+      "analysis": {
+        "pick": "home",
+        "pick_label": "Bournemouth",
+        "confidence": "moderee",
+        "reasons": [
+          {
+            "type": "expected_goals",
+            "home": 1.518,
+            "away": 1.183,
+            "text_fr": "Buts attendus selon le modele : 1.52 pour Bournemouth, 1.18 pour Nottingham Forest.",
+            "text_en": "Model expected goals: Bournemouth 1.52, Nottingham Forest 1.18."
+          },
+          {
+            "type": "historical_samples",
+            "home": 24,
+            "away": 24,
+            "text_fr": "Base statistique : 24 matchs a domicile de Bournemouth et 24 matchs a l'exterieur de Nottingham Forest.",
+            "text_en": "Statistical sample: 24 home games for Bournemouth and 24 away games for Nottingham Forest."
+          }
+        ],
+        "opinion_fr": "Notre avis : Bournemouth. Cette orientation repose sur les buts attendus et les performances historiques domicile/exterieur. L'ecart entre les scenarios reste notable, et une surprise demeure possible.",
+        "opinion_en": "Our view: Bournemouth to win. This opinion uses expected goals and historical home/away performance. The gap between outcomes is meaningful, and an upset remains possible.",
+        "limitations_fr": "Avis statistique, sans prise en compte confirmee des blessures, compositions ou informations de derniere minute. Aucun resultat garanti.",
+        "limitations_en": "Statistical opinion; injuries, lineups and late news have not been verified. No outcome is guaranteed."
       },
       "model": "poisson_v33_prototype",
       "experimental": true
@@ -261,6 +511,31 @@
         "home": 24,
         "away": 24
       },
+      "analysis": {
+        "pick": "home",
+        "pick_label": "Chelsea",
+        "confidence": "moderee",
+        "reasons": [
+          {
+            "type": "expected_goals",
+            "home": 1.71,
+            "away": 1.122,
+            "text_fr": "Buts attendus selon le modele : 1.71 pour Chelsea, 1.12 pour Leeds.",
+            "text_en": "Model expected goals: Chelsea 1.71, Leeds 1.12."
+          },
+          {
+            "type": "historical_samples",
+            "home": 24,
+            "away": 24,
+            "text_fr": "Base statistique : 24 matchs a domicile de Chelsea et 24 matchs a l'exterieur de Leeds.",
+            "text_en": "Statistical sample: 24 home games for Chelsea and 24 away games for Leeds."
+          }
+        ],
+        "opinion_fr": "Notre avis : Chelsea. Cette orientation repose sur les buts attendus et les performances historiques domicile/exterieur. L'ecart entre les scenarios reste notable, et une surprise demeure possible.",
+        "opinion_en": "Our view: Chelsea to win. This opinion uses expected goals and historical home/away performance. The gap between outcomes is meaningful, and an upset remains possible.",
+        "limitations_fr": "Avis statistique, sans prise en compte confirmee des blessures, compositions ou informations de derniere minute. Aucun resultat garanti.",
+        "limitations_en": "Statistical opinion; injuries, lineups and late news have not been verified. No outcome is guaranteed."
+      },
       "model": "poisson_v33_prototype",
       "experimental": true
     },
@@ -283,6 +558,31 @@
       "historical_samples": {
         "home": 24,
         "away": 24
+      },
+      "analysis": {
+        "pick": "home",
+        "pick_label": "Rayo Vallecano",
+        "confidence": "moderee",
+        "reasons": [
+          {
+            "type": "expected_goals",
+            "home": 1.427,
+            "away": 0.877,
+            "text_fr": "Buts attendus selon le modele : 1.43 pour Rayo Vallecano, 0.88 pour Valencia.",
+            "text_en": "Model expected goals: Rayo Vallecano 1.43, Valencia 0.88."
+          },
+          {
+            "type": "historical_samples",
+            "home": 24,
+            "away": 24,
+            "text_fr": "Base statistique : 24 matchs a domicile de Rayo Vallecano et 24 matchs a l'exterieur de Valencia.",
+            "text_en": "Statistical sample: 24 home games for Rayo Vallecano and 24 away games for Valencia."
+          }
+        ],
+        "opinion_fr": "Notre avis : Rayo Vallecano. Cette orientation repose sur les buts attendus et les performances historiques domicile/exterieur. L'ecart entre les scenarios reste notable, et une surprise demeure possible.",
+        "opinion_en": "Our view: Rayo Vallecano to win. This opinion uses expected goals and historical home/away performance. The gap between outcomes is meaningful, and an upset remains possible.",
+        "limitations_fr": "Avis statistique, sans prise en compte confirmee des blessures, compositions ou informations de derniere minute. Aucun resultat garanti.",
+        "limitations_en": "Statistical opinion; injuries, lineups and late news have not been verified. No outcome is guaranteed."
       },
       "model": "poisson_v33_prototype",
       "experimental": true
@@ -307,6 +607,31 @@
         "home": 22,
         "away": 23
       },
+      "analysis": {
+        "pick": "away",
+        "pick_label": "Paris Saint Germain",
+        "confidence": "moderee",
+        "reasons": [
+          {
+            "type": "expected_goals",
+            "home": 1.034,
+            "away": 2.085,
+            "text_fr": "Buts attendus selon le modele : 1.03 pour Nice, 2.08 pour Paris Saint Germain.",
+            "text_en": "Model expected goals: Nice 1.03, Paris Saint Germain 2.08."
+          },
+          {
+            "type": "historical_samples",
+            "home": 22,
+            "away": 23,
+            "text_fr": "Base statistique : 22 matchs a domicile de Nice et 23 matchs a l'exterieur de Paris Saint Germain.",
+            "text_en": "Statistical sample: 22 home games for Nice and 23 away games for Paris Saint Germain."
+          }
+        ],
+        "opinion_fr": "Notre avis : Paris Saint Germain. Cette orientation repose sur les buts attendus et les performances historiques domicile/exterieur. L'ecart entre les scenarios reste notable, et une surprise demeure possible.",
+        "opinion_en": "Our view: Paris Saint Germain to win. This opinion uses expected goals and historical home/away performance. The gap between outcomes is meaningful, and an upset remains possible.",
+        "limitations_fr": "Avis statistique, sans prise en compte confirmee des blessures, compositions ou informations de derniere minute. Aucun resultat garanti.",
+        "limitations_en": "Statistical opinion; injuries, lineups and late news have not been verified. No outcome is guaranteed."
+      },
       "model": "poisson_v33_prototype",
       "experimental": true
     },
@@ -329,6 +654,31 @@
       "historical_samples": {
         "home": 25,
         "away": 24
+      },
+      "analysis": {
+        "pick": "away",
+        "pick_label": "AS Roma",
+        "confidence": "moderee",
+        "reasons": [
+          {
+            "type": "expected_goals",
+            "home": 0.795,
+            "away": 1.643,
+            "text_fr": "Buts attendus selon le modele : 0.80 pour Parma, 1.64 pour AS Roma.",
+            "text_en": "Model expected goals: Parma 0.80, AS Roma 1.64."
+          },
+          {
+            "type": "historical_samples",
+            "home": 25,
+            "away": 24,
+            "text_fr": "Base statistique : 25 matchs a domicile de Parma et 24 matchs a l'exterieur de AS Roma.",
+            "text_en": "Statistical sample: 25 home games for Parma and 24 away games for AS Roma."
+          }
+        ],
+        "opinion_fr": "Notre avis : AS Roma. Cette orientation repose sur les buts attendus et les performances historiques domicile/exterieur. L'ecart entre les scenarios reste notable, et une surprise demeure possible.",
+        "opinion_en": "Our view: AS Roma to win. This opinion uses expected goals and historical home/away performance. The gap between outcomes is meaningful, and an upset remains possible.",
+        "limitations_fr": "Avis statistique, sans prise en compte confirmee des blessures, compositions ou informations de derniere minute. Aucun resultat garanti.",
+        "limitations_en": "Statistical opinion; injuries, lineups and late news have not been verified. No outcome is guaranteed."
       },
       "model": "poisson_v33_prototype",
       "experimental": true
@@ -353,6 +703,31 @@
         "home": 24,
         "away": 24
       },
+      "analysis": {
+        "pick": "away",
+        "pick_label": "Arsenal",
+        "confidence": "moderee",
+        "reasons": [
+          {
+            "type": "expected_goals",
+            "home": 1.082,
+            "away": 1.676,
+            "text_fr": "Buts attendus selon le modele : 1.08 pour Newcastle, 1.68 pour Arsenal.",
+            "text_en": "Model expected goals: Newcastle 1.08, Arsenal 1.68."
+          },
+          {
+            "type": "historical_samples",
+            "home": 24,
+            "away": 24,
+            "text_fr": "Base statistique : 24 matchs a domicile de Newcastle et 24 matchs a l'exterieur de Arsenal.",
+            "text_en": "Statistical sample: 24 home games for Newcastle and 24 away games for Arsenal."
+          }
+        ],
+        "opinion_fr": "Notre avis : Arsenal. Cette orientation repose sur les buts attendus et les performances historiques domicile/exterieur. L'ecart entre les scenarios reste notable, et une surprise demeure possible.",
+        "opinion_en": "Our view: Arsenal to win. This opinion uses expected goals and historical home/away performance. The gap between outcomes is meaningful, and an upset remains possible.",
+        "limitations_fr": "Avis statistique, sans prise en compte confirmee des blessures, compositions ou informations de derniere minute. Aucun resultat garanti.",
+        "limitations_en": "Statistical opinion; injuries, lineups and late news have not been verified. No outcome is guaranteed."
+      },
       "model": "poisson_v33_prototype",
       "experimental": true
     },
@@ -375,6 +750,31 @@
       "historical_samples": {
         "home": 25,
         "away": 25
+      },
+      "analysis": {
+        "pick": "away",
+        "pick_label": "Real Betis",
+        "confidence": "prudente",
+        "reasons": [
+          {
+            "type": "expected_goals",
+            "home": 1.233,
+            "away": 1.383,
+            "text_fr": "Buts attendus selon le modele : 1.23 pour Sevilla, 1.38 pour Real Betis.",
+            "text_en": "Model expected goals: Sevilla 1.23, Real Betis 1.38."
+          },
+          {
+            "type": "historical_samples",
+            "home": 25,
+            "away": 25,
+            "text_fr": "Base statistique : 25 matchs a domicile de Sevilla et 25 matchs a l'exterieur de Real Betis.",
+            "text_en": "Statistical sample: 25 home games for Sevilla and 25 away games for Real Betis."
+          }
+        ],
+        "opinion_fr": "Notre avis : Real Betis. Cette orientation repose sur les buts attendus et les performances historiques domicile/exterieur. L'ecart entre les scenarios reste limite, et une surprise demeure possible.",
+        "opinion_en": "Our view: Real Betis to win. This opinion uses expected goals and historical home/away performance. The gap between outcomes is narrow, and an upset remains possible.",
+        "limitations_fr": "Avis statistique, sans prise en compte confirmee des blessures, compositions ou informations de derniere minute. Aucun resultat garanti.",
+        "limitations_en": "Statistical opinion; injuries, lineups and late news have not been verified. No outcome is guaranteed."
       },
       "model": "poisson_v33_prototype",
       "experimental": true
@@ -399,6 +799,31 @@
         "home": 24,
         "away": 24
       },
+      "analysis": {
+        "pick": "home",
+        "pick_label": "Napoli",
+        "confidence": "moderee",
+        "reasons": [
+          {
+            "type": "expected_goals",
+            "home": 1.941,
+            "away": 0.909,
+            "text_fr": "Buts attendus selon le modele : 1.94 pour Napoli, 0.91 pour Torino.",
+            "text_en": "Model expected goals: Napoli 1.94, Torino 0.91."
+          },
+          {
+            "type": "historical_samples",
+            "home": 24,
+            "away": 24,
+            "text_fr": "Base statistique : 24 matchs a domicile de Napoli et 24 matchs a l'exterieur de Torino.",
+            "text_en": "Statistical sample: 24 home games for Napoli and 24 away games for Torino."
+          }
+        ],
+        "opinion_fr": "Notre avis : Napoli. Cette orientation repose sur les buts attendus et les performances historiques domicile/exterieur. L'ecart entre les scenarios reste notable, et une surprise demeure possible.",
+        "opinion_en": "Our view: Napoli to win. This opinion uses expected goals and historical home/away performance. The gap between outcomes is meaningful, and an upset remains possible.",
+        "limitations_fr": "Avis statistique, sans prise en compte confirmee des blessures, compositions ou informations de derniere minute. Aucun resultat garanti.",
+        "limitations_en": "Statistical opinion; injuries, lineups and late news have not been verified. No outcome is guaranteed."
+      },
       "model": "poisson_v33_prototype",
       "experimental": true
     },
@@ -421,6 +846,31 @@
       "historical_samples": {
         "home": 22,
         "away": 21
+      },
+      "analysis": {
+        "pick": "home",
+        "pick_label": "Lens",
+        "confidence": "moderee",
+        "reasons": [
+          {
+            "type": "expected_goals",
+            "home": 1.779,
+            "away": 1.127,
+            "text_fr": "Buts attendus selon le modele : 1.78 pour Lens, 1.13 pour Toulouse.",
+            "text_en": "Model expected goals: Lens 1.78, Toulouse 1.13."
+          },
+          {
+            "type": "historical_samples",
+            "home": 22,
+            "away": 21,
+            "text_fr": "Base statistique : 22 matchs a domicile de Lens et 21 matchs a l'exterieur de Toulouse.",
+            "text_en": "Statistical sample: 22 home games for Lens and 21 away games for Toulouse."
+          }
+        ],
+        "opinion_fr": "Notre avis : Lens. Cette orientation repose sur les buts attendus et les performances historiques domicile/exterieur. L'ecart entre les scenarios reste notable, et une surprise demeure possible.",
+        "opinion_en": "Our view: Lens to win. This opinion uses expected goals and historical home/away performance. The gap between outcomes is meaningful, and an upset remains possible.",
+        "limitations_fr": "Avis statistique, sans prise en compte confirmee des blessures, compositions ou informations de derniere minute. Aucun resultat garanti.",
+        "limitations_en": "Statistical opinion; injuries, lineups and late news have not been verified. No outcome is guaranteed."
       },
       "model": "poisson_v33_prototype",
       "experimental": true
@@ -445,6 +895,31 @@
         "home": 22,
         "away": 22
       },
+      "analysis": {
+        "pick": "home",
+        "pick_label": "Lille",
+        "confidence": "moderee",
+        "reasons": [
+          {
+            "type": "expected_goals",
+            "home": 1.242,
+            "away": 0.957,
+            "text_fr": "Buts attendus selon le modele : 1.24 pour Lille, 0.96 pour Lyon.",
+            "text_en": "Model expected goals: Lille 1.24, Lyon 0.96."
+          },
+          {
+            "type": "historical_samples",
+            "home": 22,
+            "away": 22,
+            "text_fr": "Base statistique : 22 matchs a domicile de Lille et 22 matchs a l'exterieur de Lyon.",
+            "text_en": "Statistical sample: 22 home games for Lille and 22 away games for Lyon."
+          }
+        ],
+        "opinion_fr": "Notre avis : Lille. Cette orientation repose sur les buts attendus et les performances historiques domicile/exterieur. L'ecart entre les scenarios reste notable, et une surprise demeure possible.",
+        "opinion_en": "Our view: Lille to win. This opinion uses expected goals and historical home/away performance. The gap between outcomes is meaningful, and an upset remains possible.",
+        "limitations_fr": "Avis statistique, sans prise en compte confirmee des blessures, compositions ou informations de derniere minute. Aucun resultat garanti.",
+        "limitations_en": "Statistical opinion; injuries, lineups and late news have not been verified. No outcome is guaranteed."
+      },
       "model": "poisson_v33_prototype",
       "experimental": true
     },
@@ -467,6 +942,31 @@
       "historical_samples": {
         "home": 21,
         "away": 22
+      },
+      "analysis": {
+        "pick": "home",
+        "pick_label": "Monaco",
+        "confidence": "moderee",
+        "reasons": [
+          {
+            "type": "expected_goals",
+            "home": 2.194,
+            "away": 1.152,
+            "text_fr": "Buts attendus selon le modele : 2.19 pour Monaco, 1.15 pour Auxerre.",
+            "text_en": "Model expected goals: Monaco 2.19, Auxerre 1.15."
+          },
+          {
+            "type": "historical_samples",
+            "home": 21,
+            "away": 22,
+            "text_fr": "Base statistique : 21 matchs a domicile de Monaco et 22 matchs a l'exterieur de Auxerre.",
+            "text_en": "Statistical sample: 21 home games for Monaco and 22 away games for Auxerre."
+          }
+        ],
+        "opinion_fr": "Notre avis : Monaco. Cette orientation repose sur les buts attendus et les performances historiques domicile/exterieur. L'ecart entre les scenarios reste notable, et une surprise demeure possible.",
+        "opinion_en": "Our view: Monaco to win. This opinion uses expected goals and historical home/away performance. The gap between outcomes is meaningful, and an upset remains possible.",
+        "limitations_fr": "Avis statistique, sans prise en compte confirmee des blessures, compositions ou informations de derniere minute. Aucun resultat garanti.",
+        "limitations_en": "Statistical opinion; injuries, lineups and late news have not been verified. No outcome is guaranteed."
       },
       "model": "poisson_v33_prototype",
       "experimental": true
@@ -491,6 +991,31 @@
         "home": 21,
         "away": 22
       },
+      "analysis": {
+        "pick": "home",
+        "pick_label": "Strasbourg",
+        "confidence": "moderee",
+        "reasons": [
+          {
+            "type": "expected_goals",
+            "home": 1.892,
+            "away": 1.058,
+            "text_fr": "Buts attendus selon le modele : 1.89 pour Strasbourg, 1.06 pour Stade Brestois 29.",
+            "text_en": "Model expected goals: Strasbourg 1.89, Stade Brestois 29 1.06."
+          },
+          {
+            "type": "historical_samples",
+            "home": 21,
+            "away": 22,
+            "text_fr": "Base statistique : 21 matchs a domicile de Strasbourg et 22 matchs a l'exterieur de Stade Brestois 29.",
+            "text_en": "Statistical sample: 21 home games for Strasbourg and 22 away games for Stade Brestois 29."
+          }
+        ],
+        "opinion_fr": "Notre avis : Strasbourg. Cette orientation repose sur les buts attendus et les performances historiques domicile/exterieur. L'ecart entre les scenarios reste notable, et une surprise demeure possible.",
+        "opinion_en": "Our view: Strasbourg to win. This opinion uses expected goals and historical home/away performance. The gap between outcomes is meaningful, and an upset remains possible.",
+        "limitations_fr": "Avis statistique, sans prise en compte confirmee des blessures, compositions ou informations de derniere minute. Aucun resultat garanti.",
+        "limitations_en": "Statistical opinion; injuries, lineups and late news have not been verified. No outcome is guaranteed."
+      },
       "model": "poisson_v33_prototype",
       "experimental": true
     },
@@ -513,6 +1038,31 @@
       "historical_samples": {
         "home": 24,
         "away": 24
+      },
+      "analysis": {
+        "pick": "home",
+        "pick_label": "Real Madrid",
+        "confidence": "moderee",
+        "reasons": [
+          {
+            "type": "expected_goals",
+            "home": 1.689,
+            "away": 0.817,
+            "text_fr": "Buts attendus selon le modele : 1.69 pour Real Madrid, 0.82 pour Celta Vigo.",
+            "text_en": "Model expected goals: Real Madrid 1.69, Celta Vigo 0.82."
+          },
+          {
+            "type": "historical_samples",
+            "home": 24,
+            "away": 24,
+            "text_fr": "Base statistique : 24 matchs a domicile de Real Madrid et 24 matchs a l'exterieur de Celta Vigo.",
+            "text_en": "Statistical sample: 24 home games for Real Madrid and 24 away games for Celta Vigo."
+          }
+        ],
+        "opinion_fr": "Notre avis : Real Madrid. Cette orientation repose sur les buts attendus et les performances historiques domicile/exterieur. L'ecart entre les scenarios reste notable, et une surprise demeure possible.",
+        "opinion_en": "Our view: Real Madrid to win. This opinion uses expected goals and historical home/away performance. The gap between outcomes is meaningful, and an upset remains possible.",
+        "limitations_fr": "Avis statistique, sans prise en compte confirmee des blessures, compositions ou informations de derniere minute. Aucun resultat garanti.",
+        "limitations_en": "Statistical opinion; injuries, lineups and late news have not been verified. No outcome is guaranteed."
       },
       "model": "poisson_v33_prototype",
       "experimental": true
