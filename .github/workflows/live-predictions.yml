@@ -21,6 +21,18 @@ jobs:
           python-version: '3.11'
       - name: Test team identity mappings
         run: python -m unittest discover -s scripts -p 'test_team_identity.py' -v
+      - name: Verify current-season historical data
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          matches = json.loads(Path('data/historical_matches.json').read_text(encoding='utf-8'))['matches']
+          ids = [m['id'] for m in matches]
+          recent = [m for m in matches if m.get('season') == 2026]
+          assert len(ids) == len(set(ids)), 'Duplicate historical match IDs'
+          assert recent, 'Missing 2026/27 completed matches'
+          print(f'History validated: {len(matches)} total; {len(recent)} current-season matches')
+          PY
       - name: Collect seven-day prediction calendar
         env:
           API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
