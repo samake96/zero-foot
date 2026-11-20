@@ -1,0 +1,151 @@
+{
+  "total_unmatched": 7,
+  "potentially_resolved": 0,
+  "diagnosis": [
+    {
+      "match_id": 1552827,
+      "competition": "FL1",
+      "home": {
+        "fixture_name": "Estac Troyes",
+        "exact_normalized_matches": [],
+        "model_identity_matches": [],
+        "found_exact": false,
+        "found_by_model": false
+      },
+      "away": {
+        "fixture_name": "Le Havre",
+        "exact_normalized_matches": [],
+        "model_identity_matches": [
+          "Le Havre AC"
+        ],
+        "found_exact": false,
+        "found_by_model": true
+      }
+    },
+    {
+      "match_id": 1570453,
+      "competition": "PD",
+      "home": {
+        "fixture_name": "Alaves",
+        "exact_normalized_matches": [],
+        "model_identity_matches": [
+          "Deportivo Alavés"
+        ],
+        "found_exact": false,
+        "found_by_model": true
+      },
+      "away": {
+        "fixture_name": "Deportivo La Coruna",
+        "exact_normalized_matches": [],
+        "model_identity_matches": [],
+        "found_exact": false,
+        "found_by_model": false
+      }
+    },
+    {
+      "match_id": 1575222,
+      "competition": "BL1",
+      "home": {
+        "fixture_name": "Bayer Leverkusen",
+        "exact_normalized_matches": [],
+        "model_identity_matches": [
+          "Bayer 04 Leverkusen"
+        ],
+        "found_exact": false,
+        "found_by_model": true
+      },
+      "away": {
+        "fixture_name": "SC Paderborn 07",
+        "exact_normalized_matches": [],
+        "model_identity_matches": [],
+        "found_exact": false,
+        "found_by_model": false
+      }
+    },
+    {
+      "match_id": 1575229,
+      "competition": "BL1",
+      "home": {
+        "fixture_name": "SV Elversberg",
+        "exact_normalized_matches": [],
+        "model_identity_matches": [],
+        "found_exact": false,
+        "found_by_model": false
+      },
+      "away": {
+        "fixture_name": "SC Freiburg",
+        "exact_normalized_matches": [
+          "SC Freiburg"
+        ],
+        "model_identity_matches": [
+          "SC Freiburg"
+        ],
+        "found_exact": true,
+        "found_by_model": true
+      }
+    },
+    {
+      "match_id": 1557471,
+      "competition": "PL",
+      "home": {
+        "fixture_name": "Coventry",
+        "exact_normalized_matches": [],
+        "model_identity_matches": [],
+        "found_exact": false,
+        "found_by_model": false
+      },
+      "away": {
+        "fixture_name": "Crystal Palace",
+        "exact_normalized_matches": [],
+        "model_identity_matches": [
+          "Crystal Palace FC"
+        ],
+        "found_exact": false,
+        "found_by_model": true
+      }
+    },
+    {
+      "match_id": 1557476,
+      "competition": "PL",
+      "home": {
+        "fixture_name": "Tottenham",
+        "exact_normalized_matches": [],
+        "model_identity_matches": [
+          "Tottenham Hotspur FC"
+        ],
+        "found_exact": false,
+        "found_by_model": true
+      },
+      "away": {
+        "fixture_name": "Ipswich",
+        "exact_normalized_matches": [],
+        "model_identity_matches": [],
+        "found_exact": false,
+        "found_by_model": false
+      }
+    },
+    {
+      "match_id": 1575228,
+      "competition": "BL1",
+      "home": {
+        "fixture_name": "FC Schalke 04",
+        "exact_normalized_matches": [],
+        "model_identity_matches": [],
+        "found_exact": false,
+        "found_by_model": false
+      },
+      "away": {
+        "fixture_name": "VfB Stuttgart",
+        "exact_normalized_matches": [
+          "VfB Stuttgart"
+        ],
+        "model_identity_matches": [
+          "VfB Stuttgart"
+        ],
+        "found_exact": true,
+        "found_by_model": true
+      }
+    }
+  ],
+  "note": "Identity checks use the same explicit aliases as the prediction engine. Historical sample thresholds are still enforced by that engine."
+}

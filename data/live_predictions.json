@@ -1,13 +1,13 @@
 {
   "source": "ZEROFOOT",
-  "created_at": "2026-11-20T13:21:49.698765+00:00",
+  "created_at": "2026-11-20T16:00:21.686302+00:00",
   "model": "poisson_v33_prototype",
   "warning": "Experimental forecasts based on available historical data, not validated for future betting or guaranteed returns.",
   "input_matches": 29,
   "historical_matches": 1751,
-  "predictions_count": 11,
+  "predictions_count": 22,
   "skipped": {
-    "unmatched_team": 18
+    "unmatched_team": 7
   },
   "predictions": [
     {
@@ -34,6 +34,29 @@
       "experimental": true
     },
     {
+      "match_id": 1570454,
+      "kickoff": "2026-11-20T20:00:00+00:00",
+      "competition": "PD",
+      "league": "La Liga",
+      "home": "Athletic Club",
+      "away": "Espanyol",
+      "probabilities_1x2": {
+        "home": 0.4069,
+        "draw": 0.2719,
+        "away": 0.3211
+      },
+      "expected_goals": {
+        "home": 1.314,
+        "away": 1.136
+      },
+      "historical_samples": {
+        "home": 19,
+        "away": 19
+      },
+      "model": "poisson_v33_prototype",
+      "experimental": true
+    },
+    {
       "match_id": 1557474,
       "kickoff": "2026-11-21T12:30:00+00:00",
       "competition": "PL",
@@ -52,6 +75,98 @@
       "historical_samples": {
         "home": 19,
         "away": 19
+      },
+      "model": "poisson_v33_prototype",
+      "experimental": true
+    },
+    {
+      "match_id": 1550200,
+      "kickoff": "2026-11-21T14:00:00+00:00",
+      "competition": "SA",
+      "league": "Serie A",
+      "home": "Como",
+      "away": "Cagliari",
+      "probabilities_1x2": {
+        "home": 0.6486,
+        "draw": 0.209,
+        "away": 0.1424
+      },
+      "expected_goals": {
+        "home": 1.954,
+        "away": 0.785
+      },
+      "historical_samples": {
+        "home": 19,
+        "away": 19
+      },
+      "model": "poisson_v33_prototype",
+      "experimental": true
+    },
+    {
+      "match_id": 1550202,
+      "kickoff": "2026-11-21T14:00:00+00:00",
+      "competition": "SA",
+      "league": "Serie A",
+      "home": "Lazio",
+      "away": "Lecce",
+      "probabilities_1x2": {
+        "home": 0.4774,
+        "draw": 0.2653,
+        "away": 0.2573
+      },
+      "expected_goals": {
+        "home": 1.448,
+        "away": 0.987
+      },
+      "historical_samples": {
+        "home": 19,
+        "away": 19
+      },
+      "model": "poisson_v33_prototype",
+      "experimental": true
+    },
+    {
+      "match_id": 1575223,
+      "kickoff": "2026-11-21T14:30:00+00:00",
+      "competition": "BL1",
+      "league": "Bundesliga",
+      "home": "Eintracht Frankfurt",
+      "away": "1899 Hoffenheim",
+      "probabilities_1x2": {
+        "home": 0.3873,
+        "draw": 0.2218,
+        "away": 0.3909
+      },
+      "expected_goals": {
+        "home": 1.759,
+        "away": 1.768
+      },
+      "historical_samples": {
+        "home": 17,
+        "away": 17
+      },
+      "model": "poisson_v33_prototype",
+      "experimental": true
+    },
+    {
+      "match_id": 1575225,
+      "kickoff": "2026-11-21T14:30:00+00:00",
+      "competition": "BL1",
+      "league": "Bundesliga",
+      "home": "Union Berlin",
+      "away": "RB Leipzig",
+      "probabilities_1x2": {
+        "home": 0.3656,
+        "draw": 0.2406,
+        "away": 0.3938
+      },
+      "expected_goals": {
+        "home": 1.492,
+        "away": 1.557
+      },
+      "historical_samples": {
+        "home": 17,
+        "away": 17
       },
       "model": "poisson_v33_prototype",
       "experimental": true
@@ -94,6 +209,52 @@
       "expected_goals": {
         "home": 1.598,
         "away": 0.955
+      },
+      "historical_samples": {
+        "home": 19,
+        "away": 19
+      },
+      "model": "poisson_v33_prototype",
+      "experimental": true
+    },
+    {
+      "match_id": 1557468,
+      "kickoff": "2026-11-21T15:00:00+00:00",
+      "competition": "PL",
+      "league": "Premier League",
+      "home": "Bournemouth",
+      "away": "Nottingham Forest",
+      "probabilities_1x2": {
+        "home": 0.4251,
+        "draw": 0.2535,
+        "away": 0.3214
+      },
+      "expected_goals": {
+        "home": 1.489,
+        "away": 1.262
+      },
+      "historical_samples": {
+        "home": 19,
+        "away": 19
+      },
+      "model": "poisson_v33_prototype",
+      "experimental": true
+    },
+    {
+      "match_id": 1557470,
+      "kickoff": "2026-11-21T15:00:00+00:00",
+      "competition": "PL",
+      "league": "Premier League",
+      "home": "Chelsea",
+      "away": "Leeds",
+      "probabilities_1x2": {
+        "home": 0.4805,
+        "draw": 0.2461,
+        "away": 0.2733
+      },
+      "expected_goals": {
+        "home": 1.621,
+        "away": 1.162
       },
       "historical_samples": {
         "home": 19,
@@ -149,6 +310,52 @@
       "experimental": true
     },
     {
+      "match_id": 1550205,
+      "kickoff": "2026-11-21T17:00:00+00:00",
+      "competition": "SA",
+      "league": "Serie A",
+      "home": "Parma",
+      "away": "AS Roma",
+      "probabilities_1x2": {
+        "home": 0.2304,
+        "draw": 0.2687,
+        "away": 0.5008
+      },
+      "expected_goals": {
+        "home": 0.879,
+        "away": 1.436
+      },
+      "historical_samples": {
+        "home": 19,
+        "away": 19
+      },
+      "model": "poisson_v33_prototype",
+      "experimental": true
+    },
+    {
+      "match_id": 1557475,
+      "kickoff": "2026-11-21T17:30:00+00:00",
+      "competition": "PL",
+      "league": "Premier League",
+      "home": "Newcastle",
+      "away": "Arsenal",
+      "probabilities_1x2": {
+        "home": 0.2633,
+        "draw": 0.2333,
+        "away": 0.5035
+      },
+      "expected_goals": {
+        "home": 1.222,
+        "away": 1.775
+      },
+      "historical_samples": {
+        "home": 19,
+        "away": 19
+      },
+      "model": "poisson_v33_prototype",
+      "experimental": true
+    },
+    {
       "match_id": 1570462,
       "kickoff": "2026-11-21T17:30:00+00:00",
       "competition": "PD",
@@ -163,6 +370,29 @@
       "expected_goals": {
         "home": 1.326,
         "away": 1.412
+      },
+      "historical_samples": {
+        "home": 19,
+        "away": 19
+      },
+      "model": "poisson_v33_prototype",
+      "experimental": true
+    },
+    {
+      "match_id": 1550204,
+      "kickoff": "2026-11-21T19:45:00+00:00",
+      "competition": "SA",
+      "league": "Serie A",
+      "home": "Napoli",
+      "away": "Torino",
+      "probabilities_1x2": {
+        "home": 0.6529,
+        "draw": 0.2014,
+        "away": 0.1457
+      },
+      "expected_goals": {
+        "home": 2.053,
+        "away": 0.85
       },
       "historical_samples": {
         "home": 19,
@@ -209,6 +439,29 @@
       "expected_goals": {
         "home": 1.284,
         "away": 1.143
+      },
+      "historical_samples": {
+        "home": 17,
+        "away": 17
+      },
+      "model": "poisson_v33_prototype",
+      "experimental": true
+    },
+    {
+      "match_id": 1552823,
+      "kickoff": "2026-11-21T19:45:00+00:00",
+      "competition": "FL1",
+      "league": "Ligue 1",
+      "home": "Monaco",
+      "away": "Auxerre",
+      "probabilities_1x2": {
+        "home": 0.5442,
+        "draw": 0.2288,
+        "away": 0.227
+      },
+      "expected_goals": {
+        "home": 1.829,
+        "away": 1.1
       },
       "historical_samples": {
         "home": 17,

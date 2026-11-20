@@ -1,5 +1,5 @@
 {
-  "created_at": "2026-11-20T13:21:49.698765+00:00",
+  "created_at": "2026-11-20T16:00:21.686302+00:00",
   "historical_by_competition": {
     "PD": 380,
     "FL1": 305,
@@ -9,10 +9,10 @@
   },
   "invalid_historical_rows": 0,
   "fixture_count": 29,
-  "predictions_count": 11,
-  "excluded_count": 18,
+  "predictions_count": 22,
+  "excluded_count": 7,
   "exclusion_reasons": {
-    "unmatched_team": 18
+    "unmatched_team": 7
   },
   "exclusions": [
     {
@@ -23,32 +23,11 @@
       "away": "Le Havre"
     },
     {
-      "match_id": 1570454,
-      "reason": "unmatched_team",
-      "league_id": 140,
-      "home": "Athletic Club",
-      "away": "Espanyol"
-    },
-    {
       "match_id": 1570453,
       "reason": "unmatched_team",
       "league_id": 140,
       "home": "Alaves",
       "away": "Deportivo La Coruna"
-    },
-    {
-      "match_id": 1550200,
-      "reason": "unmatched_team",
-      "league_id": 135,
-      "home": "Como",
-      "away": "Cagliari"
-    },
-    {
-      "match_id": 1550202,
-      "reason": "unmatched_team",
-      "league_id": 135,
-      "home": "Lazio",
-      "away": "Lecce"
     },
     {
       "match_id": 1575222,
@@ -58,39 +37,11 @@
       "away": "SC Paderborn 07"
     },
     {
-      "match_id": 1575223,
-      "reason": "unmatched_team",
-      "league_id": 78,
-      "home": "Eintracht Frankfurt",
-      "away": "1899 Hoffenheim"
-    },
-    {
-      "match_id": 1575225,
-      "reason": "unmatched_team",
-      "league_id": 78,
-      "home": "Union Berlin",
-      "away": "RB Leipzig"
-    },
-    {
       "match_id": 1575229,
       "reason": "unmatched_team",
       "league_id": 78,
       "home": "SV Elversberg",
       "away": "SC Freiburg"
-    },
-    {
-      "match_id": 1557468,
-      "reason": "unmatched_team",
-      "league_id": 39,
-      "home": "Bournemouth",
-      "away": "Nottingham Forest"
-    },
-    {
-      "match_id": 1557470,
-      "reason": "unmatched_team",
-      "league_id": 39,
-      "home": "Chelsea",
-      "away": "Leeds"
     },
     {
       "match_id": 1557471,
@@ -107,39 +58,11 @@
       "away": "Ipswich"
     },
     {
-      "match_id": 1550205,
-      "reason": "unmatched_team",
-      "league_id": 135,
-      "home": "Parma",
-      "away": "AS Roma"
-    },
-    {
-      "match_id": 1557475,
-      "reason": "unmatched_team",
-      "league_id": 39,
-      "home": "Newcastle",
-      "away": "Arsenal"
-    },
-    {
       "match_id": 1575228,
       "reason": "unmatched_team",
       "league_id": 78,
       "home": "FC Schalke 04",
       "away": "VfB Stuttgart"
-    },
-    {
-      "match_id": 1550204,
-      "reason": "unmatched_team",
-      "league_id": 135,
-      "home": "Napoli",
-      "away": "Torino"
-    },
-    {
-      "match_id": 1552823,
-      "reason": "unmatched_team",
-      "league_id": 61,
-      "home": "Monaco",
-      "away": "Auxerre"
     }
   ]
 }
