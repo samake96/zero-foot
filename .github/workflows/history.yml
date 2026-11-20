@@ -1,0 +1,36 @@
+name: Import ZEROFOOT historical matches
+on:
+  workflow_dispatch:
+    inputs:
+      season:
+        description: "Starting year of the season (2025 = 2025-2026)"
+        required: true
+        default: "2025"
+permissions:
+  contents: write
+concurrency:
+  group: zerofoot-history
+  cancel-in-progress: false
+jobs:
+  history:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Import completed matches
+        env:
+          FOOTBALL_DATA_TOKEN: ${{ secrets.FOOTBALL_DATA_TOKEN }}
+          HISTORY_SEASON: ${{ inputs.season }}
+        run: python scripts/update_history.py
+      - name: Commit historical data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/historical_matches.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Import ZEROFOOT historical matches"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
