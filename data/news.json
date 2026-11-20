@@ -1,12 +1,39 @@
 {
-  "updated_at": "2026-11-20T19:11:53.458533+00:00",
+  "updated_at": "2026-11-20T21:57:37.521443+00:00",
   "items": [
     {
-      "id": "c9c178c8a1c8f072",
-      "title": "Training hard and biding his time, Dele Alli has not given up on football yet",
-      "url": "https://www.theguardian.com/football/2026/nov/20/dele-alli-tottenham-mk-dons-england",
+      "id": "bf86de4c0e27e3bf",
+      "title": "Watch: Inverness and Ayr play out goalless draw",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c6zxvnzjnne4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-20T21:47:58+00:00",
+      "category": "clubs",
+      "language": "en"
+    },
+    {
+      "id": "6ba5f22c05193bc7",
+      "title": "Osimhen keen on Man Utd move - Saturday's gossip",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c60qj1924wyeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-20T20:06:51+00:00",
+      "category": "clubs",
+      "language": "en"
+    },
+    {
+      "id": "606a8f99b6ebc6b9",
+      "title": "Washington Spirit provide hope and joy in a city that badly needs it",
+      "url": "https://www.theguardian.com/football/2026/nov/20/washington-spirit-provide-hope-and-joy-in-a-city-that-badly-needs-it",
       "source": "The Guardian Football",
-      "published_at": "2026-11-20T19:00:37+00:00",
+      "published_at": "2026-11-20T19:56:49+00:00",
+      "category": "clubs",
+      "language": "en"
+    },
+    {
+      "id": "14095e59f23a46ec",
+      "title": "NWSL final tickets top $350 in ‘perfect storm’ even after fall from $755 peak",
+      "url": "https://www.theguardian.com/football/2026/nov/20/nwsl-championship-final-ticket-prices-755-washington-spirit-kansas-city-current",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-20T19:06:18+00:00",
       "category": "clubs",
       "language": "en"
     },
@@ -14,6 +41,15 @@
       "id": "94b8046501256c99",
       "title": "Pochettino the connector: will human touch lift Manchester United?",
       "url": "https://www.theguardian.com/football/2026/nov/20/mauricio-pochettino-manchester-united-manager-liverpool-premier-league",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-20T19:00:37+00:00",
+      "category": "clubs",
+      "language": "en"
+    },
+    {
+      "id": "c9c178c8a1c8f072",
+      "title": "Training hard and biding his time, Dele Alli has not given up on football yet",
+      "url": "https://www.theguardian.com/football/2026/nov/20/dele-alli-tottenham-mk-dons-england",
       "source": "The Guardian Football",
       "published_at": "2026-11-20T19:00:37+00:00",
       "category": "clubs",
@@ -278,42 +314,6 @@
       "source": "BBC Sport Football",
       "published_at": "2026-11-20T07:42:04+00:00",
       "category": "clubs",
-      "language": "en"
-    },
-    {
-      "id": "a4b3f527618565dd",
-      "title": "Moore eyes Kane shirt as Spurs' past and future stars meet",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq0k65pyp4jvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-20T07:26:36+00:00",
-      "category": "clubs",
-      "language": "en"
-    },
-    {
-      "id": "e7c902bbaa96516f",
-      "title": "Too late for Jackson? - FPL gameweek 11 dilemmas",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckp80q8p4yvyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-20T07:08:51+00:00",
-      "category": "clubs",
-      "language": "en"
-    },
-    {
-      "id": "a043b6ffd9be0abb",
-      "title": "Who am I? Plus today's other quizzes",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cw772r7g87y0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-20T06:43:38+00:00",
-      "category": "clubs",
-      "language": "en"
-    },
-    {
-      "id": "3322e890df94d920",
-      "title": "'I felt like I was a ghost' - when players miss a season through injury",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqvg27m9xp1xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-20T06:13:23+00:00",
-      "category": "injuries",
       "language": "en"
     }
   ],
