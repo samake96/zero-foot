@@ -48,5 +48,6 @@ jobs:
           git add data/prediction_fixtures.json data/live_predictions.json data/prediction_audit.json data/team_identity_diagnostic.json
           if ! git diff --cached --quiet; then
             git commit -m 'Update experimental forecasts and audit'
-            git push
+            git pull --rebase origin main
+            git push origin HEAD:main
           fi
