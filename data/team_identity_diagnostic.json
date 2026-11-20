@@ -1,5 +1,5 @@
 {
-  "total_unmatched": 7,
+  "total_unmatched": 5,
   "potentially_resolved": 0,
   "diagnosis": [
     {
@@ -36,26 +36,6 @@
       },
       "away": {
         "fixture_name": "Deportivo La Coruna",
-        "exact_normalized_matches": [],
-        "model_identity_matches": [],
-        "found_exact": false,
-        "found_by_model": false
-      }
-    },
-    {
-      "match_id": 1575222,
-      "competition": "BL1",
-      "home": {
-        "fixture_name": "Bayer Leverkusen",
-        "exact_normalized_matches": [],
-        "model_identity_matches": [
-          "Bayer 04 Leverkusen"
-        ],
-        "found_exact": false,
-        "found_by_model": true
-      },
-      "away": {
-        "fixture_name": "SC Paderborn 07",
         "exact_normalized_matches": [],
         "model_identity_matches": [],
         "found_exact": false,
@@ -122,28 +102,6 @@
         "model_identity_matches": [],
         "found_exact": false,
         "found_by_model": false
-      }
-    },
-    {
-      "match_id": 1575228,
-      "competition": "BL1",
-      "home": {
-        "fixture_name": "FC Schalke 04",
-        "exact_normalized_matches": [],
-        "model_identity_matches": [],
-        "found_exact": false,
-        "found_by_model": false
-      },
-      "away": {
-        "fixture_name": "VfB Stuttgart",
-        "exact_normalized_matches": [
-          "VfB Stuttgart"
-        ],
-        "model_identity_matches": [
-          "VfB Stuttgart"
-        ],
-        "found_exact": true,
-        "found_by_model": true
       }
     }
   ],

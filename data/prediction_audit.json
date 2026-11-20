@@ -1,18 +1,19 @@
 {
-  "created_at": "2026-11-20T16:00:21.686302+00:00",
+  "created_at": "2026-11-20T16:05:46.228609+00:00",
   "historical_by_competition": {
-    "PD": 380,
-    "FL1": 305,
-    "PL": 380,
-    "BL1": 306,
-    "SA": 380
+    "PD": 499,
+    "FL1": 395,
+    "PL": 480,
+    "BL1": 387,
+    "SA": 490
   },
   "invalid_historical_rows": 0,
   "fixture_count": 29,
   "predictions_count": 22,
   "excluded_count": 7,
   "exclusion_reasons": {
-    "unmatched_team": 7
+    "unmatched_team": 5,
+    "insufficient_team_history": 2
   },
   "exclusions": [
     {
@@ -31,7 +32,7 @@
     },
     {
       "match_id": 1575222,
-      "reason": "unmatched_team",
+      "reason": "insufficient_team_history",
       "league_id": 78,
       "home": "Bayer Leverkusen",
       "away": "SC Paderborn 07"
@@ -59,7 +60,7 @@
     },
     {
       "match_id": 1575228,
-      "reason": "unmatched_team",
+      "reason": "insufficient_team_history",
       "league_id": 78,
       "home": "FC Schalke 04",
       "away": "VfB Stuttgart"
