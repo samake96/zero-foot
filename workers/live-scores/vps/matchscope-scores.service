@@ -1,0 +1,15 @@
+[Unit]
+Description=MATCHSCOPE football score collection
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=oneshot
+DynamicUser=yes
+EnvironmentFile=/etc/matchscope-scores.env
+ExecStart=/usr/bin/node --dns-result-order=ipv4first /opt/matchscope/workers/live-scores/vps/collect.mjs
+TimeoutStartSec=55
+NoNewPrivileges=yes
+ProtectSystem=strict
+ProtectHome=yes
+PrivateTmp=yes
