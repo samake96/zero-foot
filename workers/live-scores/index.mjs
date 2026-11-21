@@ -28,7 +28,7 @@ export async function collectScores(controller, env, request = fetch) {
   const day = new Date(controller.scheduledTime).toISOString().slice(0, 10);
   const startedAt = new Date().toISOString();
   const url = new URL('https://v3.football.api-sports.io/fixtures');
-  url.search = new URLSearchParams({date: day, timezone: 'UTC'});
+  url.search = new URLSearchParams({date: day, timezone: 'UTC'}).toString();
   const response = await request(url, {
     headers: {'x-apisports-key': env.API_FOOTBALL_KEY, accept: 'application/json'},
     signal: AbortSignal.timeout(20000),
