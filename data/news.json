@@ -1,12 +1,25 @@
 {
-  "updated_at": "2026-11-21T18:57:44.032213+00:00",
+  "updated_at": "2026-11-21T21:51:09.435801+00:00",
   "items": [
     {
-      "id": "54a0c343301bffc0",
-      "title": "Newcastle United v Arsenal: Premier League – live",
-      "url": "https://www.theguardian.com/football/live/2026/nov/21/newcastle-united-v-arsenal-premier-league-live",
+      "id": "3db0afc5d0b4f2e4",
+      "title": "Raya set to have scan on injury - how much would Arsenal miss him?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckx28w9ree9vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-21T21:14:08+00:00",
+      "category": "injuries",
+      "language": "en",
+      "topics": [
+        "Premier League"
+      ],
+      "priority": 20
+    },
+    {
+      "id": "51c76befc12170cc",
+      "title": "WSL roundup: Chelsea thwarted by Liverpool keeper, London City move to third",
+      "url": "https://www.theguardian.com/football/2026/nov/21/liverpool-chelsea-london-city-lionesses-crystal-palace-wsl",
       "source": "The Guardian Football",
-      "published_at": "2026-11-21T18:50:01+00:00",
+      "published_at": "2026-11-21T20:54:39+00:00",
       "category": "clubs",
       "language": "en",
       "topics": [
@@ -15,28 +28,209 @@
       "priority": 12
     },
     {
-      "id": "52e5acbe8cdc19f9",
-      "title": "Keating stars as Liverpool hold high-flying Chelsea to goalless draw",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cmde1ll6pgj3o?at_medium=RSS&at_campaign=rss",
+      "id": "7cd47df865d54911",
+      "title": "AC Milan monitoring Man Utd's Fernandes - Sunday's gossip",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq8j4e8nlvm1o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
-      "published_at": "2026-11-21T18:34:55+00:00",
+      "published_at": "2026-11-21T20:35:12+00:00",
       "category": "clubs",
       "language": "en",
       "topics": [
-        "Premier League"
+        "Serie A"
       ],
       "priority": 12
     },
     {
-      "id": "0f9cc8dd066d0ed4",
-      "title": "Williams-Barnett's talent bigger than performance - De Zerbi",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c6wy4gg24vlno?at_medium=RSS&at_campaign=rss",
+      "id": "ed505e210b8c9169",
+      "title": "European football: Doué carried off for PSG while Kane vows to return fresh",
+      "url": "https://www.theguardian.com/football/2026/nov/21/european-football-borussia-dortmund-psg-real-madrid",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-21T20:25:53+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [
+        "Ligue 1"
+      ],
+      "priority": 12
+    },
+    {
+      "id": "df15b65a2aa3f491",
+      "title": "Nine wins in a row - Bournemouth & Evanilson continue to make history",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6p9d102k4mdo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
-      "published_at": "2026-11-21T18:32:27+00:00",
+      "published_at": "2026-11-21T20:07:56+00:00",
       "category": "clubs",
       "language": "en",
       "topics": [],
       "priority": 0
+    },
+    {
+      "id": "7cc8ef6aa0de7b08",
+      "title": "Scottish Premiership roundup: Celtic sweep St Mirren aside to strengthen grip at top",
+      "url": "https://www.theguardian.com/football/2026/nov/21/scottish-premiership-roundup-celtic-sweep-st-mirren-aside-to-strengthen-grip-at-top",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-21T20:05:28+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "3c5cebb79a1f11d6",
+      "title": "Pochettino needs New Manager Bounce to break torrid Manchester United turnover | Jonathan Wilson",
+      "url": "https://www.theguardian.com/football/2026/nov/21/pochettino-needs-new-manager-bounce-to-break-torrid-manchester-united-turnover",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-21T20:00:06+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [
+        "Premier League"
+      ],
+      "priority": 12
+    },
+    {
+      "id": "16b50e120a9acc85",
+      "title": "Arsenal go six points clear after lively draw at Newcastle",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm702zzl66l6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-21T19:59:35+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [
+        "Premier League"
+      ],
+      "priority": 12
+    },
+    {
+      "id": "2e05187707eadb07",
+      "title": "Evanilson strikes again as Bournemouth beat Forest",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm4gn997yry2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-21T19:59:17+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "bad15a0cb194552f",
+      "title": "Leeds dominate Chelsea for first Stamford Bridge win since 1999",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c3ewvkk4qgxjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-21T19:59:13+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [
+        "Premier League"
+      ],
+      "priority": 12
+    },
+    {
+      "id": "7e053ac62e61a56b",
+      "title": "Man City drop points to Fulham despite superb Anderson volley",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c30rkq9xyk8eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-21T19:59:08+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "2e59c5b05654b227",
+      "title": "Teenager Williams-Barnett shines as Spurs beat Ipswich",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c3174qq2j82zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-21T19:59:02+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "4797f8899f1ccadf",
+      "title": "Villa's home woes continue as Sunderland earn point",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c5j9m227l42do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-21T19:58:56+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "d9375ac61327a560",
+      "title": "Coventry beat Palace in Frank's first game after late own goal",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c8wy5ddky5n9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-21T19:58:52+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "8abe0a401c710c83",
+      "title": "Raya injured but Madueke rescues point for Arsenal in seesaw Newcastle draw",
+      "url": "https://www.theguardian.com/football/2026/nov/21/newcastle-arsenal-premier-league-match-report",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-21T19:47:11+00:00",
+      "category": "injuries",
+      "language": "en",
+      "topics": [
+        "Premier League"
+      ],
+      "priority": 20
+    },
+    {
+      "id": "6459c03865c2c2a3",
+      "title": "Who was 'a consistent threat'? Newcastle v Arsenal player ratings",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq4gn97e8ee4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-21T19:29:48+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [
+        "Premier League"
+      ],
+      "priority": 12
+    },
+    {
+      "id": "a4652692ddd108cd",
+      "title": "'The world got to see today' - who is new Spurs star Williams-Barnett?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm9d7jg50e12o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-21T19:21:01+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "fcc911d1d9593485",
+      "title": "‘Fragile’ Chelsea must toughen up after Leeds humiliation, admits Xabi Alonso",
+      "url": "https://www.theguardian.com/football/2026/nov/21/chelsea-leeds-premier-league-match-report",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-21T19:20:51+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [
+        "Premier League"
+      ],
+      "priority": 12
+    },
+    {
+      "id": "f151ee2cb5c058f1",
+      "title": "'Fragile' and 'miles off it' - Alonso's Chelsea honeymoon is over",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwe8944d004yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-21T19:04:09+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [
+        "Premier League"
+      ],
+      "priority": 12
     },
     {
       "id": "d5a1d303d2803bbc",
@@ -48,68 +242,6 @@
       "language": "en",
       "topics": [],
       "priority": 0
-    },
-    {
-      "id": "835b6af865636b8c",
-      "title": "'It's a deserved defeat' - Glasner on Bournemouth loss",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c63dg88zdzxko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-21T18:16:48+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
-      "id": "7cc8ef6aa0de7b08",
-      "title": "Scottish Premiership roundup: Celtic sweep St Mirren aside to strengthen grip at top",
-      "url": "https://www.theguardian.com/football/2026/nov/21/scottish-premiership-roundup-celtic-sweep-st-mirren-aside-to-strengthen-grip-at-top",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-21T18:11:49+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
-      "id": "3b127adee915fe28",
-      "title": "European football: Noslin’s double helps Lazio extend Serie A lead; Nmecha sends Dortmund top",
-      "url": "https://www.theguardian.com/football/2026/nov/21/european-football-borussia-dortmund-psg-real-madrid",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-21T17:47:21+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [
-        "Bundesliga",
-        "Serie A"
-      ],
-      "priority": 12
-    },
-    {
-      "id": "a4e1b88ae1d5bbe7",
-      "title": "Fifpro criticises Bayern Munich for Musiala comments",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9x2evr1rg85o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-21T17:43:44+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [
-        "Bundesliga"
-      ],
-      "priority": 12
-    },
-    {
-      "id": "a3fb24556ee88818",
-      "title": "Leeds 'created piece of history' in Chelsea win - Farke",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cmwy5ddwnygqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-21T17:42:14+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [
-        "Premier League"
-      ],
-      "priority": 12
     },
     {
       "id": "7d838d7e76db8d12",
@@ -134,8 +266,8 @@
       "priority": 0
     },
     {
-      "id": "690f971166cc0c27",
-      "title": "Présidence de la Fifa: la CAF affiche son unité derrière Infantino, un désaveu pour Philippe Diallo",
+      "id": "d36ff991a072c980",
+      "title": "Présidence de la Fifa: la CAF affiche son unité derrière Gianni Infantino, un désaveu pour Philippe Diallo",
       "url": "https://www.rfi.fr/fr/sports/20261121-ca",
       "source": "RFI Sports",
       "published_at": "2026-11-21T17:30:50+00:00",
@@ -145,21 +277,8 @@
       "priority": 0
     },
     {
-      "id": "815b8f09a66cd382",
-      "title": "Noah Okafor piles on pain for Alonso as rampant Leeds demolish dismal Chelsea",
-      "url": "https://www.theguardian.com/football/2026/nov/21/chelsea-leeds-premier-league-match-report",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-21T17:14:52+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [
-        "Premier League"
-      ],
-      "priority": 12
-    },
-    {
-      "id": "6caa7094e47cb227",
-      "title": "Bournemouth’s Evanilson and Kluivert sink Forest to make it nine wins in a row",
+      "id": "1e50023b9eb1e293",
+      "title": "Evanilson and Kluivert sink Forest to earn Bournemouth ninth win in a row",
       "url": "https://www.theguardian.com/football/2026/nov/21/bournemouth-nottingham-forest-premier-league-match-report",
       "source": "The Guardian Football",
       "published_at": "2026-11-21T17:10:24+00:00",
@@ -204,30 +323,6 @@
       "priority": 0
     },
     {
-      "id": "1f1fb022ad3c43d8",
-      "title": "'It's quite clear' - Maresca believes Haaland goal should have stood",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c9e85mmr3z8vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-21T15:34:35+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
-      "id": "835aaa1e12881d2c",
-      "title": "Liverpool keeper Keating holds leaders Chelsea at bay in scoreless WSL draw",
-      "url": "https://www.theguardian.com/football/2026/nov/21/liverpool-chelsea-london-city-lionesses-crystal-palace-wsl",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-21T15:03:50+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [
-        "Premier League"
-      ],
-      "priority": 12
-    },
-    {
       "id": "8c76138e00f7a0fa",
       "title": "Elliot Anderson halts Manchester City’s losing run but boos greet Fulham draw",
       "url": "https://www.theguardian.com/football/2026/nov/21/manchester-city-fulham-premier-league-match-report",
@@ -239,17 +334,6 @@
         "Premier League"
       ],
       "priority": 12
-    },
-    {
-      "id": "79f65c96e3b105d7",
-      "title": "Anderson steps up, Berge impresses - player ratings for Man City v Fulham",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqwy06p44g3no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-21T14:21:31+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
     },
     {
       "id": "c7854e1002af68e3",
@@ -265,19 +349,6 @@
       "priority": 12
     },
     {
-      "id": "9691572860fadfb1",
-      "title": "Bayern draw with Cologne as Kane picks up ankle injury",
-      "url": "https://www.bbc.co.uk/sport/football/videos/ck7v2nz0lp32o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-21T13:29:40+00:00",
-      "category": "injuries",
-      "language": "en",
-      "topics": [
-        "Bundesliga"
-      ],
-      "priority": 20
-    },
-    {
       "id": "f249997964d64593",
       "title": "Ligue des nations : L'équipe de France retrouve l'Espagne en quarts",
       "url": "https://www.france24.com/fr/%C3%A9missions/sports/20261121-ligue-des-nations-l-%C3%A9quipe-de-france-retrouve-l-espagne-en-quarts",
@@ -291,79 +362,11 @@
       "priority": 12
     },
     {
-      "id": "a043b6ffd9be0abb",
-      "title": "Who am I? Plus today's other quizzes",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cjwy5d3lxvkzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-21T06:50:31+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
-      "id": "bacf9f583bb8bf12",
-      "title": "Jeers, injuries and doubters - White's journey back to the top",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cv7028xeler2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-21T06:17:32+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
       "id": "93ddbdc694373f1f",
       "title": "Brighton are rocking the Premier League elite. But can they mount a title tilt?",
       "url": "https://www.theguardian.com/football/2026/nov/21/brighton-rocking-premier-league-elite-title-challenge",
       "source": "The Guardian Football",
       "published_at": "2026-11-21T06:00:52+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [
-        "Premier League"
-      ],
-      "priority": 12
-    },
-    {
-      "id": "75736ee2f76918ab",
-      "title": "Cost of Man Utd hiring and firing managers nears £100m",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwd01n9z23x5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-20T23:18:16+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
-      "id": "0465ee3a863a35c7",
-      "title": "Shevchenko lying about drugs test claims - Mudryk",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cjn502n9vqp4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-20T21:54:17+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
-      "id": "6ba5f22c05193bc7",
-      "title": "Osimhen keen on Man Utd move - Saturday's gossip",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c60qj1924wyeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-20T20:06:51+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
-      "id": "94b8046501256c99",
-      "title": "Pochettino the connector: will human touch lift Manchester United?",
-      "url": "https://www.theguardian.com/football/2026/nov/20/mauricio-pochettino-manchester-united-manager-liverpool-premier-league",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-20T19:00:37+00:00",
       "category": "clubs",
       "language": "en",
       "topics": [
@@ -531,32 +534,19 @@
         "Ligue des champions"
       ],
       "priority": 12
-    },
-    {
-      "id": "0aa164fb56da0962",
-      "title": "Éliminatoires CAN 2027: l'Algérie se fait peur mais l'emporte contre le Togo",
-      "url": "https://www.rfi.fr/fr/afrique-foot/20261114-%C3%A9liminatoires-can-2027-l-alg%C3%A9rie-se-fait-peur-mais-l-emporte-contre-le-togo",
-      "source": "RFI Afrique Foot",
-      "published_at": "2026-11-14T21:18:06+00:00",
-      "category": "clubs",
-      "language": "fr",
-      "topics": [
-        "Sélections"
-      ],
-      "priority": 12
     }
   ],
   "source_errors": [],
   "search_trends_fr": [
-    "ogc nice vs psg standings",
-    "gonçalo ramos",
-    "ferran torres",
-    "amazon black friday 2026",
-    "moutouh",
-    "musiala",
-    "aviva stadium",
-    "olivier minne",
-    "ufc qatar",
-    "podcast"
+    "iago aspas",
+    "montoya",
+    "pierre perret benjamin biolay",
+    "facundo",
+    "michaël cuisance",
+    "jaafar jackson",
+    "jean pierre papin",
+    "verhaeghe rugby",
+    "jefferson poirot",
+    "real"
   ]
 }
