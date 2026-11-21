@@ -1,18 +1,207 @@
 {
-  "updated_at": "2026-11-21T15:54:39.626421+00:00",
+  "updated_at": "2026-11-21T18:57:44.032213+00:00",
   "items": [
     {
-      "id": "e1358c7a4372034d",
-      "title": "Chelsea v Leeds, Tottenham v Ipswich, and more: football clockwatch – live",
-      "url": "https://www.theguardian.com/football/live/2026/nov/21/chelsea-v-leeds-tottenham-v-ipswich-and-more-football-clockwatch-live",
+      "id": "54a0c343301bffc0",
+      "title": "Newcastle United v Arsenal: Premier League – live",
+      "url": "https://www.theguardian.com/football/live/2026/nov/21/newcastle-united-v-arsenal-premier-league-live",
       "source": "The Guardian Football",
-      "published_at": "2026-11-21T15:45:45+00:00",
+      "published_at": "2026-11-21T18:50:01+00:00",
       "category": "clubs",
       "language": "en",
       "topics": [
         "Premier League"
       ],
       "priority": 12
+    },
+    {
+      "id": "52e5acbe8cdc19f9",
+      "title": "Keating stars as Liverpool hold high-flying Chelsea to goalless draw",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cmde1ll6pgj3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-21T18:34:55+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [
+        "Premier League"
+      ],
+      "priority": 12
+    },
+    {
+      "id": "0f9cc8dd066d0ed4",
+      "title": "Williams-Barnett's talent bigger than performance - De Zerbi",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c6wy4gg24vlno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-21T18:32:27+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "d5a1d303d2803bbc",
+      "title": "'Officials can't use common sense' - was Rogers handball correct?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c50md981n277o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-21T18:30:22+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "835b6af865636b8c",
+      "title": "'It's a deserved defeat' - Glasner on Bournemouth loss",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c63dg88zdzxko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-21T18:16:48+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "7cc8ef6aa0de7b08",
+      "title": "Scottish Premiership roundup: Celtic sweep St Mirren aside to strengthen grip at top",
+      "url": "https://www.theguardian.com/football/2026/nov/21/scottish-premiership-roundup-celtic-sweep-st-mirren-aside-to-strengthen-grip-at-top",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-21T18:11:49+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "3b127adee915fe28",
+      "title": "European football: Noslin’s double helps Lazio extend Serie A lead; Nmecha sends Dortmund top",
+      "url": "https://www.theguardian.com/football/2026/nov/21/european-football-borussia-dortmund-psg-real-madrid",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-21T17:47:21+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [
+        "Bundesliga",
+        "Serie A"
+      ],
+      "priority": 12
+    },
+    {
+      "id": "a4e1b88ae1d5bbe7",
+      "title": "Fifpro criticises Bayern Munich for Musiala comments",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9x2evr1rg85o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-21T17:43:44+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [
+        "Bundesliga"
+      ],
+      "priority": 12
+    },
+    {
+      "id": "a3fb24556ee88818",
+      "title": "Leeds 'created piece of history' in Chelsea win - Farke",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cmwy5ddwnygqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-21T17:42:14+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [
+        "Premier League"
+      ],
+      "priority": 12
+    },
+    {
+      "id": "7d838d7e76db8d12",
+      "title": "Championship roundup: Strelec sends Middlesbrough top; 10-man Stoke go second",
+      "url": "https://www.theguardian.com/football/2026/nov/21/championship-roundup-southampton-birmingham-middlesbrough-swansea",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-21T17:37:09+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "18bd8038127daecd",
+      "title": "Aston Villa held at home as dogged Sunderland battle for Régis Le Bris",
+      "url": "https://www.theguardian.com/football/2026/nov/21/aston-villa-sunderland-premier-league-match-report",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-21T17:32:34+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "690f971166cc0c27",
+      "title": "Présidence de la Fifa: la CAF affiche son unité derrière Infantino, un désaveu pour Philippe Diallo",
+      "url": "https://www.rfi.fr/fr/sports/20261121-ca",
+      "source": "RFI Sports",
+      "published_at": "2026-11-21T17:30:50+00:00",
+      "category": "clubs",
+      "language": "fr",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "815b8f09a66cd382",
+      "title": "Noah Okafor piles on pain for Alonso as rampant Leeds demolish dismal Chelsea",
+      "url": "https://www.theguardian.com/football/2026/nov/21/chelsea-leeds-premier-league-match-report",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-21T17:14:52+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [
+        "Premier League"
+      ],
+      "priority": 12
+    },
+    {
+      "id": "6caa7094e47cb227",
+      "title": "Bournemouth’s Evanilson and Kluivert sink Forest to make it nine wins in a row",
+      "url": "https://www.theguardian.com/football/2026/nov/21/bournemouth-nottingham-forest-premier-league-match-report",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-21T17:10:24+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "fc209d11d57785a2",
+      "title": "Coventry edge thriller to keep Crystal Palace bottom and ruin Thomas Frank’s start",
+      "url": "https://www.theguardian.com/football/2026/nov/21/coventry-crystal-palace-premier-league-match-report",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-21T17:09:02+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "b3e148648f85ada6",
+      "title": "Teenage ace Williams-Barnett puts Tottenham on path to win over Ipswich",
+      "url": "https://www.theguardian.com/football/2026/nov/21/tottenham-ipswich-premier-league-match-report",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-21T16:58:31+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [
+        "Premier League"
+      ],
+      "priority": 12
+    },
+    {
+      "id": "214197129bf54e90",
+      "title": "Fernandez dropped, Anderson scores - Man City's £327m midfield dilemma",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cxe8944j188yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-21T16:07:19+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
     },
     {
       "id": "1f1fb022ad3c43d8",
@@ -39,19 +228,8 @@
       "priority": 12
     },
     {
-      "id": "0c6b8cc9a5398cb7",
-      "title": "Championship roundup: Southampton get Larin lift as Norwich win five in a row",
-      "url": "https://www.theguardian.com/football/2026/nov/21/championship-roundup-southampton-birmingham-middlesbrough-swansea",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-21T14:50:20+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
-      "id": "cdc41504bbf46835",
-      "title": "Elliot Anderson ends Manchester City’s losing run but boos greet Fulham draw",
+      "id": "8c76138e00f7a0fa",
+      "title": "Elliot Anderson halts Manchester City’s losing run but boos greet Fulham draw",
       "url": "https://www.theguardian.com/football/2026/nov/21/manchester-city-fulham-premier-league-match-report",
       "source": "The Guardian Football",
       "published_at": "2026-11-21T14:34:03+00:00",
@@ -113,19 +291,6 @@
       "priority": 12
     },
     {
-      "id": "d97d1ca4e1901968",
-      "title": "The Chelsea loanee turning heads and Championship defenders at 17",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6d91xj9vee3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-21T08:05:46+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [
-        "Premier League"
-      ],
-      "priority": 12
-    },
-    {
       "id": "a043b6ffd9be0abb",
       "title": "Who am I? Plus today's other quizzes",
       "url": "https://www.bbc.co.uk/sport/football/articles/cjwy5d3lxvkzo?at_medium=RSS&at_campaign=rss",
@@ -172,48 +337,11 @@
       "priority": 0
     },
     {
-      "id": "3c4331d9b4942024",
-      "title": "Bayern Munich confirm Harry Kane ‘out for next few months’ with ankle injury",
-      "url": "https://www.theguardian.com/football/2026/nov/20/harry-kane-ankle-ligament-injury-bayern-munich-england",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-20T22:43:40+00:00",
-      "category": "injuries",
-      "language": "en",
-      "topics": [
-        "Bundesliga"
-      ],
-      "priority": 20
-    },
-    {
-      "id": "75628e5a52b57840",
-      "title": "NFL great Brady could buy Chelsea stake",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmg46k97k92do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-20T22:36:35+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [
-        "Premier League"
-      ],
-      "priority": 12
-    },
-    {
       "id": "0465ee3a863a35c7",
       "title": "Shevchenko lying about drugs test claims - Mudryk",
       "url": "https://www.bbc.co.uk/sport/football/articles/cjn502n9vqp4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
       "published_at": "2026-11-20T21:54:17+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
-      "id": "bf86de4c0e27e3bf",
-      "title": "Watch: Inverness and Ayr play out goalless draw",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c6zxvnzjnne4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-20T21:47:58+00:00",
       "category": "clubs",
       "language": "en",
       "topics": [],
@@ -242,50 +370,6 @@
         "Premier League"
       ],
       "priority": 12
-    },
-    {
-      "id": "c9c178c8a1c8f072",
-      "title": "Training hard and biding his time, Dele Alli has not given up on football yet",
-      "url": "https://www.theguardian.com/football/2026/nov/20/dele-alli-tottenham-mk-dons-england",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-20T19:00:37+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
-      "id": "2cdd756d6f5c2968",
-      "title": "Pochettino’s fiery start, plus England v All Blacks and ATP Finals finale – follow with us",
-      "url": "https://www.theguardian.com/sport/2026/nov/20/pochettinos-fiery-start-plus-england-v-all-blacks-and-atp-finals-finale-follow-with-us",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-20T17:27:24+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
-      "id": "eaae13609551a5f8",
-      "title": "Man Utd fan criticism has gone too far at times - Berrada",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwz0k32j9kr9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-20T16:55:11+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
-      "id": "61607adbb5901070",
-      "title": "Key questions as Scottish Premiership returns",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c50mdwnn90jyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-20T13:53:22+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
     },
     {
       "id": "c34911cd2f321432",
@@ -336,45 +420,6 @@
       "language": "fr",
       "topics": [],
       "priority": 0
-    },
-    {
-      "id": "afc456a4cf705fef",
-      "title": "The male footballers best associated with each shirt number – the readers’ edition",
-      "url": "https://www.theguardian.com/football/ng-interactive/2026/nov/20/male-footballers-best-associated-each-shirt-number-readers-edit",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-20T06:00:24+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
-      "id": "8fbe8b45581fea5f",
-      "title": "Lyon outclass Arsenal for Champions League win",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c3dx1n4xp1xxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-19T22:56:07+00:00",
-      "category": "competitions",
-      "language": "en",
-      "topics": [
-        "Premier League",
-        "Ligue des champions"
-      ],
-      "priority": 12
-    },
-    {
-      "id": "c379985038785192",
-      "title": "Buurman rescues late Chelsea win against PSG",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cjy5xkq5wwrgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-18T22:13:49+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [
-        "Premier League",
-        "Ligue 1"
-      ],
-      "priority": 12
     },
     {
       "id": "85bb7a68d7b14ed9",
@@ -475,19 +520,6 @@
       "priority": 12
     },
     {
-      "id": "e0a34d5933b09349",
-      "title": "L'équipe de France domine la Turquie, non sans mal, et poursuit sa route en Ligue des nations",
-      "url": "https://www.rfi.fr/fr/sports/20261115-l-%C3%A9quipe-de-france-domine-la-turquie-non-sans-mal-et-poursuit-sa-route-en-ligue-des-nations",
-      "source": "RFI Sports",
-      "published_at": "2026-11-15T21:39:35+00:00",
-      "category": "clubs",
-      "language": "fr",
-      "topics": [
-        "Sélections"
-      ],
-      "priority": 12
-    },
-    {
       "id": "23dedd85352890a5",
       "title": "Ligue des champions féminine CAF: l'AS FAR remporte le titre et venge son équipe masculine contre le Mamelodi Sundowns",
       "url": "https://www.rfi.fr/fr/afrique-foot/20261115-ligue-des-champions-f%C3%A9minine-caf-l-as-far-remporte-le-titre-et-venge-son-%C3%A9quipe-masculine-contre-le-mamelodi-sundowns",
@@ -516,15 +548,15 @@
   ],
   "source_errors": [],
   "search_trends_fr": [
-    "ben earl",
-    "black friday 2026 offres",
-    "nitto atp finals",
-    "kocaelispor – fenerbahçe",
-    "federal bureau of investigation",
-    "nice – paris-sg",
-    "diogo moreira",
-    "course sprint motogp aujourd'hui",
-    "patrice laffont",
-    "bali"
+    "ogc nice vs psg standings",
+    "gonçalo ramos",
+    "ferran torres",
+    "amazon black friday 2026",
+    "moutouh",
+    "musiala",
+    "aviva stadium",
+    "olivier minne",
+    "ufc qatar",
+    "podcast"
   ]
 }
