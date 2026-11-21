@@ -1,14 +1,18 @@
 {
-  "updated_at": "2026-11-21T10:46:16.507758+00:00",
+  "updated_at": "2026-11-21T10:56:53.468256+00:00",
   "items": [
     {
       "id": "900af616044a9679",
       "title": "Premier League resumes, Kane facing spell on sidelines: football news – matchday live",
       "url": "https://www.theguardian.com/football/live/2026/nov/21/premier-league-resumes-kane-facing-spell-on-sidelines-football-news-matchday-live",
       "source": "The Guardian Football",
-      "published_at": "2026-11-21T10:21:08+00:00",
+      "published_at": "2026-11-21T10:44:48+00:00",
       "category": "clubs",
-      "language": "en"
+      "language": "en",
+      "topics": [
+        "Premier League"
+      ],
+      "priority": 12
     },
     {
       "id": "d97d1ca4e1901968",
@@ -17,7 +21,11 @@
       "source": "BBC Sport Football",
       "published_at": "2026-11-21T08:05:46+00:00",
       "category": "clubs",
-      "language": "en"
+      "language": "en",
+      "topics": [
+        "Premier League"
+      ],
+      "priority": 12
     },
     {
       "id": "a043b6ffd9be0abb",
@@ -26,7 +34,9 @@
       "source": "BBC Sport Football",
       "published_at": "2026-11-21T06:50:31+00:00",
       "category": "clubs",
-      "language": "en"
+      "language": "en",
+      "topics": [],
+      "priority": 0
     },
     {
       "id": "bacf9f583bb8bf12",
@@ -35,7 +45,9 @@
       "source": "BBC Sport Football",
       "published_at": "2026-11-21T06:17:32+00:00",
       "category": "clubs",
-      "language": "en"
+      "language": "en",
+      "topics": [],
+      "priority": 0
     },
     {
       "id": "93ddbdc694373f1f",
@@ -44,7 +56,11 @@
       "source": "The Guardian Football",
       "published_at": "2026-11-21T06:00:52+00:00",
       "category": "clubs",
-      "language": "en"
+      "language": "en",
+      "topics": [
+        "Premier League"
+      ],
+      "priority": 12
     },
     {
       "id": "75736ee2f76918ab",
@@ -53,7 +69,9 @@
       "source": "BBC Sport Football",
       "published_at": "2026-11-20T23:18:16+00:00",
       "category": "clubs",
-      "language": "en"
+      "language": "en",
+      "topics": [],
+      "priority": 0
     },
     {
       "id": "ceca3853445efb56",
@@ -62,7 +80,9 @@
       "source": "BBC Sport Football",
       "published_at": "2026-11-20T22:54:43+00:00",
       "category": "clubs",
-      "language": "en"
+      "language": "en",
+      "topics": [],
+      "priority": 0
     },
     {
       "id": "3c4331d9b4942024",
@@ -71,7 +91,11 @@
       "source": "The Guardian Football",
       "published_at": "2026-11-20T22:43:40+00:00",
       "category": "injuries",
-      "language": "en"
+      "language": "en",
+      "topics": [
+        "Bundesliga"
+      ],
+      "priority": 20
     },
     {
       "id": "75628e5a52b57840",
@@ -80,7 +104,11 @@
       "source": "BBC Sport Football",
       "published_at": "2026-11-20T22:36:35+00:00",
       "category": "clubs",
-      "language": "en"
+      "language": "en",
+      "topics": [
+        "Premier League"
+      ],
+      "priority": 12
     },
     {
       "id": "8f559053a8a3d083",
@@ -89,7 +117,11 @@
       "source": "The Guardian Football",
       "published_at": "2026-11-20T22:31:19+00:00",
       "category": "clubs",
-      "language": "en"
+      "language": "en",
+      "topics": [
+        "Premier League"
+      ],
+      "priority": 12
     },
     {
       "id": "c8d54c7e9d892acc",
@@ -98,7 +130,9 @@
       "source": "BBC Sport Football",
       "published_at": "2026-11-20T22:04:19+00:00",
       "category": "clubs",
-      "language": "en"
+      "language": "en",
+      "topics": [],
+      "priority": 0
     },
     {
       "id": "0465ee3a863a35c7",
@@ -107,7 +141,9 @@
       "source": "BBC Sport Football",
       "published_at": "2026-11-20T21:54:17+00:00",
       "category": "clubs",
-      "language": "en"
+      "language": "en",
+      "topics": [],
+      "priority": 0
     },
     {
       "id": "6ba5f22c05193bc7",
@@ -116,7 +152,9 @@
       "source": "BBC Sport Football",
       "published_at": "2026-11-20T20:06:51+00:00",
       "category": "clubs",
-      "language": "en"
+      "language": "en",
+      "topics": [],
+      "priority": 0
     },
     {
       "id": "606a8f99b6ebc6b9",
@@ -125,7 +163,9 @@
       "source": "The Guardian Football",
       "published_at": "2026-11-20T19:56:49+00:00",
       "category": "clubs",
-      "language": "en"
+      "language": "en",
+      "topics": [],
+      "priority": 0
     },
     {
       "id": "94b8046501256c99",
@@ -134,7 +174,11 @@
       "source": "The Guardian Football",
       "published_at": "2026-11-20T19:00:37+00:00",
       "category": "clubs",
-      "language": "en"
+      "language": "en",
+      "topics": [
+        "Premier League"
+      ],
+      "priority": 12
     },
     {
       "id": "c9c178c8a1c8f072",
@@ -143,7 +187,9 @@
       "source": "The Guardian Football",
       "published_at": "2026-11-20T19:00:37+00:00",
       "category": "clubs",
-      "language": "en"
+      "language": "en",
+      "topics": [],
+      "priority": 0
     },
     {
       "id": "a3ce50f0475f7edd",
@@ -152,7 +198,11 @@
       "source": "BBC Sport Football",
       "published_at": "2026-11-20T17:52:50+00:00",
       "category": "clubs",
-      "language": "en"
+      "language": "en",
+      "topics": [
+        "Premier League"
+      ],
+      "priority": 12
     },
     {
       "id": "2cdd756d6f5c2968",
@@ -161,7 +211,9 @@
       "source": "The Guardian Football",
       "published_at": "2026-11-20T17:27:24+00:00",
       "category": "clubs",
-      "language": "en"
+      "language": "en",
+      "topics": [],
+      "priority": 0
     },
     {
       "id": "eaae13609551a5f8",
@@ -170,7 +222,9 @@
       "source": "BBC Sport Football",
       "published_at": "2026-11-20T16:55:11+00:00",
       "category": "clubs",
-      "language": "en"
+      "language": "en",
+      "topics": [],
+      "priority": 0
     },
     {
       "id": "7f7c829d9cdc434f",
@@ -179,7 +233,9 @@
       "source": "BBC Sport Football",
       "published_at": "2026-11-20T16:00:04+00:00",
       "category": "clubs",
-      "language": "en"
+      "language": "en",
+      "topics": [],
+      "priority": 0
     },
     {
       "id": "dc7385833a01a23b",
@@ -188,7 +244,9 @@
       "source": "BBC Sport Football",
       "published_at": "2026-11-20T15:08:51+00:00",
       "category": "clubs",
-      "language": "en"
+      "language": "en",
+      "topics": [],
+      "priority": 0
     },
     {
       "id": "10578499d3907bbd",
@@ -197,7 +255,11 @@
       "source": "The Guardian Football",
       "published_at": "2026-11-20T14:50:09+00:00",
       "category": "clubs",
-      "language": "en"
+      "language": "en",
+      "topics": [
+        "Premier League"
+      ],
+      "priority": 12
     },
     {
       "id": "9e5243b3677d5d12",
@@ -206,7 +268,11 @@
       "source": "BBC Sport Football",
       "published_at": "2026-11-20T14:08:55+00:00",
       "category": "clubs",
-      "language": "en"
+      "language": "en",
+      "topics": [
+        "Premier League"
+      ],
+      "priority": 12
     },
     {
       "id": "61607adbb5901070",
@@ -215,7 +281,9 @@
       "source": "BBC Sport Football",
       "published_at": "2026-11-20T13:53:22+00:00",
       "category": "clubs",
-      "language": "en"
+      "language": "en",
+      "topics": [],
+      "priority": 0
     },
     {
       "id": "c34911cd2f321432",
@@ -224,7 +292,24 @@
       "source": "The Guardian Football",
       "published_at": "2026-11-20T13:00:29+00:00",
       "category": "clubs",
-      "language": "en"
+      "language": "en",
+      "topics": [
+        "Premier League"
+      ],
+      "priority": 12
+    },
+    {
+      "id": "fcfcd86354fbb1d9",
+      "title": "Ligue des nations: la France affrontera l'Espagne en quarts de finale",
+      "url": "https://www.rfi.fr/fr/sports/20261120-foot-la-france-affrontera-l-espagne-en-quarts-de-finale-de-la-ligue-des-nations",
+      "source": "RFI Sports",
+      "published_at": "2026-11-20T11:39:23+00:00",
+      "category": "clubs",
+      "language": "fr",
+      "topics": [
+        "Sélections"
+      ],
+      "priority": 12
     },
     {
       "id": "1bcd0ce44fed28f9",
@@ -233,7 +318,22 @@
       "source": "RFI Afrique Foot",
       "published_at": "2026-11-20T10:45:33+00:00",
       "category": "clubs",
-      "language": "fr"
+      "language": "fr",
+      "topics": [
+        "Ligue 1"
+      ],
+      "priority": 12
+    },
+    {
+      "id": "416b76aed28317e3",
+      "title": "Présidence de la Fifa: le Japonais Tashima ne prévoit pas «pour l'instant» de se retirer en faveur de Diallo",
+      "url": "https://www.rfi.fr/fr/sports/20261120-pr%C3%A9sidence-de-la-fifa-le-japonais-tashima-ne-pr%C3%A9voit-pas-pour-l-instant-de-se-retirer-en-faveur-de-diallo",
+      "source": "RFI Sports",
+      "published_at": "2026-11-20T10:15:38+00:00",
+      "category": "clubs",
+      "language": "fr",
+      "topics": [],
+      "priority": 0
     },
     {
       "id": "afc456a4cf705fef",
@@ -242,7 +342,9 @@
       "source": "The Guardian Football",
       "published_at": "2026-11-20T06:00:24+00:00",
       "category": "clubs",
-      "language": "en"
+      "language": "en",
+      "topics": [],
+      "priority": 0
     },
     {
       "id": "37afb463603c1b14",
@@ -251,7 +353,11 @@
       "source": "The Guardian Football",
       "published_at": "2026-11-20T00:00:15+00:00",
       "category": "clubs",
-      "language": "en"
+      "language": "en",
+      "topics": [
+        "Premier League"
+      ],
+      "priority": 12
     },
     {
       "id": "85bb7a68d7b14ed9",
@@ -260,7 +366,33 @@
       "source": "RFI Afrique Foot",
       "published_at": "2026-11-18T09:46:56+00:00",
       "category": "clubs",
-      "language": "fr"
+      "language": "fr",
+      "topics": [
+        "Sélections"
+      ],
+      "priority": 12
+    },
+    {
+      "id": "6ae9a71550853c72",
+      "title": "Présidence de la Fifa: le Japon dépose la candidature de Kozo Tashima",
+      "url": "https://www.rfi.fr/fr/sports/20261118-pr%C3%A9sidence-de-la-fifa-le-japon-d%C3%A9pose-la-candidature-de-kozo-tashima",
+      "source": "RFI Sports",
+      "published_at": "2026-11-18T09:11:28+00:00",
+      "category": "clubs",
+      "language": "fr",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "c83656cc03276673",
+      "title": "Présidence de la Fifa: Philippe Diallo va mener «une campagne mondiale»",
+      "url": "https://www.rfi.fr/fr/sports/20261117-pr%C3%A9sidence-de-la-fifa-philippe-diallo-va-mener-une-campagne-mondiale",
+      "source": "RFI Sports",
+      "published_at": "2026-11-17T16:19:38+00:00",
+      "category": "clubs",
+      "language": "fr",
+      "topics": [],
+      "priority": 0
     },
     {
       "id": "b0e6a1b642ab9baf",
@@ -269,7 +401,11 @@
       "source": "RFI Afrique Foot",
       "published_at": "2026-11-17T15:16:48+00:00",
       "category": "clubs",
-      "language": "fr"
+      "language": "fr",
+      "topics": [
+        "Sélections"
+      ],
+      "priority": 12
     },
     {
       "id": "be92957017716f97",
@@ -278,7 +414,22 @@
       "source": "RFI Afrique Foot",
       "published_at": "2026-11-16T17:38:39+00:00",
       "category": "clubs",
-      "language": "fr"
+      "language": "fr",
+      "topics": [
+        "Sélections"
+      ],
+      "priority": 12
+    },
+    {
+      "id": "676ece7595e325a4",
+      "title": "Foot: le patron de la FFF Philippe Diallo candidat à la présidence de la Fifa",
+      "url": "https://www.rfi.fr/fr/sports/20261116-foot-le-patron-de-la-fff-philippe-diallo-candidat-%C3%A0-la-pr%C3%A9sidence-de-la-fifa",
+      "source": "RFI Sports",
+      "published_at": "2026-11-16T16:15:13+00:00",
+      "category": "clubs",
+      "language": "fr",
+      "topics": [],
+      "priority": 0
     },
     {
       "id": "618bde2fbfe44fc1",
@@ -287,7 +438,11 @@
       "source": "RFI Afrique Foot",
       "published_at": "2026-11-16T15:28:24+00:00",
       "category": "clubs",
-      "language": "fr"
+      "language": "fr",
+      "topics": [
+        "Sélections"
+      ],
+      "priority": 12
     },
     {
       "id": "72e6618ad7ac22d3",
@@ -296,7 +451,24 @@
       "source": "RFI Afrique Foot",
       "published_at": "2026-11-16T07:04:50+00:00",
       "category": "clubs",
-      "language": "fr"
+      "language": "fr",
+      "topics": [
+        "Sélections"
+      ],
+      "priority": 12
+    },
+    {
+      "id": "e0a34d5933b09349",
+      "title": "L'équipe de France domine la Turquie, non sans mal, et poursuit sa route en Ligue des nations",
+      "url": "https://www.rfi.fr/fr/sports/20261115-l-%C3%A9quipe-de-france-domine-la-turquie-non-sans-mal-et-poursuit-sa-route-en-ligue-des-nations",
+      "source": "RFI Sports",
+      "published_at": "2026-11-15T21:39:35+00:00",
+      "category": "clubs",
+      "language": "fr",
+      "topics": [
+        "Sélections"
+      ],
+      "priority": 12
     },
     {
       "id": "23dedd85352890a5",
@@ -305,7 +477,11 @@
       "source": "RFI Afrique Foot",
       "published_at": "2026-11-15T17:18:06+00:00",
       "category": "competitions",
-      "language": "fr"
+      "language": "fr",
+      "topics": [
+        "Ligue des champions"
+      ],
+      "priority": 12
     },
     {
       "id": "0aa164fb56da0962",
@@ -314,98 +490,24 @@
       "source": "RFI Afrique Foot",
       "published_at": "2026-11-14T21:18:06+00:00",
       "category": "clubs",
-      "language": "fr"
-    },
-    {
-      "id": "0e498bc697b9f55d",
-      "title": "Éliminatoires CAN 2027: le Mali renverse le Rwanda, le Maroc domine le Niger avec un doublé d'Hakimi",
-      "url": "https://www.rfi.fr/fr/afrique-foot/20261113-%C3%A9liminatoires-can-2027-le-mali-renverse-le-rwanda-le-maroc-domine-le-niger-avec-un-doubl%C3%A9-d-hakimi",
-      "source": "RFI Afrique Foot",
-      "published_at": "2026-11-13T22:11:25+00:00",
-      "category": "clubs",
-      "language": "fr"
-    },
-    {
-      "id": "732c050bc69bef6c",
-      "title": "Éliminatoires CAN 2027: le Burkina Faso gagne sur le fil, le Gabon enchaîne, la Tunisie s'enfonce",
-      "url": "https://www.rfi.fr/fr/afrique-foot/20261113-%C3%A9liminatoires-can-2027-le-burkina-faso-gagne-sur-le-fil-le-gabon-encha%C3%AEne-la-tunisie-s-enfonce",
-      "source": "RFI Afrique Foot",
-      "published_at": "2026-11-13T18:20:24+00:00",
-      "category": "clubs",
-      "language": "fr"
-    },
-    {
-      "id": "79a148523823ee92",
-      "title": "Éliminatoires CAN 2027: la Côte d’Ivoire et le Cameroun assurent, le Sénégal s’amuse",
-      "url": "https://www.rfi.fr/fr/afrique-foot/20261112-%C3%A9liminatoires-can-2027-la-c%C3%B4te-d-ivoire-et-le-cameroun-assurent-le-s%C3%A9n%C3%A9gal-s-amuse",
-      "source": "RFI Afrique Foot",
-      "published_at": "2026-11-12T21:11:53+00:00",
-      "category": "clubs",
-      "language": "fr"
-    },
-    {
-      "id": "81fb436d1c86b6d3",
-      "title": "Éliminatoires CAN 2027: le Ghana ouvre enfin son compteur, la RD Congo impériale",
-      "url": "https://www.rfi.fr/fr/afrique-foot/20261112-%C3%A9liminatoires-can-2027-le-ghana-ouvre-enfin-son-compteur-la-rd-congo-imp%C3%A9riale",
-      "source": "RFI Afrique Foot",
-      "published_at": "2026-11-12T18:58:41+00:00",
-      "category": "clubs",
-      "language": "fr"
-    },
-    {
-      "id": "d83bffac8f08f8ee",
-      "title": "Éliminatoires CAN 2026: Cédric Bakambu vers le record de buts avec la RDC?",
-      "url": "https://www.rfi.fr/fr/afrique-foot/20261111-%C3%A9liminatoires-can-2026-c%C3%A9dric-bakambu-vers-le-record-de-buts-avec-la-rdc",
-      "source": "RFI Afrique Foot",
-      "published_at": "2026-11-11T16:27:16+00:00",
-      "category": "clubs",
-      "language": "fr"
-    },
-    {
-      "id": "9a751c6b5278a491",
-      "title": "Éliminatoires CAN 2027: le programme des 3e et 4e journées",
-      "url": "https://www.rfi.fr/fr/afrique-foot/20261109-%C3%A9liminatoires-can-2027-le-programme-des-3e-et-4e-journ%C3%A9es",
-      "source": "RFI Afrique Foot",
-      "published_at": "2026-11-09T15:39:20+00:00",
-      "category": "clubs",
-      "language": "fr"
-    },
-    {
-      "id": "beb8251e54f9c5bc",
-      "title": "Éliminatoires CAN 2027: la première liste d’Ali Maher avec l’Égypte",
-      "url": "https://www.rfi.fr/fr/afrique-foot/20261108-%C3%A9liminatoires-can-2027-la-premi%C3%A8re-liste-d-ali-maher-avec-l-%C3%A9gypte",
-      "source": "RFI Afrique Foot",
-      "published_at": "2026-11-08T20:42:22+00:00",
-      "category": "clubs",
-      "language": "fr"
-    },
-    {
-      "id": "9870a170bc81abeb",
-      "title": "Sign up for the Football Daily newsletter: our free football email",
-      "url": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
-      "source": "The Guardian Football",
-      "published_at": "2022-11-14T09:05:50+00:00",
-      "category": "clubs",
-      "language": "en"
-    },
-    {
-      "id": "6a87f0a55809f553",
-      "title": "Sign up for the Moving the Goalposts newsletter: our free women’s football email",
-      "url": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
-      "source": "The Guardian Football",
-      "published_at": "2022-03-22T16:57:35+00:00",
-      "category": "clubs",
-      "language": "en"
-    },
-    {
-      "id": "d905d5699e5d6bc8",
-      "title": "Sign up for the Recap newsletter: our free sport highlights email",
-      "url": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
-      "source": "The Guardian Football",
-      "published_at": "2017-05-15T11:00:43+00:00",
-      "category": "clubs",
-      "language": "en"
+      "language": "fr",
+      "topics": [
+        "Sélections"
+      ],
+      "priority": 12
     }
   ],
-  "source_errors": []
+  "source_errors": [],
+  "search_trends_fr": [
+    "cyberattaque",
+    "maintien de lordre",
+    "gençlerbirliği – gaziantep",
+    "mise en examen",
+    "pre epidemie grippe",
+    "nice psg",
+    "george russell",
+    "james gray",
+    "angleterre - nouvelle-zélande",
+    "égypte"
+  ]
 }
