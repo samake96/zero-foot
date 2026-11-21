@@ -1,6 +1,238 @@
 {
   "source": "API-Football",
-  "updated_at": "2026-11-21T01:17:45.187710+00:00",
-  "total": 0,
-  "matches": []
+  "updated_at": "2026-11-21T03:57:59.571078+00:00",
+  "total": 11,
+  "matches": [
+    {
+      "id": 1639058,
+      "kickoff": "2026-11-21T02:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 955,
+        "name": "National League - National",
+        "country": "New-Zealand"
+      },
+      "home": {
+        "name": "Ferrymead Bays",
+        "logo": "https://media.api-sports.io/football/teams/20662.png",
+        "goals": 0
+      },
+      "away": {
+        "name": "Auckland FC 2",
+        "logo": "https://media.api-sports.io/football/teams/26722.png",
+        "goals": 0
+      }
+    },
+    {
+      "id": 1650174,
+      "kickoff": "2026-11-21T01:40:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 239,
+        "name": "Primera A",
+        "country": "Colombia"
+      },
+      "home": {
+        "name": "Deportivo Cali",
+        "logo": "https://media.api-sports.io/football/teams/1127.png",
+        "goals": 0
+      },
+      "away": {
+        "name": "Millonarios",
+        "logo": "https://media.api-sports.io/football/teams/1125.png",
+        "goals": 0
+      }
+    },
+    {
+      "id": 1551039,
+      "kickoff": "2026-11-21T01:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 262,
+        "name": "Liga MX",
+        "country": "Mexico"
+      },
+      "home": {
+        "name": "Puebla",
+        "logo": "https://media.api-sports.io/football/teams/2291.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "Atletico San Luis",
+        "logo": "https://media.api-sports.io/football/teams/2314.png",
+        "goals": 1
+      }
+    },
+    {
+      "id": 1631817,
+      "kickoff": "2026-11-21T01:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 722,
+        "name": "Liga Premier Serie A",
+        "country": "Mexico"
+      },
+      "home": {
+        "name": "Acatlan",
+        "logo": "https://media.api-sports.io/football/teams/24949.png",
+        "goals": 0
+      },
+      "away": {
+        "name": "Guerreros del Pacifico",
+        "logo": "https://media.api-sports.io/football/teams/28304.png",
+        "goals": 5
+      }
+    },
+    {
+      "id": 1639057,
+      "kickoff": "2026-11-21T01:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 955,
+        "name": "National League - National",
+        "country": "New-Zealand"
+      },
+      "home": {
+        "name": "Miramar",
+        "logo": "https://media.api-sports.io/football/teams/20672.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "Cashmere Technical",
+        "logo": "https://media.api-sports.io/football/teams/20651.png",
+        "goals": 0
+      }
+    },
+    {
+      "id": 1639059,
+      "kickoff": "2026-11-21T01:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 955,
+        "name": "National League - National",
+        "country": "New-Zealand"
+      },
+      "home": {
+        "name": "Wellington Olympic",
+        "logo": "https://media.api-sports.io/football/teams/20646.png",
+        "goals": 2
+      },
+      "away": {
+        "name": "Birkenhead United",
+        "logo": "https://media.api-sports.io/football/teams/20650.png",
+        "goals": 0
+      }
+    },
+    {
+      "id": 1647128,
+      "kickoff": "2026-11-21T00:30:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 421,
+        "name": "Division di Honor",
+        "country": "Aruba"
+      },
+      "home": {
+        "name": "La Fama",
+        "logo": "https://media.api-sports.io/football/teams/8239.png",
+        "goals": 2
+      },
+      "away": {
+        "name": "RCA",
+        "logo": "https://media.api-sports.io/football/teams/8240.png",
+        "goals": 3
+      }
+    },
+    {
+      "id": 1631815,
+      "kickoff": "2026-11-21T00:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 722,
+        "name": "Liga Premier Serie A",
+        "country": "Mexico"
+      },
+      "home": {
+        "name": "FC Santiago",
+        "logo": "https://media.api-sports.io/football/teams/22055.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "Dragones de Oaxaca",
+        "logo": "https://media.api-sports.io/football/teams/26393.png",
+        "goals": 1
+      }
+    },
+    {
+      "id": 1636041,
+      "kickoff": "2026-11-21T00:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 1242,
+        "name": "Primera Premier",
+        "country": "Mexico"
+      },
+      "home": {
+        "name": "Chapulineros",
+        "logo": "https://media.api-sports.io/football/teams/26525.png",
+        "goals": 2
+      },
+      "away": {
+        "name": "H2O Purepechas",
+        "logo": "https://media.api-sports.io/football/teams/28340.png",
+        "goals": 0
+      }
+    },
+    {
+      "id": 1639056,
+      "kickoff": "2026-11-21T00:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 955,
+        "name": "National League - National",
+        "country": "New-Zealand"
+      },
+      "home": {
+        "name": "Auckland City",
+        "logo": "https://media.api-sports.io/football/teams/2537.png",
+        "goals": 7
+      },
+      "away": {
+        "name": "Napier City Rovers",
+        "logo": "https://media.api-sports.io/football/teams/20642.png",
+        "goals": 1
+      }
+    },
+    {
+      "id": 1650837,
+      "kickoff": "2026-11-21T00:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 396,
+        "name": "Primera Division",
+        "country": "Nicaragua"
+      },
+      "home": {
+        "name": "Rancho Santana",
+        "logo": "https://media.api-sports.io/football/teams/24510.png",
+        "goals": 3
+      },
+      "away": {
+        "name": "Jalapa",
+        "logo": "https://media.api-sports.io/football/teams/10160.png",
+        "goals": 2
+      }
+    }
+  ]
 }
