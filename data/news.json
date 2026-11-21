@@ -1,6 +1,69 @@
 {
-  "updated_at": "2026-11-20T21:57:37.521443+00:00",
+  "updated_at": "2026-11-21T01:22:40.522489+00:00",
   "items": [
+    {
+      "id": "75736ee2f76918ab",
+      "title": "Cost of Man Utd hiring and firing managers nears £100m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwd01n9z23x5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-20T23:18:16+00:00",
+      "category": "clubs",
+      "language": "en"
+    },
+    {
+      "id": "ceca3853445efb56",
+      "title": "First defeat and first red for Ferguson as Glentoran falter",
+      "url": "https://www.bbc.co.uk/sport/articles/c3zxvnz5x7g1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-20T22:54:43+00:00",
+      "category": "clubs",
+      "language": "en"
+    },
+    {
+      "id": "3c4331d9b4942024",
+      "title": "Bayern Munich confirm Harry Kane ‘out for next few months’ with ankle injury",
+      "url": "https://www.theguardian.com/football/2026/nov/20/harry-kane-ankle-ligament-injury-bayern-munich-england",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-20T22:43:40+00:00",
+      "category": "injuries",
+      "language": "en"
+    },
+    {
+      "id": "75628e5a52b57840",
+      "title": "NFL great Brady could buy Chelsea stake",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmg46k97k92do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-20T22:36:35+00:00",
+      "category": "clubs",
+      "language": "en"
+    },
+    {
+      "id": "8f559053a8a3d083",
+      "title": "Premier League news: Moyes demands more from Grealish, Iraola wary of United threat",
+      "url": "https://www.theguardian.com/football/2026/nov/20/premier-league-news-everton-jack-grealish-manchester-city-liverpool-chelsea",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-20T22:31:19+00:00",
+      "category": "clubs",
+      "language": "en"
+    },
+    {
+      "id": "c8d54c7e9d892acc",
+      "title": "Lampard calls for fairness after Coventry penalty row",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c678299n1018o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-20T22:04:19+00:00",
+      "category": "clubs",
+      "language": "en"
+    },
+    {
+      "id": "0465ee3a863a35c7",
+      "title": "Shevchenko lying about drugs test claims - Mudryk",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cjn502n9vqp4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-20T21:54:17+00:00",
+      "category": "clubs",
+      "language": "en"
+    },
     {
       "id": "bf86de4c0e27e3bf",
       "title": "Watch: Inverness and Ayr play out goalless draw",
@@ -128,29 +191,11 @@
       "language": "en"
     },
     {
-      "id": "a4398ef51ecd60c1",
-      "title": "Football Daily | The Premier League resumes: here’s our almost essential club-by-club recap",
-      "url": "https://www.theguardian.com/football/2026/nov/20/premier-league-resumes-club-by-club-recap-football-daily-newsletter",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-20T16:32:26+00:00",
-      "category": "clubs",
-      "language": "en"
-    },
-    {
       "id": "0e9e9b21ffefb573",
       "title": "Mowbray support no surprise, says interim boss Johnson",
       "url": "https://www.bbc.co.uk/sport/football/articles/c5m2lnp387kmo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
       "published_at": "2026-11-20T16:27:19+00:00",
-      "category": "clubs",
-      "language": "en"
-    },
-    {
-      "id": "a49c1a1fe5375f7a",
-      "title": "Premier League news: Grealish available again for Everton, Maresca hints at City tweaks",
-      "url": "https://www.theguardian.com/football/2026/nov/20/premier-league-news-everton-jack-grealish-manchester-city-liverpool-chelsea",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-20T16:24:12+00:00",
       "category": "clubs",
       "language": "en"
     },
@@ -268,51 +313,6 @@
       "url": "https://www.bbc.co.uk/sport/football/articles/cmy8670vjlx0o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
       "published_at": "2026-11-20T11:35:16+00:00",
-      "category": "clubs",
-      "language": "en"
-    },
-    {
-      "id": "47471004a5268644",
-      "title": "Fan found not guilty of racially abusing Semenyo",
-      "url": "https://www.bbc.co.uk/news/articles/c5y4jvg27j2po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-20T11:12:35+00:00",
-      "category": "clubs",
-      "language": "en"
-    },
-    {
-      "id": "6e68da3f960509d3",
-      "title": "Bukayo Saka may not return for Arsenal before Christmas, Mikel Arteta admits",
-      "url": "https://www.theguardian.com/football/2026/nov/20/bukayo-saka-injury-may-not-play-arsenal-before-christmas-mikel-arteta",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-20T10:46:32+00:00",
-      "category": "clubs",
-      "language": "en"
-    },
-    {
-      "id": "172f09e8aea0fa67",
-      "title": "EFL preview: Evans' gripes & unexpected departures",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crwy4wl1n0q2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-20T08:24:38+00:00",
-      "category": "clubs",
-      "language": "en"
-    },
-    {
-      "id": "e79b235082f391d2",
-      "title": "What history tells us about the Premier League table after 10 games of a season",
-      "url": "https://www.theguardian.com/football/2026/nov/20/premier-league-table-history-after-10-games-season",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-20T08:00:26+00:00",
-      "category": "clubs",
-      "language": "en"
-    },
-    {
-      "id": "cb23fec54c46be6a",
-      "title": "Inside the rise of 'humble' Nyoni and why Iraola trusts him",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck24enjqvlyeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-20T07:42:04+00:00",
       "category": "clubs",
       "language": "en"
     }
