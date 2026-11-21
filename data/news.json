@@ -1,16 +1,29 @@
 {
-  "updated_at": "2026-11-21T10:56:53.468256+00:00",
+  "updated_at": "2026-11-21T11:04:18.167354+00:00",
   "items": [
     {
       "id": "900af616044a9679",
       "title": "Premier League resumes, Kane facing spell on sidelines: football news – matchday live",
       "url": "https://www.theguardian.com/football/live/2026/nov/21/premier-league-resumes-kane-facing-spell-on-sidelines-football-news-matchday-live",
       "source": "The Guardian Football",
-      "published_at": "2026-11-21T10:44:48+00:00",
+      "published_at": "2026-11-21T11:00:13+00:00",
       "category": "clubs",
       "language": "en",
       "topics": [
         "Premier League"
+      ],
+      "priority": 12
+    },
+    {
+      "id": "f249997964d64593",
+      "title": "Ligue des nations : L'équipe de France retrouve l'Espagne en quarts",
+      "url": "https://www.france24.com/fr/%C3%A9missions/sports/20261121-ligue-des-nations-l-%C3%A9quipe-de-france-retrouve-l-espagne-en-quarts",
+      "source": "France 24",
+      "published_at": "2026-11-21T11:00:01+00:00",
+      "category": "clubs",
+      "language": "fr",
+      "topics": [
+        "Sélections"
       ],
       "priority": 12
     },
@@ -499,6 +512,7 @@
   ],
   "source_errors": [],
   "search_trends_fr": [
+    "séisme",
     "cyberattaque",
     "maintien de lordre",
     "gençlerbirliği – gaziantep",
@@ -507,7 +521,6 @@
     "nice psg",
     "george russell",
     "james gray",
-    "angleterre - nouvelle-zélande",
-    "égypte"
+    "angleterre - nouvelle-zélande"
   ]
 }
