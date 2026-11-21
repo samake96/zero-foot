@@ -1,27 +1,7 @@
 {
-  "total_unmatched": 5,
+  "total_unmatched": 14,
   "potentially_resolved": 0,
   "diagnosis": [
-    {
-      "match_id": 1552827,
-      "competition": "FL1",
-      "home": {
-        "fixture_name": "Estac Troyes",
-        "exact_normalized_matches": [],
-        "model_identity_matches": [],
-        "found_exact": false,
-        "found_by_model": false
-      },
-      "away": {
-        "fixture_name": "Le Havre",
-        "exact_normalized_matches": [],
-        "model_identity_matches": [
-          "Le Havre AC"
-        ],
-        "found_exact": false,
-        "found_by_model": true
-      }
-    },
     {
       "match_id": 1570453,
       "competition": "PD",
@@ -102,6 +82,206 @@
         "model_identity_matches": [],
         "found_exact": false,
         "found_by_model": false
+      }
+    },
+    {
+      "match_id": 1570455,
+      "competition": "PD",
+      "home": {
+        "fixture_name": "Barcelona",
+        "exact_normalized_matches": [],
+        "model_identity_matches": [],
+        "found_exact": false,
+        "found_by_model": false
+      },
+      "away": {
+        "fixture_name": "Villarreal",
+        "exact_normalized_matches": [],
+        "model_identity_matches": [
+          "Villarreal CF"
+        ],
+        "found_exact": false,
+        "found_by_model": true
+      }
+    },
+    {
+      "match_id": 1550199,
+      "competition": "SA",
+      "home": {
+        "fixture_name": "Bologna",
+        "exact_normalized_matches": [],
+        "model_identity_matches": [],
+        "found_exact": false,
+        "found_by_model": false
+      },
+      "away": {
+        "fixture_name": "Udinese",
+        "exact_normalized_matches": [],
+        "model_identity_matches": [],
+        "found_exact": false,
+        "found_by_model": false
+      }
+    },
+    {
+      "match_id": 1550206,
+      "competition": "SA",
+      "home": {
+        "fixture_name": "Sassuolo",
+        "exact_normalized_matches": [],
+        "model_identity_matches": [],
+        "found_exact": false,
+        "found_by_model": false
+      },
+      "away": {
+        "fixture_name": "Genoa",
+        "exact_normalized_matches": [],
+        "model_identity_matches": [],
+        "found_exact": false,
+        "found_by_model": false
+      }
+    },
+    {
+      "match_id": 1552825,
+      "competition": "FL1",
+      "home": {
+        "fixture_name": "Paris FC",
+        "exact_normalized_matches": [
+          "Paris FC"
+        ],
+        "model_identity_matches": [
+          "Paris FC"
+        ],
+        "found_exact": true,
+        "found_by_model": true
+      },
+      "away": {
+        "fixture_name": "Angers",
+        "exact_normalized_matches": [],
+        "model_identity_matches": [],
+        "found_exact": false,
+        "found_by_model": false
+      }
+    },
+    {
+      "match_id": 1575224,
+      "competition": "BL1",
+      "home": {
+        "fixture_name": "FC Augsburg",
+        "exact_normalized_matches": [
+          "FC Augsburg"
+        ],
+        "model_identity_matches": [
+          "FC Augsburg"
+        ],
+        "found_exact": true,
+        "found_by_model": true
+      },
+      "away": {
+        "fixture_name": "FSV Mainz 05",
+        "exact_normalized_matches": [],
+        "model_identity_matches": [],
+        "found_exact": false,
+        "found_by_model": false
+      }
+    },
+    {
+      "match_id": 1570459,
+      "competition": "PD",
+      "home": {
+        "fixture_name": "Racing Santander",
+        "exact_normalized_matches": [],
+        "model_identity_matches": [],
+        "found_exact": false,
+        "found_by_model": false
+      },
+      "away": {
+        "fixture_name": "Real Sociedad",
+        "exact_normalized_matches": [],
+        "model_identity_matches": [
+          "Real Sociedad de Fútbol"
+        ],
+        "found_exact": false,
+        "found_by_model": true
+      }
+    },
+    {
+      "match_id": 1552821,
+      "competition": "FL1",
+      "home": {
+        "fixture_name": "Lorient",
+        "exact_normalized_matches": [],
+        "model_identity_matches": [],
+        "found_exact": false,
+        "found_by_model": false
+      },
+      "away": {
+        "fixture_name": "Rennes",
+        "exact_normalized_matches": [],
+        "model_identity_matches": [],
+        "found_exact": false,
+        "found_by_model": false
+      }
+    },
+    {
+      "match_id": 1550197,
+      "competition": "SA",
+      "home": {
+        "fixture_name": "AC Milan",
+        "exact_normalized_matches": [
+          "AC Milan"
+        ],
+        "model_identity_matches": [
+          "AC Milan"
+        ],
+        "found_exact": true,
+        "found_by_model": true
+      },
+      "away": {
+        "fixture_name": "Frosinone",
+        "exact_normalized_matches": [],
+        "model_identity_matches": [],
+        "found_exact": false,
+        "found_by_model": false
+      }
+    },
+    {
+      "match_id": 1570458,
+      "competition": "PD",
+      "home": {
+        "fixture_name": "Osasuna",
+        "exact_normalized_matches": [],
+        "model_identity_matches": [],
+        "found_exact": false,
+        "found_by_model": false
+      },
+      "away": {
+        "fixture_name": "Malaga",
+        "exact_normalized_matches": [],
+        "model_identity_matches": [
+          "Málaga CF"
+        ],
+        "found_exact": false,
+        "found_by_model": true
+      }
+    },
+    {
+      "match_id": 1550198,
+      "competition": "SA",
+      "home": {
+        "fixture_name": "Atalanta",
+        "exact_normalized_matches": [],
+        "model_identity_matches": [],
+        "found_exact": false,
+        "found_by_model": false
+      },
+      "away": {
+        "fixture_name": "Inter",
+        "exact_normalized_matches": [],
+        "model_identity_matches": [
+          "FC Internazionale Milano"
+        ],
+        "found_exact": false,
+        "found_by_model": true
       }
     }
   ],

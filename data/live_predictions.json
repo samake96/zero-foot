@@ -1,112 +1,16 @@
 {
   "source": "ZEROFOOT",
-  "created_at": "2026-11-20T16:14:46.701752+00:00",
+  "created_at": "2026-11-21T08:20:23.874021+00:00",
   "model": "poisson_v33_prototype",
   "warning": "Experimental forecasts based on available historical data, not validated for future betting or guaranteed returns.",
-  "input_matches": 29,
+  "input_matches": 42,
   "historical_matches": 2251,
-  "predictions_count": 22,
+  "predictions_count": 26,
   "skipped": {
-    "unmatched_team": 5,
+    "unmatched_team": 14,
     "insufficient_team_history": 2
   },
   "predictions": [
-    {
-      "match_id": 1575221,
-      "kickoff": "2026-11-20T19:30:00+00:00",
-      "competition": "BL1",
-      "league": "Bundesliga",
-      "home": "Bayern München",
-      "away": "1. FC Köln",
-      "probabilities_1x2": {
-        "home": 0.857,
-        "draw": 0.0882,
-        "away": 0.0548
-      },
-      "expected_goals": {
-        "home": 3.687,
-        "away": 0.956
-      },
-      "historical_samples": {
-        "home": 21,
-        "away": 21
-      },
-      "analysis": {
-        "pick": "home",
-        "pick_label": "Bayern München",
-        "confidence": "moderee",
-        "reasons": [
-          {
-            "type": "expected_goals",
-            "home": 3.687,
-            "away": 0.956,
-            "text_fr": "Buts attendus selon le modele : 3.69 pour Bayern München, 0.96 pour 1. FC Köln.",
-            "text_en": "Model expected goals: Bayern München 3.69, 1. FC Köln 0.96."
-          },
-          {
-            "type": "historical_samples",
-            "home": 21,
-            "away": 21,
-            "text_fr": "Base statistique : 21 matchs a domicile de Bayern München et 21 matchs a l'exterieur de 1. FC Köln.",
-            "text_en": "Statistical sample: 21 home games for Bayern München and 21 away games for 1. FC Köln."
-          }
-        ],
-        "opinion_fr": "Notre avis : Bayern München. Cette orientation repose sur les buts attendus et les performances historiques domicile/exterieur. L'ecart entre les scenarios reste notable, et une surprise demeure possible.",
-        "opinion_en": "Our view: Bayern München to win. This opinion uses expected goals and historical home/away performance. The gap between outcomes is meaningful, and an upset remains possible.",
-        "limitations_fr": "Avis statistique, sans prise en compte confirmee des blessures, compositions ou informations de derniere minute. Aucun resultat garanti.",
-        "limitations_en": "Statistical opinion; injuries, lineups and late news have not been verified. No outcome is guaranteed."
-      },
-      "model": "poisson_v33_prototype",
-      "experimental": true
-    },
-    {
-      "match_id": 1570454,
-      "kickoff": "2026-11-20T20:00:00+00:00",
-      "competition": "PD",
-      "league": "La Liga",
-      "home": "Athletic Club",
-      "away": "Espanyol",
-      "probabilities_1x2": {
-        "home": 0.4293,
-        "draw": 0.2726,
-        "away": 0.298
-      },
-      "expected_goals": {
-        "home": 1.342,
-        "away": 1.07
-      },
-      "historical_samples": {
-        "home": 25,
-        "away": 25
-      },
-      "analysis": {
-        "pick": "home",
-        "pick_label": "Athletic Club",
-        "confidence": "moderee",
-        "reasons": [
-          {
-            "type": "expected_goals",
-            "home": 1.342,
-            "away": 1.07,
-            "text_fr": "Buts attendus selon le modele : 1.34 pour Athletic Club, 1.07 pour Espanyol.",
-            "text_en": "Model expected goals: Athletic Club 1.34, Espanyol 1.07."
-          },
-          {
-            "type": "historical_samples",
-            "home": 25,
-            "away": 25,
-            "text_fr": "Base statistique : 25 matchs a domicile de Athletic Club et 25 matchs a l'exterieur de Espanyol.",
-            "text_en": "Statistical sample: 25 home games for Athletic Club and 25 away games for Espanyol."
-          }
-        ],
-        "opinion_fr": "Notre avis : Athletic Club. Cette orientation repose sur les buts attendus et les performances historiques domicile/exterieur. L'ecart entre les scenarios reste notable, et une surprise demeure possible.",
-        "opinion_en": "Our view: Athletic Club to win. This opinion uses expected goals and historical home/away performance. The gap between outcomes is meaningful, and an upset remains possible.",
-        "limitations_fr": "Avis statistique, sans prise en compte confirmee des blessures, compositions ou informations de derniere minute. Aucun resultat garanti.",
-        "limitations_en": "Statistical opinion; injuries, lineups and late news have not been verified. No outcome is guaranteed."
-      },
-      "model": "poisson_v33_prototype",
-      "experimental": true
-    },
     {
       "match_id": 1557474,
       "kickoff": "2026-11-21T12:30:00+00:00",
@@ -1061,6 +965,294 @@
         ],
         "opinion_fr": "Notre avis : Real Madrid. Cette orientation repose sur les buts attendus et les performances historiques domicile/exterieur. L'ecart entre les scenarios reste notable, et une surprise demeure possible.",
         "opinion_en": "Our view: Real Madrid to win. This opinion uses expected goals and historical home/away performance. The gap between outcomes is meaningful, and an upset remains possible.",
+        "limitations_fr": "Avis statistique, sans prise en compte confirmee des blessures, compositions ou informations de derniere minute. Aucun resultat garanti.",
+        "limitations_en": "Statistical opinion; injuries, lineups and late news have not been verified. No outcome is guaranteed."
+      },
+      "model": "poisson_v33_prototype",
+      "experimental": true
+    },
+    {
+      "match_id": 1550201,
+      "kickoff": "2026-11-22T11:30:00+00:00",
+      "competition": "SA",
+      "league": "Serie A",
+      "home": "Juventus",
+      "away": "Venezia",
+      "probabilities_1x2": {
+        "home": 0.6582,
+        "draw": 0.2071,
+        "away": 0.1347
+      },
+      "expected_goals": {
+        "home": 1.956,
+        "away": 0.749
+      },
+      "historical_samples": {
+        "home": 24,
+        "away": 5
+      },
+      "analysis": {
+        "pick": "home",
+        "pick_label": "Juventus",
+        "confidence": "moderee",
+        "reasons": [
+          {
+            "type": "expected_goals",
+            "home": 1.956,
+            "away": 0.749,
+            "text_fr": "Buts attendus selon le modele : 1.96 pour Juventus, 0.75 pour Venezia.",
+            "text_en": "Model expected goals: Juventus 1.96, Venezia 0.75."
+          },
+          {
+            "type": "historical_samples",
+            "home": 24,
+            "away": 5,
+            "text_fr": "Base statistique : 24 matchs a domicile de Juventus et 5 matchs a l'exterieur de Venezia.",
+            "text_en": "Statistical sample: 24 home games for Juventus and 5 away games for Venezia."
+          }
+        ],
+        "opinion_fr": "Notre avis : Juventus. Cette orientation repose sur les buts attendus et les performances historiques domicile/exterieur. L'ecart entre les scenarios reste notable, et une surprise demeure possible.",
+        "opinion_en": "Our view: Juventus to win. This opinion uses expected goals and historical home/away performance. The gap between outcomes is meaningful, and an upset remains possible.",
+        "limitations_fr": "Avis statistique, sans prise en compte confirmee des blessures, compositions ou informations de derniere minute. Aucun resultat garanti.",
+        "limitations_en": "Statistical opinion; injuries, lineups and late news have not been verified. No outcome is guaranteed."
+      },
+      "model": "poisson_v33_prototype",
+      "experimental": true
+    },
+    {
+      "match_id": 1557472,
+      "kickoff": "2026-11-22T14:00:00+00:00",
+      "competition": "PL",
+      "league": "Premier League",
+      "home": "Hull City",
+      "away": "Brighton",
+      "probabilities_1x2": {
+        "home": 0.3897,
+        "draw": 0.2647,
+        "away": 0.3456
+      },
+      "expected_goals": {
+        "home": 1.338,
+        "away": 1.244
+      },
+      "historical_samples": {
+        "home": 5,
+        "away": 24
+      },
+      "analysis": {
+        "pick": "home",
+        "pick_label": "Hull City",
+        "confidence": "prudente",
+        "reasons": [
+          {
+            "type": "expected_goals",
+            "home": 1.338,
+            "away": 1.244,
+            "text_fr": "Buts attendus selon le modele : 1.34 pour Hull City, 1.24 pour Brighton.",
+            "text_en": "Model expected goals: Hull City 1.34, Brighton 1.24."
+          },
+          {
+            "type": "historical_samples",
+            "home": 5,
+            "away": 24,
+            "text_fr": "Base statistique : 5 matchs a domicile de Hull City et 24 matchs a l'exterieur de Brighton.",
+            "text_en": "Statistical sample: 5 home games for Hull City and 24 away games for Brighton."
+          }
+        ],
+        "opinion_fr": "Notre avis : Hull City. Cette orientation repose sur les buts attendus et les performances historiques domicile/exterieur. L'ecart entre les scenarios reste limite, et une surprise demeure possible.",
+        "opinion_en": "Our view: Hull City to win. This opinion uses expected goals and historical home/away performance. The gap between outcomes is narrow, and an upset remains possible.",
+        "limitations_fr": "Avis statistique, sans prise en compte confirmee des blessures, compositions ou informations de derniere minute. Aucun resultat garanti.",
+        "limitations_en": "Statistical opinion; injuries, lineups and late news have not been verified. No outcome is guaranteed."
+      },
+      "model": "poisson_v33_prototype",
+      "experimental": true
+    },
+    {
+      "match_id": 1557473,
+      "kickoff": "2026-11-22T16:30:00+00:00",
+      "competition": "PL",
+      "league": "Premier League",
+      "home": "Liverpool",
+      "away": "Manchester United",
+      "probabilities_1x2": {
+        "home": 0.4257,
+        "draw": 0.2542,
+        "away": 0.3201
+      },
+      "expected_goals": {
+        "home": 1.484,
+        "away": 1.253
+      },
+      "historical_samples": {
+        "home": 24,
+        "away": 24
+      },
+      "analysis": {
+        "pick": "home",
+        "pick_label": "Liverpool",
+        "confidence": "prudente",
+        "reasons": [
+          {
+            "type": "expected_goals",
+            "home": 1.484,
+            "away": 1.253,
+            "text_fr": "Buts attendus selon le modele : 1.48 pour Liverpool, 1.25 pour Manchester United.",
+            "text_en": "Model expected goals: Liverpool 1.48, Manchester United 1.25."
+          },
+          {
+            "type": "historical_samples",
+            "home": 24,
+            "away": 24,
+            "text_fr": "Base statistique : 24 matchs a domicile de Liverpool et 24 matchs a l'exterieur de Manchester United.",
+            "text_en": "Statistical sample: 24 home games for Liverpool and 24 away games for Manchester United."
+          }
+        ],
+        "opinion_fr": "Notre avis : Liverpool. Cette orientation repose sur les buts attendus et les performances historiques domicile/exterieur. L'ecart entre les scenarios reste limite, et une surprise demeure possible.",
+        "opinion_en": "Our view: Liverpool to win. This opinion uses expected goals and historical home/away performance. The gap between outcomes is narrow, and an upset remains possible.",
+        "limitations_fr": "Avis statistique, sans prise en compte confirmee des blessures, compositions ou informations de derniere minute. Aucun resultat garanti.",
+        "limitations_en": "Statistical opinion; injuries, lineups and late news have not been verified. No outcome is guaranteed."
+      },
+      "model": "poisson_v33_prototype",
+      "experimental": true
+    },
+    {
+      "match_id": 1575227,
+      "kickoff": "2026-11-22T16:30:00+00:00",
+      "competition": "BL1",
+      "league": "Bundesliga",
+      "home": "Werder Bremen",
+      "away": "Hamburger SV",
+      "probabilities_1x2": {
+        "home": 0.4827,
+        "draw": 0.2457,
+        "away": 0.2716
+      },
+      "expected_goals": {
+        "home": 1.627,
+        "away": 1.159
+      },
+      "historical_samples": {
+        "home": 21,
+        "away": 22
+      },
+      "analysis": {
+        "pick": "home",
+        "pick_label": "Werder Bremen",
+        "confidence": "moderee",
+        "reasons": [
+          {
+            "type": "expected_goals",
+            "home": 1.627,
+            "away": 1.159,
+            "text_fr": "Buts attendus selon le modele : 1.63 pour Werder Bremen, 1.16 pour Hamburger SV.",
+            "text_en": "Model expected goals: Werder Bremen 1.63, Hamburger SV 1.16."
+          },
+          {
+            "type": "historical_samples",
+            "home": 21,
+            "away": 22,
+            "text_fr": "Base statistique : 21 matchs a domicile de Werder Bremen et 22 matchs a l'exterieur de Hamburger SV.",
+            "text_en": "Statistical sample: 21 home games for Werder Bremen and 22 away games for Hamburger SV."
+          }
+        ],
+        "opinion_fr": "Notre avis : Werder Bremen. Cette orientation repose sur les buts attendus et les performances historiques domicile/exterieur. L'ecart entre les scenarios reste notable, et une surprise demeure possible.",
+        "opinion_en": "Our view: Werder Bremen to win. This opinion uses expected goals and historical home/away performance. The gap between outcomes is meaningful, and an upset remains possible.",
+        "limitations_fr": "Avis statistique, sans prise en compte confirmee des blessures, compositions ou informations de derniere minute. Aucun resultat garanti.",
+        "limitations_en": "Statistical opinion; injuries, lineups and late news have not been verified. No outcome is guaranteed."
+      },
+      "model": "poisson_v33_prototype",
+      "experimental": true
+    },
+    {
+      "match_id": 1552822,
+      "kickoff": "2026-11-22T19:45:00+00:00",
+      "competition": "FL1",
+      "league": "Ligue 1",
+      "home": "Marseille",
+      "away": "Le Mans",
+      "probabilities_1x2": {
+        "home": 0.6535,
+        "draw": 0.1802,
+        "away": 0.1663
+      },
+      "expected_goals": {
+        "home": 2.442,
+        "away": 1.169
+      },
+      "historical_samples": {
+        "home": 22,
+        "away": 5
+      },
+      "analysis": {
+        "pick": "home",
+        "pick_label": "Marseille",
+        "confidence": "moderee",
+        "reasons": [
+          {
+            "type": "expected_goals",
+            "home": 2.442,
+            "away": 1.169,
+            "text_fr": "Buts attendus selon le modele : 2.44 pour Marseille, 1.17 pour Le Mans.",
+            "text_en": "Model expected goals: Marseille 2.44, Le Mans 1.17."
+          },
+          {
+            "type": "historical_samples",
+            "home": 22,
+            "away": 5,
+            "text_fr": "Base statistique : 22 matchs a domicile de Marseille et 5 matchs a l'exterieur de Le Mans.",
+            "text_en": "Statistical sample: 22 home games for Marseille and 5 away games for Le Mans."
+          }
+        ],
+        "opinion_fr": "Notre avis : Marseille. Cette orientation repose sur les buts attendus et les performances historiques domicile/exterieur. L'ecart entre les scenarios reste notable, et une surprise demeure possible.",
+        "opinion_en": "Our view: Marseille to win. This opinion uses expected goals and historical home/away performance. The gap between outcomes is meaningful, and an upset remains possible.",
+        "limitations_fr": "Avis statistique, sans prise en compte confirmee des blessures, compositions ou informations de derniere minute. Aucun resultat garanti.",
+        "limitations_en": "Statistical opinion; injuries, lineups and late news have not been verified. No outcome is guaranteed."
+      },
+      "model": "poisson_v33_prototype",
+      "experimental": true
+    },
+    {
+      "match_id": 1570456,
+      "kickoff": "2026-11-22T20:00:00+00:00",
+      "competition": "PD",
+      "league": "La Liga",
+      "home": "Getafe",
+      "away": "Atletico Madrid",
+      "probabilities_1x2": {
+        "home": 0.3454,
+        "draw": 0.308,
+        "away": 0.3466
+      },
+      "expected_goals": {
+        "home": 1.002,
+        "away": 1.004
+      },
+      "historical_samples": {
+        "home": 25,
+        "away": 25
+      },
+      "analysis": {
+        "pick": "away",
+        "pick_label": "Atletico Madrid",
+        "confidence": "prudente",
+        "reasons": [
+          {
+            "type": "expected_goals",
+            "home": 1.002,
+            "away": 1.004,
+            "text_fr": "Buts attendus selon le modele : 1.00 pour Getafe, 1.00 pour Atletico Madrid.",
+            "text_en": "Model expected goals: Getafe 1.00, Atletico Madrid 1.00."
+          },
+          {
+            "type": "historical_samples",
+            "home": 25,
+            "away": 25,
+            "text_fr": "Base statistique : 25 matchs a domicile de Getafe et 25 matchs a l'exterieur de Atletico Madrid.",
+            "text_en": "Statistical sample: 25 home games for Getafe and 25 away games for Atletico Madrid."
+          }
+        ],
+        "opinion_fr": "Notre avis : Atletico Madrid. Cette orientation repose sur les buts attendus et les performances historiques domicile/exterieur. L'ecart entre les scenarios reste limite, et une surprise demeure possible.",
+        "opinion_en": "Our view: Atletico Madrid to win. This opinion uses expected goals and historical home/away performance. The gap between outcomes is narrow, and an upset remains possible.",
         "limitations_fr": "Avis statistique, sans prise en compte confirmee des blessures, compositions ou informations de derniere minute. Aucun resultat garanti.",
         "limitations_en": "Statistical opinion; injuries, lineups and late news have not been verified. No outcome is guaranteed."
       },

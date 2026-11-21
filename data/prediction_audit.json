@@ -1,5 +1,5 @@
 {
-  "created_at": "2026-11-20T16:14:46.701752+00:00",
+  "created_at": "2026-11-21T08:20:23.874021+00:00",
   "historical_by_competition": {
     "PD": 499,
     "FL1": 395,
@@ -8,21 +8,14 @@
     "SA": 490
   },
   "invalid_historical_rows": 0,
-  "fixture_count": 29,
-  "predictions_count": 22,
-  "excluded_count": 7,
+  "fixture_count": 42,
+  "predictions_count": 26,
+  "excluded_count": 16,
   "exclusion_reasons": {
-    "unmatched_team": 5,
+    "unmatched_team": 14,
     "insufficient_team_history": 2
   },
   "exclusions": [
-    {
-      "match_id": 1552827,
-      "reason": "unmatched_team",
-      "league_id": 61,
-      "home": "Estac Troyes",
-      "away": "Le Havre"
-    },
     {
       "match_id": 1570453,
       "reason": "unmatched_team",
@@ -64,6 +57,76 @@
       "league_id": 78,
       "home": "FC Schalke 04",
       "away": "VfB Stuttgart"
+    },
+    {
+      "match_id": 1570455,
+      "reason": "unmatched_team",
+      "league_id": 140,
+      "home": "Barcelona",
+      "away": "Villarreal"
+    },
+    {
+      "match_id": 1550199,
+      "reason": "unmatched_team",
+      "league_id": 135,
+      "home": "Bologna",
+      "away": "Udinese"
+    },
+    {
+      "match_id": 1550206,
+      "reason": "unmatched_team",
+      "league_id": 135,
+      "home": "Sassuolo",
+      "away": "Genoa"
+    },
+    {
+      "match_id": 1552825,
+      "reason": "unmatched_team",
+      "league_id": 61,
+      "home": "Paris FC",
+      "away": "Angers"
+    },
+    {
+      "match_id": 1575224,
+      "reason": "unmatched_team",
+      "league_id": 78,
+      "home": "FC Augsburg",
+      "away": "FSV Mainz 05"
+    },
+    {
+      "match_id": 1570459,
+      "reason": "unmatched_team",
+      "league_id": 140,
+      "home": "Racing Santander",
+      "away": "Real Sociedad"
+    },
+    {
+      "match_id": 1552821,
+      "reason": "unmatched_team",
+      "league_id": 61,
+      "home": "Lorient",
+      "away": "Rennes"
+    },
+    {
+      "match_id": 1550197,
+      "reason": "unmatched_team",
+      "league_id": 135,
+      "home": "AC Milan",
+      "away": "Frosinone"
+    },
+    {
+      "match_id": 1570458,
+      "reason": "unmatched_team",
+      "league_id": 140,
+      "home": "Osasuna",
+      "away": "Malaga"
+    },
+    {
+      "match_id": 1550198,
+      "reason": "unmatched_team",
+      "league_id": 135,
+      "home": "Atalanta",
+      "away": "Inter"
     }
   ]
 }
