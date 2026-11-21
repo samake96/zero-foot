@@ -11,8 +11,9 @@ SOURCES=[
  ('BBC Sport Football','https://feeds.bbci.co.uk/sport/football/rss.xml','en'),
  ('The Guardian Football','https://www.theguardian.com/football/rss','en'),
  ('RFI Afrique Foot','https://www.rfi.fr/fr/afrique-foot/rss','fr'),
+ ('France 24','https://www.france24.com/fr/rss','fr'),
 ]
-MAX_ITEMS=45
+MAX_ITEMS=60
 
 def clean(s): return re.sub(r'\s+',' ',re.sub('<[^>]+>',' ',s or '')).strip()
 def canonical(url):
@@ -32,15 +33,22 @@ def main():
   try:
    root=ET.fromstring(fetch(url))
    entries=root.findall('.//item')
-   for e in entries[:15]:
+   source_count=0
+   for e in entries[:70]:
     title=clean(e.findtext('title')); link=canonical((e.findtext('link') or '').strip()); date=e.findtext('pubDate')
     if not title or not link.startswith('https://'):continue
+    if source=='France 24' and not (
+        '/sports/' in urlsplit(link).path
+        and re.search(r"\b(football|fifa|uefa|champions league|ligue des champions|can 20\d{2}|footballeur[s]?)\b",title,re.I)
+    ):continue
     key=hashlib.sha256(re.sub(r'\W+','',title.lower()).encode()).hexdigest()[:16]
     if key in seen:continue
     seen.add(key)
     try: dt=parsedate_to_datetime(date).astimezone(timezone.utc).isoformat()
     except (TypeError,ValueError):dt=None
     items.append({'id':key,'title':title,'url':link,'source':source,'published_at':dt,'category':category(title),'language':language})
+    source_count+=1
+    if source_count>=15:break
   except Exception as exc: errors.append(f'{source}: {type(exc).__name__}: {exc}')
  items.sort(key=lambda i:i['published_at'] or '',reverse=True)
  path=ROOT/'data/news.json'
