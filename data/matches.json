@@ -1,6 +1,6 @@
 {
   "source": "API-Football",
-  "updated_at": "2026-11-21T07:16:15.532149+00:00",
+  "updated_at": "2026-11-21T09:55:06.060879+00:00",
   "date_utc": "2026-11-21",
   "matches": [
     {
@@ -468,8 +468,8 @@
     {
       "id": 1555813,
       "kickoff": "2026-11-21T05:00:00+00:00",
-      "status": "1H",
-      "elapsed": 45,
+      "status": "FT",
+      "elapsed": 90,
       "league": {
         "id": 100,
         "name": "J3 League",
@@ -951,8 +951,8 @@
     {
       "id": 1556141,
       "kickoff": "2026-11-21T06:00:00+00:00",
-      "status": "2H",
-      "elapsed": 56,
+      "status": "FT",
+      "elapsed": 90,
       "league": {
         "id": 98,
         "name": "J1 League",
@@ -966,14 +966,14 @@
       "away": {
         "name": "FC Tokyo",
         "logo": "https://media.api-sports.io/football/teams/292.png",
-        "goals": 2
+        "goals": 3
       }
     },
     {
       "id": 1556145,
       "kickoff": "2026-11-21T06:00:00+00:00",
-      "status": "2H",
-      "elapsed": 57,
+      "status": "FT",
+      "elapsed": 90,
       "league": {
         "id": 98,
         "name": "J1 League",
@@ -982,7 +982,7 @@
       "home": {
         "name": "Kawasaki Frontale",
         "logo": "https://media.api-sports.io/football/teams/294.png",
-        "goals": 0
+        "goals": 1
       },
       "away": {
         "name": "Avispa Fukuoka",
@@ -993,8 +993,8 @@
     {
       "id": 1560990,
       "kickoff": "2026-11-21T06:00:00+00:00",
-      "status": "2H",
-      "elapsed": 57,
+      "status": "FT",
+      "elapsed": 90,
       "league": {
         "id": 854,
         "name": "WE League",
@@ -1014,8 +1014,8 @@
     {
       "id": 1593706,
       "kickoff": "2026-11-21T06:00:00+00:00",
-      "status": "2H",
-      "elapsed": 55,
+      "status": "FT",
+      "elapsed": 90,
       "league": {
         "id": 188,
         "name": "A-League",
@@ -1056,8 +1056,8 @@
     {
       "id": 1577593,
       "kickoff": "2026-11-21T06:30:00+00:00",
-      "status": "1H",
-      "elapsed": 45,
+      "status": "FT",
+      "elapsed": 90,
       "league": {
         "id": 236,
         "name": "First League",
@@ -1071,14 +1071,14 @@
       "away": {
         "name": "Volga Ulyanovsk",
         "logo": "https://media.api-sports.io/football/teams/6834.png",
-        "goals": 1
+        "goals": 2
       }
     },
     {
       "id": 1556142,
       "kickoff": "2026-11-21T07:00:00+00:00",
-      "status": "1H",
-      "elapsed": 13,
+      "status": "FT",
+      "elapsed": 90,
       "league": {
         "id": 98,
         "name": "J1 League",
@@ -1092,14 +1092,14 @@
       "away": {
         "name": "Fagiano Okayama",
         "logo": "https://media.api-sports.io/football/teams/310.png",
-        "goals": 0
+        "goals": 1
       }
     },
     {
       "id": 1607333,
       "kickoff": "2026-11-21T07:00:00+00:00",
-      "status": "1H",
-      "elapsed": 16,
+      "status": "FT",
+      "elapsed": 90,
       "league": {
         "id": 380,
         "name": "Premier League",
@@ -1108,19 +1108,19 @@
       "home": {
         "name": "Wofoo Tai Po",
         "logo": "https://media.api-sports.io/football/teams/4457.png",
-        "goals": 0
+        "goals": 1
       },
       "away": {
         "name": "Kitchee",
         "logo": "https://media.api-sports.io/football/teams/4453.png",
-        "goals": 0
+        "goals": 2
       }
     },
     {
       "id": 1607342,
       "kickoff": "2026-11-21T07:00:00+00:00",
-      "status": "1H",
-      "elapsed": 15,
+      "status": "FT",
+      "elapsed": 90,
       "league": {
         "id": 380,
         "name": "Premier League",
@@ -1129,19 +1129,19 @@
       "home": {
         "name": "Southern District",
         "logo": "https://media.api-sports.io/football/teams/4456.png",
-        "goals": 0
+        "goals": 1
       },
       "away": {
         "name": "BC Rangers",
         "logo": "https://media.api-sports.io/football/teams/26471.png",
-        "goals": 0
+        "goals": 1
       }
     },
     {
       "id": 1510501,
       "kickoff": "2026-11-21T07:30:00+00:00",
-      "status": "NS",
-      "elapsed": null,
+      "status": "FT",
+      "elapsed": 90,
       "league": {
         "id": 293,
         "name": "K League 2",
@@ -1150,19 +1150,19 @@
       "home": {
         "name": "Gimpo Citizen",
         "logo": "https://media.api-sports.io/football/teams/7078.png",
-        "goals": null
+        "goals": 0
       },
       "away": {
         "name": "Suwon City FC",
         "logo": "https://media.api-sports.io/football/teams/2756.png",
-        "goals": null
+        "goals": 1
       }
     },
     {
       "id": 1510502,
       "kickoff": "2026-11-21T07:30:00+00:00",
-      "status": "NS",
-      "elapsed": null,
+      "status": "FT",
+      "elapsed": 90,
       "league": {
         "id": 293,
         "name": "K League 2",
@@ -1171,19 +1171,19 @@
       "home": {
         "name": "Seongnam FC",
         "logo": "https://media.api-sports.io/football/teams/2757.png",
-        "goals": null
+        "goals": 5
       },
       "away": {
         "name": "Yongin City",
         "logo": "https://media.api-sports.io/football/teams/9171.png",
-        "goals": null
+        "goals": 0
       }
     },
     {
       "id": 1647382,
       "kickoff": "2026-11-21T07:30:00+00:00",
-      "status": "NS",
-      "elapsed": null,
+      "status": "FT",
+      "elapsed": 90,
       "league": {
         "id": 292,
         "name": "K League 1",
@@ -1192,19 +1192,19 @@
       "home": {
         "name": "Gangwon FC",
         "logo": "https://media.api-sports.io/football/teams/2746.png",
-        "goals": null
+        "goals": 1
       },
       "away": {
         "name": "Daejeon Citizen",
         "logo": "https://media.api-sports.io/football/teams/2750.png",
-        "goals": null
+        "goals": 3
       }
     },
     {
       "id": 1647383,
       "kickoff": "2026-11-21T07:30:00+00:00",
-      "status": "NS",
-      "elapsed": null,
+      "status": "FT",
+      "elapsed": 90,
       "league": {
         "id": 292,
         "name": "K League 1",
@@ -1213,19 +1213,19 @@
       "home": {
         "name": "Incheon United",
         "logo": "https://media.api-sports.io/football/teams/2763.png",
-        "goals": null
+        "goals": 2
       },
       "away": {
         "name": "Ulsan Hyundai FC",
         "logo": "https://media.api-sports.io/football/teams/2767.png",
-        "goals": null
+        "goals": 1
       }
     },
     {
       "id": 1640883,
       "kickoff": "2026-11-21T08:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
+      "status": "2H",
+      "elapsed": 90,
       "league": {
         "id": 734,
         "name": "Diski Challenge",
@@ -1234,12 +1234,12 @@
       "home": {
         "name": "Chippa United U23",
         "logo": "https://media.api-sports.io/football/teams/15990.png",
-        "goals": null
+        "goals": 2
       },
       "away": {
         "name": "Richards Bay U23",
         "logo": "https://media.api-sports.io/football/teams/20296.png",
-        "goals": null
+        "goals": 3
       }
     },
     {
@@ -1266,8 +1266,8 @@
     {
       "id": 1640886,
       "kickoff": "2026-11-21T08:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
+      "status": "2H",
+      "elapsed": 90,
       "league": {
         "id": 734,
         "name": "Diski Challenge",
@@ -1276,12 +1276,12 @@
       "home": {
         "name": "Mamelodi Sundowns U23",
         "logo": "https://media.api-sports.io/football/teams/15993.png",
-        "goals": null
+        "goals": 2
       },
       "away": {
         "name": "Golden Arrows U23",
         "logo": "https://media.api-sports.io/football/teams/15991.png",
-        "goals": null
+        "goals": 0
       }
     },
     {
@@ -1308,8 +1308,8 @@
     {
       "id": 1641938,
       "kickoff": "2026-11-21T08:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
+      "status": "1H",
+      "elapsed": 24,
       "league": {
         "id": 647,
         "name": "Lao League",
@@ -1318,19 +1318,19 @@
       "home": {
         "name": "Ezra",
         "logo": "https://media.api-sports.io/football/teams/14094.png",
-        "goals": null
+        "goals": 0
       },
       "away": {
         "name": "Savannakhet",
         "logo": "https://media.api-sports.io/football/teams/26368.png",
-        "goals": null
+        "goals": 0
       }
     },
     {
       "id": 1641939,
       "kickoff": "2026-11-21T08:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
+      "status": "FT",
+      "elapsed": 90,
       "league": {
         "id": 647,
         "name": "Lao League",
@@ -1339,19 +1339,19 @@
       "home": {
         "name": "Champasak United",
         "logo": "https://media.api-sports.io/football/teams/18750.png",
-        "goals": null
+        "goals": 2
       },
       "away": {
         "name": "Namtha United",
         "logo": "https://media.api-sports.io/football/teams/21016.png",
-        "goals": null
+        "goals": 0
       }
     },
     {
       "id": 1622838,
       "kickoff": "2026-11-21T08:30:00+00:00",
-      "status": "NS",
-      "elapsed": null,
+      "status": "2H",
+      "elapsed": 68,
       "league": {
         "id": 274,
         "name": "Liga 1",
@@ -1360,19 +1360,19 @@
       "home": {
         "name": "Persebaya Surabaya",
         "logo": "https://media.api-sports.io/football/teams/2446.png",
-        "goals": null
+        "goals": 1
       },
       "away": {
         "name": "Java United",
         "logo": "https://media.api-sports.io/football/teams/22409.png",
-        "goals": null
+        "goals": 1
       }
     },
     {
       "id": 1622839,
       "kickoff": "2026-11-21T08:30:00+00:00",
-      "status": "NS",
-      "elapsed": null,
+      "status": "2H",
+      "elapsed": 68,
       "league": {
         "id": 274,
         "name": "Liga 1",
@@ -1381,19 +1381,19 @@
       "home": {
         "name": "Persik Kediri",
         "logo": "https://media.api-sports.io/football/teams/4241.png",
-        "goals": null
+        "goals": 0
       },
       "away": {
         "name": "PSIM Yogyakarta",
         "logo": "https://media.api-sports.io/football/teams/4235.png",
-        "goals": null
+        "goals": 1
       }
     },
     {
       "id": 1635012,
       "kickoff": "2026-11-21T08:30:00+00:00",
-      "status": "NS",
-      "elapsed": null,
+      "status": "2H",
+      "elapsed": 67,
       "league": {
         "id": 637,
         "name": "V.League 2",
@@ -1402,19 +1402,19 @@
       "home": {
         "name": "Lam Dong",
         "logo": "https://media.api-sports.io/football/teams/28215.png",
-        "goals": null
+        "goals": 0
       },
       "away": {
         "name": "Dong Thap",
         "logo": "https://media.api-sports.io/football/teams/9164.png",
-        "goals": null
+        "goals": 1
       }
     },
     {
       "id": 1637715,
       "kickoff": "2026-11-21T08:30:00+00:00",
-      "status": "NS",
-      "elapsed": null,
+      "status": "2H",
+      "elapsed": 65,
       "league": {
         "id": 275,
         "name": "Liga 2",
@@ -1423,19 +1423,19 @@
       "home": {
         "name": "PSIS Semarang",
         "logo": "https://media.api-sports.io/football/teams/2451.png",
-        "goals": null
+        "goals": 0
       },
       "away": {
         "name": "Semen Padang",
         "logo": "https://media.api-sports.io/football/teams/2456.png",
-        "goals": null
+        "goals": 0
       }
     },
     {
       "id": 1637718,
       "kickoff": "2026-11-21T08:30:00+00:00",
-      "status": "NS",
-      "elapsed": null,
+      "status": "2H",
+      "elapsed": 67,
       "league": {
         "id": 275,
         "name": "Liga 2",
@@ -1444,12 +1444,12 @@
       "home": {
         "name": "RANS Nusantara",
         "logo": "https://media.api-sports.io/football/teams/4229.png",
-        "goals": null
+        "goals": 1
       },
       "away": {
         "name": "Persipura Jayapura",
         "logo": "https://media.api-sports.io/football/teams/2440.png",
-        "goals": null
+        "goals": 1
       }
     },
     {
@@ -1539,8 +1539,8 @@
     {
       "id": 1593707,
       "kickoff": "2026-11-21T08:40:00+00:00",
-      "status": "NS",
-      "elapsed": null,
+      "status": "2H",
+      "elapsed": 49,
       "league": {
         "id": 188,
         "name": "A-League",
@@ -1549,19 +1549,19 @@
       "home": {
         "name": "Brisbane Roar",
         "logo": "https://media.api-sports.io/football/teams/947.png",
-        "goals": null
+        "goals": 0
       },
       "away": {
         "name": "Sydney",
         "logo": "https://media.api-sports.io/football/teams/943.png",
-        "goals": null
+        "goals": 0
       }
     },
     {
       "id": 1565129,
       "kickoff": "2026-11-21T09:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
+      "status": "HT",
+      "elapsed": 45,
       "league": {
         "id": 668,
         "name": "1. Liga U19",
@@ -1570,19 +1570,19 @@
       "home": {
         "name": "Baník Ostrava U19",
         "logo": "https://media.api-sports.io/football/teams/14830.png",
-        "goals": null
+        "goals": 0
       },
       "away": {
         "name": "Viktoria Plzeň U19",
         "logo": "https://media.api-sports.io/football/teams/7970.png",
-        "goals": null
+        "goals": 2
       }
     },
     {
       "id": 1581978,
       "kickoff": "2026-11-21T09:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
+      "status": "HT",
+      "elapsed": 45,
       "league": {
         "id": 334,
         "name": "Persha Liga",
@@ -1591,12 +1591,12 @@
       "home": {
         "name": "Kolos Kovalivka II",
         "logo": "https://media.api-sports.io/football/teams/24585.png",
-        "goals": null
+        "goals": 1
       },
       "away": {
         "name": "Viktoriya Mykolaivka",
         "logo": "https://media.api-sports.io/football/teams/13223.png",
-        "goals": null
+        "goals": 1
       }
     },
     {
@@ -1623,8 +1623,8 @@
     {
       "id": 1602553,
       "kickoff": "2026-11-21T09:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
+      "status": "HT",
+      "elapsed": 45,
       "league": {
         "id": 284,
         "name": "Liga II",
@@ -1633,19 +1633,19 @@
       "home": {
         "name": "Dumbrăviţa",
         "logo": "https://media.api-sports.io/football/teams/7469.png",
-        "goals": null
+        "goals": 1
       },
       "away": {
         "name": "CS Afumati",
         "logo": "https://media.api-sports.io/football/teams/2608.png",
-        "goals": null
+        "goals": 1
       }
     },
     {
       "id": 1602554,
       "kickoff": "2026-11-21T09:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
+      "status": "HT",
+      "elapsed": 45,
       "league": {
         "id": 284,
         "name": "Liga II",
@@ -1654,19 +1654,19 @@
       "home": {
         "name": "CSM Reşiţa",
         "logo": "https://media.api-sports.io/football/teams/6229.png",
-        "goals": null
+        "goals": 2
       },
       "away": {
         "name": "Metaloglobus",
         "logo": "https://media.api-sports.io/football/teams/2604.png",
-        "goals": null
+        "goals": 1
       }
     },
     {
       "id": 1602555,
       "kickoff": "2026-11-21T09:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
+      "status": "HT",
+      "elapsed": 45,
       "league": {
         "id": 284,
         "name": "Liga II",
@@ -1675,19 +1675,19 @@
       "home": {
         "name": "Slatina",
         "logo": "https://media.api-sports.io/football/teams/6898.png",
-        "goals": null
+        "goals": 2
       },
       "away": {
         "name": "ASA Targu Mures",
         "logo": "https://media.api-sports.io/football/teams/2590.png",
-        "goals": null
+        "goals": 1
       }
     },
     {
       "id": 1602556,
       "kickoff": "2026-11-21T09:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
+      "status": "HT",
+      "elapsed": 45,
       "league": {
         "id": 284,
         "name": "Liga II",
@@ -1696,19 +1696,19 @@
       "home": {
         "name": "FC Bacau",
         "logo": "https://media.api-sports.io/football/teams/22000.png",
-        "goals": null
+        "goals": 3
       },
       "away": {
         "name": "CS Dinamo București",
         "logo": "https://media.api-sports.io/football/teams/19170.png",
-        "goals": null
+        "goals": 1
       }
     },
     {
       "id": 1602559,
       "kickoff": "2026-11-21T09:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
+      "status": "HT",
+      "elapsed": 45,
       "league": {
         "id": 284,
         "name": "Liga II",
@@ -1717,19 +1717,19 @@
       "home": {
         "name": "Popești-Leordeni",
         "logo": "https://media.api-sports.io/football/teams/6891.png",
-        "goals": null
+        "goals": 2
       },
       "away": {
         "name": "Viitorul Şelimbăr",
         "logo": "https://media.api-sports.io/football/teams/6927.png",
-        "goals": null
+        "goals": 0
       }
     },
     {
       "id": 1602562,
       "kickoff": "2026-11-21T09:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
+      "status": "HT",
+      "elapsed": 45,
       "league": {
         "id": 284,
         "name": "Liga II",
@@ -1738,19 +1738,19 @@
       "home": {
         "name": "Ştefăneşti",
         "logo": "https://media.api-sports.io/football/teams/21686.png",
-        "goals": null
+        "goals": 0
       },
       "away": {
         "name": "Unirea Slobozia",
         "logo": "https://media.api-sports.io/football/teams/6916.png",
-        "goals": null
+        "goals": 1
       }
     },
     {
       "id": 1610574,
       "kickoff": "2026-11-21T09:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
+      "status": "HT",
+      "elapsed": 45,
       "league": {
         "id": 284,
         "name": "Liga II",
@@ -1759,19 +1759,19 @@
       "home": {
         "name": "CSM Satu Mare",
         "logo": "https://media.api-sports.io/football/teams/16279.png",
-        "goals": null
+        "goals": 1
       },
       "away": {
         "name": "Concordia",
         "logo": "https://media.api-sports.io/football/teams/2580.png",
-        "goals": null
+        "goals": 0
       }
     },
     {
       "id": 1629482,
       "kickoff": "2026-11-21T09:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
+      "status": "HT",
+      "elapsed": 45,
       "league": {
         "id": 1240,
         "name": "U19 league",
@@ -1780,19 +1780,19 @@
       "home": {
         "name": "Amedspor U19",
         "logo": "https://media.api-sports.io/football/teams/28241.png",
-        "goals": null
+        "goals": 0
       },
       "away": {
         "name": "Rizespor U19",
         "logo": "https://media.api-sports.io/football/teams/28252.png",
-        "goals": null
+        "goals": 1
       }
     },
     {
       "id": 1634859,
       "kickoff": "2026-11-21T09:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
+      "status": "HT",
+      "elapsed": 45,
       "league": {
         "id": 588,
         "name": "National League",
@@ -1801,12 +1801,12 @@
       "home": {
         "name": "Yangon United",
         "logo": "https://media.api-sports.io/football/teams/8013.png",
-        "goals": null
+        "goals": 3
       },
       "away": {
         "name": "I.S.P.E",
         "logo": "https://media.api-sports.io/football/teams/12526.png",
-        "goals": null
+        "goals": 2
       }
     },
     {
@@ -1854,8 +1854,8 @@
     {
       "id": 1634860,
       "kickoff": "2026-11-21T09:30:00+00:00",
-      "status": "NS",
-      "elapsed": null,
+      "status": "1H",
+      "elapsed": 25,
       "league": {
         "id": 588,
         "name": "National League",
@@ -1864,12 +1864,12 @@
       "home": {
         "name": "Sagaing United",
         "logo": "https://media.api-sports.io/football/teams/12528.png",
-        "goals": null
+        "goals": 0
       },
       "away": {
         "name": "Myawady",
         "logo": "https://media.api-sports.io/football/teams/19048.png",
-        "goals": null
+        "goals": 1
       }
     },
     {
@@ -7413,6 +7413,27 @@
       "away": {
         "name": "Tefik Canga",
         "logo": "https://media.api-sports.io/football/teams/26793.png",
+        "goals": null
+      }
+    },
+    {
+      "id": 1650833,
+      "kickoff": "2026-11-21T12:00:00+00:00",
+      "status": "NS",
+      "elapsed": null,
+      "league": {
+        "id": 1195,
+        "name": "Liga E Pare",
+        "country": "Kosovo"
+      },
+      "home": {
+        "name": "Mitrovica",
+        "logo": "https://media.api-sports.io/football/teams/26099.png",
+        "goals": null
+      },
+      "away": {
+        "name": "Dinamo Ferizaj",
+        "logo": "https://media.api-sports.io/football/teams/22815.png",
         "goals": null
       }
     },
@@ -20101,6 +20122,27 @@
       }
     },
     {
+      "id": 1628604,
+      "kickoff": "2026-11-21T15:00:00+00:00",
+      "status": "NS",
+      "elapsed": null,
+      "league": {
+        "id": 399,
+        "name": "NPFL",
+        "country": "Nigeria"
+      },
+      "home": {
+        "name": "Bendel Insurance",
+        "logo": "https://media.api-sports.io/football/teams/5173.png",
+        "goals": null
+      },
+      "away": {
+        "name": "Doma United",
+        "logo": "https://media.api-sports.io/football/teams/20809.png",
+        "goals": null
+      }
+    },
+    {
       "id": 1628609,
       "kickoff": "2026-11-21T15:00:00+00:00",
       "status": "NS",
@@ -24574,6 +24616,27 @@
       }
     },
     {
+      "id": 1628610,
+      "kickoff": "2026-11-21T18:00:00+00:00",
+      "status": "NS",
+      "elapsed": null,
+      "league": {
+        "id": 399,
+        "name": "NPFL",
+        "country": "Nigeria"
+      },
+      "home": {
+        "name": "Sporting Lagos",
+        "logo": "https://media.api-sports.io/football/teams/22585.png",
+        "goals": null
+      },
+      "away": {
+        "name": "Kwara United",
+        "logo": "https://media.api-sports.io/football/teams/5185.png",
+        "goals": null
+      }
+    },
+    {
       "id": 1631647,
       "kickoff": "2026-11-21T18:00:00+00:00",
       "status": "NS",
@@ -25813,27 +25876,6 @@
       }
     },
     {
-      "id": 1645275,
-      "kickoff": "2026-11-21T19:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
-      "league": {
-        "id": 568,
-        "name": "Eerste Divisie",
-        "country": "Suriname"
-      },
-      "home": {
-        "name": "Flora",
-        "logo": "https://media.api-sports.io/football/teams/23429.png",
-        "goals": null
-      },
-      "away": {
-        "name": "FC Inter Wanica",
-        "logo": "https://media.api-sports.io/football/teams/12214.png",
-        "goals": null
-      }
-    },
-    {
       "id": 1645542,
       "kickoff": "2026-11-21T19:00:00+00:00",
       "status": "NS",
@@ -26040,6 +26082,27 @@
       "away": {
         "name": "Al Ansar",
         "logo": "https://media.api-sports.io/football/teams/4569.png",
+        "goals": null
+      }
+    },
+    {
+      "id": 1645275,
+      "kickoff": "2026-11-21T19:30:00+00:00",
+      "status": "NS",
+      "elapsed": null,
+      "league": {
+        "id": 568,
+        "name": "Eerste Divisie",
+        "country": "Suriname"
+      },
+      "home": {
+        "name": "Flora",
+        "logo": "https://media.api-sports.io/football/teams/23429.png",
+        "goals": null
+      },
+      "away": {
+        "name": "FC Inter Wanica",
+        "logo": "https://media.api-sports.io/football/teams/12214.png",
         "goals": null
       }
     },
@@ -26842,6 +26905,27 @@
       }
     },
     {
+      "id": 1636046,
+      "kickoff": "2026-11-21T21:30:00+00:00",
+      "status": "NS",
+      "elapsed": null,
+      "league": {
+        "id": 1242,
+        "name": "Primera Premier",
+        "country": "Mexico"
+      },
+      "home": {
+        "name": "Racing de Veracruz",
+        "logo": "https://media.api-sports.io/football/teams/22046.png",
+        "goals": null
+      },
+      "away": {
+        "name": "Tritons Vallarta",
+        "logo": "https://media.api-sports.io/football/teams/17790.png",
+        "goals": null
+      }
+    },
+    {
       "id": 1639808,
       "kickoff": "2026-11-21T21:30:00+00:00",
       "status": "NS",
@@ -26880,6 +26964,27 @@
       "away": {
         "name": "Caracas FC",
         "logo": "https://media.api-sports.io/football/teams/2808.png",
+        "goals": null
+      }
+    },
+    {
+      "id": 1646939,
+      "kickoff": "2026-11-21T21:30:00+00:00",
+      "status": "NS",
+      "elapsed": null,
+      "league": {
+        "id": 299,
+        "name": "Primera División",
+        "country": "Venezuela"
+      },
+      "home": {
+        "name": "Carabobo FC",
+        "logo": "https://media.api-sports.io/football/teams/2810.png",
+        "goals": null
+      },
+      "away": {
+        "name": "Portuguesa FC",
+        "logo": "https://media.api-sports.io/football/teams/2814.png",
         "goals": null
       }
     },
@@ -26985,6 +27090,27 @@
       "away": {
         "name": "Calor de San Pedro",
         "logo": "https://media.api-sports.io/football/teams/17804.png",
+        "goals": null
+      }
+    },
+    {
+      "id": 1636047,
+      "kickoff": "2026-11-21T22:00:00+00:00",
+      "status": "NS",
+      "elapsed": null,
+      "league": {
+        "id": 1242,
+        "name": "Primera Premier",
+        "country": "Mexico"
+      },
+      "home": {
+        "name": "Pioneros de Cancún",
+        "logo": "https://media.api-sports.io/football/teams/15936.png",
+        "goals": null
+      },
+      "away": {
+        "name": "Lobos ULMX",
+        "logo": "https://media.api-sports.io/football/teams/17787.png",
         "goals": null
       }
     },
