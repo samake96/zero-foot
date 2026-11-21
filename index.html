@@ -283,7 +283,7 @@ async function refreshScores() {
  if (liveRequestPending || document.hidden) return;
  liveRequestPending = true;
  try {
-  const response = await fetch('/api/live-scores', {signal: AbortSignal.timeout(10000)});
+  const response = await fetch('/api/live-scores', {cache:'no-store', signal: AbortSignal.timeout(10000)});
   if (!response.ok) return;
   const snapshot = await response.json();
   if (!snapshot.available || !Array.isArray(snapshot.matches)
@@ -707,7 +707,7 @@ function rebuildFixtures() {
  }
  fixtures=[...scores.values()];
 }
-setInterval(refreshScores, 60000);
+setInterval(refreshScores, 30000);
 document.addEventListener('visibilitychange', () => {
  if (dataLoaded && !document.hidden) refreshScores();
 });

@@ -6,7 +6,7 @@ export async function onRequestGet({env}) {
   try {
     const snapshot = await env.LIVE_SCORES.get('latest', {type: 'json', cacheTtl: 30});
     if (!snapshot) return fallback('awaiting_collection');
-    return Response.json(snapshot, {headers: {'cache-control': 'public, max-age=30'}});
+    return Response.json(snapshot, {headers: {'cache-control': 'no-store'}});
   } catch {
     return fallback('temporarily_unavailable');
   }
