@@ -20,6 +20,42 @@ function compactFixture({fixture, league, teams, goals}) {
   };
 }
 
+function providerError(errors, headers) {
+  const details = JSON.stringify(errors).toLowerCase();
+  if (/too many|per minute|rate.?limit/.test(details)) {
+    const remaining = headers.get('x-ratelimit-requests-remaining');
+    const quota = remaining && /^\d+$/.test(remaining) ? ' (daily requests remaining: ' + remaining + ')' : '';
+    return 'Football provider refused the request: rate limit' + quota;
+  }
+  if (/quota|daily|per day/.test(details)) return 'Football provider refused the request: daily quota';
+  if (/api.?key|unauthori[sz]ed|invalid token|authentication/.test(details)) return 'Football provider refused the request: authentication';
+  if (/plan|subscription|suspend/.test(details)) return 'Football provider refused the request: subscription or account';
+  return 'Football provider refused the request: unclassified API error';
+}
+
+async function fetchFixtures(url, key, request) {
+  for (let attempt = 0; attempt < 2; attempt++) {
+    let response;
+    try {
+      response = await request(url, {
+        headers: {'x-apisports-key': key, accept: 'application/json'},
+        signal: AbortSignal.timeout(12000),
+      });
+    } catch {
+      if (attempt === 1) throw new Error('Football provider network failure');
+    }
+    if (response && response.status < 500) {
+      if (!response.ok) throw new Error('Football provider HTTP ' + response.status);
+      const data = await response.json().catch(() => null);
+      if (Object.keys(data?.errors || {}).length) throw new Error(providerError(data.errors, response.headers));
+      if (Array.isArray(data?.response)) return data.response;
+      if (attempt === 1) throw new Error('Football provider returned invalid data: response array missing');
+    }
+    if (attempt === 1) throw new Error('Football provider HTTP ' + response.status);
+    await new Promise(resolve => setTimeout(resolve, 1500));
+  }
+}
+
 export async function collectScores(controller, env, request = fetch) {
   const intervalSeconds = allowedIntervals.get(controller.cron);
   if (!intervalSeconds || !env.API_FOOTBALL_KEY || !env.LIVE_SCORES) {
@@ -29,16 +65,8 @@ export async function collectScores(controller, env, request = fetch) {
   const startedAt = new Date().toISOString();
   const url = new URL('https://v3.football.api-sports.io/fixtures');
   url.search = new URLSearchParams({date: day, timezone: 'UTC'}).toString();
-  const response = await request(url, {
-    headers: {'x-apisports-key': env.API_FOOTBALL_KEY, accept: 'application/json'},
-    signal: AbortSignal.timeout(20000),
-  });
-  if (!response.ok) throw new Error('Football provider HTTP ' + response.status);
-  const data = await response.json();
-  if (!Array.isArray(data.response) || Object.keys(data.errors || {}).length) {
-    throw new Error('Football provider returned invalid data or refused the request');
-  }
-  const matches = data.response.map(compactFixture);
+  const fixtures = await fetchFixtures(url, env.API_FOOTBALL_KEY, request);
+  const matches = fixtures.map(compactFixture);
   if (matches.length !== new Set(matches.map(match => match.id)).size) {
     throw new Error('Football provider returned duplicate fixtures');
   }
