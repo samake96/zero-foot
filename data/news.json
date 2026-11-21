@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-21T11:04:18.167354+00:00",
+  "updated_at": "2026-11-21T13:06:56.667170+00:00",
   "items": [
     {
-      "id": "900af616044a9679",
-      "title": "Premier League resumes, Kane facing spell on sidelines: football news – matchday live",
-      "url": "https://www.theguardian.com/football/live/2026/nov/21/premier-league-resumes-kane-facing-spell-on-sidelines-football-news-matchday-live",
+      "id": "156d1e9c3358b5f6",
+      "title": "Manchester City v Fulham: Premier League – live",
+      "url": "https://www.theguardian.com/football/live/2026/nov/21/manchester-city-v-fulham-premier-league-live",
       "source": "The Guardian Football",
-      "published_at": "2026-11-21T11:00:13+00:00",
+      "published_at": "2026-11-21T12:59:44+00:00",
       "category": "clubs",
       "language": "en",
       "topics": [
@@ -87,17 +87,6 @@
       "priority": 0
     },
     {
-      "id": "ceca3853445efb56",
-      "title": "First defeat and first red for Ferguson as Glentoran falter",
-      "url": "https://www.bbc.co.uk/sport/articles/c3zxvnz5x7g1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-20T22:54:43+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
       "id": "3c4331d9b4942024",
       "title": "Bayern Munich confirm Harry Kane ‘out for next few months’ with ankle injury",
       "url": "https://www.theguardian.com/football/2026/nov/20/harry-kane-ankle-ligament-injury-bayern-munich-england",
@@ -159,6 +148,17 @@
       "priority": 0
     },
     {
+      "id": "bf86de4c0e27e3bf",
+      "title": "Watch: Inverness and Ayr play out goalless draw",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c6zxvnzjnne4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-20T21:47:58+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
       "id": "6ba5f22c05193bc7",
       "title": "Osimhen keen on Man Utd move - Saturday's gossip",
       "url": "https://www.bbc.co.uk/sport/football/articles/c60qj1924wyeo?at_medium=RSS&at_campaign=rss",
@@ -181,19 +181,6 @@
       "priority": 0
     },
     {
-      "id": "94b8046501256c99",
-      "title": "Pochettino the connector: will human touch lift Manchester United?",
-      "url": "https://www.theguardian.com/football/2026/nov/20/mauricio-pochettino-manchester-united-manager-liverpool-premier-league",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-20T19:00:37+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [
-        "Premier League"
-      ],
-      "priority": 12
-    },
-    {
       "id": "c9c178c8a1c8f072",
       "title": "Training hard and biding his time, Dele Alli has not given up on football yet",
       "url": "https://www.theguardian.com/football/2026/nov/20/dele-alli-tottenham-mk-dons-england",
@@ -205,11 +192,11 @@
       "priority": 0
     },
     {
-      "id": "a3ce50f0475f7edd",
-      "title": "Chelsea fined £150,000 for discriminatory chanting",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwyvde0n8zqyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-20T17:52:50+00:00",
+      "id": "94b8046501256c99",
+      "title": "Pochettino the connector: will human touch lift Manchester United?",
+      "url": "https://www.theguardian.com/football/2026/nov/20/mauricio-pochettino-manchester-united-manager-liverpool-premier-league",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-20T19:00:37+00:00",
       "category": "clubs",
       "language": "en",
       "topics": [
@@ -234,28 +221,6 @@
       "url": "https://www.bbc.co.uk/sport/football/articles/cwz0k32j9kr9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
       "published_at": "2026-11-20T16:55:11+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
-      "id": "7f7c829d9cdc434f",
-      "title": "10 games, 0 points & 30 goals conceded - why Charlton are struggling",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq0k0kxg5k4zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-20T16:00:04+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
-      "id": "dc7385833a01a23b",
-      "title": "Filming training by drones should be illegal - Iraola",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqdr1xmekmg5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-20T15:08:51+00:00",
       "category": "clubs",
       "language": "en",
       "topics": [],
@@ -365,6 +330,47 @@
       "url": "https://www.theguardian.com/football/2026/nov/20/premier-league-10-things-to-look-out-for-this-weekend",
       "source": "The Guardian Football",
       "published_at": "2026-11-20T00:00:15+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [
+        "Premier League"
+      ],
+      "priority": 12
+    },
+    {
+      "id": "8fbe8b45581fea5f",
+      "title": "Lyon outclass Arsenal for Champions League win",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c3dx1n4xp1xxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-19T22:56:07+00:00",
+      "category": "competitions",
+      "language": "en",
+      "topics": [
+        "Premier League",
+        "Ligue des champions"
+      ],
+      "priority": 12
+    },
+    {
+      "id": "c379985038785192",
+      "title": "Buurman rescues late Chelsea win against PSG",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cjy5xkq5wwrgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-18T22:13:49+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [
+        "Premier League",
+        "Ligue 1"
+      ],
+      "priority": 12
+    },
+    {
+      "id": "4f48694eb8dc1dcd",
+      "title": "Hemp and Shaw star as Manchester City get vital win at Hacken",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c32l50p1yk8vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-18T20:25:40+00:00",
       "category": "clubs",
       "language": "en",
       "topics": [
@@ -512,15 +518,15 @@
   ],
   "source_errors": [],
   "search_trends_fr": [
-    "séisme",
-    "cyberattaque",
-    "maintien de lordre",
-    "gençlerbirliği – gaziantep",
-    "mise en examen",
-    "pre epidemie grippe",
-    "nice psg",
-    "george russell",
-    "james gray",
-    "angleterre - nouvelle-zélande"
+    "liverpool football club women – chelsea football club women",
+    "course sprint motogp portugal",
+    "amed - rizespor",
+    "édouard mendy",
+    "fabrice luchini",
+    "deportivo alavés – deportivo",
+    "bois",
+    "galatasaray – samsunspor",
+    "budget de l'union européenne",
+    "nîmes"
   ]
 }
