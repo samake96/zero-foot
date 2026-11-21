@@ -45,7 +45,7 @@ main,header{{max-width:960px;margin:auto;padding:24px}}header{{display:flex;gap:
 a{{color:#84edb6;text-underline-offset:3px}}h1{{font-size:clamp(2rem,6vw,3.25rem);line-height:1.1}}
 article{{padding:16px 0;border-bottom:1px solid #304159}}article p{{margin:0;color:#b1c1d1;font-size:.85rem}}
 article h2{{font-size:1.15rem;margin:6px 0 0}}
-</style></head><body><header><a href="/">MATCHSCOPE</a><a href="/#page=matches">Scores et matchs</a>
+</style></head><body><header><a href="/">MATCHSCOPE</a><a href="/scores">Scores et matchs</a><a href="/classements">Classements</a>
 <a href="/#page=news">Fil avec filtres</a></header><main><h1>Actualité football en français</h1>
 <p>Les derniers titres des médias sur les grands championnats, les coupes internationales et le mercato.</p>
 {cards}</main></body></html>
