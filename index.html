@@ -76,6 +76,66 @@ let dailyDate = '';
 let calendarDates = [];
 let upcomingFixtures = [];
 let scoreFixtures = [];
+let liveSnapshot;
+let liveRequestPending = false;
+
+function liveAge() {
+ return liveSnapshot ? Date.now() - Date.parse(liveSnapshot.updated_at) : Infinity;
+}
+
+function isCurrentLiveSnapshot() {
+ return liveAge() >= -30000 && liveAge() <= 240000 && liveSnapshot.interval_seconds === 120;
+}
+
+async function refreshScores() {
+ if (liveRequestPending || document.hidden) return;
+ liveRequestPending = true;
+ try {
+  const response = await fetch('/api/live-scores', {signal: AbortSignal.timeout(10000)});
+  if (!response.ok) return;
+  const snapshot = await response.json();
+  if (!snapshot.available || !Array.isArray(snapshot.matches)
+      || ![120, 1800].includes(snapshot.interval_seconds)
+      || !/^\d{4}-\d{2}-\d{2}$/.test(snapshot.date_utc)) return;
+  const updatedAt = Date.parse(snapshot.updated_at);
+  if (!Number.isFinite(updatedAt) || updatedAt > Date.now() + 30000
+      || updatedAt <= Math.max(Date.parse(matchesUpdated) || 0, Date.parse(liveSnapshot?.updated_at) || 0)) return;
+  liveSnapshot = snapshot;
+  rebuildFixtures();
+  const openRows = new Set([...document.querySelectorAll('#matchList details[open]')]
+   .map(row => row.querySelector('[data-insight]').dataset.insight));
+  render();
+  for (const button of document.querySelectorAll('#matchList [data-insight]')) {
+   if (openRows.has(button.dataset.insight)) button.closest('details').open = true;
+  }
+ } catch {
+  // The current snapshot and the scheduled backup remain available.
+ } finally {
+  liveRequestPending = false;
+  updateFreshness();
+  refreshMatchLabels();
+ }
+}
+
+function refreshMatchLabels() {
+ const byId = new Map(fixtures.map(match => [String(match.id), match]));
+ document.querySelectorAll('[data-status-id]').forEach(label => {
+  const match = byId.get(label.dataset.statusId);
+  if (match) label.textContent = fixtureStatus(match);
+ });
+ refreshOpenMatch();
+}
+
+function refreshOpenMatch() {
+ const detail = document.querySelector('dialog[open] [data-fixture-detail]');
+ if (!detail) return;
+ const match = fixtures.find(row => String(row.id) === detail.dataset.fixtureDetail);
+ if (!match) return;
+ detail.querySelector('[data-fixture-status]').textContent = fixtureStatus(match);
+ detail.querySelector('[data-fixture-score]').textContent = match.hg != null && match.ag != null
+  ? match.hg + ' – ' + match.ag : 'VS';
+}
+
 let closeDetails;
 function readRoute() {
  const params = new URLSearchParams(location.hash.slice(1));
@@ -170,6 +230,9 @@ function fixtureStatus(match) {
   INT: ['Interrompu', 'Interrupted']
  };
  const group = groupStatus(match.status);
+ if (group === 'LIVE' && match.liveSnapshot && isCurrentLiveSnapshot()) {
+  return (french ? 'En direct' : 'Live') + (match.elapsed != null ? ' · ' + match.elapsed + '′' : '');
+ }
  const label = (labels[match.status] || labels[group] || ['Statut indisponible', 'Status unavailable'])[french ? 0 : 1];
  return label + (group === 'LIVE' && match.elapsed != null ? ' · ' + match.elapsed + '′' : '');
 }
@@ -179,6 +242,14 @@ function updateFreshness(){
  const target=el('dataFreshness');if(!target)return;
  const fr=lang==='fr';
  if(!dataLoaded){target.textContent=fr?'Chargement des scores…':'Loading scores…';return}
+ if(liveSnapshot && liveAge() >= -30000){
+  const minutes=Math.max(0,Math.floor(liveAge()/60000));
+  const current=isCurrentLiveSnapshot();
+  target.className='data-freshness'+(current?'':' stale');
+  target.textContent=(current?(fr?'Scores en direct · ':'Live scores · '):(fr?'Scores différés · ':'Delayed scores · '))+
+   (fr?'dernière collecte il y a '+minutes+' min':'last collected '+minutes+' min ago');
+  return;
+ }
  if(!matchesUpdated){target.className='data-freshness stale';target.textContent=fr?'Scores indisponibles : dernière actualisation non confirmée.':'Scores unavailable: last update not confirmed.';return}
  const date=new Date(matchesUpdated),age=Date.now()-date.getTime();
  if(!Number.isFinite(age)||age<0){target.className='data-freshness stale';target.textContent=fr?'Date de mise à jour des scores non vérifiable.':'Score update time could not be verified.';return}
@@ -208,7 +279,7 @@ filtered.sort((a,b)=>{const live=Number(groupStatus(b.status)==='LIVE')-Number(g
 el('homeMatchMetric').textContent=String(fixtures.length);el('homeLeagueMetric').textContent=String(leagues.length);el('matchCount').textContent=(lang==='fr'?'Matchs trouvés : ':'Matches found: ')+filtered.length+(matchDay?' · '+matchDay:'');el('matchMore').hidden=filtered.length<=matchLimit;el('matchMore').textContent=lang==='fr'?'Afficher 60 matchs supplémentaires':'Show 60 more matches';
 el('matchSearch').placeholder=lang==='fr'?'Rechercher équipe ou championnat…':'Search team or league…';el('favoritesOnly').classList.toggle('active',favoritesOnly);el('favoritesOnly').textContent=(lang==='fr'?'☆ Favoris':'☆ Favorites')+(favoritesOnly?' ✓':'');
 el('dateAll').classList.toggle('active',!matchDay);el('dateAll').textContent=lang==='fr'?'Toutes dates':'All dates';
-el('matchList').innerHTML=filtered.length?filtered.slice(0,matchLimit).map((m,i)=>{let score=m.hg!=null&&m.ag!=null?`${esc(m.hg)} : ${esc(m.ag)}`:'– : –';let logo=u=>typeof u==='string'&&/^https:\/\/[a-z0-9.-]+\//i.test(u)?`<img class="team-logo" src="${esc(u)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.style.display='none'">`:'';let statusText=esc(fixtureStatus(m));const group=(i===0||competitionKey(filtered[i-1])!==competitionKey(m))?'<div class="fixture-group">'+esc(m.league)+(m.country?' · '+esc(m.country):'')+'</div>':'';const saved=favorites.has(String(m.id));return group+'<div class="match-row"><button class="favorite-toggle'+(saved?' saved':'')+'" data-favorite="'+esc(m.id)+'" aria-label="'+(saved?'Retirer des favoris':'Ajouter aux favoris')+'" title="Favoris">'+(saved?'★':'☆')+'</button>'+ `<details class="match-entry"><summary aria-label="${esc(m.home)} - ${esc(m.away)}"><div class="small" style="padding-top:12px">${esc(m.league)}${m.country?' · '+esc(m.country):''} · <span class="status">${statusText}</span></div><div class="match"><div class="team-with-logo">${logo(m.homeLogo)}<span class="team">${esc(m.home)}</span></div><div><div class="score">${score}</div><div class="meta">${esc(timeLabel(m))}</div></div><div class="team-with-logo right"><span class="team right">${esc(m.away)}</span>${logo(m.awayLogo)}</div></div></summary><div class="match-details"><div><strong>${lang==='fr'?'Compétition':'Competition'} :</strong> ${esc(m.league)}${m.country?' ('+esc(m.country)+')':''}</div><div><strong>${lang==='fr'?'Statut':'Status'} :</strong> ${statusText}</div><div><strong>${lang==='fr'?'Date du match':'Kick-off'} :</strong> ${esc(timeLabel(m))}</div><div><strong>${lang==='fr'?'Identifiant du match':'Fixture ID'} :</strong> ${esc(m.id??'—')}</div><div style="grid-column:1/-1">${lang==='fr'?'Score indicatif : les rencontres en cours peuvent être affichées avec un décalage.':'Indicative score: live fixtures may be delayed.'}</div></div><button type="button" class="insight-action" data-insight="${esc(m.id)}">Fiche du match · Statistiques & analyse</button></details></div>`}).join(''):'<p class="small">'+(matchError?(lang==='fr'?'Les résultats sont momentanément indisponibles.':'Scores are temporarily unavailable.'):(lang==='fr'?'Aucun match disponible pour ce filtre.':'No matches available for this filter.'))+'</p>';
+el('matchList').innerHTML=filtered.length?filtered.slice(0,matchLimit).map((m,i)=>{let score=m.hg!=null&&m.ag!=null?`${esc(m.hg)} : ${esc(m.ag)}`:'– : –';let logo=u=>typeof u==='string'&&/^https:\/\/[a-z0-9.-]+\//i.test(u)?`<img class="team-logo" src="${esc(u)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.style.display='none'">`:'';let statusText=esc(fixtureStatus(m));const group=(i===0||competitionKey(filtered[i-1])!==competitionKey(m))?'<div class="fixture-group">'+esc(m.league)+(m.country?' · '+esc(m.country):'')+'</div>':'';const saved=favorites.has(String(m.id));return group+'<div class="match-row"><button class="favorite-toggle'+(saved?' saved':'')+'" data-favorite="'+esc(m.id)+'" aria-label="'+(saved?'Retirer des favoris':'Ajouter aux favoris')+'" title="Favoris">'+(saved?'★':'☆')+'</button>'+ `<details class="match-entry"><summary aria-label="${esc(m.home)} - ${esc(m.away)}"><div class="small" style="padding-top:12px">${esc(m.league)}${m.country?' · '+esc(m.country):''} · <span class="status" data-status-id="${esc(m.id)}">${statusText}</span></div><div class="match"><div class="team-with-logo">${logo(m.homeLogo)}<span class="team">${esc(m.home)}</span></div><div><div class="score">${score}</div><div class="meta">${esc(timeLabel(m))}</div></div><div class="team-with-logo right"><span class="team right">${esc(m.away)}</span>${logo(m.awayLogo)}</div></div></summary><div class="match-details"><div><strong>${lang==='fr'?'Compétition':'Competition'} :</strong> ${esc(m.league)}${m.country?' ('+esc(m.country)+')':''}</div><div><strong>${lang==='fr'?'Statut':'Status'} :</strong> ${statusText}</div><div><strong>${lang==='fr'?'Date du match':'Kick-off'} :</strong> ${esc(timeLabel(m))}</div><div><strong>${lang==='fr'?'Identifiant du match':'Fixture ID'} :</strong> ${esc(m.id??'—')}</div><div style="grid-column:1/-1">${lang==='fr'?'Score indicatif : les rencontres en cours peuvent être affichées avec un décalage.':'Indicative score: live fixtures may be delayed.'}</div></div><button type="button" class="insight-action" data-insight="${esc(m.id)}">Fiche du match · Statistiques & analyse</button></details></div>`}).join(''):'<p class="small">'+(matchError?(lang==='fr'?'Les résultats sont momentanément indisponibles.':'Scores are temporarily unavailable.'):(lang==='fr'?'Aucun match disponible pour ce filtre.':'No matches available for this filter.'))+'</p>';
 let standingSelect=el('standingLeague'), previousLeague=standingSelect.value;
 standingSelect.innerHTML=standingsLeagues.map(l=>`<option value="${esc(l.id)}">${esc(l.name)} (${esc(l.season)})</option>`).join('');
 if(standingsLeagues.some(l=>String(l.id)===previousLeague))standingSelect.value=previousLeague;
@@ -344,7 +415,20 @@ Promise.allSettled([Promise.allSettled([
  })
 ]).then(results=>{
  matchError=results[1].status==='rejected';
+ rebuildFixtures();
+ dataLoaded=true;
+ readRoute();
+ refreshScores();
+});readRoute();
+
+function rebuildFixtures() {
  const scores=new Map(scoreFixtures.map(match=>[String(match.id),match]));
+ for (const row of liveSnapshot?.matches || []) {
+  const match = normalize(row);
+  if (match.id != null && match.home && match.away) {
+   scores.set(String(match.id), {...match, liveSnapshot: true});
+  }
+ }
  const threshold=dailyDate||new Date().toISOString().slice(0,10);
  for (const match of upcomingFixtures) {
   if (new Date(match.at).toISOString().slice(0,10)>threshold && !scores.has(String(match.id))) {
@@ -352,10 +436,11 @@ Promise.allSettled([Promise.allSettled([
   }
  }
  fixtures=[...scores.values()];
- dataLoaded=true;
- readRoute();
-});readRoute();
-setInterval(updateFreshness, 60000);
+}
+setInterval(refreshScores, 60000);
+document.addEventListener('visibilitychange', () => {
+ if (dataLoaded && !document.hidden) refreshScores();
+});
 
 
 function showMatchInsights(id){
@@ -381,7 +466,7 @@ function showMatchInsights(id){
  const history=meetings.length?meetings.map(x=>'<div class="insight-row">'+esc(String(x.utc_date).slice(0,10))+' · '+esc(x.home_name)+' <strong>'+esc(x.home_goals)+'–'+esc(x.away_goals)+'</strong> '+esc(x.away_name)+'</div>').join(''):'<p class="small">'+(fr?'Aucun historique disponible pour cette affiche.':'No history available for this matchup.')+'</p>';
  const opinion=analysis?'<p>'+esc(fr?analysis.opinion_fr:analysis.opinion_en)+'</p><p class="small">'+esc(fr?analysis.limitations_fr:analysis.limitations_en)+'</p>':'<p class="small">'+(fr?'Analyse statistique non disponible pour ce match.':'No statistical analysis available for this match.')+'</p>';
  const layer=document.createElement('div');layer.className='insight-overlay';
- layer.innerHTML='<div class="insight-dialog" role="dialog" aria-modal="true" aria-label="'+(fr?'Détails du match':'Match details')+'"><button type="button" class="insight-close">✕</button><p class="small">'+competition+' · '+esc(timeLabel(m))+venue+'</p><p class="small">'+esc(fixtureStatus(m))+'</p><h2>'+esc(m.home)+' <span>'+esc(score)+'</span> '+esc(m.away)+'</h2><section class="form-section"><h3>'+(fr?'Forme récente des équipes':'Recent team form')+'</h3><p class="small">'+(fr?'Calculée sur les cinq derniers résultats disponibles avant la rencontre. Couverture variable selon les compétitions.':'Based on the last five available results before kickoff. Coverage varies by competition.')+'</p><div class="form-cards">'+formCard(m.home,homeForm)+formCard(m.away,awayForm)+'</div></section><div class="insight-grid"><section><h3>'+(fr?'Confrontations directes':'Head-to-head')+'</h3>'+h2hSummary+history+'</section><section><h3>'+(fr?'Notre avis':'Our opinion')+'</h3>'+opinion+'</section></div><section class="community-panel"><h3>💬 '+(fr?'Discussions des supporters':'Fan discussions')+'</h3><p class="small">'+(fr?'Échanges publics liés à cette rencontre. Les messages sont modérés.':'Public discussion for this match. Posts are moderated.')+'</p><div class="community-posts" data-community-posts="'+esc(m.id)+'">'+(fr?'Chargement des échanges…':'Loading discussion…')+'</div><form class="community-form"><label for="community-message">'+(fr?'Votre commentaire':'Your comment')+'</label><textarea id="community-message" maxlength="1000" minlength="2" rows="3" required placeholder="'+(fr?'Partagez votre avis sur le match…':'Share your thoughts on this match…')+'"></textarea><button type="submit">'+(fr?'Publier le commentaire':'Post comment')+'</button><p class="small community-feedback" aria-live="polite">'+(fr?'Connexion requise pour publier.':'Sign-in required to post.')+'</p></form></section></div>';
+ layer.innerHTML='<div class="insight-dialog" data-fixture-detail="'+esc(m.id)+'" role="dialog" aria-modal="true" aria-label="'+(fr?'Détails du match':'Match details')+'"><button type="button" class="insight-close">✕</button><p class="small">'+competition+' · '+esc(timeLabel(m))+venue+'</p><p class="small" data-fixture-status>'+esc(fixtureStatus(m))+'</p><h2>'+esc(m.home)+' <span data-fixture-score>'+esc(score)+'</span> '+esc(m.away)+'</h2><section class="form-section"><h3>'+(fr?'Forme récente des équipes':'Recent team form')+'</h3><p class="small">'+(fr?'Calculée sur les cinq derniers résultats disponibles avant la rencontre. Couverture variable selon les compétitions.':'Based on the last five available results before kickoff. Coverage varies by competition.')+'</p><div class="form-cards">'+formCard(m.home,homeForm)+formCard(m.away,awayForm)+'</div></section><div class="insight-grid"><section><h3>'+(fr?'Confrontations directes':'Head-to-head')+'</h3>'+h2hSummary+history+'</section><section><h3>'+(fr?'Notre avis':'Our opinion')+'</h3>'+opinion+'</section></div><section class="community-panel"><h3>💬 '+(fr?'Discussions des supporters':'Fan discussions')+'</h3><p class="small">'+(fr?'Échanges publics liés à cette rencontre. Les messages sont modérés.':'Public discussion for this match. Posts are moderated.')+'</p><div class="community-posts" data-community-posts="'+esc(m.id)+'">'+(fr?'Chargement des échanges…':'Loading discussion…')+'</div><form class="community-form"><label for="community-message">'+(fr?'Votre commentaire':'Your comment')+'</label><textarea id="community-message" maxlength="1000" minlength="2" rows="3" required placeholder="'+(fr?'Partagez votre avis sur le match…':'Share your thoughts on this match…')+'"></textarea><button type="submit">'+(fr?'Publier le commentaire':'Post comment')+'</button><p class="small community-feedback" aria-live="polite">'+(fr?'Connexion requise pour publier.':'Sign-in required to post.')+'</p></form></section></div>';
  openDetails(layer);
  const form=layer.querySelector('.community-form');form.hidden=true;const feedback=form.querySelector('.community-feedback');
  form.addEventListener('submit',async e=>{e.preventDefault();const body=form.querySelector('textarea').value.trim();if(body.length<2||body.length>1000)return;const button=form.querySelector('button');button.disabled=true;feedback.textContent=fr?'Envoi en cours…':'Sending…';try{const response=await fetch('/api/matches/'+encodeURIComponent(String(m.id))+'/posts',{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify({body,parent_id:form.dataset.parentId||null})});const result=await response.json();if(response.status===401){feedback.textContent=fr?'Connectez-vous via le service d’authentification pour publier.':'Sign in through the authentication service to post.';return}if(!response.ok)throw Error(result.error||'Publication impossible');form.querySelector('textarea').value='';delete form.dataset.parentId;feedback.textContent=fr?'Commentaire publié.':'Comment posted.';loadCommunity()}catch(e){feedback.textContent=fr?'Publication indisponible pour le moment.':'Posting is temporarily unavailable.'}finally{button.disabled=false}});
