@@ -85,6 +85,25 @@ const featuredCompetitions = [
  {leagueId:'5', league:'UEFA Nations League', country:'World', french:'Ligue des nations de l’UEFA'},
 ];
 const featuredById = new Map(featuredCompetitions.map(row => [row.leagueId, row]));
+const featuredLeagueOrder = new Map([
+ ['2', 0],   // UEFA Champions League
+ ['39', 1],  // Premier League
+ ['140', 2], // La Liga
+ ['78', 3],  // Bundesliga
+ ['135', 4], // Serie A
+ ['61', 5],  // Ligue 1
+ ['5', 6],   // UEFA Nations League
+]);
+function compareFixtures(a, b) {
+ const aKey = competitionKey(a);
+ const bKey = competitionKey(b);
+ const priority = (featuredLeagueOrder.get(aKey) ?? featuredLeagueOrder.size) - (featuredLeagueOrder.get(bKey) ?? featuredLeagueOrder.size);
+ if (priority) return priority;
+ if (aKey !== bKey) return competitionName(a).localeCompare(competitionName(b), lang) || aKey.localeCompare(bKey);
+ const live = Number(groupStatus(b.status) === 'LIVE') - Number(groupStatus(a.status) === 'LIVE');
+ return live || String(a.at).localeCompare(String(b.at));
+}
+
 const continentLabels = {
  europe:['Europe','Europe'], africa:['Afrique','Africa'], asia:['Asie','Asia'],
  northAmerica:['Amérique du Nord, centrale et Caraïbes','North and Central America and Caribbean'],
@@ -340,7 +359,7 @@ let priorStatus=el('status').value;el('status').innerHTML='<option value="all">'
 el('homeUpdated').textContent=lang==='fr'?'Calendrier et résultats':'Fixtures and results';el('home').querySelectorAll('.metric')[0].textContent=fixtures.length;el('home').querySelectorAll('.metric')[1].textContent=leagues.size;
 const region = el('continent').value, country = el('country').value;
 let filtered=fixtures.filter(m=>(region==='all'||continentFor(m)===region)&&(country==='all'||countryGroup(m)===country)&&(el('league').value==='all'||competitionKey(m)===el('league').value)&&(el('status').value==='all'||groupStatus(m.status)===el('status').value)&&(!matchDay||localDay(m.at)===matchDay)&&(!favoritesOnly||favorites.has(String(m.id)))&&(!matchQuery||teamKey(m.home+' '+m.away+' '+competitionName(m)).includes(matchQuery)));
-filtered.sort((a,b)=>{const live=Number(groupStatus(b.status)==='LIVE')-Number(groupStatus(a.status)==='LIVE');return live||competitionName(a).localeCompare(competitionName(b))||competitionKey(a).localeCompare(competitionKey(b))||String(a.at).localeCompare(String(b.at))});
+filtered.sort(compareFixtures);
 el('homeMatchMetric').textContent=String(fixtures.length);el('homeLeagueMetric').textContent=String(leagues.size);el('matchCount').textContent=(lang==='fr'?'Matchs trouvés : ':'Matches found: ')+filtered.length+(matchDay?' · '+matchDay:'');el('matchMore').hidden=filtered.length<=matchLimit;el('matchMore').textContent=lang==='fr'?'Afficher 60 matchs supplémentaires':'Show 60 more matches';
 el('matchSearch').placeholder=lang==='fr'?'Rechercher équipe ou championnat…':'Search team or league…';el('favoritesOnly').classList.toggle('active',favoritesOnly);el('favoritesOnly').textContent=(lang==='fr'?'☆ Favoris':'☆ Favorites')+(favoritesOnly?' ✓':'');
 el('dateAll').classList.toggle('active',!matchDay);el('dateAll').textContent=lang==='fr'?'Toutes dates':'All dates';
