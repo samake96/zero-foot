@@ -39,13 +39,15 @@ jobs:
         run: python scripts/fetch_prediction_fixtures.py
       - name: Generate forecasts and audit
         run: python scripts/generate_live_predictions.py
+      - name: Record pre-match forecasts and match results
+        run: python scripts/track_forecasts.py
       - name: Diagnose unmatched teams
         run: python scripts/diagnose_team_matches.py
       - name: Commit output only if changed
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add data/prediction_fixtures.json data/live_predictions.json data/prediction_audit.json data/team_identity_diagnostic.json
+          git add data/prediction_fixtures.json data/live_predictions.json data/prediction_audit.json data/team_identity_diagnostic.json data/forecast_results.json
           if ! git diff --cached --quiet; then
             git commit -m 'Update experimental forecasts and audit'
             git pull --rebase origin main

@@ -1,0 +1,366 @@
+[
+  {
+    "match_id": 1557474,
+    "kickoff": "2026-11-21T12:30:00+00:00",
+    "recorded_at": "2026-11-21T10:40:39.779386+00:00",
+    "competition": "PL",
+    "home": "Manchester City",
+    "away": "Fulham",
+    "model": "poisson_v33_prototype",
+    "probabilities_1x2": {
+      "home": 0.683,
+      "draw": 0.1951,
+      "away": 0.1219
+    }
+  },
+  {
+    "match_id": 1550200,
+    "kickoff": "2026-11-21T14:00:00+00:00",
+    "recorded_at": "2026-11-21T10:40:39.779386+00:00",
+    "competition": "SA",
+    "home": "Como",
+    "away": "Cagliari",
+    "model": "poisson_v33_prototype",
+    "probabilities_1x2": {
+      "home": 0.6563,
+      "draw": 0.2112,
+      "away": 0.1325
+    }
+  },
+  {
+    "match_id": 1550202,
+    "kickoff": "2026-11-21T14:00:00+00:00",
+    "recorded_at": "2026-11-21T10:40:39.779386+00:00",
+    "competition": "SA",
+    "home": "Lazio",
+    "away": "Lecce",
+    "model": "poisson_v33_prototype",
+    "probabilities_1x2": {
+      "home": 0.5116,
+      "draw": 0.2532,
+      "away": 0.2352
+    }
+  },
+  {
+    "match_id": 1575223,
+    "kickoff": "2026-11-21T14:30:00+00:00",
+    "recorded_at": "2026-11-21T10:40:39.779386+00:00",
+    "competition": "BL1",
+    "home": "Eintracht Frankfurt",
+    "away": "1899 Hoffenheim",
+    "model": "poisson_v33_prototype",
+    "probabilities_1x2": {
+      "home": 0.3972,
+      "draw": 0.2214,
+      "away": 0.3814
+    }
+  },
+  {
+    "match_id": 1575225,
+    "kickoff": "2026-11-21T14:30:00+00:00",
+    "recorded_at": "2026-11-21T10:40:39.779386+00:00",
+    "competition": "BL1",
+    "home": "Union Berlin",
+    "away": "RB Leipzig",
+    "model": "poisson_v33_prototype",
+    "probabilities_1x2": {
+      "home": 0.3916,
+      "draw": 0.2423,
+      "away": 0.3661
+    }
+  },
+  {
+    "match_id": 1575226,
+    "kickoff": "2026-11-21T14:30:00+00:00",
+    "recorded_at": "2026-11-21T10:40:39.779386+00:00",
+    "competition": "BL1",
+    "home": "Borussia Mönchengladbach",
+    "away": "Borussia Dortmund",
+    "model": "poisson_v33_prototype",
+    "probabilities_1x2": {
+      "home": 0.2289,
+      "draw": 0.2323,
+      "away": 0.5388
+    }
+  },
+  {
+    "match_id": 1557467,
+    "kickoff": "2026-11-21T15:00:00+00:00",
+    "recorded_at": "2026-11-21T10:40:39.779386+00:00",
+    "competition": "PL",
+    "home": "Aston Villa",
+    "away": "Sunderland",
+    "model": "poisson_v33_prototype",
+    "probabilities_1x2": {
+      "home": 0.536,
+      "draw": 0.2394,
+      "away": 0.2246
+    }
+  },
+  {
+    "match_id": 1557468,
+    "kickoff": "2026-11-21T15:00:00+00:00",
+    "recorded_at": "2026-11-21T10:40:39.779386+00:00",
+    "competition": "PL",
+    "home": "Bournemouth",
+    "away": "Nottingham Forest",
+    "model": "poisson_v33_prototype",
+    "probabilities_1x2": {
+      "home": 0.4497,
+      "draw": 0.254,
+      "away": 0.2963
+    }
+  },
+  {
+    "match_id": 1557470,
+    "kickoff": "2026-11-21T15:00:00+00:00",
+    "recorded_at": "2026-11-21T10:40:39.779386+00:00",
+    "competition": "PL",
+    "home": "Chelsea",
+    "away": "Leeds",
+    "model": "poisson_v33_prototype",
+    "probabilities_1x2": {
+      "home": 0.5114,
+      "draw": 0.2391,
+      "away": 0.2495
+    }
+  },
+  {
+    "match_id": 1570460,
+    "kickoff": "2026-11-21T15:15:00+00:00",
+    "recorded_at": "2026-11-21T10:40:39.779386+00:00",
+    "competition": "PD",
+    "home": "Rayo Vallecano",
+    "away": "Valencia",
+    "model": "poisson_v33_prototype",
+    "probabilities_1x2": {
+      "home": 0.4991,
+      "draw": 0.2698,
+      "away": 0.2312
+    }
+  },
+  {
+    "match_id": 1552824,
+    "kickoff": "2026-11-21T16:15:00+00:00",
+    "recorded_at": "2026-11-21T10:40:39.779386+00:00",
+    "competition": "FL1",
+    "home": "Nice",
+    "away": "Paris Saint Germain",
+    "model": "poisson_v33_prototype",
+    "probabilities_1x2": {
+      "home": 0.1797,
+      "draw": 0.205,
+      "away": 0.6153
+    }
+  },
+  {
+    "match_id": 1550205,
+    "kickoff": "2026-11-21T17:00:00+00:00",
+    "recorded_at": "2026-11-21T10:40:39.779386+00:00",
+    "competition": "SA",
+    "home": "Parma",
+    "away": "AS Roma",
+    "model": "poisson_v33_prototype",
+    "probabilities_1x2": {
+      "home": 0.1798,
+      "draw": 0.2445,
+      "away": 0.5757
+    }
+  },
+  {
+    "match_id": 1557475,
+    "kickoff": "2026-11-21T17:30:00+00:00",
+    "recorded_at": "2026-11-21T10:40:39.779386+00:00",
+    "competition": "PL",
+    "home": "Newcastle",
+    "away": "Arsenal",
+    "model": "poisson_v33_prototype",
+    "probabilities_1x2": {
+      "home": 0.2452,
+      "draw": 0.2423,
+      "away": 0.5125
+    }
+  },
+  {
+    "match_id": 1570462,
+    "kickoff": "2026-11-21T17:30:00+00:00",
+    "recorded_at": "2026-11-21T10:40:39.779386+00:00",
+    "competition": "PD",
+    "home": "Sevilla",
+    "away": "Real Betis",
+    "model": "poisson_v33_prototype",
+    "probabilities_1x2": {
+      "home": 0.3339,
+      "draw": 0.2621,
+      "away": 0.404
+    }
+  },
+  {
+    "match_id": 1550204,
+    "kickoff": "2026-11-21T19:45:00+00:00",
+    "recorded_at": "2026-11-21T10:40:39.779386+00:00",
+    "competition": "SA",
+    "home": "Napoli",
+    "away": "Torino",
+    "model": "poisson_v33_prototype",
+    "probabilities_1x2": {
+      "home": 0.6152,
+      "draw": 0.2148,
+      "away": 0.1701
+    }
+  },
+  {
+    "match_id": 1552819,
+    "kickoff": "2026-11-21T19:45:00+00:00",
+    "recorded_at": "2026-11-21T10:40:39.779386+00:00",
+    "competition": "FL1",
+    "home": "Lens",
+    "away": "Toulouse",
+    "model": "poisson_v33_prototype",
+    "probabilities_1x2": {
+      "home": 0.5263,
+      "draw": 0.2333,
+      "away": 0.2404
+    }
+  },
+  {
+    "match_id": 1552820,
+    "kickoff": "2026-11-21T19:45:00+00:00",
+    "recorded_at": "2026-11-21T10:40:39.779386+00:00",
+    "competition": "FL1",
+    "home": "Lille",
+    "away": "Lyon",
+    "model": "poisson_v33_prototype",
+    "probabilities_1x2": {
+      "home": 0.4277,
+      "draw": 0.2875,
+      "away": 0.2848
+    }
+  },
+  {
+    "match_id": 1552823,
+    "kickoff": "2026-11-21T19:45:00+00:00",
+    "recorded_at": "2026-11-21T10:40:39.779386+00:00",
+    "competition": "FL1",
+    "home": "Monaco",
+    "away": "Auxerre",
+    "model": "poisson_v33_prototype",
+    "probabilities_1x2": {
+      "home": 0.6102,
+      "draw": 0.1991,
+      "away": 0.1908
+    }
+  },
+  {
+    "match_id": 1552826,
+    "kickoff": "2026-11-21T19:45:00+00:00",
+    "recorded_at": "2026-11-21T10:40:39.779386+00:00",
+    "competition": "FL1",
+    "home": "Strasbourg",
+    "away": "Stade Brestois 29",
+    "model": "poisson_v33_prototype",
+    "probabilities_1x2": {
+      "home": 0.5683,
+      "draw": 0.2228,
+      "away": 0.2089
+    }
+  },
+  {
+    "match_id": 1570461,
+    "kickoff": "2026-11-21T20:00:00+00:00",
+    "recorded_at": "2026-11-21T10:40:39.779386+00:00",
+    "competition": "PD",
+    "home": "Real Madrid",
+    "away": "Celta Vigo",
+    "model": "poisson_v33_prototype",
+    "probabilities_1x2": {
+      "home": 0.5811,
+      "draw": 0.2396,
+      "away": 0.1793
+    }
+  },
+  {
+    "match_id": 1550201,
+    "kickoff": "2026-11-22T11:30:00+00:00",
+    "recorded_at": "2026-11-21T10:40:39.779386+00:00",
+    "competition": "SA",
+    "home": "Juventus",
+    "away": "Venezia",
+    "model": "poisson_v33_prototype",
+    "probabilities_1x2": {
+      "home": 0.6582,
+      "draw": 0.2071,
+      "away": 0.1347
+    }
+  },
+  {
+    "match_id": 1557472,
+    "kickoff": "2026-11-22T14:00:00+00:00",
+    "recorded_at": "2026-11-21T10:40:39.779386+00:00",
+    "competition": "PL",
+    "home": "Hull City",
+    "away": "Brighton",
+    "model": "poisson_v33_prototype",
+    "probabilities_1x2": {
+      "home": 0.3897,
+      "draw": 0.2647,
+      "away": 0.3456
+    }
+  },
+  {
+    "match_id": 1557473,
+    "kickoff": "2026-11-22T16:30:00+00:00",
+    "recorded_at": "2026-11-21T10:40:39.779386+00:00",
+    "competition": "PL",
+    "home": "Liverpool",
+    "away": "Manchester United",
+    "model": "poisson_v33_prototype",
+    "probabilities_1x2": {
+      "home": 0.4257,
+      "draw": 0.2542,
+      "away": 0.3201
+    }
+  },
+  {
+    "match_id": 1575227,
+    "kickoff": "2026-11-22T16:30:00+00:00",
+    "recorded_at": "2026-11-21T10:40:39.779386+00:00",
+    "competition": "BL1",
+    "home": "Werder Bremen",
+    "away": "Hamburger SV",
+    "model": "poisson_v33_prototype",
+    "probabilities_1x2": {
+      "home": 0.4827,
+      "draw": 0.2457,
+      "away": 0.2716
+    }
+  },
+  {
+    "match_id": 1552822,
+    "kickoff": "2026-11-22T19:45:00+00:00",
+    "recorded_at": "2026-11-21T10:40:39.779386+00:00",
+    "competition": "FL1",
+    "home": "Marseille",
+    "away": "Le Mans",
+    "model": "poisson_v33_prototype",
+    "probabilities_1x2": {
+      "home": 0.6535,
+      "draw": 0.1802,
+      "away": 0.1663
+    }
+  },
+  {
+    "match_id": 1570456,
+    "kickoff": "2026-11-22T20:00:00+00:00",
+    "recorded_at": "2026-11-21T10:40:39.779386+00:00",
+    "competition": "PD",
+    "home": "Getafe",
+    "away": "Atletico Madrid",
+    "model": "poisson_v33_prototype",
+    "probabilities_1x2": {
+      "home": 0.3454,
+      "draw": 0.308,
+      "away": 0.3466
+    }
+  }
+]
