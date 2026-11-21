@@ -362,5 +362,61 @@
       "draw": 0.308,
       "away": 0.3466
     }
+  },
+  {
+    "match_id": 1557469,
+    "kickoff": "2026-11-23T20:00:00+00:00",
+    "recorded_at": "2026-11-21T10:41:35.558883+00:00",
+    "competition": "PL",
+    "home": "Brentford",
+    "away": "Everton",
+    "model": "poisson_v33_prototype",
+    "probabilities_1x2": {
+      "home": 0.4815,
+      "draw": 0.2693,
+      "away": 0.2492
+    }
+  },
+  {
+    "match_id": 1575237,
+    "kickoff": "2026-11-27T19:30:00+00:00",
+    "recorded_at": "2026-11-21T10:41:35.558883+00:00",
+    "competition": "BL1",
+    "home": "Werder Bremen",
+    "away": "Borussia Mönchengladbach",
+    "model": "poisson_v33_prototype",
+    "probabilities_1x2": {
+      "home": 0.4421,
+      "draw": 0.2444,
+      "away": 0.3135
+    }
+  },
+  {
+    "match_id": 1552830,
+    "kickoff": "2026-11-27T19:45:00+00:00",
+    "recorded_at": "2026-11-21T10:41:35.558883+00:00",
+    "competition": "FL1",
+    "home": "Stade Brestois 29",
+    "away": "Paris FC",
+    "model": "poisson_v33_prototype",
+    "probabilities_1x2": {
+      "home": 0.4319,
+      "draw": 0.2603,
+      "away": 0.3078
+    }
+  },
+  {
+    "match_id": 1557485,
+    "kickoff": "2026-11-27T20:00:00+00:00",
+    "recorded_at": "2026-11-21T10:41:35.558883+00:00",
+    "competition": "PL",
+    "home": "Nottingham Forest",
+    "away": "Chelsea",
+    "model": "poisson_v33_prototype",
+    "probabilities_1x2": {
+      "home": 0.2848,
+      "draw": 0.2671,
+      "away": 0.4481
+    }
   }
 ]
