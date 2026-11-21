@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-11-21T07:21:18.534663+00:00",
+  "updated_at": "2026-11-21T09:56:24.856042+00:00",
   "items": [
+    {
+      "id": "900af616044a9679",
+      "title": "Premier League resumes, Kane facing spell on sidelines: football news – matchday live",
+      "url": "https://www.theguardian.com/football/live/2026/nov/21/premier-league-resumes-kane-facing-spell-on-sidelines-football-news-matchday-live",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-21T09:37:35+00:00",
+      "category": "clubs",
+      "language": "en"
+    },
+    {
+      "id": "d97d1ca4e1901968",
+      "title": "The Chelsea loanee turning heads and Championship defenders at 17",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6d91xj9vee3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-21T08:05:46+00:00",
+      "category": "clubs",
+      "language": "en"
+    },
     {
       "id": "a043b6ffd9be0abb",
       "title": "Who am I? Plus today's other quizzes",
@@ -296,24 +314,6 @@
       "source": "BBC Sport Football",
       "published_at": "2026-11-20T13:53:22+00:00",
       "category": "clubs",
-      "language": "en"
-    },
-    {
-      "id": "0e4e7ec4856bbdf9",
-      "title": "Legendary Irish League manager Coyle dies aged 80",
-      "url": "https://www.bbc.co.uk/sport/articles/c63eg4x112wqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-20T13:52:15+00:00",
-      "category": "clubs",
-      "language": "en"
-    },
-    {
-      "id": "b5203b297580c81c",
-      "title": "Southampton give head coach Eckert new deal",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwm25yx3kj5lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-20T13:10:33+00:00",
-      "category": "transfers",
       "language": "en"
     }
   ],
