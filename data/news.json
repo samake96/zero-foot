@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-11-21T04:00:07.042419+00:00",
+  "updated_at": "2026-11-21T07:21:18.534663+00:00",
   "items": [
+    {
+      "id": "a043b6ffd9be0abb",
+      "title": "Who am I? Plus today's other quizzes",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cjwy5d3lxvkzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-21T06:50:31+00:00",
+      "category": "clubs",
+      "language": "en"
+    },
+    {
+      "id": "bacf9f583bb8bf12",
+      "title": "Jeers, injuries and doubters - White's journey back to the top",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cv7028xeler2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-21T06:17:32+00:00",
+      "category": "clubs",
+      "language": "en"
+    },
+    {
+      "id": "93ddbdc694373f1f",
+      "title": "Brighton are rocking the Premier League elite. But can they mount a title tilt?",
+      "url": "https://www.theguardian.com/football/2026/nov/21/brighton-rocking-premier-league-elite-title-challenge",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-21T06:00:52+00:00",
+      "category": "clubs",
+      "language": "en"
+    },
     {
       "id": "75736ee2f76918ab",
       "title": "Cost of Man Utd hiring and firing managers nears £100m",
@@ -287,33 +314,6 @@
       "source": "BBC Sport Football",
       "published_at": "2026-11-20T13:10:33+00:00",
       "category": "transfers",
-      "language": "en"
-    },
-    {
-      "id": "c34911cd2f321432",
-      "title": "Arsenal’s Lisa Baum: ‘I believe in us. I think it’s all about the small margins’",
-      "url": "https://www.theguardian.com/football/2026/nov/20/arsenal-lisa-baum-germany-brother-dennis",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-20T13:00:29+00:00",
-      "category": "clubs",
-      "language": "en"
-    },
-    {
-      "id": "241c4dbd0ae7d89d",
-      "title": "Liverpool fan found not guilty of racial abuse after Antoine Semenyo withdraws from case",
-      "url": "https://www.theguardian.com/football/2026/nov/20/liverpool-fan-not-guilty-racial-abuse-antoine-semenyo-withdraws-from-case-bournemouth-liverpool",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-20T12:20:00+00:00",
-      "category": "clubs",
-      "language": "en"
-    },
-    {
-      "id": "159826e09ff69f03",
-      "title": "Stoke and Birmingham proving you shouldn't judge a book by its cover",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmy8670vjlx0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-20T11:35:16+00:00",
-      "category": "clubs",
       "language": "en"
     }
   ],
