@@ -14,7 +14,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 DEST = ROOT / 'data' / 'prediction_fixtures.json'
-LEAGUES = {39: 'England', 140: 'Spain', 78: 'Germany', 135: 'Italy', 61: 'France'}
+LEAGUES = {2: 'World', 5: 'World', 39: 'England', 140: 'Spain', 78: 'Germany', 135: 'Italy', 61: 'France'}
 KEY = os.environ.get('API_FOOTBALL_KEY')
 if not KEY:
     raise SystemExit('Missing API_FOOTBALL_KEY secret')
