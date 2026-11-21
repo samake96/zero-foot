@@ -9,9 +9,9 @@ export async function onRequestPost({request,env,params}){
  const len=Number(request.headers.get('content-length')||0);
  if(len>5000)return json({error:'Payload too large'},413);
  let input;try{const raw=await request.text();if(raw.length>5000)return json({error:'Payload too large'},413);input=JSON.parse(raw)}catch{return json({error:'Invalid JSON'},400)}
- const body=typeof input.body==='string'?input.body.trim():'';
+ const body=typeof input?.body==='string'?input.body.trim():'';
  if(body.length<2||body.length>1000)return json({error:'Message must contain 2–1000 characters'},400);
- const parent=typeof input.parent_id==='string'?input.parent_id:null;
+ const parent=typeof input?.parent_id==='string'?input.parent_id:null;
  if(parent&&!/^[0-9a-f-]{36}$/i.test(parent))return json({error:'Invalid reply'},400);
  try{
   if(parent){const p=await env.COMMUNITY_DB.prepare("SELECT id,parent_id FROM community_posts WHERE id=? AND match_id=? AND status='visible'").bind(parent,id).first();if(!p||p.parent_id)return json({error:'Reply target unavailable'},400)}
