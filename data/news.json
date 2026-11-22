@@ -1,16 +1,53 @@
 {
-  "updated_at": "2026-11-22T09:56:04.658971+00:00",
+  "updated_at": "2026-11-22T13:04:53.057585+00:00",
   "items": [
     {
-      "id": "c3432f16451d57b1",
-      "title": "Liverpool v Manchester United buildup and more Premier League news – matchday live",
-      "url": "https://www.theguardian.com/football/live/2026/nov/22/liverpool-v-manchester-united-buildup-and-more-premier-league-news-matchday-live",
+      "id": "7fd6a14d39da64f5",
+      "title": "Manchester City v Tottenham, Birmingham v Manchester United: WSL clockwatch – live",
+      "url": "https://www.theguardian.com/football/live/2026/nov/22/wsl-manchester-city-tottenham-birmingham-manchester-united-arsenal-west-ham-live",
       "source": "The Guardian Football",
-      "published_at": "2026-11-22T09:44:28+00:00",
+      "published_at": "2026-11-22T13:00:02+00:00",
       "category": "clubs",
       "language": "en",
       "topics": [
         "Premier League"
+      ],
+      "priority": 12
+    },
+    {
+      "id": "284aa852d3b09292",
+      "title": "Watford seek sixth manager in 18 months after sacking Dionisi",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cyvz6r4g1jqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-22T12:00:45+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "b5272891de9671a3",
+      "title": "Bruno Fernandes reveals talks over new Manchester United contract are on hold",
+      "url": "https://www.theguardian.com/football/2026/nov/22/bruno-fernandes-reveals-talks-over-new-manchester-united-contract-are-on-hold",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-22T11:33:54+00:00",
+      "category": "transfers",
+      "language": "en",
+      "topics": [
+        "Premier League"
+      ],
+      "priority": 20
+    },
+    {
+      "id": "b5a85c9047c475ef",
+      "title": "Ligue 1 : Le Paris Saint-Germain enchaîne à Nice (3-2) mais perd Désiré Doué",
+      "url": "https://www.france24.com/fr/%C3%A9missions/sports/20261122-ligue-1-le-paris-saint-germain-encha%C3%AEne-%C3%A0-nice-3-2-mais-perd-d%C3%A9sir%C3%A9-dou%C3%A9",
+      "source": "France 24",
+      "published_at": "2026-11-22T10:33:01+00:00",
+      "category": "clubs",
+      "language": "fr",
+      "topics": [
+        "Ligue 1"
       ],
       "priority": 12
     },
@@ -121,6 +158,17 @@
       "priority": 0
     },
     {
+      "id": "a79c5227c2a3e5ff",
+      "title": "‘Obviously it’s not good’: Arteta sweating over David Raya’s fitness after injury",
+      "url": "https://www.theguardian.com/football/2026/nov/21/david-raya-shoulder-injury-arsenal-newcastle-mikel-arteta",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-21T21:48:21+00:00",
+      "category": "injuries",
+      "language": "en",
+      "topics": [],
+      "priority": 8
+    },
+    {
       "id": "3db0afc5d0b4f2e4",
       "title": "Raya set to have scan on injury - how much would Arsenal miss him?",
       "url": "https://www.bbc.co.uk/sport/football/articles/ckx28w9ree9vo?at_medium=RSS&at_campaign=rss",
@@ -134,19 +182,6 @@
       "priority": 20
     },
     {
-      "id": "51c76befc12170cc",
-      "title": "WSL roundup: Chelsea thwarted by Liverpool keeper, London City move to third",
-      "url": "https://www.theguardian.com/football/2026/nov/21/liverpool-chelsea-london-city-lionesses-crystal-palace-wsl",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-21T20:54:39+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [
-        "Premier League"
-      ],
-      "priority": 12
-    },
-    {
       "id": "ed505e210b8c9169",
       "title": "European football: Doué carried off for PSG while Kane vows to return fresh",
       "url": "https://www.theguardian.com/football/2026/nov/21/european-football-borussia-dortmund-psg-real-madrid",
@@ -158,17 +193,6 @@
         "Ligue 1"
       ],
       "priority": 12
-    },
-    {
-      "id": "df15b65a2aa3f491",
-      "title": "Nine wins in a row - Bournemouth & Evanilson continue to make history",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6p9d102k4mdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-21T20:07:56+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
     },
     {
       "id": "3c5cebb79a1f11d6",
@@ -195,6 +219,17 @@
         "Premier League"
       ],
       "priority": 12
+    },
+    {
+      "id": "2e05187707eadb07",
+      "title": "Evanilson strikes again as Bournemouth beat Forest",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm4gn997yry2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-21T19:59:17+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
     },
     {
       "id": "bad15a0cb194552f",
@@ -243,19 +278,6 @@
       "priority": 0
     },
     {
-      "id": "8abe0a401c710c83",
-      "title": "Raya injured but Madueke rescues point for Arsenal in seesaw Newcastle draw",
-      "url": "https://www.theguardian.com/football/2026/nov/21/newcastle-arsenal-premier-league-match-report",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-21T19:47:11+00:00",
-      "category": "injuries",
-      "language": "en",
-      "topics": [
-        "Premier League"
-      ],
-      "priority": 20
-    },
-    {
       "id": "43d73e20805e8cc6",
       "title": "'The world got to see today' - Williams-Barnett announces himself as Spurs star",
       "url": "https://www.bbc.co.uk/sport/football/articles/cm9d7jg50e12o?at_medium=RSS&at_campaign=rss",
@@ -278,17 +300,6 @@
         "Premier League"
       ],
       "priority": 12
-    },
-    {
-      "id": "d5a1d303d2803bbc",
-      "title": "'Officials can't use common sense' - was Rogers handball correct?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c50md981n277o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-21T18:30:22+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
     },
     {
       "id": "18bd8038127daecd",
@@ -513,15 +524,15 @@
   ],
   "source_errors": [],
   "search_trends_fr": [
-    "f1 las vegas 2026",
-    "justine braisaz-bouchet",
-    "emmanuel macron",
-    "fertilité",
-    "saint-lunaire",
-    "manifestation",
-    "bordeaux",
-    "paredes",
-    "alexander haskin",
-    "rassie erasmus"
+    "super lune",
+    "paris fc",
+    "hacking",
+    "hunger games",
+    "benjamin duhamel",
+    "hunger game",
+    "barcelona vs villarreal",
+    "michel zecler",
+    "konyaspor – beşiktaş",
+    "harry roselmack"
   ]
 }
