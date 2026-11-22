@@ -39,7 +39,7 @@ a{color:#84edb6;text-underline-offset:3px}h1{font-size:clamp(2rem,6vw,3rem);line
 .table-wrap{overflow:auto;margin:16px 0}table{border-collapse:collapse;width:100%;min-width:420px}
 th,td{padding:9px;text-align:start;border-bottom:1px solid #304159}tbody th{font-weight:600}
 .muted{color:#b1c1d1}.score{white-space:nowrap;font-weight:700}
-</style></head><body><header><nav aria-label="Navigation principale"><a href="/">FootChrono</a>
+</style><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7180571260643744" crossorigin="anonymous"></script></head><body><header><nav aria-label="Navigation principale"><a href="/">FootChrono</a>
 <a href="/scores">Scores</a><a href="/classements">Classements</a><a href="/actualites/">Actualités</a></nav>
 </header><main><h1>${escape(heading)}</h1>${content}</main></body></html>`;
   return new Response(html, {
