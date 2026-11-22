@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-11-22T20:29:00.979125+00:00",
+  "updated_at": "2026-11-22T20:59:42.209576+00:00",
   "items": [
+    {
+      "id": "ccd7b7d60748e82b",
+      "title": "Bundesliga",
+      "url": "https://www.bbc.co.uk/iplayer/episode/l0059298?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-22T20:13:29+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [
+        "Bundesliga"
+      ],
+      "priority": 12
+    },
     {
       "id": "18c3a8b31e739e3c",
       "title": "McBurnie stoppage-time double earns Hull win over 10-man Brighton",
@@ -299,19 +312,6 @@
       "priority": 8
     },
     {
-      "id": "3db0afc5d0b4f2e4",
-      "title": "Raya set to have scan on injury - how much would Arsenal miss him?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckx28w9ree9vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-21T21:14:08+00:00",
-      "category": "injuries",
-      "language": "en",
-      "topics": [
-        "Premier League"
-      ],
-      "priority": 20
-    },
-    {
       "id": "d36ff991a072c980",
       "title": "Présidence de la Fifa: la CAF affiche son unité derrière Gianni Infantino, un désaveu pour Philippe Diallo",
       "url": "https://www.rfi.fr/fr/sports/20261121-ca",
@@ -497,15 +497,15 @@
   ],
   "source_errors": [],
   "search_trends_fr": [
-    "sabine azema",
-    "benghazi",
-    "hawks – pistons",
-    "serie saint pierre",
-    "saga hunger games",
-    "mathis desloges",
-    "christian estrosi",
-    "programme tv",
-    "demi moore",
-    "gaël dréan"
+    "gta gta6",
+    "viola davis",
+    "choose france",
+    "torreense - benfica",
+    "leighton meester",
+    "michael film",
+    "médiator",
+    "florence portelli",
+    "hunger games 6",
+    "inter milan"
   ]
 }
