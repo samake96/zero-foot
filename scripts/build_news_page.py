@@ -39,16 +39,10 @@ def main():
 <link rel="canonical" href="{URL}"><meta property="og:type" content="website">
 <meta property="og:site_name" content="FootChrono"><meta property="og:title" content="{TITLE}">
 <meta property="og:description" content="{DESCRIPTION}"><meta property="og:url" content="{URL}"><meta property="og:locale" content="fr_FR">
-<meta name="twitter:card" content="summary"><style>
-*{{box-sizing:border-box}}body{{margin:0;background:#0b1727;color:#e9f1fa;font:16px/1.55 system-ui,sans-serif}}
-main,header{{max-width:960px;margin:auto;padding:24px}}header{{display:flex;gap:20px;flex-wrap:wrap}}
-a{{color:#84edb6;text-underline-offset:3px}}h1{{font-size:clamp(2rem,6vw,3.25rem);line-height:1.1}}
-article{{padding:16px 0;border-bottom:1px solid #304159}}article p{{margin:0;color:#b1c1d1;font-size:.85rem}}
-article h2{{font-size:1.15rem;margin:6px 0 0}}
-</style><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7180571260643744" crossorigin="anonymous"></script><style>.fc-ad{{width:calc(100% - 32px);max-width:728px;margin:16px auto}}.fc-ad:has(ins[data-ad-status="unfilled"]){{display:none}}</style></head><body><header><a href="/">FootChrono</a><a href="/scores">Scores et matchs</a><a href="/classements">Classements</a>
-<a href="/#page=news">Fil avec filtres</a></header><main><h1>Actualité football en français</h1>
+<meta name="twitter:card" content="summary"><link rel="stylesheet" href="/footchrono-public.css"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7180571260643744" crossorigin="anonymous"></script><style>.fc-ad{{width:calc(100% - 32px);max-width:728px;margin:16px auto}}.fc-ad:has(ins[data-ad-status="unfilled"]){{display:none}}</style></head><body><header class="fc-header"><div class="fc-header-inner"><a class="fc-brand" href="/" aria-label="FootChrono, accueil"><span class="fc-mark" aria-hidden="true">F</span><span>Foot<b>Chrono</b></span></a><nav class="fc-nav" aria-label="Navigation principale"><a href="/">Accueil</a><a href="/scores">Scores</a><a href="/classements">Classements</a><a href="/#page=predictions">Pronostics</a><a href="/actualites/" aria-current="page">Actualités</a></nav></div></header><main><h1>Actualité football en français</h1>
 <p>Les derniers titres des médias sur les grands championnats, les coupes internationales et le mercato.</p>
-{cards}</main>
+<p><a href="/#page=news">Ouvrir le fil avec les filtres</a></p>
+<div class="fc-news-grid">{cards}</div></main>
 <div class="fc-ad"><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-7180571260643744" data-ad-slot="1991336459" data-ad-format="horizontal" data-full-width-responsive="false"></ins></div>
 <script>(window.adsbygoogle = window.adsbygoogle || []).push({{}});</script>
 </body></html>

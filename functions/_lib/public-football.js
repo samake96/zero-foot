@@ -32,16 +32,7 @@ export function page({path, title, description, heading, content, status = 200, 
 <meta property="og:type" content="website"><meta property="og:site_name" content="FootChrono">
 <meta property="og:title" content="${escape(title)}"><meta property="og:description" content="${escape(description)}">
 <meta property="og:locale" content="fr_FR"><meta name="twitter:card" content="summary">
-<style>
-*{box-sizing:border-box}body{margin:0;background:#0b1727;color:#e9f1fa;font:16px/1.55 system-ui,sans-serif}
-main,header{max-width:960px;margin:auto;padding:24px}nav,.links{display:flex;gap:16px;flex-wrap:wrap}
-a{color:#84edb6;text-underline-offset:3px}h1{font-size:clamp(2rem,6vw,3rem);line-height:1.12}
-.table-wrap{overflow:auto;margin:16px 0}table{border-collapse:collapse;width:100%;min-width:420px}
-th,td{padding:9px;text-align:start;border-bottom:1px solid #304159}tbody th{font-weight:600}
-.muted{color:#b1c1d1}.score{white-space:nowrap;font-weight:700}
-</style><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7180571260643744" crossorigin="anonymous"></script><style>.fc-ad{width:calc(100% - 32px);max-width:728px;margin:16px auto}.fc-ad:has(ins[data-ad-status="unfilled"]){display:none}</style></head><body><header><nav aria-label="Navigation principale"><a href="/">FootChrono</a>
-<a href="/scores">Scores</a><a href="/classements">Classements</a><a href="/actualites/">Actualités</a></nav>
-</header><main><h1>${escape(heading)}</h1>${content}</main>
+<link rel="stylesheet" href="/footchrono-public.css"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7180571260643744" crossorigin="anonymous"></script><style>.fc-ad{width:calc(100% - 32px);max-width:728px;margin:16px auto}.fc-ad:has(ins[data-ad-status="unfilled"]){display:none}</style></head><body><header class="fc-header"><div class="fc-header-inner"><a class="fc-brand" href="/" aria-label="FootChrono, accueil"><span class="fc-mark" aria-hidden="true">F</span><span>Foot<b>Chrono</b></span></a><nav class="fc-nav" aria-label="Navigation principale"><a href="/">Accueil</a><a href="/scores"${path === '/scores' ? ' aria-current="page"' : ''}>Scores</a><a href="/classements"${path.startsWith('/classements') ? ' aria-current="page"' : ''}>Classements</a><a href="/#page=predictions">Pronostics</a><a href="/actualites/">Actualités</a></nav></div></header><main><h1>${escape(heading)}</h1>${content}</main>
 <div class="fc-ad"><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-7180571260643744" data-ad-slot="1991336459" data-ad-format="horizontal" data-full-width-responsive="false"></ins></div>
 <script>(window.adsbygoogle = window.adsbygoogle || []).push({});</script>
 </body></html>`;
