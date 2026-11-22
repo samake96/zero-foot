@@ -1,4 +1,4 @@
-# Activation de MATCHSCOPE Community sur Cloudflare Pages
+# Activation de FootChrono Community sur Cloudflare Pages
 
 Le code de lecture et de publication est présent, mais les échanges restent désactivés tant que l'infrastructure n'est pas configurée.
 

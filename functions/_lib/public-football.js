@@ -24,12 +24,12 @@ export function dateLabel(value, includeTime = false) {
 }
 
 export function page({path, title, description, heading, content, status = 200, cache = 60}) {
-  const url = 'https://zero-foot.pages.dev' + path;
+  const url = 'https://footchrono.com' + path;
   const html = `<!doctype html><html lang="fr"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>${escape(title)} | MATCHSCOPE</title><meta name="description" content="${escape(description)}">
+<title>${escape(title)} | FootChrono</title><meta name="description" content="${escape(description)}">
 <link rel="canonical" href="${url}"><meta property="og:url" content="${url}">
-<meta property="og:type" content="website"><meta property="og:site_name" content="MATCHSCOPE">
+<meta property="og:type" content="website"><meta property="og:site_name" content="FootChrono">
 <meta property="og:title" content="${escape(title)}"><meta property="og:description" content="${escape(description)}">
 <meta property="og:locale" content="fr_FR"><meta name="twitter:card" content="summary">
 <style>
@@ -39,7 +39,7 @@ a{color:#84edb6;text-underline-offset:3px}h1{font-size:clamp(2rem,6vw,3rem);line
 .table-wrap{overflow:auto;margin:16px 0}table{border-collapse:collapse;width:100%;min-width:420px}
 th,td{padding:9px;text-align:start;border-bottom:1px solid #304159}tbody th{font-weight:600}
 .muted{color:#b1c1d1}.score{white-space:nowrap;font-weight:700}
-</style></head><body><header><nav aria-label="Navigation principale"><a href="/">MATCHSCOPE</a>
+</style></head><body><header><nav aria-label="Navigation principale"><a href="/">FootChrono</a>
 <a href="/scores">Scores</a><a href="/classements">Classements</a><a href="/actualites/">Actualités</a></nav>
 </header><main><h1>${escape(heading)}</h1>${content}</main></body></html>`;
   return new Response(html, {

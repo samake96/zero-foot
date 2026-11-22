@@ -1,7 +1,7 @@
-# MATCHSCOPE Community — contrat fonctionnel V1
+# FootChrono Community — contrat fonctionnel V1
 
 ## Objectif
-Permettre des échanges authentiques autour de chaque match, pour augmenter le retour des visiteurs sans transformer MATCHSCOPE en plateforme de paris.
+Permettre des échanges authentiques autour de chaque match, pour augmenter le retour des visiteurs sans transformer FootChrono en plateforme de paris.
 
 ## Parcours
 - Onglet « Discussions » dans chaque fiche de match, avec nombre de messages et activité récente.

@@ -1,4 +1,4 @@
-# Activation des scores MATCHSCOPE
+# Activation des scores FootChrono
 
 Le site conserve le fichier de scores périodiques lorsque le flux Cloudflare est indisponible. Le collecteur est un Worker sans adresse publique. La fonction Pages /api/live-scores lit l'instantané dans KV. Le navigateur le consulte chaque minute lorsque l'onglet est visible. Il affiche « En direct » pour les rencontres en cours du flux à deux minutes si leur collecte date de quatre minutes au plus.
 

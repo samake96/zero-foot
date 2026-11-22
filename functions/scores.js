@@ -42,7 +42,7 @@ export async function onRequestGet(context) {
   const updated = snapshot ? '<p class="muted">Dernière collecte · '+escape(dateLabel(snapshot.updated_at,true))+' UTC</p>' : '';
   return page({
     path:'/scores',title:'Scores et résultats des matchs de football',
-    description:'Retrouvez les scores, résultats et matchs à venir des grands championnats de football sur MATCHSCOPE.',
+    description:'Retrouvez les scores, résultats et matchs à venir des grands championnats de football sur FootChrono.',
     heading:'Scores et matchs de football',
     content:updated+'<p><a href="/#page=matches">Ouvrir le direct et tous les filtres</a></p>'+
       (content || '<p>'+(snapshot?'Aucun match dans la dernière collecte.':'Scores temporairement indisponibles.')+'</p>'),

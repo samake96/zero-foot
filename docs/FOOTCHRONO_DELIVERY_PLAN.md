@@ -1,4 +1,4 @@
-# MATCHSCOPE — feuille de route de livraison
+# FootChrono — feuille de route de livraison
 
 Mise à jour : 2026-11-21
 
@@ -20,7 +20,7 @@ Une plateforme footballistique rapide, accessible sur mobile, avec scores et cal
 - [ ] Contrôle de déploiement Cloudflare en conditions réelles
 
 ## Priorité 1 — expérience produit
-- [x] Nouvelle identité visuelle MATCHSCOPE V6 (code)
+- [x] Nouvelle identité visuelle FootChrono V6 (code)
 - [x] Fiches historiques interactives (code)
 - [ ] Tests navigateur sur mobile et ordinateur
 - [ ] Navigation par match, équipe et championnat avec URL partageables

@@ -1,4 +1,4 @@
-"""Validate MATCHSCOPE static data before publication. Standard library only."""
+"""Validate FootChrono static data before publication. Standard library only."""
 import json
 from pathlib import Path
 
@@ -51,4 +51,4 @@ if errors:
     for error in errors[:30]:
         print(" -", error)
     raise SystemExit(1)
-print("MATCHSCOPE data validation passed")
+print("FootChrono data validation passed")

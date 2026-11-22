@@ -1,5 +1,5 @@
 [Unit]
-Description=MATCHSCOPE football score collection
+Description=FootChrono football score collection
 After=network-online.target
 Wants=network-online.target
 

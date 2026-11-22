@@ -1,5 +1,5 @@
 [Unit]
-Description=Collect MATCHSCOPE scores every two minutes
+Description=Collect FootChrono scores every two minutes
 
 [Timer]
 OnCalendar=*-*-* *:0/2:00 UTC
