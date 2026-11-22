@@ -1,18 +1,62 @@
 {
-  "updated_at": "2026-11-22T20:59:42.209576+00:00",
+  "updated_at": "2026-11-22T21:53:18.099127+00:00",
   "items": [
     {
-      "id": "ccd7b7d60748e82b",
-      "title": "Bundesliga",
-      "url": "https://www.bbc.co.uk/iplayer/episode/l0059298?at_medium=RSS&at_campaign=rss",
+      "id": "53a9ee5d47903de8",
+      "title": "Fifa to confirm UK bid to host 2035 Women's World Cup",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx30g83716lzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
-      "published_at": "2026-11-22T20:13:29+00:00",
-      "category": "clubs",
+      "published_at": "2026-11-22T21:44:37+00:00",
+      "category": "competitions",
       "language": "en",
       "topics": [
-        "Bundesliga"
+        "Sélections"
       ],
       "priority": 12
+    },
+    {
+      "id": "0c5614994fefec61",
+      "title": "'World's best could've lost 4-0' - but should Man Utd have done more at Anfield?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm782j80yypwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-22T21:36:00+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "e14f915c510f2326",
+      "title": "Chaotic week, nightmare start and huge reality check for Pochettino",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwd012903kvgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-22T21:22:10+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "dccd9b2d0319a8b0",
+      "title": "Man Utd plotting Toney move - Monday's gossip",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck053nyl6399o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-22T21:04:15+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "42e27cd54bc6cca0",
+      "title": "Pochettino’s new-manager bounce falls flat with De Ligt move a disastrous step | Jamie Jackson",
+      "url": "https://www.theguardian.com/football/2026/nov/22/mauricio-pochettino-matthijs-de-ligt-harry-maguire-manchester-united-liverpool-premier-league",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-22T20:58:35+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
     },
     {
       "id": "18c3a8b31e739e3c",
@@ -172,17 +216,6 @@
       "priority": 20
     },
     {
-      "id": "777b29a1be08a74b",
-      "title": "'Rolls-Royce' Iqbal's 'dream' journey from Old Trafford to Tannadice",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwj05z6npze4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-22T17:00:01+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
       "id": "8b060233d0211f37",
       "title": "Spurs 'a match for anyone' as win at Man City boosts European hopes",
       "url": "https://www.bbc.co.uk/sport/football/articles/c6n901w453nlo?at_medium=RSS&at_campaign=rss",
@@ -203,19 +236,6 @@
       "language": "en",
       "topics": [],
       "priority": 0
-    },
-    {
-      "id": "e2d7cac13759b2e8",
-      "title": "PSG's Doue to have surgery on ruptured ACL",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cw0k6x0764ero?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-22T15:50:05+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [
-        "Ligue 1"
-      ],
-      "priority": 12
     },
     {
       "id": "c2cfeec3dc2828a8",
@@ -240,17 +260,6 @@
         "Premier League"
       ],
       "priority": 12
-    },
-    {
-      "id": "284aa852d3b09292",
-      "title": "Watford seek sixth manager in 18 months after sacking Dionisi",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cyvz6r4g1jqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-22T12:00:45+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
     },
     {
       "id": "c353dc243a70a6ed",
@@ -371,17 +380,6 @@
       "priority": 12
     },
     {
-      "id": "c9c178c8a1c8f072",
-      "title": "Training hard and biding his time, Dele Alli has not given up on football yet",
-      "url": "https://www.theguardian.com/football/2026/nov/20/dele-alli-tottenham-mk-dons-england",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-20T19:00:37+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
       "id": "fcfcd86354fbb1d9",
       "title": "Ligue des nations: la France affrontera l'Espagne en quarts de finale",
       "url": "https://www.rfi.fr/fr/sports/20261120-foot-la-france-affrontera-l-espagne-en-quarts-de-finale-de-la-ligue-des-nations",
@@ -497,15 +495,15 @@
   ],
   "source_errors": [],
   "search_trends_fr": [
-    "gta gta6",
-    "viola davis",
-    "choose france",
-    "torreense - benfica",
-    "leighton meester",
-    "michael film",
-    "médiator",
-    "florence portelli",
-    "hunger games 6",
-    "inter milan"
+    "somaliland",
+    "jean le cam",
+    "atalanta vs inter",
+    "igpn",
+    "libye",
+    "yellowjackets",
+    "rima hassan",
+    "mobland saison 3",
+    "cillian murphy",
+    "president snow"
   ]
 }
