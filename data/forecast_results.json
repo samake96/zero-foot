@@ -11,6 +11,12 @@
       "home": 0.683,
       "draw": 0.1951,
       "away": 0.1219
+    },
+    "result": {
+      "status": "final",
+      "home_goals": 1,
+      "away_goals": 1,
+      "outcome_1x2": "draw"
     }
   },
   {
@@ -25,6 +31,12 @@
       "home": 0.6563,
       "draw": 0.2112,
       "away": 0.1325
+    },
+    "result": {
+      "status": "final",
+      "home_goals": 2,
+      "away_goals": 0,
+      "outcome_1x2": "home"
     }
   },
   {
@@ -39,6 +51,12 @@
       "home": 0.5116,
       "draw": 0.2532,
       "away": 0.2352
+    },
+    "result": {
+      "status": "final",
+      "home_goals": 3,
+      "away_goals": 0,
+      "outcome_1x2": "home"
     }
   },
   {
@@ -53,6 +71,12 @@
       "home": 0.3972,
       "draw": 0.2214,
       "away": 0.3814
+    },
+    "result": {
+      "status": "final",
+      "home_goals": 1,
+      "away_goals": 0,
+      "outcome_1x2": "home"
     }
   },
   {
@@ -67,6 +91,12 @@
       "home": 0.3916,
       "draw": 0.2423,
       "away": 0.3661
+    },
+    "result": {
+      "status": "final",
+      "home_goals": 1,
+      "away_goals": 5,
+      "outcome_1x2": "away"
     }
   },
   {
@@ -81,6 +111,12 @@
       "home": 0.2289,
       "draw": 0.2323,
       "away": 0.5388
+    },
+    "result": {
+      "status": "final",
+      "home_goals": 0,
+      "away_goals": 1,
+      "outcome_1x2": "away"
     }
   },
   {
@@ -95,6 +131,12 @@
       "home": 0.536,
       "draw": 0.2394,
       "away": 0.2246
+    },
+    "result": {
+      "status": "final",
+      "home_goals": 0,
+      "away_goals": 0,
+      "outcome_1x2": "draw"
     }
   },
   {
@@ -109,6 +151,12 @@
       "home": 0.4497,
       "draw": 0.254,
       "away": 0.2963
+    },
+    "result": {
+      "status": "final",
+      "home_goals": 2,
+      "away_goals": 0,
+      "outcome_1x2": "home"
     }
   },
   {
@@ -123,6 +171,12 @@
       "home": 0.5114,
       "draw": 0.2391,
       "away": 0.2495
+    },
+    "result": {
+      "status": "final",
+      "home_goals": 1,
+      "away_goals": 4,
+      "outcome_1x2": "away"
     }
   },
   {
@@ -137,6 +191,12 @@
       "home": 0.4991,
       "draw": 0.2698,
       "away": 0.2312
+    },
+    "result": {
+      "status": "final",
+      "home_goals": 0,
+      "away_goals": 1,
+      "outcome_1x2": "away"
     }
   },
   {
@@ -151,6 +211,12 @@
       "home": 0.1797,
       "draw": 0.205,
       "away": 0.6153
+    },
+    "result": {
+      "status": "final",
+      "home_goals": 2,
+      "away_goals": 3,
+      "outcome_1x2": "away"
     }
   },
   {
@@ -165,6 +231,12 @@
       "home": 0.1798,
       "draw": 0.2445,
       "away": 0.5757
+    },
+    "result": {
+      "status": "final",
+      "home_goals": 1,
+      "away_goals": 5,
+      "outcome_1x2": "away"
     }
   },
   {
@@ -179,6 +251,12 @@
       "home": 0.2452,
       "draw": 0.2423,
       "away": 0.5125
+    },
+    "result": {
+      "status": "final",
+      "home_goals": 2,
+      "away_goals": 2,
+      "outcome_1x2": "draw"
     }
   },
   {
@@ -193,6 +271,12 @@
       "home": 0.3339,
       "draw": 0.2621,
       "away": 0.404
+    },
+    "result": {
+      "status": "final",
+      "home_goals": 1,
+      "away_goals": 1,
+      "outcome_1x2": "draw"
     }
   },
   {
@@ -207,6 +291,12 @@
       "home": 0.6152,
       "draw": 0.2148,
       "away": 0.1701
+    },
+    "result": {
+      "status": "final",
+      "home_goals": 1,
+      "away_goals": 0,
+      "outcome_1x2": "home"
     }
   },
   {
@@ -221,6 +311,12 @@
       "home": 0.5263,
       "draw": 0.2333,
       "away": 0.2404
+    },
+    "result": {
+      "status": "final",
+      "home_goals": 1,
+      "away_goals": 1,
+      "outcome_1x2": "draw"
     }
   },
   {
@@ -235,6 +331,12 @@
       "home": 0.4277,
       "draw": 0.2875,
       "away": 0.2848
+    },
+    "result": {
+      "status": "final",
+      "home_goals": 0,
+      "away_goals": 1,
+      "outcome_1x2": "away"
     }
   },
   {
@@ -249,6 +351,12 @@
       "home": 0.6102,
       "draw": 0.1991,
       "away": 0.1908
+    },
+    "result": {
+      "status": "final",
+      "home_goals": 1,
+      "away_goals": 1,
+      "outcome_1x2": "draw"
     }
   },
   {
@@ -263,6 +371,12 @@
       "home": 0.5683,
       "draw": 0.2228,
       "away": 0.2089
+    },
+    "result": {
+      "status": "final",
+      "home_goals": 0,
+      "away_goals": 1,
+      "outcome_1x2": "away"
     }
   },
   {
@@ -417,6 +531,160 @@
       "home": 0.2848,
       "draw": 0.2671,
       "away": 0.4481
+    }
+  },
+  {
+    "match_id": 1570463,
+    "kickoff": "2026-11-28T13:00:00+00:00",
+    "recorded_at": "2026-11-22T08:20:27.600201+00:00",
+    "competition": "PD",
+    "home": "Real Betis",
+    "away": "Rayo Vallecano",
+    "model": "poisson_v33_prototype",
+    "probabilities_1x2": {
+      "home": 0.6004,
+      "draw": 0.22,
+      "away": 0.1797
+    }
+  },
+  {
+    "match_id": 1575235,
+    "kickoff": "2026-11-28T14:30:00+00:00",
+    "recorded_at": "2026-11-22T08:20:27.600201+00:00",
+    "competition": "BL1",
+    "home": "Hamburger SV",
+    "away": "Bayern München",
+    "model": "poisson_v33_prototype",
+    "probabilities_1x2": {
+      "home": 0.1474,
+      "draw": 0.1775,
+      "away": 0.6751
+    }
+  },
+  {
+    "match_id": 1575238,
+    "kickoff": "2026-11-28T14:30:00+00:00",
+    "recorded_at": "2026-11-22T08:20:27.600201+00:00",
+    "competition": "BL1",
+    "home": "SC Paderborn 07",
+    "away": "FC Schalke 04",
+    "model": "poisson_v33_prototype",
+    "probabilities_1x2": {
+      "home": 0.4484,
+      "draw": 0.2539,
+      "away": 0.2978
+    }
+  },
+  {
+    "match_id": 1557484,
+    "kickoff": "2026-11-28T15:00:00+00:00",
+    "recorded_at": "2026-11-22T08:20:27.600201+00:00",
+    "competition": "PL",
+    "home": "Manchester United",
+    "away": "Brentford",
+    "model": "poisson_v33_prototype",
+    "probabilities_1x2": {
+      "home": 0.526,
+      "draw": 0.2162,
+      "away": 0.2578
+    }
+  },
+  {
+    "match_id": 1570469,
+    "kickoff": "2026-11-28T15:15:00+00:00",
+    "recorded_at": "2026-11-22T08:20:27.600201+00:00",
+    "competition": "PD",
+    "home": "Malaga",
+    "away": "Athletic Club",
+    "model": "poisson_v33_prototype",
+    "probabilities_1x2": {
+      "home": 0.389,
+      "draw": 0.2491,
+      "away": 0.3618
+    }
+  },
+  {
+    "match_id": 1550214,
+    "kickoff": "2026-11-28T17:00:00+00:00",
+    "recorded_at": "2026-11-22T08:20:27.600201+00:00",
+    "competition": "SA",
+    "home": "Torino",
+    "away": "Lazio",
+    "model": "poisson_v33_prototype",
+    "probabilities_1x2": {
+      "home": 0.2423,
+      "draw": 0.2669,
+      "away": 0.4909
+    }
+  },
+  {
+    "match_id": 1570466,
+    "kickoff": "2026-11-28T17:30:00+00:00",
+    "recorded_at": "2026-11-22T08:20:27.600201+00:00",
+    "competition": "PD",
+    "home": "Elche",
+    "away": "Atletico Madrid",
+    "model": "poisson_v33_prototype",
+    "probabilities_1x2": {
+      "home": 0.3151,
+      "draw": 0.2583,
+      "away": 0.4266
+    }
+  },
+  {
+    "match_id": 1575231,
+    "kickoff": "2026-11-28T17:30:00+00:00",
+    "recorded_at": "2026-11-22T08:20:27.600201+00:00",
+    "competition": "BL1",
+    "home": "VfB Stuttgart",
+    "away": "Eintracht Frankfurt",
+    "model": "poisson_v33_prototype",
+    "probabilities_1x2": {
+      "home": 0.5531,
+      "draw": 0.2083,
+      "away": 0.2386
+    }
+  },
+  {
+    "match_id": 1552831,
+    "kickoff": "2026-11-28T19:45:00+00:00",
+    "recorded_at": "2026-11-22T08:20:27.600201+00:00",
+    "competition": "FL1",
+    "home": "Le Havre",
+    "away": "Strasbourg",
+    "model": "poisson_v33_prototype",
+    "probabilities_1x2": {
+      "home": 0.3172,
+      "draw": 0.2442,
+      "away": 0.4385
+    }
+  },
+  {
+    "match_id": 1552832,
+    "kickoff": "2026-11-28T19:45:00+00:00",
+    "recorded_at": "2026-11-22T08:20:27.600201+00:00",
+    "competition": "FL1",
+    "home": "Le Mans",
+    "away": "Lille",
+    "model": "poisson_v33_prototype",
+    "probabilities_1x2": {
+      "home": 0.2543,
+      "draw": 0.2355,
+      "away": 0.5102
+    }
+  },
+  {
+    "match_id": 1570470,
+    "kickoff": "2026-11-28T20:00:00+00:00",
+    "recorded_at": "2026-11-22T08:20:27.600201+00:00",
+    "competition": "PD",
+    "home": "Real Madrid",
+    "away": "Alaves",
+    "model": "poisson_v33_prototype",
+    "probabilities_1x2": {
+      "home": 0.7473,
+      "draw": 0.1584,
+      "away": 0.0943
     }
   }
 ]

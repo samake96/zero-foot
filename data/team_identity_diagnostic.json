@@ -1,89 +1,7 @@
 {
-  "total_unmatched": 18,
+  "total_unmatched": 23,
   "potentially_resolved": 0,
   "diagnosis": [
-    {
-      "match_id": 1570453,
-      "competition": "PD",
-      "home": {
-        "fixture_name": "Alaves",
-        "exact_normalized_matches": [],
-        "model_identity_matches": [
-          "Deportivo Alavés"
-        ],
-        "found_exact": false,
-        "found_by_model": true
-      },
-      "away": {
-        "fixture_name": "Deportivo La Coruna",
-        "exact_normalized_matches": [],
-        "model_identity_matches": [],
-        "found_exact": false,
-        "found_by_model": false
-      }
-    },
-    {
-      "match_id": 1575229,
-      "competition": "BL1",
-      "home": {
-        "fixture_name": "SV Elversberg",
-        "exact_normalized_matches": [],
-        "model_identity_matches": [],
-        "found_exact": false,
-        "found_by_model": false
-      },
-      "away": {
-        "fixture_name": "SC Freiburg",
-        "exact_normalized_matches": [
-          "SC Freiburg"
-        ],
-        "model_identity_matches": [
-          "SC Freiburg"
-        ],
-        "found_exact": true,
-        "found_by_model": true
-      }
-    },
-    {
-      "match_id": 1557471,
-      "competition": "PL",
-      "home": {
-        "fixture_name": "Coventry",
-        "exact_normalized_matches": [],
-        "model_identity_matches": [],
-        "found_exact": false,
-        "found_by_model": false
-      },
-      "away": {
-        "fixture_name": "Crystal Palace",
-        "exact_normalized_matches": [],
-        "model_identity_matches": [
-          "Crystal Palace FC"
-        ],
-        "found_exact": false,
-        "found_by_model": true
-      }
-    },
-    {
-      "match_id": 1557476,
-      "competition": "PL",
-      "home": {
-        "fixture_name": "Tottenham",
-        "exact_normalized_matches": [],
-        "model_identity_matches": [
-          "Tottenham Hotspur FC"
-        ],
-        "found_exact": false,
-        "found_by_model": true
-      },
-      "away": {
-        "fixture_name": "Ipswich",
-        "exact_normalized_matches": [],
-        "model_identity_matches": [],
-        "found_exact": false,
-        "found_by_model": false
-      }
-    },
     {
       "match_id": 1570455,
       "competition": "PD",
@@ -354,6 +272,188 @@
       },
       "away": {
         "fixture_name": "Racing Santander",
+        "exact_normalized_matches": [],
+        "model_identity_matches": [],
+        "found_exact": false,
+        "found_by_model": false
+      }
+    },
+    {
+      "match_id": 1550210,
+      "competition": "SA",
+      "home": {
+        "fixture_name": "Frosinone",
+        "exact_normalized_matches": [],
+        "model_identity_matches": [],
+        "found_exact": false,
+        "found_by_model": false
+      },
+      "away": {
+        "fixture_name": "Parma",
+        "exact_normalized_matches": [],
+        "model_identity_matches": [
+          "Parma Calcio 1913"
+        ],
+        "found_exact": false,
+        "found_by_model": true
+      }
+    },
+    {
+      "match_id": 1575234,
+      "competition": "BL1",
+      "home": {
+        "fixture_name": "FSV Mainz 05",
+        "exact_normalized_matches": [],
+        "model_identity_matches": [],
+        "found_exact": false,
+        "found_by_model": false
+      },
+      "away": {
+        "fixture_name": "Union Berlin",
+        "exact_normalized_matches": [],
+        "model_identity_matches": [
+          "1. FC Union Berlin"
+        ],
+        "found_exact": false,
+        "found_by_model": true
+      }
+    },
+    {
+      "match_id": 1575236,
+      "competition": "BL1",
+      "home": {
+        "fixture_name": "1. FC Köln",
+        "exact_normalized_matches": [
+          "1. FC Köln"
+        ],
+        "model_identity_matches": [
+          "1. FC Köln"
+        ],
+        "found_exact": true,
+        "found_by_model": true
+      },
+      "away": {
+        "fixture_name": "SV Elversberg",
+        "exact_normalized_matches": [],
+        "model_identity_matches": [],
+        "found_exact": false,
+        "found_by_model": false
+      }
+    },
+    {
+      "match_id": 1557483,
+      "competition": "PL",
+      "home": {
+        "fixture_name": "Leeds",
+        "exact_normalized_matches": [],
+        "model_identity_matches": [
+          "Leeds United FC"
+        ],
+        "found_exact": false,
+        "found_by_model": true
+      },
+      "away": {
+        "fixture_name": "Coventry",
+        "exact_normalized_matches": [],
+        "model_identity_matches": [],
+        "found_exact": false,
+        "found_by_model": false
+      }
+    },
+    {
+      "match_id": 1552828,
+      "competition": "FL1",
+      "home": {
+        "fixture_name": "Angers",
+        "exact_normalized_matches": [],
+        "model_identity_matches": [],
+        "found_exact": false,
+        "found_by_model": false
+      },
+      "away": {
+        "fixture_name": "Lens",
+        "exact_normalized_matches": [],
+        "model_identity_matches": [
+          "Racing Club de Lens"
+        ],
+        "found_exact": false,
+        "found_by_model": true
+      }
+    },
+    {
+      "match_id": 1557482,
+      "competition": "PL",
+      "home": {
+        "fixture_name": "Ipswich",
+        "exact_normalized_matches": [],
+        "model_identity_matches": [],
+        "found_exact": false,
+        "found_by_model": false
+      },
+      "away": {
+        "fixture_name": "Aston Villa",
+        "exact_normalized_matches": [],
+        "model_identity_matches": [
+          "Aston Villa FC"
+        ],
+        "found_exact": false,
+        "found_by_model": true
+      }
+    },
+    {
+      "match_id": 1550211,
+      "competition": "SA",
+      "home": {
+        "fixture_name": "Inter",
+        "exact_normalized_matches": [],
+        "model_identity_matches": [
+          "FC Internazionale Milano"
+        ],
+        "found_exact": false,
+        "found_by_model": true
+      },
+      "away": {
+        "fixture_name": "Genoa",
+        "exact_normalized_matches": [],
+        "model_identity_matches": [],
+        "found_exact": false,
+        "found_by_model": false
+      }
+    },
+    {
+      "match_id": 1552834,
+      "competition": "FL1",
+      "home": {
+        "fixture_name": "Nice",
+        "exact_normalized_matches": [],
+        "model_identity_matches": [
+          "OGC Nice"
+        ],
+        "found_exact": false,
+        "found_by_model": true
+      },
+      "away": {
+        "fixture_name": "Estac Troyes",
+        "exact_normalized_matches": [],
+        "model_identity_matches": [],
+        "found_exact": false,
+        "found_by_model": false
+      }
+    },
+    {
+      "match_id": 1552835,
+      "competition": "FL1",
+      "home": {
+        "fixture_name": "Paris Saint Germain",
+        "exact_normalized_matches": [],
+        "model_identity_matches": [
+          "Paris Saint-Germain FC"
+        ],
+        "found_exact": false,
+        "found_by_model": true
+      },
+      "away": {
+        "fixture_name": "Lorient",
         "exact_normalized_matches": [],
         "model_identity_matches": [],
         "found_exact": false,
