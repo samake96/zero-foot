@@ -45,7 +45,7 @@ def main():
 <div class="fc-news-grid">{cards}</div></main>
 <div class="fc-ad"><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-7180571260643744" data-ad-slot="1991336459" data-ad-format="horizontal" data-full-width-responsive="false"></ins></div>
 <script>(window.adsbygoogle = window.adsbygoogle || []).push({{}});</script>
-</body></html>
+<footer class="fc-footer"><nav aria-label="Informations sur le site"><a href="/confidentialite/">Confidentialité</a> <a href="/contact/">Contact</a></nav></footer></body></html>
 ''', encoding='utf-8')
 
 

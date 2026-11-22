@@ -35,7 +35,7 @@ export function page({path, title, description, heading, content, status = 200, 
 <link rel="stylesheet" href="/footchrono-public.css">${ads ? '<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7180571260643744" crossorigin="anonymous"></script><style>.fc-ad{width:calc(100% - 32px);max-width:728px;margin:16px auto}.fc-ad:has(ins[data-ad-status="unfilled"]){display:none}</style>' : ''}</head><body><header class="fc-header"><div class="fc-header-inner"><a class="fc-brand" href="/" aria-label="FootChrono, accueil"><span class="fc-mark" aria-hidden="true">F</span><span>Foot<b>Chrono</b></span></a><nav class="fc-nav" aria-label="Navigation principale"><a href="/">Accueil</a><a href="/scores"${path === '/scores' ? ' aria-current="page"' : ''}>Scores</a><a href="/classements"${path.startsWith('/classements') ? ' aria-current="page"' : ''}>Classements</a><a href="/#page=predictions">Pronostics</a><a href="/actualites/">Actualités</a></nav></div></header><main><h1>${escape(heading)}</h1>${content}</main>
 ${ads ? `<div class="fc-ad"><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-7180571260643744" data-ad-slot="1991336459" data-ad-format="horizontal" data-full-width-responsive="false"></ins></div>
 <script>(window.adsbygoogle = window.adsbygoogle || []).push({});</script>
-` : ''}</body></html>`;
+` : ''}<footer class="fc-footer"><nav aria-label="Informations sur le site"><a href="/confidentialite/">Confidentialité</a> <a href="/contact/">Contact</a></nav></footer></body></html>`;
   return new Response(html, {
     status,
     headers: {'content-type': 'text/html; charset=utf-8', 'cache-control': status === 200 ? 'public, max-age=' + cache : 'no-store'},

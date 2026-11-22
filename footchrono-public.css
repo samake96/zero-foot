@@ -31,3 +31,6 @@ tbody th,.score{font-weight:700}
 .fc-news-grid h2 a{color:var(--text);text-decoration:none}
 .fc-news-grid h2 a:hover{color:var(--green);text-decoration:underline}
 @media(max-width:600px){.fc-nav{width:100%;gap:4px}.fc-nav a{padding:6px 8px;font-size:.88rem}th,td{padding:8px}.table-wrap table{min-width:360px}}
+
+.fc-footer{max-width:1120px;margin:2rem auto 0;padding:1rem 1.25rem;border-top:1px solid var(--line);font-size:.9rem}
+.fc-footer nav{display:flex;flex-wrap:wrap;gap:1rem}
