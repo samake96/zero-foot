@@ -1,6 +1,53 @@
 {
-  "updated_at": "2026-11-22T04:02:12.875832+00:00",
+  "updated_at": "2026-11-22T07:21:37.535282+00:00",
   "items": [
+    {
+      "id": "b402c67b14207dc6",
+      "title": "Why Arsenal are behind in race for Champions League spots",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8752llr1ed1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-22T07:17:10+00:00",
+      "category": "competitions",
+      "language": "en",
+      "topics": [
+        "Premier League",
+        "Ligue des champions"
+      ],
+      "priority": 12
+    },
+    {
+      "id": "ace652119a06a88a",
+      "title": "Argentina midfielder Paredes collapses during TV interview",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwnv45818z59o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-22T07:13:34+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "a043b6ffd9be0abb",
+      "title": "Who am I? Plus today's other quizzes",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq0l31gw1809o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-22T07:12:55+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "281758da0063e0b0",
+      "title": "'He will see what Man Utd are made of' - Pulis on Pochettino's first game",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckqx5w58dgv7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-22T06:21:55+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
     {
       "id": "8b555dcea5d6d8be",
       "title": "Scottish Premiership roundup: Dundee left reeling after 8-0 mauling by Hearts",
@@ -39,19 +86,6 @@
       "priority": 12
     },
     {
-      "id": "7cd47df865d54911",
-      "title": "AC Milan monitoring Man Utd's Fernandes - Sunday's gossip",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq8j4e8nlvm1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-21T20:35:12+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [
-        "Serie A"
-      ],
-      "priority": 12
-    },
-    {
       "id": "ed505e210b8c9169",
       "title": "European football: Doué carried off for PSG while Kane vows to return fresh",
       "url": "https://www.theguardian.com/football/2026/nov/21/european-football-borussia-dortmund-psg-real-madrid",
@@ -63,17 +97,6 @@
         "Ligue 1"
       ],
       "priority": 12
-    },
-    {
-      "id": "df15b65a2aa3f491",
-      "title": "Nine wins in a row - Bournemouth & Evanilson continue to make history",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6p9d102k4mdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-21T20:07:56+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
     },
     {
       "id": "3c5cebb79a1f11d6",
@@ -181,19 +204,6 @@
         "Premier League"
       ],
       "priority": 20
-    },
-    {
-      "id": "7474b78a7537f18b",
-      "title": "Madueke 'a consistent threat' - Newcastle v Arsenal player ratings",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq4gn97e8ee4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-21T19:29:48+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [
-        "Premier League"
-      ],
-      "priority": 12
     },
     {
       "id": "43d73e20805e8cc6",
@@ -310,17 +320,6 @@
         "Premier League"
       ],
       "priority": 12
-    },
-    {
-      "id": "214197129bf54e90",
-      "title": "Fernandez dropped, Anderson scores - Man City's £327m midfield dilemma",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cxe8944j188yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-21T16:07:19+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
     },
     {
       "id": "8c76138e00f7a0fa",
@@ -525,15 +524,15 @@
   ],
   "source_errors": [],
   "search_trends_fr": [
-    "canal",
-    "kings – celtics",
-    "tirage loto résultats",
-    "mavericks – clippers",
-    "statistiques de match du joueur spurs – pelicans de la nouvelle-orléans",
-    "timberwolves – grizzlies",
-    "m6",
-    "canadiens – flyers",
-    "cargo russe drone",
-    "tomblaine"
+    "familles nombreuses : la vie en xxl",
+    "free",
+    "chaton",
+    "marc marquez",
+    "pont de l'île d'oléron",
+    "tanguy kouassi",
+    "toulon",
+    "selena gomez",
+    "laurent ruquier",
+    "saint-florent-sur-cher"
   ]
 }
