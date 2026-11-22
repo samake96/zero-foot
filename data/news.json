@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-11-22T07:21:37.535282+00:00",
+  "updated_at": "2026-11-22T09:56:04.658971+00:00",
   "items": [
+    {
+      "id": "c3432f16451d57b1",
+      "title": "Liverpool v Manchester United buildup and more Premier League news – matchday live",
+      "url": "https://www.theguardian.com/football/live/2026/nov/22/liverpool-v-manchester-united-buildup-and-more-premier-league-news-matchday-live",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-22T09:44:28+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [
+        "Premier League"
+      ],
+      "priority": 12
+    },
+    {
+      "id": "ab5c337f25ededb7",
+      "title": "'Not the right time' - Fernandes pauses Man Utd contract talks",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6x2e8devk1po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-22T08:41:20+00:00",
+      "category": "transfers",
+      "language": "en",
+      "topics": [],
+      "priority": 8
+    },
+    {
+      "id": "c353dc243a70a6ed",
+      "title": "Robins ‘aims for the stars’ as Stoke dream of Premier League return",
+      "url": "https://www.theguardian.com/football/2026/nov/22/mark-robins-stoke-birmingham-championship-premier-league-promotion",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-22T08:00:22+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [
+        "Premier League"
+      ],
+      "priority": 12
+    },
+    {
+      "id": "8e39850962d5072c",
+      "title": "César Azpilicueta: ‘At Chelsea a draw was a catastrophe – if you can’t perform, you’re out’",
+      "url": "https://www.theguardian.com/football/2026/nov/22/cesar-azpilicueta-at-chelsea-a-draw-was-a-catastrophe-if-you-cant-perform-youre-out",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-22T08:00:21+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [
+        "Premier League"
+      ],
+      "priority": 12
+    },
     {
       "id": "b402c67b14207dc6",
       "title": "Why Arsenal are behind in race for Champions League spots",
@@ -49,11 +99,22 @@
       "priority": 0
     },
     {
-      "id": "8b555dcea5d6d8be",
-      "title": "Scottish Premiership roundup: Dundee left reeling after 8-0 mauling by Hearts",
-      "url": "https://www.theguardian.com/football/2026/nov/21/scottish-premiership-roundup-celtic-sweep-st-mirren-aside-to-strengthen-grip-at-top",
+      "id": "2cc4bc579c3e71a1",
+      "title": "Champion’s corner: KC Current win first NWSL Championship with 2-1 stunner over Spirit",
+      "url": "https://www.theguardian.com/football/2026/nov/21/nwsl-championship-washington-spirit-kansas-city-current",
       "source": "The Guardian Football",
-      "published_at": "2026-11-21T22:20:19+00:00",
+      "published_at": "2026-11-22T03:55:43+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "4d2409377dd99e4b",
+      "title": "Lionel Messi at center of red-card controversy as Inter Miami face early MLS playoff exit",
+      "url": "https://www.theguardian.com/football/2026/nov/21/lionel-messi-red-card-controversy-inter-miami-columbus-crew-mls-playoffs",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-22T03:01:55+00:00",
       "category": "clubs",
       "language": "en",
       "topics": [],
@@ -99,6 +160,17 @@
       "priority": 12
     },
     {
+      "id": "df15b65a2aa3f491",
+      "title": "Nine wins in a row - Bournemouth & Evanilson continue to make history",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6p9d102k4mdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-21T20:07:56+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
       "id": "3c5cebb79a1f11d6",
       "title": "Pochettino needs New Manager Bounce to break torrid Manchester United turnover | Jonathan Wilson",
       "url": "https://www.theguardian.com/football/2026/nov/21/pochettino-needs-new-manager-bounce-to-break-torrid-manchester-united-turnover",
@@ -123,17 +195,6 @@
         "Premier League"
       ],
       "priority": 12
-    },
-    {
-      "id": "2e05187707eadb07",
-      "title": "Evanilson strikes again as Bournemouth beat Forest",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cm4gn997yry2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-21T19:59:17+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
     },
     {
       "id": "bad15a0cb194552f",
@@ -165,17 +226,6 @@
       "url": "https://www.bbc.co.uk/sport/football/videos/c3174qq2j82zo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
       "published_at": "2026-11-21T19:59:02+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
-      "id": "4797f8899f1ccadf",
-      "title": "Villa's home woes continue as Sunderland earn point",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c5j9m227l42do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-21T19:58:56+00:00",
       "category": "clubs",
       "language": "en",
       "topics": [],
@@ -217,19 +267,6 @@
       "priority": 0
     },
     {
-      "id": "fcc911d1d9593485",
-      "title": "‘Fragile’ Chelsea must toughen up after Leeds humiliation, admits Xabi Alonso",
-      "url": "https://www.theguardian.com/football/2026/nov/21/chelsea-leeds-premier-league-match-report",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-21T19:20:51+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [
-        "Premier League"
-      ],
-      "priority": 12
-    },
-    {
       "id": "f151ee2cb5c058f1",
       "title": "'Fragile' and 'miles off it' - Alonso's Chelsea honeymoon is over",
       "url": "https://www.bbc.co.uk/sport/football/articles/cwe8944d004yo?at_medium=RSS&at_campaign=rss",
@@ -248,17 +285,6 @@
       "url": "https://www.bbc.co.uk/sport/football/articles/c50md981n277o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
       "published_at": "2026-11-21T18:30:22+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
-      "id": "7d838d7e76db8d12",
-      "title": "Championship roundup: Strelec sends Middlesbrough top; 10-man Stoke go second",
-      "url": "https://www.theguardian.com/football/2026/nov/21/championship-roundup-southampton-birmingham-middlesbrough-swansea",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-21T17:37:09+00:00",
       "category": "clubs",
       "language": "en",
       "topics": [],
@@ -335,37 +361,11 @@
       "priority": 12
     },
     {
-      "id": "c7854e1002af68e3",
-      "title": "Elon Musk’s lawyer joining Tom Brady in buying Chelsea stake",
-      "url": "https://www.theguardian.com/football/2026/nov/21/elon-musk-lawyer-tom-brady-nfl-chelsea-stake",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-21T14:20:05+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [
-        "Premier League"
-      ],
-      "priority": 12
-    },
-    {
       "id": "93ddbdc694373f1f",
       "title": "Brighton are rocking the Premier League elite. But can they mount a title tilt?",
       "url": "https://www.theguardian.com/football/2026/nov/21/brighton-rocking-premier-league-elite-title-challenge",
       "source": "The Guardian Football",
       "published_at": "2026-11-21T06:00:52+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [
-        "Premier League"
-      ],
-      "priority": 12
-    },
-    {
-      "id": "c34911cd2f321432",
-      "title": "Arsenal’s Lisa Baum: ‘I believe in us. I think it’s all about the small margins’",
-      "url": "https://www.theguardian.com/football/2026/nov/20/arsenal-lisa-baum-germany-brother-dennis",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-20T13:00:29+00:00",
       "category": "clubs",
       "language": "en",
       "topics": [
@@ -472,17 +472,6 @@
       "priority": 12
     },
     {
-      "id": "676ece7595e325a4",
-      "title": "Foot: le patron de la FFF Philippe Diallo candidat à la présidence de la Fifa",
-      "url": "https://www.rfi.fr/fr/sports/20261116-foot-le-patron-de-la-fff-philippe-diallo-candidat-%C3%A0-la-pr%C3%A9sidence-de-la-fifa",
-      "source": "RFI Sports",
-      "published_at": "2026-11-16T16:15:13+00:00",
-      "category": "clubs",
-      "language": "fr",
-      "topics": [],
-      "priority": 0
-    },
-    {
       "id": "618bde2fbfe44fc1",
       "title": "Éliminatoires CAN 2027: le Sénégal et le Cameroun ont un pied en phase finale",
       "url": "https://www.rfi.fr/fr/afrique-foot/20261116-%C3%A9liminatoires-can-2027-le-s%C3%A9n%C3%A9gal-et-le-cameroun-ont-un-pied-en-phase-finale",
@@ -524,15 +513,15 @@
   ],
   "source_errors": [],
   "search_trends_fr": [
-    "familles nombreuses : la vie en xxl",
-    "free",
-    "chaton",
-    "marc marquez",
-    "pont de l'île d'oléron",
-    "tanguy kouassi",
-    "toulon",
-    "selena gomez",
-    "laurent ruquier",
-    "saint-florent-sur-cher"
+    "f1 las vegas 2026",
+    "justine braisaz-bouchet",
+    "emmanuel macron",
+    "fertilité",
+    "saint-lunaire",
+    "manifestation",
+    "bordeaux",
+    "paredes",
+    "alexander haskin",
+    "rassie erasmus"
   ]
 }
