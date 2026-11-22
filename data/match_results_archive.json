@@ -1,8 +1,344 @@
 {
   "source": "API-Football",
-  "updated_at": "2026-11-22T01:14:12.335012+00:00",
-  "total": 1088,
+  "updated_at": "2026-11-22T03:59:26.179053+00:00",
+  "total": 1104,
   "matches": [
+    {
+      "id": 1551731,
+      "kickoff": "2026-11-22T02:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 162,
+        "name": "Primera División",
+        "country": "Costa-Rica"
+      },
+      "home": {
+        "name": "Perez Zeledon",
+        "logo": "https://media.api-sports.io/football/teams/819.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "Deportivo Saprissa",
+        "logo": "https://media.api-sports.io/football/teams/816.png",
+        "goals": 3
+      }
+    },
+    {
+      "id": 1559711,
+      "kickoff": "2026-11-22T02:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 339,
+        "name": "Liga Nacional",
+        "country": "Guatemala"
+      },
+      "home": {
+        "name": "Guastatoya",
+        "logo": "https://media.api-sports.io/football/teams/3662.png",
+        "goals": 4
+      },
+      "away": {
+        "name": "Comunicaciones",
+        "logo": "https://media.api-sports.io/football/teams/3658.png",
+        "goals": 1
+      }
+    },
+    {
+      "id": 1593708,
+      "kickoff": "2026-11-22T02:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 188,
+        "name": "A-League",
+        "country": "Australia"
+      },
+      "home": {
+        "name": "Wellington Phoenix",
+        "logo": "https://media.api-sports.io/football/teams/942.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "Macarthur",
+        "logo": "https://media.api-sports.io/football/teams/15550.png",
+        "goals": 2
+      }
+    },
+    {
+      "id": 1557237,
+      "kickoff": "2026-11-22T01:30:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 1130,
+        "name": "USL Super League",
+        "country": "USA"
+      },
+      "home": {
+        "name": "Dallas Trinity W",
+        "logo": "https://media.api-sports.io/football/teams/24660.png",
+        "goals": 0
+      },
+      "away": {
+        "name": "Lexington W",
+        "logo": "https://media.api-sports.io/football/teams/24664.png",
+        "goals": 2
+      }
+    },
+    {
+      "id": 1642318,
+      "kickoff": "2026-11-22T01:30:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 234,
+        "name": "Liga Nacional",
+        "country": "Honduras"
+      },
+      "home": {
+        "name": "Real Espana",
+        "logo": "https://media.api-sports.io/football/teams/1058.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "CD Marathon",
+        "logo": "https://media.api-sports.io/football/teams/1050.png",
+        "goals": 2
+      }
+    },
+    {
+      "id": 1651109,
+      "kickoff": "2026-11-22T01:30:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 304,
+        "name": "Liga Panameña de Fútbol",
+        "country": "Panama"
+      },
+      "home": {
+        "name": "CD Arabe Unido",
+        "logo": "https://media.api-sports.io/football/teams/2882.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "San Francisco FC",
+        "logo": "https://media.api-sports.io/football/teams/2887.png",
+        "goals": 0
+      }
+    },
+    {
+      "id": 1650176,
+      "kickoff": "2026-11-22T01:15:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 239,
+        "name": "Primera A",
+        "country": "Colombia"
+      },
+      "home": {
+        "name": "Once Caldas",
+        "logo": "https://media.api-sports.io/football/teams/1136.png",
+        "goals": 0
+      },
+      "away": {
+        "name": "Atletico Nacional",
+        "logo": "https://media.api-sports.io/football/teams/1137.png",
+        "goals": 0
+      }
+    },
+    {
+      "id": 1551043,
+      "kickoff": "2026-11-22T01:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 262,
+        "name": "Liga MX",
+        "country": "Mexico"
+      },
+      "home": {
+        "name": "U.N.A.M. - Pumas",
+        "logo": "https://media.api-sports.io/football/teams/2286.png",
+        "goals": 0
+      },
+      "away": {
+        "name": "Monterrey",
+        "logo": "https://media.api-sports.io/football/teams/2282.png",
+        "goals": 2
+      }
+    },
+    {
+      "id": 1631820,
+      "kickoff": "2026-11-22T01:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 722,
+        "name": "Liga Premier Serie A",
+        "country": "Mexico"
+      },
+      "home": {
+        "name": "La Tribu de Cd. Juarez",
+        "logo": "https://media.api-sports.io/football/teams/28306.png",
+        "goals": 4
+      },
+      "away": {
+        "name": "Real Refineros",
+        "logo": "https://media.api-sports.io/football/teams/28307.png",
+        "goals": 1
+      }
+    },
+    {
+      "id": 1636045,
+      "kickoff": "2026-11-22T01:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 1242,
+        "name": "Primera Premier",
+        "country": "Mexico"
+      },
+      "home": {
+        "name": "Celaya",
+        "logo": "https://media.api-sports.io/football/teams/2308.png",
+        "goals": 5
+      },
+      "away": {
+        "name": "Zacatepec 1948",
+        "logo": "https://media.api-sports.io/football/teams/2303.png",
+        "goals": 0
+      }
+    },
+    {
+      "id": 1650839,
+      "kickoff": "2026-11-22T01:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 396,
+        "name": "Primera Division",
+        "country": "Nicaragua"
+      },
+      "home": {
+        "name": "San Marcos",
+        "logo": "https://media.api-sports.io/football/teams/28553.png",
+        "goals": 0
+      },
+      "away": {
+        "name": "Real Estelí",
+        "logo": "https://media.api-sports.io/football/teams/4645.png",
+        "goals": 1
+      }
+    },
+    {
+      "id": 1647130,
+      "kickoff": "2026-11-22T00:30:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 421,
+        "name": "Division di Honor",
+        "country": "Aruba"
+      },
+      "home": {
+        "name": "Sporting",
+        "logo": "https://media.api-sports.io/football/teams/26895.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "Dakota",
+        "logo": "https://media.api-sports.io/football/teams/8237.png",
+        "goals": 0
+      }
+    },
+    {
+      "id": 1651069,
+      "kickoff": "2026-11-22T00:30:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 129,
+        "name": "Primera Nacional",
+        "country": "Argentina"
+      },
+      "home": {
+        "name": "Gimnasia Jujuy",
+        "logo": "https://media.api-sports.io/football/teams/479.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "Deportivo Madryn",
+        "logo": "https://media.api-sports.io/football/teams/1929.png",
+        "goals": 0
+      }
+    },
+    {
+      "id": 1492465,
+      "kickoff": "2026-11-22T00:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 71,
+        "name": "Serie A",
+        "country": "Brazil"
+      },
+      "home": {
+        "name": "Chapecoense-sc",
+        "logo": "https://media.api-sports.io/football/teams/132.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "Cruzeiro",
+        "logo": "https://media.api-sports.io/football/teams/135.png",
+        "goals": 2
+      }
+    },
+    {
+      "id": 1636043,
+      "kickoff": "2026-11-22T00:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 1242,
+        "name": "Primera Premier",
+        "country": "Mexico"
+      },
+      "home": {
+        "name": "Jaguares de Chiapas",
+        "logo": "https://media.api-sports.io/football/teams/2293.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "Los Cabos United",
+        "logo": "https://media.api-sports.io/football/teams/19908.png",
+        "goals": 0
+      }
+    },
+    {
+      "id": 1650550,
+      "kickoff": "2026-11-22T00:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 266,
+        "name": "Primera B",
+        "country": "Chile"
+      },
+      "home": {
+        "name": "Deportes Copiapo",
+        "logo": "https://media.api-sports.io/football/teams/2343.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "Antofagasta",
+        "logo": "https://media.api-sports.io/football/teams/2327.png",
+        "goals": 1
+      }
+    },
     {
       "id": 1550204,
       "kickoff": "2026-11-21T19:45:00+00:00",
