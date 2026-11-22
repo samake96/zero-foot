@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-21T21:51:09.435801+00:00",
+  "updated_at": "2026-11-22T01:19:12.127319+00:00",
   "items": [
+    {
+      "id": "8b555dcea5d6d8be",
+      "title": "Scottish Premiership roundup: Dundee left reeling after 8-0 mauling by Hearts",
+      "url": "https://www.theguardian.com/football/2026/nov/21/scottish-premiership-roundup-celtic-sweep-st-mirren-aside-to-strengthen-grip-at-top",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-21T22:20:19+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
     {
       "id": "3db0afc5d0b4f2e4",
       "title": "Raya set to have scan on injury - how much would Arsenal miss him?",
@@ -59,17 +70,6 @@
       "url": "https://www.bbc.co.uk/sport/football/articles/c6p9d102k4mdo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
       "published_at": "2026-11-21T20:07:56+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
-      "id": "7cc8ef6aa0de7b08",
-      "title": "Scottish Premiership roundup: Celtic sweep St Mirren aside to strengthen grip at top",
-      "url": "https://www.theguardian.com/football/2026/nov/21/scottish-premiership-roundup-celtic-sweep-st-mirren-aside-to-strengthen-grip-at-top",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-21T20:05:28+00:00",
       "category": "clubs",
       "language": "en",
       "topics": [],
@@ -183,8 +183,8 @@
       "priority": 20
     },
     {
-      "id": "6459c03865c2c2a3",
-      "title": "Who was 'a consistent threat'? Newcastle v Arsenal player ratings",
+      "id": "7474b78a7537f18b",
+      "title": "Madueke 'a consistent threat' - Newcastle v Arsenal player ratings",
       "url": "https://www.bbc.co.uk/sport/football/articles/cq4gn97e8ee4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
       "published_at": "2026-11-21T19:29:48+00:00",
@@ -196,8 +196,8 @@
       "priority": 12
     },
     {
-      "id": "a4652692ddd108cd",
-      "title": "'The world got to see today' - who is new Spurs star Williams-Barnett?",
+      "id": "43d73e20805e8cc6",
+      "title": "'The world got to see today' - Williams-Barnett announces himself as Spurs star",
       "url": "https://www.bbc.co.uk/sport/football/articles/cm9d7jg50e12o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
       "published_at": "2026-11-21T19:21:01+00:00",
@@ -345,19 +345,6 @@
       "language": "en",
       "topics": [
         "Premier League"
-      ],
-      "priority": 12
-    },
-    {
-      "id": "f249997964d64593",
-      "title": "Ligue des nations : L'équipe de France retrouve l'Espagne en quarts",
-      "url": "https://www.france24.com/fr/%C3%A9missions/sports/20261121-ligue-des-nations-l-%C3%A9quipe-de-france-retrouve-l-espagne-en-quarts",
-      "source": "France 24",
-      "published_at": "2026-11-21T11:00:01+00:00",
-      "category": "clubs",
-      "language": "fr",
-      "topics": [
-        "Sélections"
       ],
       "priority": 12
     },
@@ -538,15 +525,15 @@
   ],
   "source_errors": [],
   "search_trends_fr": [
-    "iago aspas",
-    "montoya",
-    "pierre perret benjamin biolay",
-    "facundo",
-    "michaël cuisance",
-    "jaafar jackson",
-    "jean pierre papin",
-    "verhaeghe rugby",
-    "jefferson poirot",
-    "real"
+    "invités léa salamé quelle époque",
+    "kraken",
+    "spurs – pelicans",
+    "knicks – trail blazers",
+    "miss univers 2026",
+    "gadi eisenkot",
+    "katniss everdeen",
+    "écosse",
+    "denzel washington",
+    "nicolas demorand"
   ]
 }
