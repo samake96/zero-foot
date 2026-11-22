@@ -1,6 +1,150 @@
 {
-  "updated_at": "2026-11-22T15:54:19.710923+00:00",
+  "updated_at": "2026-11-22T18:58:32.307222+00:00",
   "items": [
+    {
+      "id": "402559d790bad349",
+      "title": "Liverpool hand Pochettino nightmare Manchester United start after Yoro sees red",
+      "url": "https://www.theguardian.com/football/2026/nov/22/liverpool-manchester-united-premier-league-match-report",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-22T18:35:14+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [
+        "Premier League"
+      ],
+      "priority": 12
+    },
+    {
+      "id": "41060669f54e2cc1",
+      "title": "Yoro sees red as Ngumoha shines - Liverpool v Man Utd player ratings",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c933gzxk66yyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-22T18:28:51+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [
+        "Premier League"
+      ],
+      "priority": 12
+    },
+    {
+      "id": "a560a42c18e05047",
+      "title": "The red card that changed Liverpool-Man Utd: correct call?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq7827p8emmxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-22T17:55:54+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [
+        "Premier League"
+      ],
+      "priority": 12
+    },
+    {
+      "id": "f2c6121ae9f6c3df",
+      "title": "Spurs deny Man City top spot with statement win",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c9vg2112evvdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-22T17:54:36+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "da2c521902475d4f",
+      "title": "Man Utd score dramatic late winner to extend record run",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm0rkzzyl2ego?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-22T17:54:32+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "e75bac34590ad123",
+      "title": "Arsenal frustrations grow as winless home run continues",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm8e0pdw70d8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-22T17:30:45+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [
+        "Premier League"
+      ],
+      "priority": 12
+    },
+    {
+      "id": "af80922e924fa626",
+      "title": "Jakirovic full of praise for Tzolakis performance",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cqz0k335d0njo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-22T17:18:07+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "ca473ef0d1987b6a",
+      "title": "Football: rupture du ligament du genou pour Désiré Doué, le PSG devra s'activer pendant le mercato",
+      "url": "https://www.rfi.fr/fr/sports/20261122-football-rupture-du-ligament-pour-d%C3%A9sir%C3%A9-dou%C3%A9-le-psg-devra-s-activer-pendant-le-mercato",
+      "source": "RFI Sports",
+      "published_at": "2026-11-22T17:00:38+00:00",
+      "category": "transfers",
+      "language": "fr",
+      "topics": [
+        "Ligue 1"
+      ],
+      "priority": 20
+    },
+    {
+      "id": "777b29a1be08a74b",
+      "title": "'Rolls-Royce' Iqbal's 'dream' journey from Old Trafford to Tannadice",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwj05z6npze4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-22T17:00:01+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "22ee4c5a5cc3f3d8",
+      "title": "European football: Barcelona roar back from two goals down to sink Villarreal",
+      "url": "https://www.theguardian.com/football/2026/nov/22/european-football-barcelona-villarreal-juventus-milan-inter",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-22T16:53:47+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [
+        "La Liga"
+      ],
+      "priority": 12
+    },
+    {
+      "id": "8b060233d0211f37",
+      "title": "Spurs 'a match for anyone' as win at Man City boosts European hopes",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6n901w453nlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-22T16:25:35+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "463004d004c90b8c",
+      "title": "McBurnie’s added-time double snatches win for Hull to shock 10-man Brighton",
+      "url": "https://www.theguardian.com/football/2026/nov/22/hull-brighton-premier-league-match-report",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-22T16:10:48+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
     {
       "id": "e2d7cac13759b2e8",
       "title": "PSG's Doue to have surgery on ruptured ACL",
@@ -15,45 +159,6 @@
       "priority": 12
     },
     {
-      "id": "d77052cf3b5a8f77",
-      "title": "Hull City v Brighton: Premier League – live",
-      "url": "https://www.theguardian.com/football/live/2026/nov/22/hull-city-v-brighton-premier-league-live",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-22T15:49:55+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [
-        "Premier League"
-      ],
-      "priority": 12
-    },
-    {
-      "id": "80aa82e5b7c8ede5",
-      "title": "Liverpool v Manchester United: Premier League – live",
-      "url": "https://www.theguardian.com/football/live/2026/nov/22/liverpool-v-manchester-united-premier-league-live",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-22T15:47:42+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [
-        "Premier League"
-      ],
-      "priority": 12
-    },
-    {
-      "id": "6aa2b53f4002b2e9",
-      "title": "Arsenal v West Ham, Manchester City 1-3 Tottenham: WSL clockwatch – live",
-      "url": "https://www.theguardian.com/football/live/2026/nov/22/wsl-manchester-city-tottenham-birmingham-manchester-united-arsenal-west-ham-live",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-22T15:45:06+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [
-        "Premier League"
-      ],
-      "priority": 12
-    },
-    {
       "id": "c2cfeec3dc2828a8",
       "title": "Blackburn earn derby draw for Mowbray and extend Burnley’s wait for home win",
       "url": "https://www.theguardian.com/football/2026/nov/22/burnley-blackburn-championship-match-report",
@@ -63,6 +168,19 @@
       "language": "en",
       "topics": [],
       "priority": 0
+    },
+    {
+      "id": "96ce0539fd8d3536",
+      "title": "Manchester City’s WSL title bid hit by Spurs after Vinberg and Naz’s late double",
+      "url": "https://www.theguardian.com/football/2026/nov/22/manchester-city-tottenham-wsl-match-report",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-22T14:59:23+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [
+        "Premier League"
+      ],
+      "priority": 12
     },
     {
       "id": "f7ad921720df7178",
@@ -85,19 +203,6 @@
       "language": "en",
       "topics": [],
       "priority": 0
-    },
-    {
-      "id": "b5a85c9047c475ef",
-      "title": "Ligue 1 : Le Paris Saint-Germain enchaîne à Nice (3-2) mais perd Désiré Doué",
-      "url": "https://www.france24.com/fr/%C3%A9missions/sports/20261122-ligue-1-le-paris-saint-germain-encha%C3%AEne-%C3%A0-nice-3-2-mais-perd-d%C3%A9sir%C3%A9-dou%C3%A9",
-      "source": "France 24",
-      "published_at": "2026-11-22T10:33:01+00:00",
-      "category": "clubs",
-      "language": "fr",
-      "topics": [
-        "Ligue 1"
-      ],
-      "priority": 12
     },
     {
       "id": "ab5c337f25ededb7",
@@ -124,25 +229,11 @@
       "priority": 12
     },
     {
-      "id": "b402c67b14207dc6",
-      "title": "Why Arsenal are behind in race for Champions League spots",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c8752llr1ed1o?at_medium=RSS&at_campaign=rss",
+      "id": "ace652119a06a88a",
+      "title": "Argentina midfielder Paredes collapses during TV interview",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwnv45818z59o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
-      "published_at": "2026-11-22T07:17:10+00:00",
-      "category": "competitions",
-      "language": "en",
-      "topics": [
-        "Premier League",
-        "Ligue des champions"
-      ],
-      "priority": 12
-    },
-    {
-      "id": "281758da0063e0b0",
-      "title": "'He will see what Man Utd are made of' - Pulis on Pochettino's first game",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckqx5w58dgv7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-22T06:21:55+00:00",
+      "published_at": "2026-11-22T07:13:34+00:00",
       "category": "clubs",
       "language": "en",
       "topics": [],
@@ -171,6 +262,17 @@
       "priority": 0
     },
     {
+      "id": "d12aed03ceb445b5",
+      "title": "I wish referee had opportunity to see 'handball' again - Hart",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cme3dvk1kzgqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-22T00:08:13+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
       "id": "a79c5227c2a3e5ff",
       "title": "‘Obviously it’s not good’: Arteta sweating over David Raya’s fitness after injury",
       "url": "https://www.theguardian.com/football/2026/nov/21/david-raya-shoulder-injury-arsenal-newcastle-mikel-arteta",
@@ -193,111 +295,6 @@
         "Premier League"
       ],
       "priority": 20
-    },
-    {
-      "id": "3c5cebb79a1f11d6",
-      "title": "Pochettino needs New Manager Bounce to break torrid Manchester United turnover | Jonathan Wilson",
-      "url": "https://www.theguardian.com/football/2026/nov/21/pochettino-needs-new-manager-bounce-to-break-torrid-manchester-united-turnover",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-21T20:00:06+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [
-        "Premier League"
-      ],
-      "priority": 12
-    },
-    {
-      "id": "16b50e120a9acc85",
-      "title": "Arsenal go six points clear after lively draw at Newcastle",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cm702zzl66l6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-21T19:59:35+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [
-        "Premier League"
-      ],
-      "priority": 12
-    },
-    {
-      "id": "2e05187707eadb07",
-      "title": "Evanilson strikes again as Bournemouth beat Forest",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cm4gn997yry2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-21T19:59:17+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
-      "id": "bad15a0cb194552f",
-      "title": "Leeds dominate Chelsea for first Stamford Bridge win since 1999",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c3ewvkk4qgxjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-21T19:59:13+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [
-        "Premier League"
-      ],
-      "priority": 12
-    },
-    {
-      "id": "7e053ac62e61a56b",
-      "title": "Man City drop points to Fulham despite superb Anderson volley",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c30rkq9xyk8eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-21T19:59:08+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
-      "id": "2e59c5b05654b227",
-      "title": "Teenager Williams-Barnett shines as Spurs beat Ipswich",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c3174qq2j82zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-21T19:59:02+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
-      "id": "4797f8899f1ccadf",
-      "title": "Villa's home woes continue as Sunderland earn point",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c5j9m227l42do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-21T19:58:56+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
-      "id": "d9375ac61327a560",
-      "title": "Coventry beat Palace in Frank's first game after late own goal",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c8wy5ddky5n9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-21T19:58:52+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
-      "id": "43d73e20805e8cc6",
-      "title": "'The world got to see today' - Williams-Barnett announces himself as Spurs star",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm9d7jg50e12o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-21T19:21:01+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
     },
     {
       "id": "18bd8038127daecd",
@@ -370,17 +367,15 @@
       "priority": 12
     },
     {
-      "id": "93ddbdc694373f1f",
-      "title": "Brighton are rocking the Premier League elite. But can they mount a title tilt?",
-      "url": "https://www.theguardian.com/football/2026/nov/21/brighton-rocking-premier-league-elite-title-challenge",
+      "id": "c9c178c8a1c8f072",
+      "title": "Training hard and biding his time, Dele Alli has not given up on football yet",
+      "url": "https://www.theguardian.com/football/2026/nov/20/dele-alli-tottenham-mk-dons-england",
       "source": "The Guardian Football",
-      "published_at": "2026-11-21T06:00:52+00:00",
+      "published_at": "2026-11-20T19:00:37+00:00",
       "category": "clubs",
       "language": "en",
-      "topics": [
-        "Premier League"
-      ],
-      "priority": 12
+      "topics": [],
+      "priority": 0
     },
     {
       "id": "fcfcd86354fbb1d9",
@@ -505,32 +500,19 @@
         "Sélections"
       ],
       "priority": 12
-    },
-    {
-      "id": "23dedd85352890a5",
-      "title": "Ligue des champions féminine CAF: l'AS FAR remporte le titre et venge son équipe masculine contre le Mamelodi Sundowns",
-      "url": "https://www.rfi.fr/fr/afrique-foot/20261115-ligue-des-champions-f%C3%A9minine-caf-l-as-far-remporte-le-titre-et-venge-son-%C3%A9quipe-masculine-contre-le-mamelodi-sundowns",
-      "source": "RFI Afrique Foot",
-      "published_at": "2026-11-15T17:18:06+00:00",
-      "category": "competitions",
-      "language": "fr",
-      "topics": [
-        "Ligue des champions"
-      ],
-      "priority": 12
     }
   ],
   "source_errors": [],
   "search_trends_fr": [
-    "liverpool – man utd",
-    "lorient – rennes",
-    "trabzonspor – eyüpspor",
-    "jean-luc lemoine",
-    "giovanni de gennaro",
-    "yassir zabiri",
-    "fc barcelona vs villarreal cf standings",
-    "marcelo arévalo",
-    "om le mans",
-    "un dimanche à la campagne invités aujourd'hui"
+    "classement liverpool – man utd",
+    "leon hesby",
+    "lavalette laure",
+    "charles ollivon",
+    "tony parker",
+    "eagles – steelers",
+    "frédéric lopez",
+    "eric dussart",
+    "macaulay culkin",
+    "chiefs – cardinals"
   ]
 }
