@@ -1,0 +1,57 @@
+:root {
+  color-scheme: dark;
+  --muted: #adbed1;
+}
+
+body { line-height: 1.5; }
+#homeIntro:not(.compact) {
+  padding-block: clamp(22px, 4vw, 48px);
+  background: linear-gradient(105deg, #12393d, #102438 60%, #132f3b);
+}
+#homeIntro h1 { font-size: clamp(28px, 4vw, 48px); }
+#homeDate { color: #c1dbdf; }
+.home-links { gap: 10px; }
+.home-links a {
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
+  padding-inline: 14px;
+  font-weight: 650;
+}
+.home-links a:hover { border-color: var(--green); }
+#matches .home-tabs { background: #0c1522; }
+#matches .home-tabs button { min-height: 44px; }
+.match-controls { display: flex; flex-direction: column-reverse; }
+#matches .scoreboard-tools { background: #142234; }
+#matches :is(input, select, .scoreboard-tools button) { min-height: 44px; }
+#matchSearch { padding-inline: 13px; }
+#matches .match-filters { margin-top: 0; }
+#matchList .fixture-group { background: #1a2d42; color: #d7e6f7; }
+#matchList .match-row { grid-template-columns: 44px minmax(0, 1fr); }
+#matchList .match-entry { padding-inline: 0 12px; }
+#matchList .match { padding: 12px 4px; grid-template-columns: minmax(0, 1fr) 100px minmax(0, 1fr); }
+#matchList .score { min-width: 0; font-variant-numeric: tabular-nums; }
+#matchList .status { color: #bdcce0; line-height: 1.25; display: inline-block; }
+#matchList .favorite-toggle { min-height: 44px; min-width: 44px; }
+#homeSidebar .fc-feature { padding: 0 0 14px; gap: 8px; }
+#homeSidebar .fc-feature img { display: block; width: 100%; aspect-ratio: 16 / 10; object-fit: cover; }
+#homeSidebar .fc-feature :is(span, strong) { margin-inline: 14px; }
+.fc-footer-links { gap: 16px; margin-top: 8px; }
+.fc-footer-links a { color: var(--text); text-underline-offset: 3px; }
+
+@media (max-width: 600px) {
+  .head > nav { flex-wrap: nowrap; justify-content: flex-start; overflow-x: auto; }
+  .head > nav button { flex: none; min-height: 44px; }
+  #matches .home-tabs { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); }
+  #matches .home-tabs button { padding-inline: 2px; }
+  #matchList .match { grid-template-columns: minmax(0, 1fr) 66px minmax(0, 1fr); gap: 4px; }
+  #matchList .team-with-logo { flex-direction: column; align-items: flex-start; gap: 3px; }
+  #matchList .team-with-logo.right { flex-direction: column-reverse; align-items: flex-end; }
+  #matchList .team-logo { width: 22px; height: 22px; }
+  #matchList .team { font-size: 13px; line-height: 1.25; }
+  #matches input, #matches select { font-size: 16px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .news-card { transition: none; }
+  .news-card:hover { transform: none; }
+}
