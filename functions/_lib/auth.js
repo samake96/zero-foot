@@ -23,6 +23,6 @@ export async function accessIdentity(request,env){
   const signature=Uint8Array.from(atob(parts[2].replace(/-/g,'+').replace(/_/g,'/').padEnd(Math.ceil(parts[2].length/4)*4,'=')),c=>c.charCodeAt(0));
   const bytes=new TextEncoder().encode(parts[0]+'.'+parts[1]);
   if(!await crypto.subtle.verify('RSASSA-PKCS1-v1_5',publicKey,signature,bytes))return null;
-  return {id:payload.sub,name:typeof payload.email==='string'?payload.email.split('@')[0].slice(0,40):'Supporter'};
+  return {id:payload.sub,email:typeof payload.email==='string'?payload.email.toLowerCase():null,name:typeof payload.email==='string'?payload.email.split('@')[0].slice(0,40):'Supporter'};
  }catch{return null}
 }

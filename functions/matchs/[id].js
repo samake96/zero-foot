@@ -5,6 +5,18 @@ import {historicalComparison} from '../_lib/openfootball.js';
 import {competitions, dateLabel, escape, loadData, page} from '../_lib/public-football.js';
 import {getSnapshot, matchScore, matchStatus} from '../_lib/score-data.js';
 
+async function publishedAnalysis(db, matchId) {
+  if (!db) return null;
+  try {
+    const row = await db.prepare(
+      "SELECT content FROM match_editorial_revisions WHERE match_id = ? AND state = 'published'"
+    ).bind(matchId).first();
+    return row ? JSON.parse(row.content) : null;
+  } catch {
+    return null;
+  }
+}
+
 const scoresLink = '<p><a href="/scores">Tous les scores</a></p>';
 
 export async function onRequestGet(context) {
@@ -52,10 +64,11 @@ export async function onRequestGet(context) {
   const standings = competition
     ? '<p><a href="/classements/' + competition.slug + '">Classement ' + escape(league) + '</a></p>'
     : '';
-  const [history, archive, editorials] = await Promise.all([
+  const [history, archive, editorials, published] = await Promise.all([
     matchHistory(context, match),
     historicalComparison(context, match),
     loadData(context, 'match-editorials').catch(() => null),
+    publishedAnalysis(context.env.COMMUNITY_DB, id),
   ]);
   const upcoming = match.status === 'NS' || match.status === 'TBD';
   const scoreboard = `<section class="mc-section" aria-label="Tableau du match">
@@ -66,7 +79,7 @@ export async function onRequestGet(context) {
         <div>${teamLogo(match.away)}<strong>${teamLink(match.away)}</strong></div>
       </div>
     </section>`;
-  const sections = [['resume', 'Résumé', matchSummary(match, history, status, editorials?.[id])]];
+  const sections = [['resume', 'Résumé', matchSummary(match, history, status, published ?? editorials?.[id])]];
   if (history.home.length || history.away.length) {
     sections.push(['forme', 'Forme', `<section id="forme" class="mc-section">
       <h2>Derniers résultats</h2>

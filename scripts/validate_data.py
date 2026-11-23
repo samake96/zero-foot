@@ -1,4 +1,5 @@
 """Validate FootChrono static data before publication. Standard library only."""
+from datetime import datetime
 import json
 from pathlib import Path
 
@@ -14,36 +15,51 @@ for filename in REQUIRED:
         if not isinstance(payload, (dict, list)):
             errors.append(f"{filename}: unexpected root type")
             continue
-        if filename == "matches.json":
+        if filename in {"matches.json", "match_results_archive.json"}:
             matches = payload.get("matches") if isinstance(payload, dict) else None
             if not isinstance(matches, list):
-                errors.append("matches.json: matches must be a list")
-            else:
-                ids = [str(x.get("id")) for x in matches if isinstance(x, dict) and x.get("id") is not None]
-                if len(ids) != len(set(ids)):
-                    errors.append("matches.json: duplicate fixture IDs")
-        if filename == "match_results_archive.json":
-            matches = payload.get("matches") if isinstance(payload, dict) else None
-            if not isinstance(matches, list):
-                errors.append("match_results_archive.json: matches must be a list")
-            else:
-                ids = []
-                for m in matches:
-                    if not isinstance(m, dict):
-                        errors.append("archive: non-object match")
+                errors.append(f"{filename}: matches must be a list")
+                continue
+            seen = set()
+            archive = filename == "match_results_archive.json"
+            for match in matches:
+                if not isinstance(match, dict):
+                    errors.append(f"{filename}: non-object match")
+                    continue
+                fixture_id = match.get("id")
+                label = f"{filename}: match {fixture_id}"
+                if type(fixture_id) is not int or fixture_id < 1 or fixture_id in seen:
+                    errors.append(f"{label}: invalid or duplicate fixture ID")
+                else:
+                    seen.add(fixture_id)
+                try:
+                    if datetime.fromisoformat(match.get("kickoff", "")).utcoffset() is None:
+                        raise ValueError
+                except (ValueError, TypeError):
+                    errors.append(f"{label}: invalid kickoff or missing timezone")
+                league = match.get("league")
+                if not isinstance(league, dict) or type(league.get("id")) is not int or league["id"] < 1:
+                    errors.append(f"{label}: invalid competition")
+                status = match.get("status")
+                final = isinstance(status, str) and status in {"FT", "AET", "PEN"}
+                if not isinstance(status, str) or not status.strip() or (archive and not final):
+                    errors.append(f"{label}: invalid match status")
+                logos = []
+                for side in ("home", "away"):
+                    team = match.get(side)
+                    if not isinstance(team, dict) or not isinstance(team.get("name"), str) or not team["name"].strip():
+                        errors.append(f"{label}: missing {side} team")
                         continue
-                    if m.get("status") not in {"FT", "AET", "PEN"}:
-                        errors.append(f"archive: non-final status for {m.get('id')}")
-                    for side in ("home", "away"):
-                        score = (m.get(side) or {}).get("goals")
-                        if not isinstance(score, int) or isinstance(score, bool) or score < 0:
-                            errors.append(f"archive: invalid {side} score for {m.get('id')}")
-                    if m.get("id") is not None:
-                        ids.append(str(m["id"]))
-                if len(ids) != len(set(ids)):
-                    errors.append("archive: duplicate fixture IDs")
-                if payload.get("total") != len(matches):
-                    errors.append("archive: total does not match matches length")
+                    logo = team.get("logo")
+                    if isinstance(logo, str) and logo.startswith("https://media.api-sports.io/football/teams/"):
+                        logos.append(logo)
+                    score = team.get("goals")
+                    if (final or score is not None) and (type(score) is not int or score < 0):
+                        errors.append(f"{label}: invalid {side} score")
+                if len(logos) == 2 and logos[0] == logos[1]:
+                    errors.append(f"{label}: same provider team on both sides")
+            if archive and payload.get("total") != len(matches):
+                errors.append("archive: total does not match matches length")
     except (OSError, ValueError, UnicodeError) as exc:
         errors.append(f"{filename}: {type(exc).__name__}: {exc}")
 if errors:
