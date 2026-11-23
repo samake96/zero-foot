@@ -1,18 +1,84 @@
 {
-  "updated_at": "2026-11-23T07:46:54.023984+00:00",
+  "updated_at": "2026-11-23T10:22:33.372994+00:00",
   "items": [
     {
-      "id": "70743218cbb93b2e",
-      "title": "Ligue 1 : renversé par Le Mans, Marseille rechute après 5 victoires consécutives",
-      "url": "https://www.france24.com/fr/%C3%A9missions/sports/20261123-ligue-1-renvers%C3%A9-par-le-mans-marseille-rechute-apr%C3%A8s-5-victoires-cons%C3%A9cutives",
-      "source": "France 24",
-      "published_at": "2026-11-23T07:30:26+00:00",
+      "id": "7135b119dabeefab",
+      "title": "Every goal from the Women's Super League - matchweek 11",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cq8j4glgw4pvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-23T09:34:52+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "e0ea2329cbde802b",
+      "title": "Pioneer or coach-eater? The complex world of Pozzo's Watford",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq98z9p66g0xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-23T08:55:36+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "5caf100d0e445de4",
+      "title": "Holloway sacked by Swindon after two seasons",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5yrg1r6ezno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-23T08:44:53+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "b06d6735d3decb76",
+      "title": "RDC: le défenseur Magloire Kalonji, de retour chez les Corbeaux avec les Léopards en tête",
+      "url": "https://www.rfi.fr/fr/afrique-foot/20261123-rdc-le-d%C3%A9fenseur-magloire-kalonji-de-retour-chez-les-corbeaux-avec-les-l%C3%A9opards-en-t%C3%AAte",
+      "source": "RFI Afrique Foot",
+      "published_at": "2026-11-23T08:21:25+00:00",
       "category": "clubs",
       "language": "fr",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "eb429c0acd6ee61b",
+      "title": "‘Haaland must be worried’: Thierno Barry’s rise has David Moyes purring",
+      "url": "https://www.theguardian.com/football/2026/nov/23/thierno-barry-rise-david-moyes-purring-everton",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-23T08:00:51+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "edb79fcdd6fc42f5",
+      "title": "Premier League: 10 talking points from the weekend’s action",
+      "url": "https://www.theguardian.com/football/2026/nov/23/premier-league-10-talking-points-from-the-weekends-action",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-23T08:00:50+00:00",
+      "category": "clubs",
+      "language": "en",
       "topics": [
-        "Ligue 1"
+        "Premier League"
       ],
       "priority": 12
+    },
+    {
+      "id": "44b2d9ea6efaf303",
+      "title": "'Our Super Bowl moment' - what can WSL learn from booming US league?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c893rk66e1l7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-23T07:52:55+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
     },
     {
       "id": "a043b6ffd9be0abb",
@@ -76,41 +142,6 @@
       "priority": 12
     },
     {
-      "id": "a1da69901b800505",
-      "title": "Fifa to confirm UK as host for 2035 Women's World Cup",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx30g83716lzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-22T21:44:37+00:00",
-      "category": "competitions",
-      "language": "en",
-      "topics": [
-        "Sélections"
-      ],
-      "priority": 12
-    },
-    {
-      "id": "0c5614994fefec61",
-      "title": "'World's best could've lost 4-0' - but should Man Utd have done more at Anfield?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm782j80yypwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-22T21:36:00+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
-      "id": "5fa7ecd0bcbdde8d",
-      "title": "‘It’s painful for me’: Pochettino criticises Yoro red card in Anfield humiliation",
-      "url": "https://www.theguardian.com/football/2026/nov/22/mauricio-pochettino-manchester-united-reign-begins-with-anfield-humiliation-liverpool",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-22T21:31:03+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
       "id": "e14f915c510f2326",
       "title": "Chaotic week, nightmare start and huge reality check for Pochettino",
       "url": "https://www.bbc.co.uk/sport/football/articles/cwd012903kvgo?at_medium=RSS&at_campaign=rss",
@@ -166,17 +197,6 @@
         "Premier League"
       ],
       "priority": 12
-    },
-    {
-      "id": "28da5dd1c993a01d",
-      "title": "From conceding seven to Hull heroics - how Tzolakis recovered to defy Brighton",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm4gn7npqe8yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-22T19:03:32+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
     },
     {
       "id": "b80f98e1e2f059ff",
@@ -240,17 +260,6 @@
         "Ligue 1"
       ],
       "priority": 20
-    },
-    {
-      "id": "8b060233d0211f37",
-      "title": "Spurs 'a match for anyone' as win at Man City boosts European hopes",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6n901w453nlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-22T16:25:35+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
     },
     {
       "id": "463004d004c90b8c",
@@ -323,17 +332,6 @@
       "language": "en",
       "topics": [],
       "priority": 0
-    },
-    {
-      "id": "a79c5227c2a3e5ff",
-      "title": "‘Obviously it’s not good’: Arteta sweating over David Raya’s fitness after injury",
-      "url": "https://www.theguardian.com/football/2026/nov/21/david-raya-shoulder-injury-arsenal-newcastle-mikel-arteta",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-21T21:48:21+00:00",
-      "category": "injuries",
-      "language": "en",
-      "topics": [],
-      "priority": 8
     },
     {
       "id": "d36ff991a072c980",
@@ -495,17 +493,19 @@
       "priority": 12
     }
   ],
-  "source_errors": [],
+  "source_errors": [
+    "France 24: HTTPError: HTTP Error 403: Forbidden"
+  ],
   "search_trends_fr": [
-    "chu guadeloupe cyberattaque",
-    "aaron grandidier-nkanang",
-    "racing club de strasbourg alsace",
-    "brionne",
-    "roumanie",
-    "haiti",
-    "sous-marin nucléaire",
-    "grand chelem",
-    "vierge de porto vecchio",
-    "jamal murray"
+    "horoscope christine haas",
+    "france musique",
+    "rockstar north",
+    "vent alpes maritimes",
+    "gaz",
+    "cedric herrou",
+    "marco van staden",
+    "crédit mutuel",
+    "gare ferroviaire",
+    "indemnité"
   ]
 }
