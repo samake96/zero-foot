@@ -1,3 +1,4 @@
+import {matchSummary} from '../_lib/match-summary.js';
 import {matchCenterStyle} from '../_lib/match-center-style.js';
 import {matchHistory, resultList, teamLogo} from '../_lib/match-center.js';
 import {historicalComparison} from '../_lib/openfootball.js';
@@ -56,16 +57,15 @@ export async function onRequestGet(context) {
     historicalComparison(context, match),
   ]);
   const upcoming = match.status === 'NS' || match.status === 'TBD';
-  const sections = [
-    ['resume', 'Résumé', `<section id="resume" class="mc-section">
+  const scoreboard = `<section class="mc-section" aria-label="Tableau du match">
       <p class="mc-kicker">${escape(league)} <span aria-hidden="true">·</span> ${escape(date)} UTC</p>
       <div class="mc-scoreboard">
         <div>${teamLogo(match.home)}<strong>${escape(match.home.name)}</strong></div>
         <div><strong class="mc-score">${escape(upcoming ? 'VS' : score)}</strong><span class="mc-status">${escape(status)}</span></div>
         <div>${teamLogo(match.away)}<strong>${escape(match.away.name)}</strong></div>
       </div>
-    </section>`],
-  ];
+    </section>`;
+  const sections = [['resume', 'Résumé', matchSummary(match, history, status)]];
   if (history.home.length || history.away.length) {
     sections.push(['forme', 'Forme', `<section id="forme" class="mc-section">
       <h2>Derniers résultats</h2><p class="mc-note">Jusqu’à cinq matchs par équipe sur les douze derniers mois, selon les résultats disponibles.</p>
@@ -84,10 +84,10 @@ export async function onRequestGet(context) {
     path, title:heading + ' | Score et résultat', heading,
     description:heading + ', ' + league + '. ' + status + (score === '—' ? '.' : ' · ' + score + '.'),
     content:`<div class="mc-center">
-      ${sections[0][2]}
+      ${scoreboard}
       <nav class="mc-nav" aria-label="Dans cette fiche">${sections.map(([anchor, label]) =>
         `<a href="#${anchor}">${label}</a>`).join('')}</nav>
-      ${sections.slice(1).map(([, , html]) => html).join('')}
+      ${sections.map(([, , html]) => html).join('')}
       ${standings}${scoresLink}</div>`,
     cache:30, ads:false, style:matchCenterStyle,
   });

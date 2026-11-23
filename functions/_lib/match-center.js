@@ -6,7 +6,7 @@ const teamAliases = {
 };
 const leagueNames = {PL: 'Premier League', PD: 'La Liga', BL1: 'Bundesliga', SA: 'Serie A', FL1: 'Ligue 1'};
 
-function teamKey(name) {
+export function teamKey(name) {
   const key = name.toLowerCase().replace(/ø/g, 'o').normalize('NFD').replace(/\p{M}/gu, '')
     .replace(/\b(?:fc|cf|afc)\b/g, '').replace(/[^a-z0-9]/g, '');
   return Object.hasOwn(teamAliases, key) ? teamAliases[key] : key;
