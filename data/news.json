@@ -1,6 +1,63 @@
 {
-  "updated_at": "2026-11-23T16:18:23.981291+00:00",
+  "updated_at": "2026-11-23T19:12:39.838914+00:00",
   "items": [
+    {
+      "id": "ab844b3532174e69",
+      "title": "Brentford v Everton: Premier League – live",
+      "url": "https://www.theguardian.com/football/live/2026/nov/23/brentford-v-everton-premier-league-live",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-23T18:54:31+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [
+        "Premier League"
+      ],
+      "priority": 12
+    },
+    {
+      "id": "ed5c9bacc4bdfcf4",
+      "title": "Madness erupts as Sevilla deny Betis in wild end to Spain’s ‘derby of derbies’",
+      "url": "https://www.theguardian.com/football/2026/nov/23/sevilla-real-betis-seville-derby-la-liga-kike-salas",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-23T17:49:56+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "68f8cef3d3845d80",
+      "title": "'No-one's coming to save us' - but how can Man Utd save themselves?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck9d7qxxl7w8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-23T16:30:59+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "976ec9a7c61012a4",
+      "title": "When is the Euro 2028 qualifying draw?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cklye3q3jvnwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-23T16:25:50+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "8304ec5ee4d07f0f",
+      "title": "Hibs boss Reedijk rejects talk of Easter Road jinx",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr78274gepz0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-23T16:17:17+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
     {
       "id": "3ab857961868442b",
       "title": "Ligue des champions: le PSG veut poursuivre son parcours sans faute, Lens et Lille aux abois",
@@ -43,7 +100,7 @@
     },
     {
       "id": "55712e4f4f50dc07",
-      "title": "I've wanted to crawl under a rock and hide' - Pressley",
+      "title": "I've wanted to crawl under a rock and hide - Pressley",
       "url": "https://www.bbc.co.uk/sport/football/articles/cre3d9j5k4n8o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
       "published_at": "2026-11-23T15:31:57+00:00",
@@ -105,8 +162,8 @@
       "priority": 12
     },
     {
-      "id": "bdffced1583ed06d",
-      "title": "Emery insists no change of plan for Aston Villa despite fears over Galatasaray surface",
+      "id": "1766c29ae6804b33",
+      "title": "Emery insists no change of plan for Aston Villa despite Galatasaray surface",
       "url": "https://www.theguardian.com/football/2026/nov/23/unai-emery-no-change-of-plan-aston-villa-galatasaray-surface",
       "source": "The Guardian Football",
       "published_at": "2026-11-23T14:56:36+00:00",
@@ -125,19 +182,6 @@
       "language": "en",
       "topics": [
         "Ligue 1"
-      ],
-      "priority": 12
-    },
-    {
-      "id": "f753e204ecee94ba",
-      "title": "Manchester United to appeal against Leny Yoro red card in defeat by Liverpool",
-      "url": "https://www.theguardian.com/football/2026/nov/23/manchester-united-appeal-leny-yoro-red-card-liverpool",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-23T13:30:01+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [
-        "Premier League"
       ],
       "priority": 12
     },
@@ -190,17 +234,6 @@
       "priority": 12
     },
     {
-      "id": "a6d5d59968272f17",
-      "title": "Morocco and Senegal await Afcon final verdict after court case",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckjw5jj2l26lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-23T11:56:41+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
       "id": "25838a3ba4e8e0f6",
       "title": "Andreatta's masterplan to shock Sweden & take Scots to World Cup",
       "url": "https://www.bbc.co.uk/sport/football/articles/c94gn2mmjr4eo?at_medium=RSS&at_campaign=rss",
@@ -239,21 +272,10 @@
     },
     {
       "id": "31099e0def3f398e",
-      "title": "WSL talking points: Captain Spence inspires Spurs shock win at City and Lionesses impress",
+      "title": "WSL talking points: captain Spence inspires Spurs’ shock win at City and Lionesses impress",
       "url": "https://www.theguardian.com/football/2026/nov/23/wsl-talking-points-tottenham-london-city-lionesses-chelsea-arsenal",
       "source": "The Guardian Football",
       "published_at": "2026-11-23T11:19:05+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
-      "id": "e0ea2329cbde802b",
-      "title": "Pioneer or coach-eater? The complex world of Pozzo's Watford",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq98z9p66g0xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-23T08:55:36+00:00",
       "category": "clubs",
       "language": "en",
       "topics": [],
@@ -278,17 +300,6 @@
       "published_at": "2026-11-23T08:21:25+00:00",
       "category": "clubs",
       "language": "fr",
-      "topics": [],
-      "priority": 0
-    },
-    {
-      "id": "eb429c0acd6ee61b",
-      "title": "‘Haaland must be worried’: Thierno Barry’s rise has David Moyes purring",
-      "url": "https://www.theguardian.com/football/2026/nov/23/thierno-barry-rise-david-moyes-purring-everton",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-23T08:00:51+00:00",
-      "category": "clubs",
-      "language": "en",
       "topics": [],
       "priority": 0
     },
@@ -352,32 +363,6 @@
       "priority": 12
     },
     {
-      "id": "402559d790bad349",
-      "title": "Liverpool hand Pochettino nightmare Manchester United start after Yoro sees red",
-      "url": "https://www.theguardian.com/football/2026/nov/22/liverpool-manchester-united-premier-league-match-report",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-22T18:35:14+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [
-        "Premier League"
-      ],
-      "priority": 12
-    },
-    {
-      "id": "a560a42c18e05047",
-      "title": "The red card that changed Liverpool-Man Utd: correct call?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq7827p8emmxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-22T17:55:54+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [
-        "Premier League"
-      ],
-      "priority": 12
-    },
-    {
       "id": "ca473ef0d1987b6a",
       "title": "Football: rupture du ligament du genou pour Désiré Doué, le PSG devra s'activer pendant le mercato",
       "url": "https://www.rfi.fr/fr/sports/20261122-football-rupture-du-ligament-pour-d%C3%A9sir%C3%A9-dou%C3%A9-le-psg-devra-s-activer-pendant-le-mercato",
@@ -391,17 +376,6 @@
       "priority": 20
     },
     {
-      "id": "463004d004c90b8c",
-      "title": "McBurnie’s added-time double snatches win for Hull to shock 10-man Brighton",
-      "url": "https://www.theguardian.com/football/2026/nov/22/hull-brighton-premier-league-match-report",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-22T16:10:48+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
       "id": "d36ff991a072c980",
       "title": "Présidence de la Fifa: la CAF affiche son unité derrière Gianni Infantino, un désaveu pour Philippe Diallo",
       "url": "https://www.rfi.fr/fr/sports/20261121-ca",
@@ -411,30 +385,6 @@
       "language": "fr",
       "topics": [],
       "priority": 0
-    },
-    {
-      "id": "fc209d11d57785a2",
-      "title": "Coventry edge thriller to keep Crystal Palace bottom and ruin Thomas Frank’s start",
-      "url": "https://www.theguardian.com/football/2026/nov/21/coventry-crystal-palace-premier-league-match-report",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-21T17:09:02+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
-      "id": "b3e148648f85ada6",
-      "title": "Teenage ace Williams-Barnett puts Tottenham on path to win over Ipswich",
-      "url": "https://www.theguardian.com/football/2026/nov/21/tottenham-ipswich-premier-league-match-report",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-21T16:58:31+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [
-        "Premier League"
-      ],
-      "priority": 12
     },
     {
       "id": "fcfcd86354fbb1d9",
@@ -498,32 +448,19 @@
         "Sélections"
       ],
       "priority": 12
-    },
-    {
-      "id": "be92957017716f97",
-      "title": "Éliminatoires CAN 2027: après la polémique sur le record de buts en sélection, Salah peut trancher au Malawi",
-      "url": "https://www.rfi.fr/fr/afrique-foot/20261116-%C3%A9liminatoires-can-2027-apr%C3%A8s-la-pol%C3%A9mique-sur-le-record-de-buts-en-s%C3%A9lection-salah-peut-trancher-au-malawi",
-      "source": "RFI Afrique Foot",
-      "published_at": "2026-11-16T17:38:39+00:00",
-      "category": "clubs",
-      "language": "fr",
-      "topics": [
-        "Sélections"
-      ],
-      "priority": 12
     }
   ],
   "source_errors": [],
   "search_trends_fr": [
-    "mêlée",
-    "abattage",
-    "donyell malen",
-    "loïs openda",
-    "fun radio",
-    "leonida github",
-    "flers",
-    "twickenham",
-    "montluçon",
-    "boursorama"
+    "monza – fiorentina",
+    "maire de nantes",
+    "vol de données",
+    "françois hollande",
+    "marca",
+    "cbd",
+    "taken",
+    "danse avec les stars",
+    "moutouh",
+    "tyson fury"
   ]
 }
