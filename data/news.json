@@ -1,16 +1,54 @@
 {
-  "updated_at": "2026-11-23T19:12:39.838914+00:00",
+  "updated_at": "2026-11-23T21:59:58.681726+00:00",
   "items": [
     {
       "id": "ab844b3532174e69",
       "title": "Brentford v Everton: Premier League – live",
       "url": "https://www.theguardian.com/football/live/2026/nov/23/brentford-v-everton-premier-league-live",
       "source": "The Guardian Football",
-      "published_at": "2026-11-23T18:54:31+00:00",
+      "published_at": "2026-11-23T21:45:02+00:00",
       "category": "clubs",
       "language": "en",
       "topics": [
         "Premier League"
+      ],
+      "priority": 12
+    },
+    {
+      "id": "d754a5407a05dfc7",
+      "title": "Arsenal and PSG keen on Nusa - Tuesday's gossip",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm8x0grpder5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-23T21:41:52+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [
+        "Premier League",
+        "Ligue 1"
+      ],
+      "priority": 12
+    },
+    {
+      "id": "389be6060c227898",
+      "title": "De Bruyne's feelings for Man City will 'never change'",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cxq6e9vlp39jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-23T21:05:23+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "baaafda92f50eb97",
+      "title": "The 2035 Women’s World Cup has huge potential for women and girls in UK",
+      "url": "https://www.theguardian.com/football/2026/nov/23/2035-womens-world-cup-potential-women-girls-uk",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-23T21:02:10+00:00",
+      "category": "competitions",
+      "language": "en",
+      "topics": [
+        "Sélections"
       ],
       "priority": 12
     },
@@ -99,17 +137,6 @@
       "priority": 12
     },
     {
-      "id": "55712e4f4f50dc07",
-      "title": "I've wanted to crawl under a rock and hide - Pressley",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cre3d9j5k4n8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-23T15:31:57+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
       "id": "ebe77af6e8973d7a",
       "title": "Raya to miss Dortmund game but injury 'not serious'",
       "url": "https://www.bbc.co.uk/sport/football/articles/cjx2rqpr7l9lo?at_medium=RSS&at_campaign=rss",
@@ -141,19 +168,6 @@
       "url": "https://www.bbc.co.uk/sport/football/articles/cx30g83716lzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
       "published_at": "2026-11-23T15:09:50+00:00",
-      "category": "competitions",
-      "language": "en",
-      "topics": [
-        "Sélections"
-      ],
-      "priority": 12
-    },
-    {
-      "id": "f1f6daeb5e40be57",
-      "title": "‘Celebrate, inspire, unite’: UK confirmed as host of 2035 Women’s World Cup",
-      "url": "https://www.theguardian.com/football/2026/nov/23/uk-confirmed-hosts-2035-womens-world-cup-fifa",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-23T15:09:18+00:00",
       "category": "competitions",
       "language": "en",
       "topics": [
@@ -326,19 +340,6 @@
       "priority": 0
     },
     {
-      "id": "294dc2d24386fcf7",
-      "title": "A 'wow' player - why Ngumoha is already a Liverpool game-changer",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmn80y5w84qqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-22T23:20:16+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [
-        "Premier League"
-      ],
-      "priority": 12
-    },
-    {
       "id": "e14f915c510f2326",
       "title": "Chaotic week, nightmare start and huge reality check for Pochettino",
       "url": "https://www.bbc.co.uk/sport/football/articles/cwd012903kvgo?at_medium=RSS&at_campaign=rss",
@@ -452,15 +453,15 @@
   ],
   "source_errors": [],
   "search_trends_fr": [
-    "monza – fiorentina",
-    "maire de nantes",
-    "vol de données",
-    "françois hollande",
-    "marca",
-    "cbd",
-    "taken",
-    "danse avec les stars",
-    "moutouh",
-    "tyson fury"
+    "sao paulo",
+    "rihanna",
+    "ici tout commence en avance",
+    "flash",
+    "nécrologie",
+    "bresil",
+    "maxime lelue",
+    "james bond daniel craig",
+    "la comtesse de monte-cristo",
+    "gemma arterton"
   ]
 }
