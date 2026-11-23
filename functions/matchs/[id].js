@@ -1,3 +1,4 @@
+import {historicalComparison} from '../_lib/openfootball.js';
 import {competitions, dateLabel, escape, loadData, page} from '../_lib/public-football.js';
 import {getSnapshot, matchScore, matchStatus} from '../_lib/score-data.js';
 
@@ -39,12 +40,13 @@ export async function onRequestGet(context) {
   const standings = competition
     ? '<p><a href="/classements/' + competition.slug + '">Classement ' + escape(league) + '</a></p>'
     : '';
+  const history = await historicalComparison(context, match);
   return page({
     path, title:heading + ' | Score et résultat', heading,
     description:heading + ', ' + league + '. ' + status + (score === '—' ? '.' : ' · ' + score + '.'),
     content:'<p>' + escape(league) + ' · ' + escape(date) + ' UTC</p>' +
       '<p><strong class="score">' + escape(score) + '</strong> · ' + escape(status) + '</p>' +
-      standings + scoresLink,
+      history + standings + scoresLink,
     cache:30, ads:false,
   });
 }
