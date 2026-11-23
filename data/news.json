@@ -1,6 +1,41 @@
 {
-  "updated_at": "2026-11-23T04:18:28.584864+00:00",
+  "updated_at": "2026-11-23T07:46:54.023984+00:00",
   "items": [
+    {
+      "id": "70743218cbb93b2e",
+      "title": "Ligue 1 : renversé par Le Mans, Marseille rechute après 5 victoires consécutives",
+      "url": "https://www.france24.com/fr/%C3%A9missions/sports/20261123-ligue-1-renvers%C3%A9-par-le-mans-marseille-rechute-apr%C3%A8s-5-victoires-cons%C3%A9cutives",
+      "source": "France 24",
+      "published_at": "2026-11-23T07:30:26+00:00",
+      "category": "clubs",
+      "language": "fr",
+      "topics": [
+        "Ligue 1"
+      ],
+      "priority": 12
+    },
+    {
+      "id": "a043b6ffd9be0abb",
+      "title": "Who am I? Plus today's other quizzes",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5zjred9vl7jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-23T06:31:21+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "8de234d7af844607",
+      "title": "One of football's most-hyped 16-year-olds - what next for JJ Gabriel?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6p9dym309nxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-23T06:17:59+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
     {
       "id": "bea84952f2aa8406",
       "title": "Did Liverpool 'get lucky' with red card decision?",
@@ -13,17 +48,6 @@
         "Premier League"
       ],
       "priority": 12
-    },
-    {
-      "id": "57df8336f8ff0ffe",
-      "title": "How 'outstanding' Tzolakis kept Brighton at bay",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cm702nzyl8pzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-22T23:59:57+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
     },
     {
       "id": "294dc2d24386fcf7",
@@ -142,17 +166,6 @@
         "Premier League"
       ],
       "priority": 12
-    },
-    {
-      "id": "dc07263494b2e498",
-      "title": "Iraola 'enjoyed' big win over Man Utd",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c3y0x55ey81yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-22T19:25:21+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
     },
     {
       "id": "28da5dd1c993a01d",
@@ -480,32 +493,19 @@
         "Sélections"
       ],
       "priority": 12
-    },
-    {
-      "id": "72e6618ad7ac22d3",
-      "title": "Éliminatoires CAN 2027: Côte d'Ivoire, RDC, Cameroun, Sénégal... Qui peut se qualifier lors de la 4e journée?",
-      "url": "https://www.rfi.fr/fr/afrique-foot/20261116-%C3%A9liminatoires-can-2027-c%C3%B4te-d-ivoire-rdc-cameroun-s%C3%A9n%C3%A9gal-qui-peut-se-qualifier-lors-de-la-4e-journ%C3%A9egroupzuu",
-      "source": "RFI Afrique Foot",
-      "published_at": "2026-11-16T07:04:50+00:00",
-      "category": "clubs",
-      "language": "fr",
-      "topics": [
-        "Sélections"
-      ],
-      "priority": 12
     }
   ],
   "source_errors": [],
   "search_trends_fr": [
-    "knicks – pacers",
-    "pas-de-calais – inondations",
-    "navire russe libye",
-    "wizards – magic",
-    "warriors – celtics",
-    "bulls – nuggets",
-    "jazz – mavericks",
-    "kleinanzeigen",
-    "hailey bieber",
-    "sabine azema dussollier"
+    "chu guadeloupe cyberattaque",
+    "aaron grandidier-nkanang",
+    "racing club de strasbourg alsace",
+    "brionne",
+    "roumanie",
+    "haiti",
+    "sous-marin nucléaire",
+    "grand chelem",
+    "vierge de porto vecchio",
+    "jamal murray"
   ]
 }
