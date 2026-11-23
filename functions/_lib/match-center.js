@@ -79,6 +79,6 @@ export function teamLink(team) {
 }
 
 export function teamLogo(team) {
-  return /^https:\/\/media\.api-sports\.io\/football\/teams\/\d+\.png$/.test(team.logo)
-    ? `<img src="${escape(team.logo)}" width="48" height="48" alt="" referrerpolicy="no-referrer">` : '';
+  const id = teamId(team);
+  return id ? `<img src="/ecussons/${id}.png" width="48" height="48" alt="" onerror="this.hidden=true">` : '';
 }

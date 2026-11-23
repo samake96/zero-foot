@@ -34,7 +34,7 @@ body { line-height: 1.5; }
 #matchList .status { color: #bdcce0; line-height: 1.25; display: inline-block; }
 #matchList .favorite-toggle { min-height: 44px; min-width: 44px; }
 #homeSidebar .fc-feature { padding: 0 0 14px; gap: 8px; }
-#homeSidebar .fc-feature img { display: block; width: 100%; aspect-ratio: 16 / 10; object-fit: cover; }
+#homeSidebar .fc-feature img { display: block; width: 100%; height: auto; max-height: 205px; object-fit: contain; background: #08121d; }
 #homeSidebar .fc-feature :is(span, strong) { margin-inline: 14px; }
 .fc-footer-links { gap: 16px; margin-top: 8px; }
 .fc-footer-links a { color: var(--text); text-underline-offset: 3px; }

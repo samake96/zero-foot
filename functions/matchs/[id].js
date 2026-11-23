@@ -69,7 +69,7 @@ export async function onRequestGet(context) {
   const sections = [['resume', 'Résumé', matchSummary(match, history, status, editorials?.[id])]];
   if (history.home.length || history.away.length) {
     sections.push(['forme', 'Forme', `<section id="forme" class="mc-section">
-      <h2>Derniers résultats</h2><p class="mc-note">Jusqu’à cinq matchs par équipe sur les douze derniers mois, selon les résultats disponibles.</p>
+      <h2>Derniers résultats</h2>
       <div class="mc-form">${[[match.home.name, history.home], [match.away.name, history.away]]
         .filter(([, rows]) => rows.length)
         .map(([team, rows]) => `<div><h3>${escape(team)}</h3>${resultList(rows, team)}</div>`).join('')}</div></section>`]);

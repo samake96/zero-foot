@@ -115,7 +115,7 @@ button:focus-visible,a:focus-visible,input:focus-visible,select:focus-visible,su
  .head > #nav button { flex: none; min-height: 44px; }
  .home-brand img { width: 160px; }
 }
-</style><link rel="stylesheet" href="/footchrono-home.css?v=scoreboard"><link rel="stylesheet" href="/footchrono-history.css"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7180571260643744" crossorigin="anonymous"></script><style>.fc-ad{width:calc(100% - 32px);max-width:728px;margin:16px auto}.fc-ad:has(ins[data-ad-status="unfilled"]){display:none}</style></head><body>
+</style><link rel="stylesheet" href="/footchrono-home.css?v=compact-feature"><link rel="stylesheet" href="/footchrono-history.css"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7180571260643744" crossorigin="anonymous"></script><style>.fc-ad{width:calc(100% - 32px);max-width:728px;margin:16px auto}.fc-ad:has(ins[data-ad-status="unfilled"]){display:none}</style></head><body>
 <noscript><p class="wrap">Consultez les <a href="/scores">scores</a>, les <a href="/classements">classements</a> et les <a href="/actualites/">actualités</a> de FootChrono.</p></noscript><header><div class="wrap head"><div class="logo"><a class="home-brand" href="/" aria-label="Accueil FootChrono"><img src="/images/footchrono-logo.webp" width="190" height="40" alt="FootChrono"></a></div><nav id="nav"><button data-page="home" class="active" data-i="navHome">Overview</button><button data-page="matches" data-i="navMatches">Matches</button><button data-page="stats" data-i="navStats">Statistics</button><button data-page="archive">Archives</button><button data-page="predictions" data-i="navPred">Predictions</button><button data-page="news" data-i="navNews">News</button></nav><button class="switch" id="lang">FR / EN</button></div></header><div class="hero" id="homeIntro"><div class="wrap home-intro">
 <div><h1 data-i="productHeading">Le football en direct</h1><p id="homeDate" class="sub"></p></div>
 <div id="dataFreshness" class="data-freshness stale" role="status" aria-live="polite" hidden></div>
@@ -522,8 +522,10 @@ const matchRows = filtered.slice(0,matchLimit).map((m,i)=>{
   ? `<div class="fixture-group"><span>${esc(featuredById.get(key)?.[french?'french':'league'] || m.league)}
     ${m.country && m.country !== 'World' ? '<small>'+esc(m.country)+'</small>' : ''}</span>
     ${slug ? '<a href="/classements/'+slug+'">'+(french?'Classement':'Table')+' →</a>' : ''}</div>` : '';
- const logo = value => typeof value === 'string' && /^https:\/\/[a-z0-9.-]+\//i.test(value)
-  ? `<img class="team-logo" src="${esc(value)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.style.display='none'">` : '';
+ const logo = value => {
+  const badge = /^https:\/\/media\.api-sports\.io\/football\/teams\/([1-9][0-9]{0,8})\.png$/.exec(value);
+  return badge ? `<img class="team-logo" src="/ecussons/${badge[1]}.png" width="30" height="30" alt="" loading="lazy" onerror="this.hidden=true">` : '';
+ };
  const validId = /^[1-9][0-9]*$/.test(String(m.id));
  const saved = favorites.has(String(m.id));
  const status = fixtureStatus(m);

@@ -1,10 +1,14 @@
 import {teamKey} from './match-center.js';
 import {dateLabel, escape} from './public-football.js';
 
+function quantity(count, singular, plural = singular + 's') {
+  return count + ' ' + (count === 1 ? singular : plural);
+}
+
 function formParagraph(team, rows) {
   if (!rows.length) return '';
   const key = teamKey(team);
-  let wins = 0, draws = 0, scored = 0, conceded = 0, clean = 0;
+  let wins = 0, draws = 0, scored = 0, conceded = 0;
   for (const row of rows) {
     const side = row.teams.indexOf(key);
     const goals = row.goals[side];
@@ -13,16 +17,18 @@ function formParagraph(team, rows) {
     draws += Number(goals === against);
     scored += goals;
     conceded += against;
-    clean += Number(against === 0);
   }
   const last = rows[0];
   const position = last.teams.indexOf(key);
   const opponent = position === 0 ? last.away : last.home;
-  return `<p><strong>${escape(team)}</strong> compte ${wins} V, ${draws} N et ${rows.length - wins - draws} D sur ${rows.length}
-    ${rows.length === 1 ? 'match disponible' : 'matchs disponibles'}, avec ${scored} buts marqués, ${conceded} encaissés
-    et ${clean} ${clean === 1 ? 'match sans encaisser' : 'matchs sans encaisser'}.
-    Son dernier résultat disponible remonte au ${escape(dateLabel(last.date))} contre ${escape(opponent)}
-    (${last.goals[position]}–${last.goals[1 - position]} du point de vue de ${escape(team)}).</p>`;
+  const goals = last.goals[position];
+  const against = last.goals[1 - position];
+  const verb = goals > against ? 'a battu' : goals < against ? 's’est incliné face à' : 'a fait match nul contre';
+  return `<p><strong>${escape(team)}</strong> affiche un bilan de ${quantity(wins, 'victoire')},
+    ${quantity(draws, 'match nul', 'matchs nuls')} et ${quantity(rows.length - wins - draws, 'défaite')}
+    sur la période du ${escape(dateLabel(rows.at(-1).date))} au ${escape(dateLabel(last.date))}.
+    Le club a marqué ${quantity(scored, 'but')} et en a encaissé ${conceded}.
+    Le ${escape(dateLabel(last.date))}, il ${verb} ${escape(opponent)} (${goals}–${against}).</p>`;
 }
 
 function editorialArticle(editorial, upcoming) {
@@ -53,11 +59,11 @@ export function matchSummary(match, history, status, editorial) {
   const form = formParagraph(home, history.home) + formParagraph(away, history.away);
   const latest = history.meetings[0];
   const headToHead = latest
-    ? `<p><strong>Dernier face-à-face archivé.</strong> Le ${escape(dateLabel(latest.date))},
+    ? `<p><strong>Face-à-face.</strong> Le ${escape(dateLabel(latest.date))},
       ${escape(latest.home)} et ${escape(latest.away)} ont terminé sur le score de ${latest.goals.join('–')}.</p>`
     : '';
   const context = form || headToHead
     ? `${upcoming ? '' : '<h3>Contexte avant le coup d’envoi</h3>'}${form}${headToHead}`
-    : '<p>Les résultats historiques disponibles sont insuffisants pour établir une comparaison.</p>';
+    : '';
   return `<section id="resume" class="mc-section mc-summary"><h2>${title}</h2>${lead}${editorialArticle(editorial, upcoming)}${context}</section>`;
 }
