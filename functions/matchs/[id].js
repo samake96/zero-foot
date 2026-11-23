@@ -1,3 +1,4 @@
+import {matchHistory, resultList, teamLogo} from '../_lib/match-center.js';
 import {historicalComparison} from '../_lib/openfootball.js';
 import {competitions, dateLabel, escape, loadData, page} from '../_lib/public-football.js';
 import {getSnapshot, matchScore, matchStatus} from '../_lib/score-data.js';
@@ -49,13 +50,43 @@ export async function onRequestGet(context) {
   const standings = competition
     ? '<p><a href="/classements/' + competition.slug + '">Classement ' + escape(league) + '</a></p>'
     : '';
-  const history = await historicalComparison(context, match);
+  const [history, archive] = await Promise.all([
+    matchHistory(context, match),
+    historicalComparison(context, match),
+  ]);
+  const upcoming = match.status === 'NS' || match.status === 'TBD';
+  const sections = [
+    ['resume', 'Résumé', `<section id="resume" class="mc-section">
+      <p class="mc-kicker">${escape(league)} <span aria-hidden="true">·</span> ${escape(date)} UTC</p>
+      <div class="mc-scoreboard">
+        <div>${teamLogo(match.home)}<strong>${escape(match.home.name)}</strong></div>
+        <div><strong class="mc-score">${escape(upcoming ? 'VS' : score)}</strong><span class="mc-status">${escape(status)}</span></div>
+        <div>${teamLogo(match.away)}<strong>${escape(match.away.name)}</strong></div>
+      </div>
+    </section>`],
+  ];
+  if (history.home.length || history.away.length) {
+    sections.push(['forme', 'Forme', `<section id="forme" class="mc-section">
+      <h2>Derniers résultats</h2><p class="mc-note">Jusqu’à cinq matchs par équipe sur les douze derniers mois, selon les résultats disponibles.</p>
+      <div class="mc-form">${[[match.home.name, history.home], [match.away.name, history.away]]
+        .filter(([, rows]) => rows.length)
+        .map(([team, rows]) => `<div><h3>${escape(team)}</h3>${resultList(rows, team)}</div>`).join('')}</div></section>`]);
+  }
+  if (history.meetings.length) {
+    sections.push(['confrontations', 'Face-à-face', `<section id="confrontations" class="mc-section">
+      <h2>Confrontations directes</h2>${resultList(history.meetings)}</section>`]);
+  }
+  if (archive) {
+    sections.push(['archives', 'Archives', `<section id="archives" class="mc-section">${archive}</section>`]);
+  }
   return page({
     path, title:heading + ' | Score et résultat', heading,
     description:heading + ', ' + league + '. ' + status + (score === '—' ? '.' : ' · ' + score + '.'),
-    content:'<p>' + escape(league) + ' · ' + escape(date) + ' UTC</p>' +
-      '<p><strong class="score">' + escape(score) + '</strong> · ' + escape(status) + '</p>' +
-      history + standings + scoresLink,
+    content:`<div class="mc-center">
+      <nav class="mc-nav" aria-label="Dans cette fiche">${sections.map(([anchor, label]) =>
+        `<a href="#${anchor}">${label}</a>`).join('')}</nav>
+      ${sections.map(([, , html]) => html).join('')}
+      ${standings}${scoresLink}</div>`,
     cache:30, ads:false,
   });
 }
