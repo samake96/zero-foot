@@ -1,13 +1,13 @@
 {
   "source": "API-Football",
-  "updated_at": "2026-11-23T01:21:25.400130+00:00",
+  "updated_at": "2026-11-23T04:14:11.485790+00:00",
   "date_utc": "2026-11-23",
   "matches": [
     {
       "id": 1650243,
       "kickoff": "2026-11-23T00:00:00+00:00",
-      "status": "2H",
-      "elapsed": 52,
+      "status": "FT",
+      "elapsed": 90,
       "league": {
         "id": 129,
         "name": "Primera Nacional",
@@ -27,8 +27,8 @@
     {
       "id": 1647131,
       "kickoff": "2026-11-23T00:30:00+00:00",
-      "status": "NS",
-      "elapsed": null,
+      "status": "FT",
+      "elapsed": 90,
       "league": {
         "id": 421,
         "name": "Division di Honor",
@@ -37,19 +37,19 @@
       "home": {
         "name": "River Plate",
         "logo": "https://media.api-sports.io/football/teams/8242.png",
-        "goals": null
+        "goals": 0
       },
       "away": {
         "name": "Britannia",
         "logo": "https://media.api-sports.io/football/teams/8234.png",
-        "goals": null
+        "goals": 6
       }
     },
     {
       "id": 1648334,
       "kickoff": "2026-11-23T00:30:00+00:00",
-      "status": "HT",
-      "elapsed": 45,
+      "status": "FT",
+      "elapsed": 90,
       "league": {
         "id": 282,
         "name": "Segunda División",
@@ -69,8 +69,8 @@
     {
       "id": 1649568,
       "kickoff": "2026-11-23T01:00:00+00:00",
-      "status": "1H",
-      "elapsed": 20,
+      "status": "FT",
+      "elapsed": 90,
       "league": {
         "id": 128,
         "name": "Liga Profesional Argentina",
@@ -84,14 +84,14 @@
       "away": {
         "name": "Huracan",
         "logo": "https://media.api-sports.io/football/teams/445.png",
-        "goals": 0
+        "goals": 1
       }
     },
     {
       "id": 1650841,
       "kickoff": "2026-11-23T01:00:00+00:00",
-      "status": "1H",
-      "elapsed": 18,
+      "status": "FT",
+      "elapsed": 90,
       "league": {
         "id": 396,
         "name": "Primera Division",
@@ -105,14 +105,14 @@
       "away": {
         "name": "Managua",
         "logo": "https://media.api-sports.io/football/teams/4644.png",
-        "goals": 0
+        "goals": 1
       }
     },
     {
       "id": 1551046,
       "kickoff": "2026-11-23T01:10:00+00:00",
-      "status": "1H",
-      "elapsed": 11,
+      "status": "FT",
+      "elapsed": 90,
       "league": {
         "id": 262,
         "name": "Liga MX",
@@ -121,19 +121,19 @@
       "home": {
         "name": "Club Queretaro",
         "logo": "https://media.api-sports.io/football/teams/2290.png",
-        "goals": 0
+        "goals": 2
       },
       "away": {
         "name": "Necaxa",
         "logo": "https://media.api-sports.io/football/teams/2288.png",
-        "goals": 0
+        "goals": 2
       }
     },
     {
       "id": 1559712,
       "kickoff": "2026-11-23T01:10:00+00:00",
-      "status": "1H",
-      "elapsed": 4,
+      "status": "FT",
+      "elapsed": 90,
       "league": {
         "id": 339,
         "name": "Liga Nacional",
@@ -142,19 +142,19 @@
       "home": {
         "name": "Marquense",
         "logo": "https://media.api-sports.io/football/teams/3643.png",
-        "goals": 0
+        "goals": 2
       },
       "away": {
         "name": "Aurora",
         "logo": "https://media.api-sports.io/football/teams/10154.png",
-        "goals": 0
+        "goals": 1
       }
     },
     {
       "id": 1642320,
       "kickoff": "2026-11-23T01:30:00+00:00",
-      "status": "NS",
-      "elapsed": null,
+      "status": "FT",
+      "elapsed": 90,
       "league": {
         "id": 234,
         "name": "Liga Nacional",
@@ -163,19 +163,19 @@
       "home": {
         "name": "Juticalpa",
         "logo": "https://media.api-sports.io/football/teams/1053.png",
-        "goals": null
+        "goals": 1
       },
       "away": {
         "name": "Olancho",
         "logo": "https://media.api-sports.io/football/teams/19456.png",
-        "goals": null
+        "goals": 1
       }
     },
     {
       "id": 1651120,
       "kickoff": "2026-11-23T01:30:00+00:00",
-      "status": "NS",
-      "elapsed": null,
+      "status": "FT",
+      "elapsed": 90,
       "league": {
         "id": 253,
         "name": "Major League Soccer",
@@ -184,19 +184,19 @@
       "home": {
         "name": "Vancouver Whitecaps",
         "logo": "https://media.api-sports.io/football/teams/1603.png",
-        "goals": null
+        "goals": 2
       },
       "away": {
         "name": "Real Salt Lake",
         "logo": "https://media.api-sports.io/football/teams/1606.png",
-        "goals": null
+        "goals": 0
       }
     },
     {
       "id": 1560985,
       "kickoff": "2026-11-23T04:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
+      "status": "1H",
+      "elapsed": 9,
       "league": {
         "id": 854,
         "name": "WE League",
@@ -205,19 +205,19 @@
       "home": {
         "name": "Albirex Niigata W",
         "logo": "https://media.api-sports.io/football/teams/16953.png",
-        "goals": null
+        "goals": 0
       },
       "away": {
         "name": "Sanfrecce Hiroshima W",
         "logo": "https://media.api-sports.io/football/teams/16955.png",
-        "goals": null
+        "goals": 0
       }
     },
     {
       "id": 1560988,
       "kickoff": "2026-11-23T04:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
+      "status": "1H",
+      "elapsed": 10,
       "league": {
         "id": 854,
         "name": "WE League",
@@ -226,12 +226,12 @@
       "home": {
         "name": "Nojima Stella W",
         "logo": "https://media.api-sports.io/football/teams/16949.png",
-        "goals": null
+        "goals": 0
       },
       "away": {
         "name": "Omiya Ardija Ventus W",
         "logo": "https://media.api-sports.io/football/teams/16950.png",
-        "goals": null
+        "goals": 0
       }
     },
     {
