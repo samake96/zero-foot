@@ -1,8 +1,197 @@
 {
   "source": "API-Football",
-  "updated_at": "2026-11-23T10:20:42.586282+00:00",
-  "total": 1927,
+  "updated_at": "2026-11-23T13:27:56.024367+00:00",
+  "total": 1936,
   "matches": [
+    {
+      "id": 1527752,
+      "kickoff": "2026-11-23T11:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 571,
+        "name": "Vysshaya Liga",
+        "country": "Tajikistan"
+      },
+      "home": {
+        "name": "Barki Tajik",
+        "logo": "https://media.api-sports.io/football/teams/12270.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "Istiqlol",
+        "logo": "https://media.api-sports.io/football/teams/8012.png",
+        "goals": 5
+      }
+    },
+    {
+      "id": 1565529,
+      "kickoff": "2026-11-23T11:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 333,
+        "name": "Premier League",
+        "country": "Ukraine"
+      },
+      "home": {
+        "name": "Chornomorets",
+        "logo": "https://media.api-sports.io/football/teams/3615.png",
+        "goals": 0
+      },
+      "away": {
+        "name": "Epitsentr Dunayivtsi",
+        "logo": "https://media.api-sports.io/football/teams/14434.png",
+        "goals": 1
+      }
+    },
+    {
+      "id": 1565535,
+      "kickoff": "2026-11-23T11:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 333,
+        "name": "Premier League",
+        "country": "Ukraine"
+      },
+      "home": {
+        "name": "LNZ Cherkasy",
+        "logo": "https://media.api-sports.io/football/teams/17161.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "Polessya",
+        "logo": "https://media.api-sports.io/football/teams/6496.png",
+        "goals": 1
+      }
+    },
+    {
+      "id": 1629483,
+      "kickoff": "2026-11-23T11:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 1240,
+        "name": "U19 league",
+        "country": "Turkey"
+      },
+      "home": {
+        "name": "İstanbul Başakşehir U19",
+        "logo": "https://media.api-sports.io/football/teams/16397.png",
+        "goals": 3
+      },
+      "away": {
+        "name": "Corum U19",
+        "logo": "https://media.api-sports.io/football/teams/28242.png",
+        "goals": 0
+      }
+    },
+    {
+      "id": 1647893,
+      "kickoff": "2026-11-23T11:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 291,
+        "name": "Azadegan League",
+        "country": "Iran"
+      },
+      "home": {
+        "name": "Mes Kerman",
+        "logo": "https://media.api-sports.io/football/teams/2718.png",
+        "goals": 0
+      },
+      "away": {
+        "name": "Be'sat Kermanshah",
+        "logo": "https://media.api-sports.io/football/teams/20802.png",
+        "goals": 0
+      }
+    },
+    {
+      "id": 1647895,
+      "kickoff": "2026-11-23T10:30:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 291,
+        "name": "Azadegan League",
+        "country": "Iran"
+      },
+      "home": {
+        "name": "Saipa",
+        "logo": "https://media.api-sports.io/football/teams/2736.png",
+        "goals": 0
+      },
+      "away": {
+        "name": "Naft Bandar Abbas",
+        "logo": "https://media.api-sports.io/football/teams/24800.png",
+        "goals": 0
+      }
+    },
+    {
+      "id": 1646789,
+      "kickoff": "2026-11-23T10:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 277,
+        "name": "Super League",
+        "country": "Kenya"
+      },
+      "home": {
+        "name": "Talanta",
+        "logo": "https://media.api-sports.io/football/teams/17897.png",
+        "goals": 2
+      },
+      "away": {
+        "name": "Kibera Soccer",
+        "logo": "https://media.api-sports.io/football/teams/25751.png",
+        "goals": 2
+      }
+    },
+    {
+      "id": 1634863,
+      "kickoff": "2026-11-23T09:30:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 588,
+        "name": "National League",
+        "country": "Myanmar"
+      },
+      "home": {
+        "name": "GFA",
+        "logo": "https://media.api-sports.io/football/teams/12533.png",
+        "goals": 2
+      },
+      "away": {
+        "name": "Ayeyawady United",
+        "logo": "https://media.api-sports.io/football/teams/12523.png",
+        "goals": 3
+      }
+    },
+    {
+      "id": 1634862,
+      "kickoff": "2026-11-23T09:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 588,
+        "name": "National League",
+        "country": "Myanmar"
+      },
+      "home": {
+        "name": "Yangon Royals",
+        "logo": "https://media.api-sports.io/football/teams/28338.png",
+        "goals": 2
+      },
+      "away": {
+        "name": "Hantharwady United",
+        "logo": "https://media.api-sports.io/football/teams/12525.png",
+        "goals": 0
+      }
+    },
     {
       "id": 1560986,
       "kickoff": "2026-11-23T06:00:00+00:00",
