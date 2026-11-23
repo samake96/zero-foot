@@ -1,13 +1,22 @@
 import {dateLabel, escape, loadData} from './public-football.js';
 
+const teamAliases = {
+  lask: 'lasklinz', bodooglimt: 'bodoglimt', tsvhartberg: 'hartberg',
+  svhartberg: 'hartberg', psv: 'psveindhoven', svoberried: 'svried',
+};
+const leagueNames = {PL: 'Premier League', PD: 'La Liga', BL1: 'Bundesliga', SA: 'Serie A', FL1: 'Ligue 1'};
+
 function teamKey(name) {
-  return name.normalize('NFD').replace(/\p{M}/gu, '').toLowerCase().replace(/[^a-z0-9]/g, '');
+  const key = name.toLowerCase().replace(/ø/g, 'o').normalize('NFD').replace(/\p{M}/gu, '')
+    .replace(/\b(?:fc|cf|afc)\b/g, '').replace(/[^a-z0-9]/g, '');
+  return Object.hasOwn(teamAliases, key) ? teamAliases[key] : key;
 }
 
 export async function matchHistory(context, match) {
   const sources = await Promise.allSettled([
-    loadData(context, 'verified-results'),
+    loadData(context, 'historical_matches'),
     loadData(context, 'match_results_archive'),
+    loadData(context, 'verified-results'),
   ]);
   const matches = new Map();
   const kickoff = Date.parse(match.kickoff);
@@ -22,12 +31,12 @@ export async function matchHistory(context, match) {
       if (!date || !home || !away || !goals.every(Number.isInteger)) continue;
       if (row.kickoff && !['FT', 'AET', 'PEN'].includes(row.status)) continue;
       const day = date.slice(0, 10);
-      if (row.id === match.id || (date.length === 10 ? day >= kickoffDay : !(Date.parse(date) < kickoff))) continue;
+      if ((row.kickoff && row.id === match.id) || (date.length === 10 ? day >= kickoffDay : !(Date.parse(date) < kickoff))) continue;
       const teams = [teamKey(home), teamKey(away)];
       const key = [day, ...teams].join('|');
       const previous = matches.get(key);
       matches.set(key, {date, home, away, goals, teams,
-        competition: row.competition ?? row.league?.name,
+        competition: leagueNames[row.competition] ?? row.competition ?? row.league?.name,
         source: row.source_url ?? previous?.source,
       });
     }

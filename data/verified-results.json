@@ -134,6 +134,96 @@
       "away_goals": 1,
       "competition": "Coupe des clubs champions",
       "source_url": "https://www.uefa.com/uefachampionsleague/history/h2h/50051/50062/"
+    },
+    {
+      "utc_date": "2026-11-20",
+      "home_name": "Molde",
+      "away_name": "Bodo/Glimt",
+      "home_goals": 2,
+      "away_goals": 4,
+      "competition": "Eliteserien",
+      "source_url": "https://www.glimt.no/resultater"
+    },
+    {
+      "utc_date": "2026-11-08",
+      "home_name": "Tromsø",
+      "away_name": "Bodo/Glimt",
+      "home_goals": 0,
+      "away_goals": 2,
+      "competition": "Eliteserien",
+      "source_url": "https://www.glimt.no/resultater"
+    },
+    {
+      "utc_date": "2026-11-03",
+      "home_name": "Bodo/Glimt",
+      "away_name": "Lille",
+      "home_goals": 0,
+      "away_goals": 0,
+      "competition": "Ligue des champions",
+      "source_url": "https://www.glimt.no/resultater"
+    },
+    {
+      "utc_date": "2026-10-30",
+      "home_name": "Bodo/Glimt",
+      "away_name": "Viking",
+      "home_goals": 3,
+      "away_goals": 2,
+      "competition": "Eliteserien",
+      "source_url": "https://www.glimt.no/resultater"
+    },
+    {
+      "utc_date": "2026-10-24",
+      "home_name": "Bodo/Glimt",
+      "away_name": "Vålerenga",
+      "home_goals": 0,
+      "away_goals": 1,
+      "competition": "Eliteserien",
+      "source_url": "https://www.glimt.no/resultater"
+    },
+    {
+      "utc_date": "2026-11-21",
+      "home_name": "Lask Linz",
+      "away_name": "TSV Hartberg",
+      "home_goals": 2,
+      "away_goals": 1,
+      "competition": "Bundesliga autrichienne",
+      "source_url": "https://www.lask.at/de/f/matches/pros/fixtures/2026-2027"
+    },
+    {
+      "utc_date": "2026-11-07",
+      "home_name": "SV Ried",
+      "away_name": "Lask Linz",
+      "home_goals": 2,
+      "away_goals": 4,
+      "competition": "Bundesliga autrichienne",
+      "source_url": "https://www.lask.at/de/f/matches/pros/fixtures/2026-2027"
+    },
+    {
+      "utc_date": "2026-11-03",
+      "home_name": "Lask Linz",
+      "away_name": "Slovan Bratislava",
+      "home_goals": 4,
+      "away_goals": 0,
+      "competition": "Ligue des champions",
+      "source_url": "https://www.lask.at/de/f/matches/pros/fixtures/2026-2027"
+    },
+    {
+      "utc_date": "2026-10-31",
+      "home_name": "Lask Linz",
+      "away_name": "WSG Tirol",
+      "home_goals": 2,
+      "away_goals": 1,
+      "competition": "Bundesliga autrichienne",
+      "source_url": "https://www.lask.at/de/f/matches/pros/fixtures/2026-2027"
+    },
+    {
+      "utc_date": "2026-10-25",
+      "home_name": "Lask Linz",
+      "away_name": "RB Salzburg",
+      "home_goals": 1,
+      "away_goals": 3,
+      "competition": "Bundesliga autrichienne",
+      "source_url": "https://www.lask.at/de/f/matches/pros/fixtures/2026-2027"
     }
   ]
 }
