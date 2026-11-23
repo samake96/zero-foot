@@ -15,12 +15,21 @@ export async function onRequestGet(context) {
     snapshot = await getSnapshot(context);
     match = snapshot?.matches.find(row => String(row.id) === id);
     if (!match) {
-      try {
-        const archive = await loadData(context, 'match_results_archive');
-        match = archive.matches.find(row => String(row.id) === id);
-        if (match) snapshot = archive;
-      } catch {
-        archiveUnavailable = true;
+      const sources = await Promise.allSettled([
+        loadData(context, 'match_results_archive'),
+        loadData(context, 'prediction_fixtures'),
+      ]);
+      for (const [index, source] of sources.entries()) {
+        if (source.status !== 'fulfilled' || !Array.isArray(source.value.matches)) {
+          archiveUnavailable = true;
+          continue;
+        }
+        match = source.value.matches.find(row => String(row.id) === id &&
+          (index === 0 || Date.parse(row.kickoff) > Date.now()));
+        if (match) {
+          snapshot = source.value;
+          break;
+        }
       }
     }
   }
