@@ -1,15 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://footchrono.com/</loc></url>
-  <url><loc>https://footchrono.com/actualites/</loc></url>
-  <url><loc>https://footchrono.com/scores</loc></url>
-  <url><loc>https://footchrono.com/classements</loc></url>
-  <url><loc>https://footchrono.com/classements/premier-league</loc></url>
-  <url><loc>https://footchrono.com/classements/la-liga</loc></url>
-  <url><loc>https://footchrono.com/classements/bundesliga</loc></url>
-  <url><loc>https://footchrono.com/classements/serie-a</loc></url>
-  <url><loc>https://footchrono.com/classements/ligue-1</loc></url>
-  <url><loc>https://footchrono.com/actualites/liverpool-manchester-united-4-0-pochettino/</loc></url>
-  <url><loc>https://footchrono.com/confidentialite/</loc></url>
-  <url><loc>https://footchrono.com/contact/</loc></url>
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap><loc>https://footchrono.com/sitemap-pages.xml</loc></sitemap>
+  <sitemap><loc>https://footchrono.com/sitemap-matchs.xml</loc></sitemap>
+</sitemapindex>
