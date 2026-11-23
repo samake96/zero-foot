@@ -1,3 +1,4 @@
+import {matchCenterStyle} from '../_lib/match-center-style.js';
 import {matchHistory, resultList, teamLogo} from '../_lib/match-center.js';
 import {historicalComparison} from '../_lib/openfootball.js';
 import {competitions, dateLabel, escape, loadData, page} from '../_lib/public-football.js';
@@ -83,10 +84,11 @@ export async function onRequestGet(context) {
     path, title:heading + ' | Score et résultat', heading,
     description:heading + ', ' + league + '. ' + status + (score === '—' ? '.' : ' · ' + score + '.'),
     content:`<div class="mc-center">
+      ${sections[0][2]}
       <nav class="mc-nav" aria-label="Dans cette fiche">${sections.map(([anchor, label]) =>
         `<a href="#${anchor}">${label}</a>`).join('')}</nav>
-      ${sections.map(([, , html]) => html).join('')}
+      ${sections.slice(1).map(([, , html]) => html).join('')}
       ${standings}${scoresLink}</div>`,
-    cache:30, ads:false,
+    cache:30, ads:false, style:matchCenterStyle,
   });
 }
