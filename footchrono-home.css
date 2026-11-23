@@ -79,3 +79,17 @@ body { line-height: 1.5; }
   .layout { padding-top: 4px; }
   #matches.section { margin-top: 10px; }
 }
+
+#matchList .fixture-group {
+  display: flex; align-items: center; justify-content: space-between; gap: .75rem;
+}
+.fixture-group small { display: block; color: var(--muted); font-weight: 500; }
+.fixture-group a { color: var(--green); font-size: .8rem; white-space: nowrap; }
+#matchList .match-link { color: inherit; text-decoration: none; min-height: 56px; }
+#matchList .match-link:hover { background: #172b40; }
+#matchList .match span.score, #matchList .match .meta { display: block; }
+.match-quick {
+  grid-column: 2; justify-self: end; min-height: 36px; margin: 0 .65rem .15rem 0;
+  border: 0; background: transparent; color: var(--green); font: inherit; font-size: .75rem;
+}
+#matchList .match { border-bottom: 0; }
