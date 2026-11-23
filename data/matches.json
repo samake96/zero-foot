@@ -1,6 +1,6 @@
 {
   "source": "API-Football",
-  "updated_at": "2026-11-23T07:42:31.415397+00:00",
+  "updated_at": "2026-11-23T10:20:42.618089+00:00",
   "date_utc": "2026-11-23",
   "matches": [
     {
@@ -258,8 +258,8 @@
     {
       "id": 1560986,
       "kickoff": "2026-11-23T06:00:00+00:00",
-      "status": "2H",
-      "elapsed": 82,
+      "status": "FT",
+      "elapsed": 90,
       "league": {
         "id": 854,
         "name": "WE League",
@@ -268,7 +268,7 @@
       "home": {
         "name": "Tokyo Verdy Beleza W",
         "logo": "https://media.api-sports.io/football/teams/16951.png",
-        "goals": 5
+        "goals": 6
       },
       "away": {
         "name": "INAC Kobe Leonessa W",
@@ -279,8 +279,8 @@
     {
       "id": 1634862,
       "kickoff": "2026-11-23T09:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
+      "status": "2H",
+      "elapsed": 63,
       "league": {
         "id": 588,
         "name": "National League",
@@ -289,19 +289,19 @@
       "home": {
         "name": "Yangon Royals",
         "logo": "https://media.api-sports.io/football/teams/28338.png",
-        "goals": null
+        "goals": 2
       },
       "away": {
         "name": "Hantharwady United",
         "logo": "https://media.api-sports.io/football/teams/12525.png",
-        "goals": null
+        "goals": 0
       }
     },
     {
       "id": 1634863,
       "kickoff": "2026-11-23T09:30:00+00:00",
-      "status": "NS",
-      "elapsed": null,
+      "status": "HT",
+      "elapsed": 45,
       "league": {
         "id": 588,
         "name": "National League",
@@ -310,19 +310,19 @@
       "home": {
         "name": "GFA",
         "logo": "https://media.api-sports.io/football/teams/12533.png",
-        "goals": null
+        "goals": 2
       },
       "away": {
         "name": "Ayeyawady United",
         "logo": "https://media.api-sports.io/football/teams/12523.png",
-        "goals": null
+        "goals": 2
       }
     },
     {
       "id": 1646789,
       "kickoff": "2026-11-23T10:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
+      "status": "1H",
+      "elapsed": 20,
       "league": {
         "id": 277,
         "name": "Super League",
@@ -331,12 +331,12 @@
       "home": {
         "name": "Talanta",
         "logo": "https://media.api-sports.io/football/teams/17897.png",
-        "goals": null
+        "goals": 0
       },
       "away": {
         "name": "Kibera Soccer",
         "logo": "https://media.api-sports.io/football/teams/25751.png",
-        "goals": null
+        "goals": 0
       }
     },
     {
@@ -1281,6 +1281,27 @@
       "away": {
         "name": "Mégrine",
         "logo": "https://media.api-sports.io/football/teams/20846.png",
+        "goals": null
+      }
+    },
+    {
+      "id": 1649984,
+      "kickoff": "2026-11-23T13:30:00+00:00",
+      "status": "NS",
+      "elapsed": null,
+      "league": {
+        "id": 828,
+        "name": "Ligue 2",
+        "country": "Tunisia"
+      },
+      "home": {
+        "name": "Moknine",
+        "logo": "https://media.api-sports.io/football/teams/10624.png",
+        "goals": null
+      },
+      "away": {
+        "name": "CO Medenine",
+        "logo": "https://media.api-sports.io/football/teams/982.png",
         "goals": null
       }
     },
