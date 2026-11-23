@@ -1,12 +1,12 @@
 {
   "source": "football-data.org",
-  "updated_at": "2026-11-22T19:07:40.362344+00:00",
+  "updated_at": "2026-11-23T07:53:50.611481+00:00",
   "leagues": [
     {
       "id": 39,
       "name": "Premier League",
       "season": 2026,
-      "updated_at": "2026-11-22T19:07:40.362344+00:00",
+      "updated_at": "2026-11-23T07:53:50.611481+00:00",
       "teams": [
         {
           "rank": 1,
@@ -294,7 +294,7 @@
       "id": 140,
       "name": "La Liga",
       "season": 2026,
-      "updated_at": "2026-11-22T19:07:40.362344+00:00",
+      "updated_at": "2026-11-23T07:53:50.611481+00:00",
       "teams": [
         {
           "rank": 1,
@@ -328,14 +328,14 @@
           "rank": 3,
           "name": "Club Atlético de Madrid",
           "logo": "https://crests.football-data.org/78.png",
-          "played": 12,
-          "win": 9,
+          "played": 13,
+          "win": 10,
           "draw": 1,
           "lose": 2,
-          "goals_for": 23,
+          "goals_for": 26,
           "goals_against": 10,
-          "goal_diff": 13,
-          "points": 28,
+          "goal_diff": 16,
+          "points": 31,
           "form": null
         },
         {
@@ -508,20 +508,6 @@
         },
         {
           "rank": 16,
-          "name": "Getafe CF",
-          "logo": "https://crests.football-data.org/82.png",
-          "played": 12,
-          "win": 3,
-          "draw": 3,
-          "lose": 6,
-          "goals_for": 8,
-          "goals_against": 18,
-          "goal_diff": -10,
-          "points": 12,
-          "form": null
-        },
-        {
-          "rank": 17,
           "name": "Valencia CF",
           "logo": "https://crests.football-data.org/95.png",
           "played": 13,
@@ -531,6 +517,20 @@
           "goals_for": 9,
           "goals_against": 20,
           "goal_diff": -11,
+          "points": 12,
+          "form": null
+        },
+        {
+          "rank": 17,
+          "name": "Getafe CF",
+          "logo": "https://crests.football-data.org/82.png",
+          "played": 13,
+          "win": 3,
+          "draw": 3,
+          "lose": 7,
+          "goals_for": 8,
+          "goals_against": 21,
+          "goal_diff": -13,
           "points": 12,
           "form": null
         },
@@ -582,7 +582,7 @@
       "id": 78,
       "name": "Bundesliga",
       "season": 2026,
-      "updated_at": "2026-11-22T19:07:40.362344+00:00",
+      "updated_at": "2026-11-23T07:53:50.611481+00:00",
       "teams": [
         {
           "rank": 1,
@@ -842,7 +842,7 @@
       "id": 135,
       "name": "Serie A",
       "season": 2026,
-      "updated_at": "2026-11-22T19:07:40.362344+00:00",
+      "updated_at": "2026-11-23T07:53:50.611481+00:00",
       "teams": [
         {
           "rank": 1,
@@ -876,14 +876,14 @@
           "rank": 3,
           "name": "FC Internazionale Milano",
           "logo": "https://crests.football-data.org/108.png",
-          "played": 11,
+          "played": 12,
           "win": 9,
-          "draw": 1,
+          "draw": 2,
           "lose": 1,
-          "goals_for": 28,
-          "goals_against": 13,
+          "goals_for": 32,
+          "goals_against": 17,
           "goal_diff": 15,
-          "points": 28,
+          "points": 29,
           "form": null
         },
         {
@@ -1002,14 +1002,14 @@
           "rank": 12,
           "name": "Atalanta BC",
           "logo": "https://crests.football-data.org/102.png",
-          "played": 11,
+          "played": 12,
           "win": 4,
-          "draw": 2,
+          "draw": 3,
           "lose": 5,
-          "goals_for": 17,
-          "goals_against": 20,
+          "goals_for": 21,
+          "goals_against": 24,
           "goal_diff": -3,
-          "points": 14,
+          "points": 15,
           "form": null
         },
         {
@@ -1130,7 +1130,7 @@
       "id": 61,
       "name": "Ligue 1",
       "season": 2026,
-      "updated_at": "2026-11-22T19:07:40.362344+00:00",
+      "updated_at": "2026-11-23T07:53:50.611481+00:00",
       "teams": [
         {
           "rank": 1,
@@ -1192,13 +1192,13 @@
           "rank": 5,
           "name": "Olympique de Marseille",
           "logo": "https://crests.football-data.org/516.png",
-          "played": 10,
+          "played": 11,
           "win": 6,
           "draw": 0,
-          "lose": 4,
-          "goals_for": 22,
-          "goals_against": 14,
-          "goal_diff": 8,
+          "lose": 5,
+          "goals_for": 24,
+          "goals_against": 17,
+          "goal_diff": 7,
           "points": 18,
           "form": null
         },
@@ -1302,6 +1302,20 @@
         },
         {
           "rank": 13,
+          "name": "Le Mans FC",
+          "logo": "https://upload.wikimedia.org/wikipedia/en/5/57/Le_Mans_FC_logo.svg",
+          "played": 11,
+          "win": 2,
+          "draw": 5,
+          "lose": 4,
+          "goals_for": 15,
+          "goals_against": 21,
+          "goal_diff": -6,
+          "points": 11,
+          "form": null
+        },
+        {
+          "rank": 14,
           "name": "ES Troyes AC",
           "logo": "https://crests.football-data.org/531.png",
           "played": 11,
@@ -1315,7 +1329,7 @@
           "form": null
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "AJ Auxerre",
           "logo": "https://crests.football-data.org/519.png",
           "played": 11,
@@ -1329,7 +1343,7 @@
           "form": null
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "RC Strasbourg Alsace",
           "logo": "https://crests.football-data.org/576.png",
           "played": 11,
@@ -1340,20 +1354,6 @@
           "goals_against": 23,
           "goal_diff": -5,
           "points": 10,
-          "form": null
-        },
-        {
-          "rank": 16,
-          "name": "Le Mans FC",
-          "logo": "https://crests.football-data.org/535.png",
-          "played": 10,
-          "win": 1,
-          "draw": 5,
-          "lose": 4,
-          "goals_for": 12,
-          "goals_against": 19,
-          "goal_diff": -7,
-          "points": 8,
           "form": null
         },
         {
