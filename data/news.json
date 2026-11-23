@@ -1,6 +1,30 @@
 {
-  "updated_at": "2026-11-22T23:39:12.498241+00:00",
+  "updated_at": "2026-11-23T00:53:40.494401+00:00",
   "items": [
+    {
+      "id": "bea84952f2aa8406",
+      "title": "Did Liverpool 'get lucky' with red card decision?",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cq23jmklrj33o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-22T23:59:59+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [
+        "Premier League"
+      ],
+      "priority": 12
+    },
+    {
+      "id": "57df8336f8ff0ffe",
+      "title": "How 'outstanding' Tzolakis kept Brighton at bay",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm702nzyl8pzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-22T23:59:57+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
     {
       "id": "294dc2d24386fcf7",
       "title": "A 'wow' player - why Ngumoha is already a Liverpool game-changer",
@@ -46,6 +70,17 @@
       "url": "https://www.bbc.co.uk/sport/football/articles/cm782j80yypwo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
       "published_at": "2026-11-22T21:36:00+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "5fa7ecd0bcbdde8d",
+      "title": "‘It’s painful for me’: Pochettino criticises Yoro red card in Anfield humiliation",
+      "url": "https://www.theguardian.com/football/2026/nov/22/mauricio-pochettino-manchester-united-reign-begins-with-anfield-humiliation-liverpool",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-22T21:31:03+00:00",
       "category": "clubs",
       "language": "en",
       "topics": [],
@@ -109,17 +144,6 @@
       "priority": 12
     },
     {
-      "id": "a3d50bd864c65082",
-      "title": "Own-goal mishap gifts Brighton first away victory",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cqx2w0m8v84wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-22T19:50:33+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
       "id": "dc07263494b2e498",
       "title": "Iraola 'enjoyed' big win over Man Utd",
       "url": "https://www.bbc.co.uk/sport/football/videos/c3y0x55ey81yo?at_medium=RSS&at_campaign=rss",
@@ -177,17 +201,6 @@
         "Premier League"
       ],
       "priority": 12
-    },
-    {
-      "id": "f2c6121ae9f6c3df",
-      "title": "Spurs deny Man City top spot with statement win",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c9vg2112evvdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-22T17:54:36+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
     },
     {
       "id": "e75bac34590ad123",
@@ -299,17 +312,6 @@
       "priority": 0
     },
     {
-      "id": "4d2409377dd99e4b",
-      "title": "Lionel Messi at center of red-card controversy as Inter Miami face early MLS playoff exit",
-      "url": "https://www.theguardian.com/football/2026/nov/21/lionel-messi-red-card-controversy-inter-miami-columbus-crew-mls-playoffs",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-22T03:01:55+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
       "id": "a79c5227c2a3e5ff",
       "title": "‘Obviously it’s not good’: Arteta sweating over David Raya’s fitness after injury",
       "url": "https://www.theguardian.com/football/2026/nov/21/david-raya-shoulder-injury-arsenal-newcastle-mikel-arteta",
@@ -328,17 +330,6 @@
       "published_at": "2026-11-21T17:30:50+00:00",
       "category": "clubs",
       "language": "fr",
-      "topics": [],
-      "priority": 0
-    },
-    {
-      "id": "1e50023b9eb1e293",
-      "title": "Evanilson and Kluivert sink Forest to earn Bournemouth ninth win in a row",
-      "url": "https://www.theguardian.com/football/2026/nov/21/bournemouth-nottingham-forest-premier-league-match-report",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-21T17:10:24+00:00",
-      "category": "clubs",
-      "language": "en",
       "topics": [],
       "priority": 0
     },
@@ -378,6 +369,17 @@
         "Premier League"
       ],
       "priority": 12
+    },
+    {
+      "id": "c9c178c8a1c8f072",
+      "title": "Training hard and biding his time, Dele Alli has not given up on football yet",
+      "url": "https://www.theguardian.com/football/2026/nov/20/dele-alli-tottenham-mk-dons-england",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-20T19:00:37+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
     },
     {
       "id": "fcfcd86354fbb1d9",
@@ -495,15 +497,15 @@
   ],
   "source_errors": [],
   "search_trends_fr": [
-    "leonida",
+    "kleinanzeigen",
+    "hailey bieber",
+    "sabine azema dussollier",
+    "combien de chapitre gta 6",
     "marseille fc vs le mans fc standings",
-    "francis lawrence",
     "heat – thunder",
+    "joseph zada",
     "classement atalanta bergame – inter milan",
     "sam bankman-fried",
-    "jaafar jackson",
-    "om vs",
-    "julien varlet",
-    "pierre lescure"
+    "jaafar jackson"
   ]
 }
