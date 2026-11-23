@@ -1,6 +1,157 @@
 {
-  "updated_at": "2026-11-23T13:30:38.256526+00:00",
+  "updated_at": "2026-11-23T16:18:23.981291+00:00",
   "items": [
+    {
+      "id": "3ab857961868442b",
+      "title": "Ligue des champions: le PSG veut poursuivre son parcours sans faute, Lens et Lille aux abois",
+      "url": "https://www.rfi.fr/fr/sports/20261123-ligue-des-champions-le-psg-veut-poursuivre-son-parcours-sans-faute-lens-et-lille-aux-abois",
+      "source": "RFI Sports",
+      "published_at": "2026-11-23T16:07:42+00:00",
+      "category": "competitions",
+      "language": "fr",
+      "topics": [
+        "Ligue 1",
+        "Ligue des champions"
+      ],
+      "priority": 12
+    },
+    {
+      "id": "c3d037a8f557bf57",
+      "title": "Logo, villes hôtes et nouveau sponsor, les avancées de la CAN 2027",
+      "url": "https://www.rfi.fr/fr/afrique-foot/20261123-logo-villes-h%C3%B4tes-et-nouveau-sponsor-les-avanc%C3%A9es-de-la-can-2027",
+      "source": "RFI Afrique Foot",
+      "published_at": "2026-11-23T16:05:46+00:00",
+      "category": "clubs",
+      "language": "fr",
+      "topics": [
+        "Sélections"
+      ],
+      "priority": 12
+    },
+    {
+      "id": "d392348c285b930a",
+      "title": "Mauricio Pochettino can now see just how desperate Manchester United are | Jonathan Wilson",
+      "url": "https://www.theguardian.com/football/2026/nov/23/mauricio-pochettino-can-now-see-just-how-desperate-manchester-united-are",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-23T15:45:50+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [
+        "Premier League"
+      ],
+      "priority": 12
+    },
+    {
+      "id": "55712e4f4f50dc07",
+      "title": "I've wanted to crawl under a rock and hide' - Pressley",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cre3d9j5k4n8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-23T15:31:57+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "ebe77af6e8973d7a",
+      "title": "Raya to miss Dortmund game but injury 'not serious'",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cjx2rqpr7l9lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-23T15:23:09+00:00",
+      "category": "injuries",
+      "language": "en",
+      "topics": [
+        "Bundesliga"
+      ],
+      "priority": 20
+    },
+    {
+      "id": "1b1d472bd6c914fc",
+      "title": "David Raya’s shoulder injury ‘not too serious’ and no surgery needed for Arsenal goalkeeper",
+      "url": "https://www.theguardian.com/football/2026/nov/23/david-raya-shoulder-injury-arsenal-surgery-mikel-arteta",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-23T15:13:56+00:00",
+      "category": "injuries",
+      "language": "en",
+      "topics": [
+        "Premier League"
+      ],
+      "priority": 20
+    },
+    {
+      "id": "3ccbc039f119e71a",
+      "title": "England, Northern Ireland, Scotland & Wales to host 2035 Women's World Cup",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx30g83716lzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-23T15:09:50+00:00",
+      "category": "competitions",
+      "language": "en",
+      "topics": [
+        "Sélections"
+      ],
+      "priority": 12
+    },
+    {
+      "id": "f1f6daeb5e40be57",
+      "title": "‘Celebrate, inspire, unite’: UK confirmed as host of 2035 Women’s World Cup",
+      "url": "https://www.theguardian.com/football/2026/nov/23/uk-confirmed-hosts-2035-womens-world-cup-fifa",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-23T15:09:18+00:00",
+      "category": "competitions",
+      "language": "en",
+      "topics": [
+        "Sélections"
+      ],
+      "priority": 12
+    },
+    {
+      "id": "bdffced1583ed06d",
+      "title": "Emery insists no change of plan for Aston Villa despite fears over Galatasaray surface",
+      "url": "https://www.theguardian.com/football/2026/nov/23/unai-emery-no-change-of-plan-aston-villa-galatasaray-surface",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-23T14:56:36+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "3e0f5fb3204daa37",
+      "title": "PSG had the best attack in Europe but Doué and Kvaratskhelia injuries will test Luis Enrique",
+      "url": "https://www.theguardian.com/football/2026/nov/23/psg-best-attack-europe-desire-doue-acl-khvicha-kvaratskhelia-luis-enrique",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-23T14:19:24+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [
+        "Ligue 1"
+      ],
+      "priority": 12
+    },
+    {
+      "id": "f753e204ecee94ba",
+      "title": "Manchester United to appeal against Leny Yoro red card in defeat by Liverpool",
+      "url": "https://www.theguardian.com/football/2026/nov/23/manchester-united-appeal-leny-yoro-red-card-liverpool",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-23T13:30:01+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [
+        "Premier League"
+      ],
+      "priority": 12
+    },
+    {
+      "id": "9df90b9547c2fa15",
+      "title": "Esposito emulates Vieri with Inter hat-trick but De Ketelaere haunts him again",
+      "url": "https://www.theguardian.com/football/2026/nov/23/pio-esposito-charles-de-ketelaere-inter-hat-trick-atalanta-serie-a",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-23T13:18:20+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
     {
       "id": "e4d1aaafb41a493e",
       "title": "'You don't win 345 matches by defending' - Simeone breaks La Liga record",
@@ -24,6 +175,19 @@
       "language": "en",
       "topics": [],
       "priority": 0
+    },
+    {
+      "id": "4c4db2d7b626f4ba",
+      "title": "Jamal Musiala controversy the nadir of Bayern Munich’s turbulent week",
+      "url": "https://www.theguardian.com/football/2026/nov/23/bayern-munich-jamal-musiala-controversy-bundesliga",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-23T12:08:28+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [
+        "Bundesliga"
+      ],
+      "priority": 12
     },
     {
       "id": "a6d5d59968272f17",
@@ -85,37 +249,13 @@
       "priority": 0
     },
     {
-      "id": "64db4967d2df1706",
-      "title": "Inside Fifa and US Soccer’s plan for 2031 World Cup: ‘the largest women’s sporting event in history’",
-      "url": "https://www.theguardian.com/football/2026/nov/23/2031-womens-world-cup-projection-fifa-ussf",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-23T11:00:29+00:00",
-      "category": "competitions",
-      "language": "en",
-      "topics": [
-        "Sélections"
-      ],
-      "priority": 12
-    },
-    {
-      "id": "7135b119dabeefab",
-      "title": "Every goal from the Women's Super League - matchweek 11",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cq8j4glgw4pvo?at_medium=RSS&at_campaign=rss",
+      "id": "e0ea2329cbde802b",
+      "title": "Pioneer or coach-eater? The complex world of Pozzo's Watford",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq98z9p66g0xo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
-      "published_at": "2026-11-23T09:34:52+00:00",
+      "published_at": "2026-11-23T08:55:36+00:00",
       "category": "clubs",
       "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
-      "id": "768af246ea066828",
-      "title": "CAN 2025 : qui du Maroc ou du Sénégal est vainqueur ? La date du verdict du TAS enfin connue",
-      "url": "https://www.france24.com/fr/sports/20261123-can-2025-maroc-senegal-verdict-tas",
-      "source": "France 24",
-      "published_at": "2026-11-23T09:20:50+00:00",
-      "category": "clubs",
-      "language": "fr",
       "topics": [],
       "priority": 0
     },
@@ -153,19 +293,6 @@
       "priority": 0
     },
     {
-      "id": "edb79fcdd6fc42f5",
-      "title": "Premier League: 10 talking points from the weekend’s action",
-      "url": "https://www.theguardian.com/football/2026/nov/23/premier-league-10-talking-points-from-the-weekends-action",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-23T08:00:50+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [
-        "Premier League"
-      ],
-      "priority": 12
-    },
-    {
       "id": "44b2d9ea6efaf303",
       "title": "'Our Super Bowl moment' - what can WSL learn from booming US league?",
       "url": "https://www.bbc.co.uk/sport/football/articles/c893rk66e1l7o?at_medium=RSS&at_campaign=rss",
@@ -175,19 +302,6 @@
       "language": "en",
       "topics": [],
       "priority": 0
-    },
-    {
-      "id": "f9021091a2918212",
-      "title": "Ligue 1 : renversé par Le Mans, Marseille rechute après cinq victoires consécutives",
-      "url": "https://www.france24.com/fr/%C3%A9missions/sports/20261123-ligue-1-renvers%C3%A9-par-le-mans-marseille-rechute-apr%C3%A8s-5-victoires-cons%C3%A9cutives",
-      "source": "France 24",
-      "published_at": "2026-11-23T07:30:26+00:00",
-      "category": "clubs",
-      "language": "fr",
-      "topics": [
-        "Ligue 1"
-      ],
-      "priority": 12
     },
     {
       "id": "8de234d7af844607",
@@ -201,28 +315,15 @@
       "priority": 0
     },
     {
-      "id": "bea84952f2aa8406",
-      "title": "Did Liverpool 'get lucky' with red card decision?",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cq23jmklrj33o?at_medium=RSS&at_campaign=rss",
+      "id": "294dc2d24386fcf7",
+      "title": "A 'wow' player - why Ngumoha is already a Liverpool game-changer",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmn80y5w84qqo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
-      "published_at": "2026-11-22T23:59:59+00:00",
+      "published_at": "2026-11-22T23:20:16+00:00",
       "category": "clubs",
       "language": "en",
       "topics": [
         "Premier League"
-      ],
-      "priority": 12
-    },
-    {
-      "id": "22ee4c5a5cc3f3d8",
-      "title": "European football: Barcelona roar back from two goals down to sink Villarreal",
-      "url": "https://www.theguardian.com/football/2026/nov/22/european-football-barcelona-villarreal-juventus-milan-inter",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-22T22:20:43+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [
-        "La Liga"
       ],
       "priority": 12
     },
@@ -232,39 +333,6 @@
       "url": "https://www.bbc.co.uk/sport/football/articles/cwd012903kvgo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
       "published_at": "2026-11-22T21:22:10+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
-      "id": "dccd9b2d0319a8b0",
-      "title": "Man Utd plotting Toney move - Monday's gossip",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck053nyl6399o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-22T21:04:15+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
-      "id": "42e27cd54bc6cca0",
-      "title": "Pochettino’s new-manager bounce falls flat with De Ligt move a disastrous step | Jamie Jackson",
-      "url": "https://www.theguardian.com/football/2026/nov/22/mauricio-pochettino-matthijs-de-ligt-harry-maguire-manchester-united-liverpool-premier-league",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-22T20:58:35+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
-      "id": "18c3a8b31e739e3c",
-      "title": "McBurnie stoppage-time double earns Hull win over 10-man Brighton",
-      "url": "https://www.bbc.co.uk/sport/football/videos/ck62pzzezqz2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-22T19:59:38+00:00",
       "category": "clubs",
       "language": "en",
       "topics": [],
@@ -284,17 +352,6 @@
       "priority": 12
     },
     {
-      "id": "b80f98e1e2f059ff",
-      "title": "Pochettino on 'painful' defeat in first game as Man Utd boss",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c8p3vyyg4d6vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-22T19:03:24+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
       "id": "402559d790bad349",
       "title": "Liverpool hand Pochettino nightmare Manchester United start after Yoro sees red",
       "url": "https://www.theguardian.com/football/2026/nov/22/liverpool-manchester-united-premier-league-match-report",
@@ -308,11 +365,11 @@
       "priority": 12
     },
     {
-      "id": "e75bac34590ad123",
-      "title": "Arsenal frustrations grow as winless home run continues",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cm8e0pdw70d8o?at_medium=RSS&at_campaign=rss",
+      "id": "a560a42c18e05047",
+      "title": "The red card that changed Liverpool-Man Utd: correct call?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq7827p8emmxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
-      "published_at": "2026-11-22T17:30:45+00:00",
+      "published_at": "2026-11-22T17:55:54+00:00",
       "category": "clubs",
       "language": "en",
       "topics": [
@@ -339,43 +396,6 @@
       "url": "https://www.theguardian.com/football/2026/nov/22/hull-brighton-premier-league-match-report",
       "source": "The Guardian Football",
       "published_at": "2026-11-22T16:10:48+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
-      "id": "c353dc243a70a6ed",
-      "title": "Robins ‘aims for the stars’ as Stoke dream of Premier League return",
-      "url": "https://www.theguardian.com/football/2026/nov/22/mark-robins-stoke-birmingham-championship-premier-league-promotion",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-22T08:00:22+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [
-        "Premier League"
-      ],
-      "priority": 12
-    },
-    {
-      "id": "8e39850962d5072c",
-      "title": "César Azpilicueta: ‘At Chelsea a draw was a catastrophe – if you can’t perform, you’re out’",
-      "url": "https://www.theguardian.com/football/2026/nov/22/cesar-azpilicueta-at-chelsea-a-draw-was-a-catastrophe-if-you-cant-perform-youre-out",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-22T08:00:21+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [
-        "Premier League"
-      ],
-      "priority": 12
-    },
-    {
-      "id": "2cc4bc579c3e71a1",
-      "title": "Champion’s corner: KC Current win first NWSL Championship with 2-1 stunner over Spirit",
-      "url": "https://www.theguardian.com/football/2026/nov/21/nwsl-championship-washington-spirit-kansas-city-current",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-22T03:55:43+00:00",
       "category": "clubs",
       "language": "en",
       "topics": [],
@@ -409,19 +429,6 @@
       "url": "https://www.theguardian.com/football/2026/nov/21/tottenham-ipswich-premier-league-match-report",
       "source": "The Guardian Football",
       "published_at": "2026-11-21T16:58:31+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [
-        "Premier League"
-      ],
-      "priority": 12
-    },
-    {
-      "id": "8c76138e00f7a0fa",
-      "title": "Elliot Anderson halts Manchester City’s losing run but boos greet Fulham draw",
-      "url": "https://www.theguardian.com/football/2026/nov/21/manchester-city-fulham-premier-league-match-report",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-21T14:34:03+00:00",
       "category": "clubs",
       "language": "en",
       "topics": [
@@ -480,17 +487,6 @@
       "priority": 12
     },
     {
-      "id": "6ae9a71550853c72",
-      "title": "Présidence de la Fifa: le Japon dépose la candidature de Kozo Tashima",
-      "url": "https://www.rfi.fr/fr/sports/20261118-pr%C3%A9sidence-de-la-fifa-le-japon-d%C3%A9pose-la-candidature-de-kozo-tashima",
-      "source": "RFI Sports",
-      "published_at": "2026-11-18T09:11:28+00:00",
-      "category": "clubs",
-      "language": "fr",
-      "topics": [],
-      "priority": 0
-    },
-    {
       "id": "b0e6a1b642ab9baf",
       "title": "Éliminatoires CAN 2027: Sénégal, Mali, Burkina Faso, Cameroun, Bénin et Maroc qualifiés, bilan de la 4e journée",
       "url": "https://www.rfi.fr/fr/afrique-foot/20261117-%C3%A9liminatoires-can-2027-le-s%C3%A9n%C3%A9gal-d%C3%A9j%C3%A0-qualifi%C3%A9-r%C3%A9sultats-et-bilan-%C3%A0-l-issue-de-la-quatri%C3%A8me-journ%C3%A9e",
@@ -515,32 +511,19 @@
         "Sélections"
       ],
       "priority": 12
-    },
-    {
-      "id": "618bde2fbfe44fc1",
-      "title": "Éliminatoires CAN 2027: le Sénégal et le Cameroun ont un pied en phase finale",
-      "url": "https://www.rfi.fr/fr/afrique-foot/20261116-%C3%A9liminatoires-can-2027-le-s%C3%A9n%C3%A9gal-et-le-cameroun-ont-un-pied-en-phase-finale",
-      "source": "RFI Afrique Foot",
-      "published_at": "2026-11-16T15:28:24+00:00",
-      "category": "clubs",
-      "language": "fr",
-      "topics": [
-        "Sélections"
-      ],
-      "priority": 12
     }
   ],
   "source_errors": [],
   "search_trends_fr": [
-    "antibes",
-    "mer baltique",
-    "louis boyard",
-    "generation s",
-    "neftchi ferghana – al-hilal",
-    "johann zarco",
-    "emanuel emegha",
-    "bois",
-    "valentino rossi",
-    "james gray"
+    "mêlée",
+    "abattage",
+    "donyell malen",
+    "loïs openda",
+    "fun radio",
+    "leonida github",
+    "flers",
+    "twickenham",
+    "montluçon",
+    "boursorama"
   ]
 }
