@@ -1,8 +1,8 @@
 {
   "source": "API-Football",
-  "updated_at": "2026-11-22T08:20:25.073623+00:00",
-  "from_utc": "2026-11-22",
-  "to_utc": "2026-11-29",
+  "updated_at": "2026-11-23T08:45:21.048068+00:00",
+  "from_utc": "2026-11-23",
+  "to_utc": "2026-11-30",
   "target_leagues": [
     2,
     5,
@@ -13,353 +13,17 @@
     61
   ],
   "checked_dates": [
-    "2026-11-22",
     "2026-11-23",
     "2026-11-24",
     "2026-11-25",
     "2026-11-26",
     "2026-11-27",
     "2026-11-28",
-    "2026-11-29"
+    "2026-11-29",
+    "2026-11-30"
   ],
   "blocked_dates": [],
   "matches": [
-    {
-      "id": 1550201,
-      "kickoff": "2026-11-22T11:30:00+00:00",
-      "status": "NS",
-      "elapsed": null,
-      "league": {
-        "id": 135,
-        "name": "Serie A",
-        "country": "Italy"
-      },
-      "home": {
-        "name": "Juventus",
-        "logo": "https://media.api-sports.io/football/teams/496.png",
-        "goals": null
-      },
-      "away": {
-        "name": "Venezia",
-        "logo": "https://media.api-sports.io/football/teams/517.png",
-        "goals": null
-      }
-    },
-    {
-      "id": 1570455,
-      "kickoff": "2026-11-22T13:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
-      "league": {
-        "id": 140,
-        "name": "La Liga",
-        "country": "Spain"
-      },
-      "home": {
-        "name": "Barcelona",
-        "logo": "https://media.api-sports.io/football/teams/529.png",
-        "goals": null
-      },
-      "away": {
-        "name": "Villarreal",
-        "logo": "https://media.api-sports.io/football/teams/533.png",
-        "goals": null
-      }
-    },
-    {
-      "id": 1550199,
-      "kickoff": "2026-11-22T14:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
-      "league": {
-        "id": 135,
-        "name": "Serie A",
-        "country": "Italy"
-      },
-      "home": {
-        "name": "Bologna",
-        "logo": "https://media.api-sports.io/football/teams/500.png",
-        "goals": null
-      },
-      "away": {
-        "name": "Udinese",
-        "logo": "https://media.api-sports.io/football/teams/494.png",
-        "goals": null
-      }
-    },
-    {
-      "id": 1550206,
-      "kickoff": "2026-11-22T14:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
-      "league": {
-        "id": 135,
-        "name": "Serie A",
-        "country": "Italy"
-      },
-      "home": {
-        "name": "Sassuolo",
-        "logo": "https://media.api-sports.io/football/teams/488.png",
-        "goals": null
-      },
-      "away": {
-        "name": "Genoa",
-        "logo": "https://media.api-sports.io/football/teams/495.png",
-        "goals": null
-      }
-    },
-    {
-      "id": 1552825,
-      "kickoff": "2026-11-22T14:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
-      "league": {
-        "id": 61,
-        "name": "Ligue 1",
-        "country": "France"
-      },
-      "home": {
-        "name": "Paris FC",
-        "logo": "https://media.api-sports.io/football/teams/114.png",
-        "goals": null
-      },
-      "away": {
-        "name": "Angers",
-        "logo": "https://media.api-sports.io/football/teams/77.png",
-        "goals": null
-      }
-    },
-    {
-      "id": 1557472,
-      "kickoff": "2026-11-22T14:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
-      "league": {
-        "id": 39,
-        "name": "Premier League",
-        "country": "England"
-      },
-      "home": {
-        "name": "Hull City",
-        "logo": "https://media.api-sports.io/football/teams/64.png",
-        "goals": null
-      },
-      "away": {
-        "name": "Brighton",
-        "logo": "https://media.api-sports.io/football/teams/51.png",
-        "goals": null
-      }
-    },
-    {
-      "id": 1575224,
-      "kickoff": "2026-11-22T14:30:00+00:00",
-      "status": "NS",
-      "elapsed": null,
-      "league": {
-        "id": 78,
-        "name": "Bundesliga",
-        "country": "Germany"
-      },
-      "home": {
-        "name": "FC Augsburg",
-        "logo": "https://media.api-sports.io/football/teams/170.png",
-        "goals": null
-      },
-      "away": {
-        "name": "FSV Mainz 05",
-        "logo": "https://media.api-sports.io/football/teams/164.png",
-        "goals": null
-      }
-    },
-    {
-      "id": 1570459,
-      "kickoff": "2026-11-22T15:15:00+00:00",
-      "status": "NS",
-      "elapsed": null,
-      "league": {
-        "id": 140,
-        "name": "La Liga",
-        "country": "Spain"
-      },
-      "home": {
-        "name": "Racing Santander",
-        "logo": "https://media.api-sports.io/football/teams/4665.png",
-        "goals": null
-      },
-      "away": {
-        "name": "Real Sociedad",
-        "logo": "https://media.api-sports.io/football/teams/548.png",
-        "goals": null
-      }
-    },
-    {
-      "id": 1552821,
-      "kickoff": "2026-11-22T16:15:00+00:00",
-      "status": "NS",
-      "elapsed": null,
-      "league": {
-        "id": 61,
-        "name": "Ligue 1",
-        "country": "France"
-      },
-      "home": {
-        "name": "Lorient",
-        "logo": "https://media.api-sports.io/football/teams/97.png",
-        "goals": null
-      },
-      "away": {
-        "name": "Rennes",
-        "logo": "https://media.api-sports.io/football/teams/94.png",
-        "goals": null
-      }
-    },
-    {
-      "id": 1557473,
-      "kickoff": "2026-11-22T16:30:00+00:00",
-      "status": "NS",
-      "elapsed": null,
-      "league": {
-        "id": 39,
-        "name": "Premier League",
-        "country": "England"
-      },
-      "home": {
-        "name": "Liverpool",
-        "logo": "https://media.api-sports.io/football/teams/40.png",
-        "goals": null
-      },
-      "away": {
-        "name": "Manchester United",
-        "logo": "https://media.api-sports.io/football/teams/33.png",
-        "goals": null
-      }
-    },
-    {
-      "id": 1575227,
-      "kickoff": "2026-11-22T16:30:00+00:00",
-      "status": "NS",
-      "elapsed": null,
-      "league": {
-        "id": 78,
-        "name": "Bundesliga",
-        "country": "Germany"
-      },
-      "home": {
-        "name": "Werder Bremen",
-        "logo": "https://media.api-sports.io/football/teams/162.png",
-        "goals": null
-      },
-      "away": {
-        "name": "Hamburger SV",
-        "logo": "https://media.api-sports.io/football/teams/175.png",
-        "goals": null
-      }
-    },
-    {
-      "id": 1550197,
-      "kickoff": "2026-11-22T17:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
-      "league": {
-        "id": 135,
-        "name": "Serie A",
-        "country": "Italy"
-      },
-      "home": {
-        "name": "AC Milan",
-        "logo": "https://media.api-sports.io/football/teams/489.png",
-        "goals": null
-      },
-      "away": {
-        "name": "Frosinone",
-        "logo": "https://media.api-sports.io/football/teams/512.png",
-        "goals": null
-      }
-    },
-    {
-      "id": 1570458,
-      "kickoff": "2026-11-22T17:30:00+00:00",
-      "status": "NS",
-      "elapsed": null,
-      "league": {
-        "id": 140,
-        "name": "La Liga",
-        "country": "Spain"
-      },
-      "home": {
-        "name": "Osasuna",
-        "logo": "https://media.api-sports.io/football/teams/727.png",
-        "goals": null
-      },
-      "away": {
-        "name": "Malaga",
-        "logo": "https://media.api-sports.io/football/teams/535.png",
-        "goals": null
-      }
-    },
-    {
-      "id": 1550198,
-      "kickoff": "2026-11-22T19:45:00+00:00",
-      "status": "NS",
-      "elapsed": null,
-      "league": {
-        "id": 135,
-        "name": "Serie A",
-        "country": "Italy"
-      },
-      "home": {
-        "name": "Atalanta",
-        "logo": "https://media.api-sports.io/football/teams/499.png",
-        "goals": null
-      },
-      "away": {
-        "name": "Inter",
-        "logo": "https://media.api-sports.io/football/teams/505.png",
-        "goals": null
-      }
-    },
-    {
-      "id": 1552822,
-      "kickoff": "2026-11-22T19:45:00+00:00",
-      "status": "NS",
-      "elapsed": null,
-      "league": {
-        "id": 61,
-        "name": "Ligue 1",
-        "country": "France"
-      },
-      "home": {
-        "name": "Marseille",
-        "logo": "https://media.api-sports.io/football/teams/81.png",
-        "goals": null
-      },
-      "away": {
-        "name": "Le Mans",
-        "logo": "https://media.api-sports.io/football/teams/1298.png",
-        "goals": null
-      }
-    },
-    {
-      "id": 1570456,
-      "kickoff": "2026-11-22T20:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
-      "league": {
-        "id": 140,
-        "name": "La Liga",
-        "country": "Spain"
-      },
-      "home": {
-        "name": "Getafe",
-        "logo": "https://media.api-sports.io/football/teams/546.png",
-        "goals": null
-      },
-      "away": {
-        "name": "Atletico Madrid",
-        "logo": "https://media.api-sports.io/football/teams/530.png",
-        "goals": null
-      }
-    },
     {
       "id": 1550203,
       "kickoff": "2026-11-23T19:45:00+00:00",
@@ -1743,6 +1407,69 @@
       "away": {
         "name": "Sevilla",
         "logo": "https://media.api-sports.io/football/teams/536.png",
+        "goals": null
+      }
+    },
+    {
+      "id": 1550212,
+      "kickoff": "2026-11-30T17:30:00+00:00",
+      "status": "NS",
+      "elapsed": null,
+      "league": {
+        "id": 135,
+        "name": "Serie A",
+        "country": "Italy"
+      },
+      "home": {
+        "name": "Lecce",
+        "logo": "https://media.api-sports.io/football/teams/867.png",
+        "goals": null
+      },
+      "away": {
+        "name": "Atalanta",
+        "logo": "https://media.api-sports.io/football/teams/499.png",
+        "goals": null
+      }
+    },
+    {
+      "id": 1550208,
+      "kickoff": "2026-11-30T19:45:00+00:00",
+      "status": "NS",
+      "elapsed": null,
+      "league": {
+        "id": 135,
+        "name": "Serie A",
+        "country": "Italy"
+      },
+      "home": {
+        "name": "Cagliari",
+        "logo": "https://media.api-sports.io/football/teams/490.png",
+        "goals": null
+      },
+      "away": {
+        "name": "AC Milan",
+        "logo": "https://media.api-sports.io/football/teams/489.png",
+        "goals": null
+      }
+    },
+    {
+      "id": 1570467,
+      "kickoff": "2026-11-30T20:00:00+00:00",
+      "status": "NS",
+      "elapsed": null,
+      "league": {
+        "id": 140,
+        "name": "La Liga",
+        "country": "Spain"
+      },
+      "home": {
+        "name": "Espanyol",
+        "logo": "https://media.api-sports.io/football/teams/540.png",
+        "goals": null
+      },
+      "away": {
+        "name": "Getafe",
+        "logo": "https://media.api-sports.io/football/teams/546.png",
         "goals": null
       }
     }
