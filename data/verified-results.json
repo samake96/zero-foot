@@ -1,0 +1,139 @@
+{
+  "matches": [
+    {
+      "utc_date": "2026-11-21",
+      "home_name": "Real Madrid",
+      "away_name": "Celta Vigo",
+      "home_goals": 2,
+      "away_goals": 1,
+      "competition": "La Liga",
+      "source_url": "https://www.laliga.com/en-ES/clubs/real-madrid/results"
+    },
+    {
+      "utc_date": "2026-11-07",
+      "home_name": "Valencia",
+      "away_name": "Real Madrid",
+      "home_goals": 0,
+      "away_goals": 3,
+      "competition": "La Liga",
+      "source_url": "https://www.laliga.com/en-ES/clubs/real-madrid/results"
+    },
+    {
+      "utc_date": "2026-11-04",
+      "home_name": "AEK Athens",
+      "away_name": "Real Madrid",
+      "home_goals": 2,
+      "away_goals": 3,
+      "competition": "Ligue des champions",
+      "source_url": "https://www.laliga.com/en-ES/clubs/real-madrid/results"
+    },
+    {
+      "utc_date": "2026-11-01",
+      "home_name": "Racing Santander",
+      "away_name": "Real Madrid",
+      "home_goals": 0,
+      "away_goals": 3,
+      "competition": "La Liga",
+      "source_url": "https://www.laliga.com/en-ES/clubs/real-madrid/results"
+    },
+    {
+      "utc_date": "2026-10-25",
+      "home_name": "Barcelona",
+      "away_name": "Real Madrid",
+      "home_goals": 1,
+      "away_goals": 2,
+      "competition": "La Liga",
+      "source_url": "https://www.laliga.com/en-ES/clubs/real-madrid/results"
+    },
+    {
+      "utc_date": "2026-10-21",
+      "home_name": "Real Madrid",
+      "away_name": "RB Leipzig",
+      "home_goals": 4,
+      "away_goals": 1,
+      "competition": "Ligue des champions",
+      "source_url": "https://www.laliga.com/en-ES/clubs/real-madrid/results"
+    },
+    {
+      "utc_date": "2026-10-18",
+      "home_name": "Real Madrid",
+      "away_name": "Sevilla",
+      "home_goals": 4,
+      "away_goals": 1,
+      "competition": "La Liga",
+      "source_url": "https://www.laliga.com/en-ES/clubs/real-madrid/results"
+    },
+    {
+      "utc_date": "2026-10-10",
+      "home_name": "Real Madrid",
+      "away_name": "Villarreal",
+      "home_goals": 1,
+      "away_goals": 0,
+      "competition": "La Liga",
+      "source_url": "https://www.laliga.com/en-ES/clubs/real-madrid/results"
+    },
+    {
+      "utc_date": "2026-11-21",
+      "home_name": "NEC Nijmegen",
+      "away_name": "PSV Eindhoven",
+      "home_goals": 1,
+      "away_goals": 4,
+      "competition": "Eredivisie",
+      "source_url": "https://www.psv.nl/match-center/wedstrijd/n.e.c.-psv-21-11-2026?toplevel=timeline"
+    },
+    {
+      "utc_date": "2026-11-08",
+      "home_name": "Cambuur",
+      "away_name": "PSV Eindhoven",
+      "home_goals": 2,
+      "away_goals": 5,
+      "competition": "Eredivisie",
+      "source_url": "https://www.psv.nl/en/match-center?competition=all&season=2026-2027&team=psv1&toplevel=results"
+    },
+    {
+      "utc_date": "2026-11-04",
+      "home_name": "PSV Eindhoven",
+      "away_name": "Club Brugge",
+      "home_goals": 1,
+      "away_goals": 2,
+      "competition": "Ligue des champions",
+      "source_url": "https://www.psv.nl/en/match-center?competition=all&season=2026-2027&team=psv1&toplevel=results"
+    },
+    {
+      "utc_date": "1989-03-15",
+      "home_name": "Real Madrid",
+      "away_name": "PSV Eindhoven",
+      "home_goals": 2,
+      "away_goals": 1,
+      "competition": "Coupe des clubs champions",
+      "source_url": "https://www.uefa.com/uefachampionsleague/history/h2h/50051/50062/"
+    },
+    {
+      "utc_date": "1989-03-01",
+      "home_name": "PSV Eindhoven",
+      "away_name": "Real Madrid",
+      "home_goals": 1,
+      "away_goals": 1,
+      "competition": "Coupe des clubs champions",
+      "source_url": "https://www.uefa.com/uefachampionsleague/history/h2h/50051/50062/"
+    },
+    {
+      "utc_date": "1988-04-20",
+      "home_name": "PSV Eindhoven",
+      "away_name": "Real Madrid",
+      "home_goals": 0,
+      "away_goals": 0,
+      "competition": "Coupe des clubs champions",
+      "source_url": "https://www.uefa.com/uefachampionsleague/history/h2h/50051/50062/"
+    },
+    {
+      "utc_date": "1988-04-06",
+      "home_name": "Real Madrid",
+      "away_name": "PSV Eindhoven",
+      "home_goals": 1,
+      "away_goals": 1,
+      "competition": "Coupe des clubs champions",
+      "source_url": "https://www.uefa.com/uefachampionsleague/history/h2h/50051/50062/"
+    }
+  ]
+}

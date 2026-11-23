@@ -1,0 +1,24 @@
+.insight-results {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 1rem;
+}
+.insight-result {
+  display: grid;
+  grid-template-columns: 4.9rem minmax(0, 1fr) 3.4rem;
+  gap: .45rem;
+  align-items: center;
+  padding: .6rem .2rem;
+  border-bottom: 1px solid var(--line);
+}
+.insight-result time { color: var(--muted); font-size: .76rem; }
+.insight-result-teams { display: grid; gap: .25rem; }
+.insight-result-team { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: .35rem; }
+.insight-result-team span { overflow-wrap: anywhere; }
+.insight-result a { color: var(--green); font-size: .72rem; }
+.insight-result-badge { text-align: center; font-weight: 800; border-radius: .4rem; padding: .2rem; }
+.insight-result-badge.win { color: #a0f3c5; background: #173c32; }
+.insight-result-badge.loss { color: #ffc1c7; background: #492831; }
+.insight-result-badge.draw { color: #ffe4a0; background: #413723; }
+.insight-history-details { margin-bottom: 1rem; }
+.insight-history-details summary { cursor: pointer; padding-block: .6rem; }
