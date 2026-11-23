@@ -104,8 +104,19 @@ button:focus-visible,a:focus-visible,input:focus-visible,select:focus-visible,su
 #matchList .match-entry{margin-inline:0;padding-inline:12px}
 #homeSidebar .fc-feature{border-left:3px solid var(--green)}
 @media(max-width:600px){#matchSearch{flex-basis:100%}#matches .home-tabs button{min-height:40px}#matchList .match-entry{padding-inline:8px}}
+.head > .logo { min-width: 0; max-width: 100%; }
+.home-brand { display: inline-flex; align-items: center; min-height: 44px; max-width: 100%; }
+.home-brand img { display: block; width: 190px; max-width: 100%; height: auto; }
+@media (max-width: 650px) {
+ .head { display: grid; grid-template-columns: minmax(0, 1fr) auto; padding: 8px 14px; }
+ .head > .logo { grid-column: 1; grid-row: 1; margin: 0; }
+ .head > #lang { grid-column: 2; grid-row: 1; min-height: 44px; }
+ .head > #nav { grid-column: 1 / -1; grid-row: 2; width: 100%; min-width: 0; flex-wrap: nowrap; justify-content: flex-start; overflow-x: auto; }
+ .head > #nav button { flex: none; min-height: 44px; }
+ .home-brand img { width: 160px; }
+}
 </style><link rel="stylesheet" href="/footchrono-home.css"><link rel="stylesheet" href="/footchrono-history.css"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7180571260643744" crossorigin="anonymous"></script><style>.fc-ad{width:calc(100% - 32px);max-width:728px;margin:16px auto}.fc-ad:has(ins[data-ad-status="unfilled"]){display:none}</style></head><body>
-<noscript><p class="wrap">Consultez les <a href="/scores">scores</a>, les <a href="/classements">classements</a> et les <a href="/actualites/">actualités</a> de FootChrono.</p></noscript><header><div class="wrap head"><div class="logo"><a class="home-brand" href="/" aria-label="Accueil FootChrono"><img src="/images/footchrono-logo.webp" width="640" height="135" alt="FootChrono"></a></div><nav id="nav"><button data-page="home" class="active" data-i="navHome">Overview</button><button data-page="matches" data-i="navMatches">Matches</button><button data-page="stats" data-i="navStats">Statistics</button><button data-page="archive">Archives</button><button data-page="predictions" data-i="navPred">Predictions</button><button data-page="news" data-i="navNews">News</button></nav><button class="switch" id="lang">FR / EN</button></div></header><div class="hero" id="homeIntro"><div class="wrap home-intro">
+<noscript><p class="wrap">Consultez les <a href="/scores">scores</a>, les <a href="/classements">classements</a> et les <a href="/actualites/">actualités</a> de FootChrono.</p></noscript><header><div class="wrap head"><div class="logo"><a class="home-brand" href="/" aria-label="Accueil FootChrono"><img src="/images/footchrono-logo.webp" width="190" height="40" alt="FootChrono"></a></div><nav id="nav"><button data-page="home" class="active" data-i="navHome">Overview</button><button data-page="matches" data-i="navMatches">Matches</button><button data-page="stats" data-i="navStats">Statistics</button><button data-page="archive">Archives</button><button data-page="predictions" data-i="navPred">Predictions</button><button data-page="news" data-i="navNews">News</button></nav><button class="switch" id="lang">FR / EN</button></div></header><div class="hero" id="homeIntro"><div class="wrap home-intro">
 <div><h1 data-i="productHeading">Le football en direct</h1><p id="homeDate" class="sub"></p></div>
 <div id="dataFreshness" class="data-freshness stale" role="status" aria-live="polite" hidden></div>
 </div></div><main class="wrap layout"><div>
