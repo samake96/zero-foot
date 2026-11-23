@@ -6,7 +6,7 @@ const teamAliases = {
   fkbodoglimt: 'bodoglimt', bayernmunchen: 'bayernmunich',
   inter: 'intermilan', internazionale: 'intermilan', internazionalemilano: 'intermilan',
   psg: 'parissaintgermain', clubatleticodemadrid: 'atleticomadrid',
-  slbenfica: 'benfica', sportlisboaebenfica: 'benfica',
+  levanteud: 'levante', elchecf: 'elche', slbenfica: 'benfica', sportlisboaebenfica: 'benfica',
 
 };
 const leagueNames = {PL: 'Premier League', PD: 'La Liga', BL1: 'Bundesliga', SA: 'Serie A', FL1: 'Ligue 1'};
@@ -30,6 +30,9 @@ export async function matchHistory(context, match) {
     loadData(context, 'match_results_archive'),
     loadData(context, 'verified-results'),
   ]);
+  const identities = [match.home, match.away].map(team => ({
+    key: teamKey(team.name), id: teamId(team),
+  }));
   const matches = new Map();
   const kickoff = Date.parse(match.kickoff);
   const kickoffDay = match.kickoff?.slice(0, 10);
@@ -45,6 +48,9 @@ export async function matchHistory(context, match) {
       const day = date.slice(0, 10);
       if ((row.kickoff && row.id === match.id) || (date.length === 10 ? day >= kickoffDay : !(Date.parse(date) < kickoff))) continue;
       const teams = [teamKey(home), teamKey(away)];
+      const ids = [teamId(row.home), teamId(row.away)];
+      if (identities.some(team => team.id && teams.some((key, i) =>
+        key === team.key && ids[i] && ids[i] !== team.id))) continue;
       const key = [day, ...teams].join('|');
       const previous = matches.get(key);
       matches.set(key, {date, home, away, goals, teams,

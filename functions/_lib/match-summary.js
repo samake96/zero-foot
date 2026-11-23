@@ -24,6 +24,9 @@ function formParagraph(team, rows) {
   const goals = last.goals[position];
   const against = last.goals[1 - position];
   const verb = goals > against ? 'a battu' : goals < against ? 's’est incliné face à' : 'a fait match nul contre';
+  if (rows.length === 1) {
+    return `<p>Le ${escape(dateLabel(last.date))}, <strong>${escape(team)}</strong> ${verb} ${escape(opponent)} (${goals}–${against}).</p>`;
+  }
   return `<p><strong>${escape(team)}</strong> affiche un bilan de ${quantity(wins, 'victoire')},
     ${quantity(draws, 'match nul', 'matchs nuls')} et ${quantity(rows.length - wins - draws, 'défaite')}
     sur la période du ${escape(dateLabel(rows.at(-1).date))} au ${escape(dateLabel(last.date))}.

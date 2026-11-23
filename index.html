@@ -816,7 +816,7 @@ Promise.allSettled([Promise.allSettled([
  const normalizedDaily=daily.filter(m=>['FT','AET','PEN'].includes(m.status)).map(m=>({
   apiId:m.id,competition:m.league?.name||'Autre',season:new Date(m.kickoff).getUTCFullYear(),
   utc_date:m.kickoff,home_name:m.home?.name,away_name:m.away?.name,
-  home_goals:m.home?.goals,away_goals:m.away?.goals
+  home_goals:m.home?.goals,away_goals:m.away?.goals,home_logo:m.home?.logo,away_logo:m.away?.logo
  }));
  const european=results[3].status==='fulfilled'?results[3].value:[];
  const merged=new Map();
@@ -908,20 +908,25 @@ function dateLabelForHistory(value) {
 }
 function showMatchInsights(id){
  const m=fixtures.find(x=>String(x.id)===String(id));if(!m)return;
- const aliases={lask:'lasklinz',fkbodoglimt:'bodoglimt',bayernmunchen:'bayernmunich',inter:'intermilan',internazionalemilano:'intermilan',psv:'psveindhoven',psg:'parissaintgermain',clubatleticodemadrid:'atleticomadrid',slbenfica:'benfica',sportlisboaebenfica:'benfica',tsvhartberg:'hartberg'};
+ const aliases={levanteud:'levante',lask:'lasklinz',fkbodoglimt:'bodoglimt',bayernmunchen:'bayernmunich',inter:'intermilan',internazionalemilano:'intermilan',psv:'psveindhoven',psg:'parissaintgermain',clubatleticodemadrid:'atleticomadrid',slbenfica:'benfica',sportlisboaebenfica:'benfica',tsvhartberg:'hartberg'};
  const norm=name=>{
   const key=String(name||'').toLowerCase().replace(/ø/g,'o').normalize('NFD').replace(/\p{M}/gu,'')
    .replace(/\b(?:fc|cf|afc)\b/g,'').replace(/[^a-z0-9]/g,'');
   return Object.hasOwn(aliases,key)?aliases[key]:key;
  };
  const h=norm(m.home),a=norm(m.away),fr=lang==='fr';
+ const badgeId=logo=>/^https:\/\/media\.api-sports\.io\/football\/teams\/(\d+)\.png$/.exec(logo)?.[1];
+ const identities=[[h,badgeId(m.homeLogo)],[a,badgeId(m.awayLogo)]];
 
  const resultsByMatch = new Map();
  for (const row of [...verifiedResults, ...archiveMatches]) {
   const day = String(row.utc_date).slice(0,10);
   if (String(row.utc_date).length === 10 ? day >= String(m.at).slice(0,10)
    : !(Date.parse(row.utc_date) < Date.parse(m.at))) continue;
-  const key = [day,norm(row.home_name),norm(row.away_name)].join('|');
+  const keys=[norm(row.home_name),norm(row.away_name)];
+  const ids=[badgeId(row.home_logo),badgeId(row.away_logo)];
+  if(identities.some(([key,id])=>id&&keys.some((name,i)=>name===key&&ids[i]&&ids[i]!==id))) continue;
+  const key = [day,...keys].join('|');
   const earlier = resultsByMatch.get(key);
   resultsByMatch.set(key,{...earlier,...row});
  }
