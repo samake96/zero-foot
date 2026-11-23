@@ -1,4 +1,4 @@
-import {dateLabel, escape, loadData} from './public-football.js';
+import {clubBadge, dateLabel, escape, loadData} from './public-football.js';
 
 const teamAliases = {
   lask: 'lasklinz', bodooglimt: 'bodoglimt', tsvhartberg: 'hartberg',
@@ -79,6 +79,5 @@ export function teamLink(team) {
 }
 
 export function teamLogo(team) {
-  const id = teamId(team);
-  return id ? `<img src="/ecussons/${id}.png" width="48" height="48" alt="" onerror="this.hidden=true">` : '';
+  return clubBadge(team?.logo, 48);
 }

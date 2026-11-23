@@ -457,6 +457,13 @@ function groupStatus(status) {
  if (['NS','TBD'].includes(status)) return 'NS';
  return 'OTHER';
 }
+function clubBadge(url, className, size) {
+ const id = /^https:\/\/media\.api-sports\.io\/football\/teams\/([1-9][0-9]{0,8})\.png$/.exec(url)?.[1];
+ const fallback = /^https:\/\/crests\.football-data\.org\/[0-9]+\.(?:png|svg)$/.test(url);
+ const src = id ? '/ecussons/'+id+'.png' : fallback ? url : '';
+ return src ? `<img class="${className}" src="${esc(src)}" width="${size}" height="${size}" alt="" loading="lazy" onerror="this.hidden=true">` : '';
+}
+
 function fixtureStatus(match) {
  const french = lang === 'fr';
  const labels = {
@@ -522,10 +529,6 @@ const matchRows = filtered.slice(0,matchLimit).map((m,i)=>{
   ? `<div class="fixture-group"><span>${esc(featuredById.get(key)?.[french?'french':'league'] || m.league)}
     ${m.country && m.country !== 'World' ? '<small>'+esc(m.country)+'</small>' : ''}</span>
     ${slug ? '<a href="/classements/'+slug+'">'+(french?'Classement':'Table')+' →</a>' : ''}</div>` : '';
- const logo = value => {
-  const badge = /^https:\/\/media\.api-sports\.io\/football\/teams\/([1-9][0-9]{0,8})\.png$/.exec(value);
-  return badge ? `<img class="team-logo" src="/ecussons/${badge[1]}.png" width="30" height="30" alt="" loading="lazy" onerror="this.hidden=true">` : '';
- };
  const validId = /^[1-9][0-9]*$/.test(String(m.id));
  const saved = favorites.has(String(m.id));
  const status = fixtureStatus(m);
@@ -533,9 +536,9 @@ const matchRows = filtered.slice(0,matchLimit).map((m,i)=>{
  const time = m.at && Number.isFinite(kickoff.getTime())
   ? new Intl.DateTimeFormat(lang,{hour:'2-digit',minute:'2-digit'}).format(kickoff) : '—';
  const score = m.hg != null && m.ag != null ? m.hg+' – '+m.ag : groupStatus(m.status)==='NS' ? time : '—';
- const teams = `<span class="team-with-logo">${logo(m.homeLogo)}<span class="team">${esc(m.home)}</span></span>
+ const teams = `<span class="team-with-logo">${clubBadge(m.homeLogo,'team-logo',30)}<span class="team">${esc(m.home)}</span></span>
  <span><span class="score">${esc(score)}</span><span class="meta status" data-status-id="${esc(m.id)}">${esc(status)}</span></span>
- <span class="team-with-logo right"><span class="team right">${esc(m.away)}</span>${logo(m.awayLogo)}</span>`;
+ <span class="team-with-logo right"><span class="team right">${esc(m.away)}</span>${clubBadge(m.awayLogo,'team-logo',30)}</span>`;
  return group+`<div class="match-row">
   <button class="favorite-toggle${saved?' saved':''}" data-favorite="${esc(m.id)}" aria-pressed="${saved}"
     aria-label="${saved?(french?'Retirer des favoris':'Remove from favourites'):(french?'Ajouter aux favoris':'Add to favourites')}">${saved?'★':'☆'}</button>
@@ -554,7 +557,7 @@ const standingsStatus = !dataLoaded
  : standingsError ? (lang==='fr'?'Classements temporairement indisponibles.':'Standings temporarily unavailable.')
  : standingsLeagues.length ? '' : (lang==='fr'?'Aucun classement disponible.':'No standings available.');
 el('standingsUpdate').textContent=standingsStatus;
-el('standingsBody').innerHTML=selectedStanding?.teams?.length?selectedStanding.teams.map(t=>`<tr><td>${esc(t.rank)}</td><td>${t.logo&&/^https:\/\/[a-z0-9.-]+\//i.test(t.logo)?`<img class="standing-logo" src="${esc(t.logo)}" alt="" loading="lazy">`:''}<a class="entity-link" href="${routeLink('stats',{league:selectedStanding.id,team:t.name})}">${esc(t.name)}</a></td><td>${esc(t.played)}</td><td>${esc(t.win)}</td><td>${esc(t.draw)}</td><td>${esc(t.lose)}</td><td>${esc(t.goal_diff)}</td><td><strong>${esc(t.points)}</strong></td></tr>`).join(''):'';renderAnalysis(selectedStanding);renderPreviews();renderArchive();
+el('standingsBody').innerHTML=selectedStanding?.teams?.length?selectedStanding.teams.map(t=>`<tr><td>${esc(t.rank)}</td><td>${clubBadge(t.logo,'standing-logo',22)}<a class="entity-link" href="${routeLink('stats',{league:selectedStanding.id,team:t.name})}">${esc(t.name)}</a></td><td>${esc(t.played)}</td><td>${esc(t.win)}</td><td>${esc(t.draw)}</td><td>${esc(t.lose)}</td><td>${esc(t.goal_diff)}</td><td><strong>${esc(t.points)}</strong></td></tr>`).join(''):'';renderAnalysis(selectedStanding);renderPreviews();renderArchive();
 renderNews();
 }
 
@@ -632,7 +635,7 @@ function renderNews() {
 
 function renderArchive(){
  const fr=lang==='fr',lg=el('archiveLeague'),se=el('archiveSeason'),query=el('archiveSearch').value.trim().toLocaleLowerCase();
- el('archiveIntro').textContent=fr?'Résultats historiques des championnats et saisons disponibles.':'Historical results for available leagues and seasons.';
+ el('archiveIntro').textContent=fr?'Retrouvez les anciens résultats par championnat et par saison.':'Historical results for available leagues and seasons.';
  if(archiveError){el('archiveResults').textContent=fr?'Archives temporairement indisponibles.':'Archive temporarily unavailable.';el('archiveMore').hidden=true;return;}
  if(!archiveReady){el('archiveResults').textContent=fr?'Chargement des archives…':'Loading archive…';el('archiveMore').hidden=true;return;}
  const leagues=[...new Set(archiveMatches.map(m=>m.competition))].sort(),seasons=[...new Set(archiveMatches.map(m=>m.season))].sort((a,b)=>b-a);
@@ -641,7 +644,7 @@ function renderArchive(){
  se.innerHTML='<option value="all">'+(fr?'Toutes les saisons':'All seasons')+'</option>'+seasons.map(x=>'<option value="'+esc(x)+'">'+esc(x)+' / '+esc(Number(x)+1)+'</option>').join('');
  lg.value=leagues.includes(oldLeague)?oldLeague:'all';se.value=seasons.map(String).includes(oldSeason)?oldSeason:'all';
  const matches=archiveMatches.filter(m=>(lg.value==='all'||m.competition===lg.value)&&(se.value==='all'||String(m.season)===se.value)&&(!query||(String(m.home_name)+' '+String(m.away_name)).toLocaleLowerCase().includes(query)));
- el('archiveCount').textContent=matches.length+(fr?' résultats disponibles':' results available');
+ el('archiveCount').textContent=matches.length+(fr?' résultats':' results available');
  el('archiveResults').innerHTML=matches.slice(0,archiveLimit).map(m=>'<button type="button" class="archive-result archive-open" data-archive-id="'+esc(m.id??'')+'" data-archive-key="'+esc(archiveKey(m))+'"><span class="small">'+esc(String(m.utc_date||'').slice(0,10))+' · '+esc(m.competition)+'</span><span>'+esc(m.home_name)+' <strong>'+esc(m.home_goals)+' – '+esc(m.away_goals)+'</strong> '+esc(m.away_name)+'</span><span class="archive-chevron" aria-hidden="true">›</span></button>').join('')||'<p class="small">'+(fr?'Aucun résultat pour cette recherche.':'No results for this search.')+'</p>';
  el('archiveMore').hidden=matches.length<=archiveLimit;el('archiveMore').textContent=fr?'Afficher 50 résultats supplémentaires':'Show 50 more results';
 }
@@ -718,14 +721,13 @@ function renderPreviews(){renderOpinions();
  if(!dataLoaded){target.textContent=say('Chargement des analyses…','Loading analysis…');return;}
  if(previewsError){target.innerHTML='<p class="panel small">'+say('Impossible de charger les analyses. Réessayez plus tard.','Unable to load previews. Please try again later.')+'</p>';return;}
  if(!previews.length){target.innerHTML='<p class="panel small">'+say('Aucune analyse disponible pour le moment.','No previews available at this time.')+'</p>';return;}
- const safeLogo=u=>typeof u==='string'&&/^https:\/\/[a-z0-9.-]+\//i.test(u)?'<img src="'+esc(u)+'" alt="" loading="lazy" referrerpolicy="no-referrer">':'';
  const val=v=>v===null||v===undefined?'—':esc(v);
  const row=(label,a,b)=>'<tr><td>'+esc(label)+'</td><td>'+val(a)+'</td><td>'+val(b)+'</td></tr>';
  target.innerHTML=previews.slice(0,30).map(p=>{
   const home=p.home||{},away=p.away||{},hs=home.stats||{},as=away.stats||{};
   const date=p.kickoff&&!Number.isNaN(Date.parse(p.kickoff))?new Date(p.kickoff).toLocaleString(lang):'—';
   return '<article class="panel preview-card"><div class="preview-top"><strong>'+esc(p.league||say('Compétition','Competition'))+'</strong><span class="small">'+esc(date)+'</span></div>'+
-   '<div class="preview-teams"><div class="preview-team">'+safeLogo(home.logo)+'<span>'+esc(home.name||'—')+'</span></div><div class="preview-versus">VS</div><div class="preview-team">'+safeLogo(away.logo)+'<span>'+esc(away.name||'—')+'</span></div></div>'+
+   '<div class="preview-teams"><div class="preview-team">'+clubBadge(home.logo,'preview-logo',48)+'<span>'+esc(home.name||'—')+'</span></div><div class="preview-versus">VS</div><div class="preview-team">'+clubBadge(away.logo,'preview-logo',48)+'<span>'+esc(away.name||'—')+'</span></div></div>'+
    '<div style="overflow-x:auto"><table><thead><tr><th>'+say('Indicateur','Metric')+'</th><th>'+esc(home.name||'—')+'</th><th>'+esc(away.name||'—')+'</th></tr></thead><tbody>'+
    row(say('Classement','Rank'),hs.rank,as.rank)+row(say('Matchs joués','Played'),hs.played,as.played)+row(say('Points','Points'),hs.points,as.points)+row(say('Victoires','Wins'),hs.win,as.win)+row(say('Nuls','Draws'),hs.draw,as.draw)+row(say('Défaites','Losses'),hs.lose,as.lose)+row(say('Buts marqués','Goals for'),hs.goals_for,as.goals_for)+row(say('Buts encaissés','Goals against'),hs.goals_against,as.goals_against)+'</tbody></table></div>'+
    '<p class="analysis-note">'+say('Comparaison descriptive des classements ; aucune probabilité de résultat validée.','Descriptive standings comparison; no validated outcome probabilities.')+'</p></article>';
@@ -753,7 +755,7 @@ function renderAnalysis(league){
  ].join(''):`<p class="small">${(!dataLoaded ? txt('Chargement des statistiques…','Loading statistics…')
   : standingsError ? txt('Statistiques temporairement indisponibles.','Statistics temporarily unavailable.')
   : txt('Aucune donnée disponible.','No data available.'))}</p>`;
- el('analysisNote').textContent=txt('Indicateurs calculés à partir du classement disponible. Le comparateur utilise également les résultats d’archives disponibles.','Metrics calculated from the collected standings. The comparison also uses available archived results.');
+ el('analysisNote').textContent=txt('Les indicateurs de saison proviennent des classements. La forme est calculée à partir des résultats archivés.','Metrics calculated from the collected standings. The comparison also uses available archived results.');
  const x=teams[Number(el('compareA').value)],y=teams[Number(el('compareB').value)];
  const rateText=(value,count)=>rate(value,count)==null?'—':new Intl.NumberFormat(lang,{style:'percent',maximumFractionDigits:1}).format(rate(value,count));
  const historyRows=(team)=> {
@@ -782,7 +784,7 @@ function renderAnalysis(league){
   ...labels.map((label,i)=>[label,hx[i],hy[i]])
  ]);
  el('compareNote').textContent=txt(
-  'Classement de la saison et résultats d’archives disponibles, toutes compétitions confondues. Forme du plus récent au plus ancien (V/N/D).',
+  'La forme retrace les victoires, les matchs nuls et les défaites, du match le plus récent au plus ancien.',
   'Season standings and available archived results across competitions. Form shown newest first (W/D/L).');
 
 }
@@ -922,7 +924,7 @@ function showMatchInsights(id){
   return (home === h && away === a) || (home === a && away === h);
  }).slice(0,6);
  const resultsList = (rows, team) => {
-  if (!rows.length) return '<p class="small">'+(fr?'Aucun résultat dans les archives de FootChrono.':'No results in the FootChrono archive.')+'</p>';
+  if (!rows.length) return '<p class="small">'+(fr?'Aucun match à afficher.':'No results in the FootChrono archive.')+'</p>';
   return '<ul class="insight-results">'+rows.map(row => {
    const home = norm(row.home_name) === team;
    const goals = home ? row.home_goals : row.away_goals;
@@ -937,7 +939,7 @@ function showMatchInsights(id){
     (row.source_url?'<a href="'+esc(row.source_url)+'" target="_blank" rel="noopener noreferrer">Source</a>':'')+'</div></li>';
   }).join('')+'</ul>';
  };
- const recent = '<section class="form-section"><h3>'+(fr?'Derniers résultats':'Recent results')+'</h3><p class="small">'+(fr?'Jusqu’à cinq résultats disponibles par équipe sur les douze derniers mois.':'Up to five available results per team over the last twelve months.')+'</p>'+
+ const recent = '<section class="form-section"><h3>'+(fr?'Derniers résultats':'Recent results')+'</h3><p class="small">'+(fr?'Jusqu’à cinq résultats par équipe sur les douze derniers mois.':'Up to five available results per team over the last twelve months.')+'</p>'+
   [m.home,m.away].map(name=>'<h4>'+esc(name)+'</h4>'+resultsList(teamMatches(norm(name)).slice(0,5),norm(name))).join('')+'</section>';
  const venueForm = '<details class="insight-history-details"><summary>'+(fr?'Domicile et extérieur':'Home and away')+'</summary>'+
   '<h4>'+esc(m.home)+(fr?' à domicile':' at home')+'</h4>'+resultsList(teamMatches(h,'home').slice(0,5),h)+

@@ -1,4 +1,4 @@
-import {competitions, escape, page} from './_lib/public-football.js';
+import {clubBadge, competitions, escape, page} from './_lib/public-football.js';
 
 import {getSnapshot, matchScore, matchStatus} from './_lib/score-data.js';
 
@@ -21,7 +21,7 @@ export async function onRequestGet(context) {
       const score = matchScore(match);
       const status = matchStatus(match, snapshot);
       const href = '/matchs/' + encodeURIComponent(String(match.id));
-      return `<tr><th scope="row"><a href="${escape(href)}">${escape(match.home?.name)} – ${escape(match.away?.name)}</a></th>
+      return `<tr><th scope="row"><a href="${escape(href)}">${clubBadge(match.home?.logo)}${escape(match.home?.name)} – ${clubBadge(match.away?.logo)}${escape(match.away?.name)}</a></th>
 <td class="score">${escape(score)}</td><td>${escape(status)}</td></tr>`;
     }).join('')}</tbody></table></div></section>`;
   }).join('');

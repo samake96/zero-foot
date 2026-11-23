@@ -32,7 +32,7 @@ export function page({path, title, description, heading, content, status = 200, 
 <meta property="og:type" content="website"><meta property="og:site_name" content="FootChrono">
 <meta property="og:title" content="${escape(title)}"><meta property="og:description" content="${escape(description)}">
 <meta property="og:locale" content="fr_FR"><meta name="twitter:card" content="summary">
-<link rel="stylesheet" href="/footchrono-public.css">${style ? `<style>${style}</style>` : ''}${ads ? '<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7180571260643744" crossorigin="anonymous"></script><style>.fc-ad{width:calc(100% - 32px);max-width:728px;margin:16px auto}.fc-ad:has(ins[data-ad-status="unfilled"]){display:none}</style>' : ''}</head><body><header class="fc-header"><div class="fc-header-inner"><a class="fc-brand" href="/" aria-label="FootChrono, accueil"><img src="/images/footchrono-logo.webp" width="190" height="40" alt="FootChrono"></a><nav class="fc-nav" aria-label="Navigation principale"><a href="/">Accueil</a><a href="/scores"${path === '/scores' ? ' aria-current="page"' : ''}>Scores</a><a href="/classements"${path.startsWith('/classements') ? ' aria-current="page"' : ''}>Classements</a><a href="/#page=predictions">Pronostics</a><a href="/actualites/">Actualités</a></nav></div></header><main><h1>${escape(heading)}</h1>${content}</main>
+<link rel="stylesheet" href="/footchrono-public.css?v=coherence">${style ? `<style>${style}</style>` : ''}${ads ? '<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7180571260643744" crossorigin="anonymous"></script><style>.fc-ad{width:calc(100% - 32px);max-width:728px;margin:16px auto}.fc-ad:has(ins[data-ad-status="unfilled"]){display:none}</style>' : ''}</head><body><header class="fc-header"><div class="fc-header-inner"><a class="fc-brand" href="/" aria-label="FootChrono, accueil"><img src="/images/footchrono-logo.webp" width="190" height="40" alt="FootChrono"></a><nav class="fc-nav" aria-label="Navigation principale"><a href="/">Accueil</a><a href="/scores"${path === '/scores' ? ' aria-current="page"' : ''}>Scores</a><a href="/classements"${path.startsWith('/classements') ? ' aria-current="page"' : ''}>Classements</a><a href="/#page=predictions">Pronostics</a><a href="/actualites/">Actualités</a></nav></div></header><main><h1>${escape(heading)}</h1>${content}</main>
 ${ads ? `<div class="fc-ad"><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-7180571260643744" data-ad-slot="1991336459" data-ad-format="horizontal" data-full-width-responsive="false"></ins></div>
 <script>(window.adsbygoogle = window.adsbygoogle || []).push({});</script>
 ` : ''}<footer class="fc-footer"><nav aria-label="Informations sur le site"><a href="/confidentialite/">Confidentialité</a> <a href="/contact/">Contact</a></nav></footer></body></html>`;
@@ -47,11 +47,18 @@ export function competitionLinks() {
     `<a href="/classements/${slug}">Classement ${escape(name)}</a>`).join('') + '</div>';
 }
 
+export function clubBadge(url, size = 22) {
+  const id = /^https:\/\/media\.api-sports\.io\/football\/teams\/([1-9][0-9]{0,8})\.png$/.exec(url)?.[1];
+  const crest = /^https:\/\/crests\.football-data\.org\/[0-9]+\.(?:png|svg)$/.test(url);
+  const src = id ? '/ecussons/' + id + '.png' : crest ? url : '';
+  return src ? `<img class="fc-club-badge" src="${escape(src)}" width="${size}" height="${size}" alt="" loading="lazy" onerror="this.hidden=true">` : '';
+}
+
 export function standingsTable(teams) {
   return `<div class="table-wrap"><table><thead><tr><th scope="col">Pos.</th><th scope="col">Équipe</th>
 <th scope="col">MJ</th><th scope="col">V</th><th scope="col">N</th><th scope="col">D</th>
 <th scope="col">Diff.</th><th scope="col">Pts</th></tr></thead><tbody>${teams.map(team =>
-  `<tr><td>${escape(team.rank)}</td><th scope="row">${escape(team.name)}</th>
+  `<tr><td>${escape(team.rank)}</td><th scope="row">${clubBadge(team.logo)}${escape(team.name)}</th>
 <td>${escape(team.played)}</td><td>${escape(team.win)}</td><td>${escape(team.draw)}</td>
 <td>${escape(team.lose)}</td><td>${escape(team.goal_diff)}</td><td>${escape(team.points)}</td></tr>`).join('')}</tbody></table></div>`;
 }

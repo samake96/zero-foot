@@ -46,7 +46,7 @@ export async function onRequestGet(context) {
     `<li class="mc-result">
       <div class="mc-result-info">${escape(dateLabel(fixture.kickoff,true))} UTC · ${escape(fixture.league?.name)}</div>
       <a href="/matchs/${fixture.id}">${escape(fixture.home?.name)} – ${escape(fixture.away?.name)}</a>
-    </li>`).join('') + '</ul>' : '<p>Aucun prochain match dans le calendrier disponible.</p>';
+    </li>`).join('') + '</ul>' : '<p>Aucun prochain match au calendrier.</p>';
   return page({
     path, title:team.name + ' | Calendrier et résultats', heading:team.name,
     description:'Retrouvez les prochains matchs, les résultats récents et le classement disponible de ' + team.name + '.',
@@ -58,7 +58,7 @@ export async function onRequestGet(context) {
       </nav>
       <section id="calendrier" class="mc-section"><h2>Prochains matchs</h2>${calendar}</section>
       <section id="resultats" class="mc-section"><h2>Derniers résultats</h2>
-        ${history.home.length ? resultList(history.home,team.name) : '<p>Aucun résultat récent dans les archives disponibles.</p>'}
+        ${history.home.length ? resultList(history.home,team.name) : '<p>Aucun résultat récent à afficher.</p>'}
       </section>
       ${standings.length ? `<section id="classement" class="mc-section"><h2>Classement</h2><ul class="mc-results">
         ${standings.map(({row, competition}) => `<li class="mc-result"><a href="/classements/${competition.slug}">${escape(competition.name)}</a>
