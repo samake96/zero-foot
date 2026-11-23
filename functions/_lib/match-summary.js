@@ -62,8 +62,9 @@ export function matchSummary(match, history, status, editorial) {
     ? `<p><strong>Face-à-face.</strong> Le ${escape(dateLabel(latest.date))},
       ${escape(latest.home)} et ${escape(latest.away)} ont terminé sur le score de ${latest.goals.join('–')}.</p>`
     : '';
+  const article = editorialArticle(editorial, upcoming);
   const context = form || headToHead
     ? `${upcoming ? '' : '<h3>Contexte avant le coup d’envoi</h3>'}${form}${headToHead}`
     : '';
-  return `<section id="resume" class="mc-section mc-summary"><h2>${title}</h2>${lead}${editorialArticle(editorial, upcoming)}${context}</section>`;
+  return `<section id="resume" class="mc-section mc-summary"><h2>${title}</h2>${lead}${article}${upcoming && article ? '' : context}</section>`;
 }

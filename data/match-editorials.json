@@ -7,8 +7,28 @@
       "Le point à suivre sera la gestion du score si le match reste serré. Tant que les équipes sont à égalité, Arsenal conserve son avance au classement. Dortmund peut renverser l’ordre entre les deux clubs en trouvant le but de la victoire."
     ],
     "sources": [
-      {"label":"UEFA · Fiche et classement avant le match","url":"https://www.uefa.com/uefachampionsleague/match/2049627--arsenal-vs-b-dortmund/"},
-      {"label":"UEFA · Historique des confrontations européennes","url":"https://www.uefa.com/uefachampionsleague/history/h2h/52280/52758/"}
+      {
+        "label": "UEFA · Fiche et classement avant le match",
+        "url": "https://www.uefa.com/uefachampionsleague/match/2049627--arsenal-vs-b-dortmund/"
+      },
+      {
+        "label": "UEFA · Historique des confrontations européennes",
+        "url": "https://www.uefa.com/uefachampionsleague/history/h2h/52280/52758/"
+      }
+    ]
+  },
+  "1557469": {
+    "title": "Sans Igor Thiago, Brentford doit trouver une autre façon de faire reculer Everton",
+    "paragraphs": [
+      "Brentford doit relancer son attaque après sa défaite à Brighton (0–2). Everton arrive au Gtech Community Stadium après trois victoires de suite toutes compétitions confondues. La question pour Brentford est de savoir qui occupera la surface et pèsera sur les défenseurs centraux en l’absence d’Igor Thiago.",
+      "Le Brésilien est suspendu et son absence compte particulièrement dans cette affiche. Il avait marqué les deux buts de Brentford lors du match nul 2–2 en avril. Callum Wilson figure parmi les options pour débuter. S’il est choisi, le premier indice sera la capacité de Brentford à le trouver dans la surface avant qu’Everton ne puisse se replier.",
+      "À l’autre bout du terrain, Thierno Barry arrive avec quatre buts en trois apparitions. L’avant-match officiel de Brentford, qui cite Playmaker Stats, lui attribue aussi 45 duels aériens gagnés sur les dix premières journées de championnat. Si Everton cherche Barry dans les airs, le duel ne s’arrêtera pas au premier contact. Brentford devra aussi empêcher les milieux d’Everton de récupérer les ballons qui retombent autour de lui."
+    ],
+    "sources": [
+      {
+        "label": "Brentford FC et Playmaker Stats · Avant-match et chiffres clés",
+        "url": "https://www.brentfordfc.com/en/news/match-previews-brentford-v-everton-premier-league-23-11-2026?type=news"
+      }
     ]
   }
 }
