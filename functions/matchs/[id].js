@@ -1,6 +1,6 @@
 import {matchSummary} from '../_lib/match-summary.js';
 import {matchCenterStyle} from '../_lib/match-center-style.js';
-import {matchHistory, resultList, teamLogo} from '../_lib/match-center.js';
+import {matchHistory, resultList, teamLink, teamLogo} from '../_lib/match-center.js';
 import {historicalComparison} from '../_lib/openfootball.js';
 import {competitions, dateLabel, escape, loadData, page} from '../_lib/public-football.js';
 import {getSnapshot, matchScore, matchStatus} from '../_lib/score-data.js';
@@ -60,9 +60,9 @@ export async function onRequestGet(context) {
   const scoreboard = `<section class="mc-section" aria-label="Tableau du match">
       <p class="mc-kicker">${escape(league)} <span aria-hidden="true">·</span> ${escape(date)} UTC</p>
       <div class="mc-scoreboard">
-        <div>${teamLogo(match.home)}<strong>${escape(match.home.name)}</strong></div>
+        <div>${teamLogo(match.home)}<strong>${teamLink(match.home)}</strong></div>
         <div><strong class="mc-score">${escape(upcoming ? 'VS' : score)}</strong><span class="mc-status">${escape(status)}</span></div>
-        <div>${teamLogo(match.away)}<strong>${escape(match.away.name)}</strong></div>
+        <div>${teamLogo(match.away)}<strong>${teamLink(match.away)}</strong></div>
       </div>
     </section>`;
   const sections = [['resume', 'Résumé', matchSummary(match, history, status)]];

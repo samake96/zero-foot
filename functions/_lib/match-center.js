@@ -68,6 +68,16 @@ export function resultList(rows, team) {
   }).join('') + '</ul>';
 }
 
+export function teamId(team) {
+  return /^https:\/\/media\.api-sports\.io\/football\/teams\/([1-9][0-9]*)\.png$/.exec(team?.logo)?.[1];
+}
+
+export function teamLink(team) {
+  const id = teamId(team);
+  const name = escape(team.name);
+  return id ? `<a href="/equipes/${id}">${name}</a>` : name;
+}
+
 export function teamLogo(team) {
   return /^https:\/\/media\.api-sports\.io\/football\/teams\/\d+\.png$/.test(team.logo)
     ? `<img src="${escape(team.logo)}" width="48" height="48" alt="" referrerpolicy="no-referrer">` : '';
