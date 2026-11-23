@@ -1,85 +1,105 @@
 {
   "source": "ZEROFOOT",
-  "updated_at": "2026-11-22T20:24:40.667911+00:00",
-  "matches_updated_at": "2026-11-22T18:55:51.424162+00:00",
-  "standings_updated_at": "2026-11-22T19:07:40.362344+00:00",
+  "updated_at": "2026-11-23T08:58:43.716857+00:00",
+  "matches_updated_at": "2026-11-23T07:42:31.415397+00:00",
+  "standings_updated_at": "2026-11-23T07:53:50.611481+00:00",
   "method": "Descriptive standings comparison; no prediction model validated",
   "previews": [
     {
-      "match_id": 1550198,
-      "kickoff": "2026-11-22T19:45:00+00:00",
+      "match_id": 1550203,
+      "kickoff": "2026-11-23T19:45:00+00:00",
       "league_id": 135,
       "league": "Serie A",
       "country": "Italy",
       "home": {
-        "name": "Atalanta",
-        "logo": "https://media.api-sports.io/football/teams/499.png",
-        "stats": null
-      },
-      "away": {
-        "name": "Inter",
-        "logo": "https://media.api-sports.io/football/teams/505.png",
-        "stats": null
-      },
-      "analysis_status": "insufficient_data",
-      "probabilities": null,
-      "note": "Comparaison descriptive uniquement ; aucune probabilité validée."
-    },
-    {
-      "match_id": 1552822,
-      "kickoff": "2026-11-22T19:45:00+00:00",
-      "league_id": 61,
-      "league": "Ligue 1",
-      "country": "France",
-      "home": {
-        "name": "Marseille",
-        "logo": "https://media.api-sports.io/football/teams/81.png",
-        "stats": null
-      },
-      "away": {
-        "name": "Le Mans",
-        "logo": "https://media.api-sports.io/football/teams/1298.png",
+        "name": "Monza",
+        "logo": "https://media.api-sports.io/football/teams/1579.png",
         "stats": {
-          "rank": 16,
-          "played": 10,
-          "points": 8,
-          "win": 1,
-          "draw": 5,
-          "lose": 4,
-          "goals_for": 12,
-          "goals_against": 19,
-          "goal_diff": -7
+          "rank": 18,
+          "played": 11,
+          "points": 7,
+          "win": 2,
+          "draw": 1,
+          "lose": 8,
+          "goals_for": 17,
+          "goals_against": 25,
+          "goal_diff": -8
         }
       },
+      "away": {
+        "name": "Fiorentina",
+        "logo": "https://media.api-sports.io/football/teams/502.png",
+        "stats": null
+      },
       "analysis_status": "insufficient_data",
       "probabilities": null,
       "note": "Comparaison descriptive uniquement ; aucune probabilité validée."
     },
     {
-      "match_id": 1570456,
-      "kickoff": "2026-11-22T20:00:00+00:00",
+      "match_id": 1557469,
+      "kickoff": "2026-11-23T20:00:00+00:00",
+      "league_id": 39,
+      "league": "Premier League",
+      "country": "England",
+      "home": {
+        "name": "Brentford",
+        "logo": "https://media.api-sports.io/football/teams/55.png",
+        "stats": {
+          "rank": 10,
+          "played": 10,
+          "points": 14,
+          "win": 3,
+          "draw": 5,
+          "lose": 2,
+          "goals_for": 16,
+          "goals_against": 11,
+          "goal_diff": 5
+        }
+      },
+      "away": {
+        "name": "Everton",
+        "logo": "https://media.api-sports.io/football/teams/45.png",
+        "stats": {
+          "rank": 7,
+          "played": 10,
+          "points": 16,
+          "win": 4,
+          "draw": 4,
+          "lose": 2,
+          "goals_for": 12,
+          "goals_against": 10,
+          "goal_diff": 2
+        }
+      },
+      "analysis_status": "standings_comparison",
+      "probabilities": null,
+      "note": "Comparaison descriptive uniquement ; aucune probabilité validée."
+    },
+    {
+      "match_id": 1570457,
+      "kickoff": "2026-11-23T20:00:00+00:00",
       "league_id": 140,
       "league": "La Liga",
       "country": "Spain",
       "home": {
-        "name": "Getafe",
-        "logo": "https://media.api-sports.io/football/teams/546.png",
-        "stats": {
-          "rank": 16,
-          "played": 12,
-          "points": 12,
-          "win": 3,
-          "draw": 3,
-          "lose": 6,
-          "goals_for": 8,
-          "goals_against": 18,
-          "goal_diff": -10
-        }
+        "name": "Levante",
+        "logo": "https://media.api-sports.io/football/teams/539.png",
+        "stats": null
       },
       "away": {
-        "name": "Atletico Madrid",
-        "logo": "https://media.api-sports.io/football/teams/530.png",
-        "stats": null
+        "name": "Elche",
+        "logo": "https://media.api-sports.io/football/teams/797.png",
+        "stats": {
+          "rank": 19,
+          "played": 12,
+          "points": 10,
+          "win": 2,
+          "draw": 4,
+          "lose": 6,
+          "goals_for": 14,
+          "goals_against": 20,
+          "goal_diff": -6
+        }
       },
       "analysis_status": "insufficient_data",
       "probabilities": null,
