@@ -3,6 +3,11 @@ import {clubBadge, dateLabel, escape, loadData} from './public-football.js';
 const teamAliases = {
   lask: 'lasklinz', bodooglimt: 'bodoglimt', tsvhartberg: 'hartberg',
   svhartberg: 'hartberg', psv: 'psveindhoven', svoberried: 'svried',
+  fkbodoglimt: 'bodoglimt', bayernmunchen: 'bayernmunich',
+  inter: 'intermilan', internazionale: 'intermilan', internazionalemilano: 'intermilan',
+  psg: 'parissaintgermain', clubatleticodemadrid: 'atleticomadrid',
+  slbenfica: 'benfica', sportlisboaebenfica: 'benfica',
+
 };
 const leagueNames = {PL: 'Premier League', PD: 'La Liga', BL1: 'Bundesliga', SA: 'Serie A', FL1: 'Ligue 1'};
 
@@ -14,6 +19,13 @@ export function teamKey(name) {
 
 export async function matchHistory(context, match) {
   const sources = await Promise.allSettled([
+    loadData(context, 'openfootball-europe').then(data => ({
+      matches: data.matches.map(([date, home, away, first, second, competition]) => ({
+        utc_date: date, home_name: data.teams[home], away_name: data.teams[away],
+        home_goals: first, away_goals: second, competition: data.competitions[competition],
+        source_url: 'https://github.com/openfootball/champions-league',
+      })),
+    })),
     loadData(context, 'historical_matches'),
     loadData(context, 'match_results_archive'),
     loadData(context, 'verified-results'),
@@ -37,7 +49,7 @@ export async function matchHistory(context, match) {
       const previous = matches.get(key);
       matches.set(key, {date, home, away, goals, teams,
         competition: leagueNames[row.competition] ?? row.competition ?? row.league?.name,
-        source: row.source_url ?? previous?.source,
+        source: row.source_url ?? (previous?.goals.every((goal, i) => goal === goals[i]) ? previous.source : undefined),
       });
     }
   }

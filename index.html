@@ -803,9 +803,14 @@ el('league').onchange=()=>{matchLimit=60;render()};el('status').onchange=()=>{ma
 Promise.allSettled([Promise.allSettled([
  loadPageData('historical_matches'),
  loadPageData('match_results_archive'),
- loadPageData('verified-results').then(data=>{verifiedResults=Array.isArray(data.matches)?data.matches:[]})
+ loadPageData('verified-results').then(data=>{verifiedResults=Array.isArray(data.matches)?data.matches:[]}),
+ loadPageData('openfootball-europe').then(data=>data.matches.map(([date, home, away, first, second, competition])=>({
+  utc_date:date, home_name:data.teams[home], away_name:data.teams[away], home_goals:first, away_goals:second,
+  competition:data.competitions[competition], season:Number(date.slice(0,4))-(Number(date.slice(5,7))<7 ? 1 : 0),
+  source_url:'https://github.com/openfootball/champions-league'
+ })))
 ]).then(results=>{
- archiveError=results.every(result=>result.status==='rejected');
+ archiveError=[results[0],results[1],results[3]].every(result=>result.status==='rejected');
  const historical=results[0].status==='fulfilled'?(results[0].value.matches||[]):[];
  const daily=results[1].status==='fulfilled'?(results[1].value.matches||[]):[];
  const normalizedDaily=daily.filter(m=>['FT','AET','PEN'].includes(m.status)).map(m=>({
@@ -813,8 +818,9 @@ Promise.allSettled([Promise.allSettled([
   utc_date:m.kickoff,home_name:m.home?.name,away_name:m.away?.name,
   home_goals:m.home?.goals,away_goals:m.away?.goals
  }));
+ const european=results[3].status==='fulfilled'?results[3].value:[];
  const merged=new Map();
- for(const m of [...historical,...normalizedDaily]){
+ for(const m of [...european,...historical,...normalizedDaily]){
   if(!m||!m.home_name||!m.away_name||!Number.isInteger(m.home_goals)||!Number.isInteger(m.away_goals))continue;
   const key=m.apiId!=null?'api-football:'+m.apiId:m.id!=null?'football-data:'+m.id:'fixture:'+String(m.utc_date).slice(0,10)+'|'+m.home_name+'|'+m.away_name;
   merged.set(key,m);
@@ -902,7 +908,12 @@ function dateLabelForHistory(value) {
 }
 function showMatchInsights(id){
  const m=fixtures.find(x=>String(x.id)===String(id));if(!m)return;
- const norm=s=>String(s||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/[^a-z0-9]/g,'');
+ const aliases={lask:'lasklinz',fkbodoglimt:'bodoglimt',bayernmunchen:'bayernmunich',inter:'intermilan',internazionalemilano:'intermilan',psv:'psveindhoven',psg:'parissaintgermain',clubatleticodemadrid:'atleticomadrid',slbenfica:'benfica',sportlisboaebenfica:'benfica',tsvhartberg:'hartberg'};
+ const norm=name=>{
+  const key=String(name||'').toLowerCase().replace(/ø/g,'o').normalize('NFD').replace(/\p{M}/gu,'')
+   .replace(/\b(?:fc|cf|afc)\b/g,'').replace(/[^a-z0-9]/g,'');
+  return Object.hasOwn(aliases,key)?aliases[key]:key;
+ };
  const h=norm(m.home),a=norm(m.away),fr=lang==='fr';
 
  const resultsByMatch = new Map();
