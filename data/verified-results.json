@@ -224,6 +224,15 @@
       "away_goals": 3,
       "competition": "Bundesliga autrichienne",
       "source_url": "https://www.lask.at/de/f/matches/pros/fixtures/2026-2027"
+    },
+    {
+      "utc_date": "2014-11-26",
+      "home_name": "Arsenal",
+      "away_name": "Borussia Dortmund",
+      "home_goals": 2,
+      "away_goals": 0,
+      "competition": "Ligue des champions",
+      "source_url": "https://www.uefa.com/uefachampionsleague/news/0253-0d7f93e0d972-3893bf52fe49-1000--arsenal-through-after-victory-over-dortmund/"
     }
   ]
 }

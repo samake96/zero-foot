@@ -52,9 +52,10 @@ export async function onRequestGet(context) {
   const standings = competition
     ? '<p><a href="/classements/' + competition.slug + '">Classement ' + escape(league) + '</a></p>'
     : '';
-  const [history, archive] = await Promise.all([
+  const [history, archive, editorials] = await Promise.all([
     matchHistory(context, match),
     historicalComparison(context, match),
+    loadData(context, 'match-editorials').catch(() => null),
   ]);
   const upcoming = match.status === 'NS' || match.status === 'TBD';
   const scoreboard = `<section class="mc-section" aria-label="Tableau du match">
@@ -65,7 +66,7 @@ export async function onRequestGet(context) {
         <div>${teamLogo(match.away)}<strong>${teamLink(match.away)}</strong></div>
       </div>
     </section>`;
-  const sections = [['resume', 'Résumé', matchSummary(match, history, status)]];
+  const sections = [['resume', 'Résumé', matchSummary(match, history, status, editorials?.[id])]];
   if (history.home.length || history.away.length) {
     sections.push(['forme', 'Forme', `<section id="forme" class="mc-section">
       <h2>Derniers résultats</h2><p class="mc-note">Jusqu’à cinq matchs par équipe sur les douze derniers mois, selon les résultats disponibles.</p>

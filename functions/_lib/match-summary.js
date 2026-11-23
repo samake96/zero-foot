@@ -25,7 +25,19 @@ function formParagraph(team, rows) {
     (${last.goals[position]}–${last.goals[1 - position]} du point de vue de ${escape(team)}).</p>`;
 }
 
-export function matchSummary(match, history, status) {
+function editorialArticle(editorial, upcoming) {
+  if (!editorial?.title || !Array.isArray(editorial.paragraphs)) return '';
+  const links = (editorial.sources ?? []).filter(source => source.url?.startsWith('https://'))
+    .map(source => `<li><a href="${escape(source.url)}">${escape(source.label)}</a></li>`).join('');
+  return `<article class="mc-editorial">
+    <p class="mc-kicker">${upcoming ? 'Analyse FootChrono' : 'Notre analyse avant le match'}</p>
+    <h3>${escape(editorial.title)}</h3>
+    ${editorial.paragraphs.map(paragraph => `<p>${escape(paragraph)}</p>`).join('')}
+    ${links ? `<h4>Sources et lectures</h4><ul>${links}</ul>` : ''}
+  </article>`;
+}
+
+export function matchSummary(match, history, status, editorial) {
   const home = match.home.name;
   const away = match.away.name;
   const goals = [match.home.goals, match.away.goals];
@@ -47,5 +59,5 @@ export function matchSummary(match, history, status) {
   const context = form || headToHead
     ? `${upcoming ? '' : '<h3>Contexte avant le coup d’envoi</h3>'}${form}${headToHead}`
     : '<p>Les résultats historiques disponibles sont insuffisants pour établir une comparaison.</p>';
-  return `<section id="resume" class="mc-section mc-summary"><h2>${title}</h2>${lead}${context}</section>`;
+  return `<section id="resume" class="mc-section mc-summary"><h2>${title}</h2>${lead}${editorialArticle(editorial, upcoming)}${context}</section>`;
 }
