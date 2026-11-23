@@ -1,6 +1,6 @@
 {
   "source": "API-Football",
-  "updated_at": "2026-11-23T04:14:11.485790+00:00",
+  "updated_at": "2026-11-23T07:42:31.415397+00:00",
   "date_utc": "2026-11-23",
   "matches": [
     {
@@ -195,8 +195,8 @@
     {
       "id": 1560985,
       "kickoff": "2026-11-23T04:00:00+00:00",
-      "status": "1H",
-      "elapsed": 9,
+      "status": "FT",
+      "elapsed": 90,
       "league": {
         "id": 854,
         "name": "WE League",
@@ -210,14 +210,14 @@
       "away": {
         "name": "Sanfrecce Hiroshima W",
         "logo": "https://media.api-sports.io/football/teams/16955.png",
-        "goals": 0
+        "goals": 1
       }
     },
     {
       "id": 1560988,
       "kickoff": "2026-11-23T04:00:00+00:00",
-      "status": "1H",
-      "elapsed": 10,
+      "status": "FT",
+      "elapsed": 90,
       "league": {
         "id": 854,
         "name": "WE League",
@@ -226,19 +226,19 @@
       "home": {
         "name": "Nojima Stella W",
         "logo": "https://media.api-sports.io/football/teams/16949.png",
-        "goals": 0
+        "goals": 1
       },
       "away": {
         "name": "Omiya Ardija Ventus W",
         "logo": "https://media.api-sports.io/football/teams/16950.png",
-        "goals": 0
+        "goals": 1
       }
     },
     {
       "id": 1560989,
       "kickoff": "2026-11-23T05:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
+      "status": "FT",
+      "elapsed": 90,
       "league": {
         "id": 854,
         "name": "WE League",
@@ -247,19 +247,19 @@
       "home": {
         "name": "Parceiro Nagano W",
         "logo": "https://media.api-sports.io/football/teams/16954.png",
-        "goals": null
+        "goals": 0
       },
       "away": {
         "name": "Urawa Reds W",
         "logo": "https://media.api-sports.io/football/teams/16952.png",
-        "goals": null
+        "goals": 2
       }
     },
     {
       "id": 1560986,
       "kickoff": "2026-11-23T06:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
+      "status": "2H",
+      "elapsed": 82,
       "league": {
         "id": 854,
         "name": "WE League",
@@ -268,12 +268,12 @@
       "home": {
         "name": "Tokyo Verdy Beleza W",
         "logo": "https://media.api-sports.io/football/teams/16951.png",
-        "goals": null
+        "goals": 5
       },
       "away": {
         "name": "INAC Kobe Leonessa W",
         "logo": "https://media.api-sports.io/football/teams/16947.png",
-        "goals": null
+        "goals": 0
       }
     },
     {
