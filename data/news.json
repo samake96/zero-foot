@@ -1,6 +1,52 @@
 {
-  "updated_at": "2026-11-24T11:26:15.784827+00:00",
+  "updated_at": "2026-11-24T12:33:34.959405+00:00",
   "items": [
+    {
+      "id": "f7c410f6fe909f38",
+      "title": "Palace docked points for using four sub windows in win",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8wy5vy160kpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-24T12:14:19+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "bd2413872ba7658e",
+      "title": "Crystal Palace docked three WSL points for extra substitution against Everton",
+      "url": "https://www.theguardian.com/football/2026/nov/24/crystal-palace-docked-three-points-wsl-extra-substitution-everton",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-24T11:40:14+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "237cbb91177550c4",
+      "title": "Glens boss Ferguson apologises after seven-game ban",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm0evqv7nyq5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-24T11:36:18+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "22b7024ffa266ac8",
+      "title": "David Squires on … Pochettino flying into a storm at Manchester United. Here we go again",
+      "url": "https://www.theguardian.com/football/picture/2026/nov/24/david-squires-on-mauricio-pochettino-manchester-united-here-we-go-again",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-24T11:31:27+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [
+        "Premier League"
+      ],
+      "priority": 12
+    },
     {
       "id": "02fe994152264e99",
       "title": "CAN 2025 : avant le verdict du TAS, le Maroc sème déjà le doute en signalant un \"incident\"",
@@ -252,15 +298,17 @@
       "priority": 12
     },
     {
-      "id": "68f8cef3d3845d80",
-      "title": "'No-one's coming to save us' - but how can Man Utd save themselves?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck9d7qxxl7w8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-23T16:30:59+00:00",
-      "category": "clubs",
+      "id": "baaafda92f50eb97",
+      "title": "The 2035 Women’s World Cup has huge potential for women and girls in UK",
+      "url": "https://www.theguardian.com/football/2026/nov/23/2035-womens-world-cup-potential-women-girls-uk",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-23T21:02:10+00:00",
+      "category": "competitions",
       "language": "en",
-      "topics": [],
-      "priority": 0
+      "topics": [
+        "Sélections"
+      ],
+      "priority": 12
     },
     {
       "id": "3ab857961868442b",
@@ -290,52 +338,15 @@
       "priority": 12
     },
     {
-      "id": "3ccbc039f119e71a",
-      "title": "England, Northern Ireland, Scotland & Wales to host 2035 Women's World Cup",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx30g83716lzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-23T15:09:50+00:00",
-      "category": "competitions",
-      "language": "en",
-      "topics": [
-        "Sélections"
-      ],
-      "priority": 12
-    },
-    {
-      "id": "1766c29ae6804b33",
-      "title": "Emery insists no change of plan for Aston Villa despite Galatasaray surface",
-      "url": "https://www.theguardian.com/football/2026/nov/23/unai-emery-no-change-of-plan-aston-villa-galatasaray-surface",
+      "id": "d392348c285b930a",
+      "title": "Mauricio Pochettino can now see just how desperate Manchester United are | Jonathan Wilson",
+      "url": "https://www.theguardian.com/football/2026/nov/23/mauricio-pochettino-can-now-see-just-how-desperate-manchester-united-are",
       "source": "The Guardian Football",
-      "published_at": "2026-11-23T14:56:36+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
-      "id": "3e0f5fb3204daa37",
-      "title": "PSG had the best attack in Europe but Doué and Kvaratskhelia injuries will test Luis Enrique",
-      "url": "https://www.theguardian.com/football/2026/nov/23/psg-best-attack-europe-desire-doue-acl-khvicha-kvaratskhelia-luis-enrique",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-23T14:19:24+00:00",
+      "published_at": "2026-11-23T15:45:50+00:00",
       "category": "clubs",
       "language": "en",
       "topics": [
-        "Ligue 1"
-      ],
-      "priority": 12
-    },
-    {
-      "id": "4c4db2d7b626f4ba",
-      "title": "Jamal Musiala controversy the nadir of Bayern Munich’s turbulent week",
-      "url": "https://www.theguardian.com/football/2026/nov/23/bayern-munich-jamal-musiala-controversy-bundesliga",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-23T12:08:28+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [
-        "Bundesliga"
+        "Premier League"
       ],
       "priority": 12
     },
@@ -358,17 +369,6 @@
       "published_at": "2026-11-23T11:28:42+00:00",
       "category": "clubs",
       "language": "fr",
-      "topics": [],
-      "priority": 0
-    },
-    {
-      "id": "31099e0def3f398e",
-      "title": "WSL talking points: captain Spence inspires Spurs’ shock win at City and Lionesses impress",
-      "url": "https://www.theguardian.com/football/2026/nov/23/wsl-talking-points-tottenham-london-city-lionesses-chelsea-arsenal",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-23T11:19:05+00:00",
-      "category": "clubs",
-      "language": "en",
       "topics": [],
       "priority": 0
     },
@@ -473,15 +473,15 @@
   ],
   "source_errors": [],
   "search_trends_fr": [
-    "vinicius junior",
-    "jeanine grasmeijer",
-    "abbaye",
-    "sarrebourg",
-    "barbara",
-    "poulet",
-    "asiatiques",
-    "vinicius júnior",
-    "inflation",
-    "the strokes paris"
+    "elina svitolina",
+    "陈吉宁",
+    "équipe d'afrique du sud de rugby à xv",
+    "toulouse",
+    "lançon-provence",
+    "nicolas sarkozy",
+    "oliver bearman",
+    "katrina patchett",
+    "verglas",
+    "démarchage"
   ]
 }
