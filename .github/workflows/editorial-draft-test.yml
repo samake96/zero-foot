@@ -1,0 +1,46 @@
+name: Test editorial draft delivery
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  draft:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Submit an existing analysis for review
+        env:
+          EDITORIAL_DRAFT_TOKEN: ${{ secrets.EDITORIAL_DRAFT_TOKEN }}
+        run: |
+          python - <<'PY'
+          import json
+          import os
+          from urllib.parse import urlencode
+          from urllib.request import Request, urlopen
+          from urllib.error import HTTPError
+
+          token = os.environ.get('EDITORIAL_DRAFT_TOKEN')
+          if not token:
+              raise SystemExit('EDITORIAL_DRAFT_TOKEN is missing in GitHub Actions.')
+          match = '1635692'
+          with open('data/match-editorials.json', encoding='utf-8') as file:
+              article = json.load(file)[match]
+          body = urlencode({
+              'match': match,
+              'title': article['title'],
+              'body': '\n\n'.join(article['paragraphs']),
+              'sources': '\n'.join(source['url'] for source in article['sources']),
+          }).encode()
+          request = Request('https://footchrono.com/api/editorial/drafts', data=body, headers={
+              'Authorization': 'Bearer ' + token,
+              'Content-Type': 'application/x-www-form-urlencoded',
+              'Idempotency-Key': 'setup-city-napoli-v1',
+          })
+          try:
+              with urlopen(request, timeout=20) as response:
+                  if response.status not in (201, 204):
+                      raise SystemExit(f'Unexpected draft intake status: {response.status}')
+                  print('Draft submitted for review.' if response.status == 201 else 'Draft was already received.')
+          except HTTPError as error:
+              raise SystemExit(f'Draft intake returned HTTP {error.code}.')
+          PY
