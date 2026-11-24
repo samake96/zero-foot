@@ -1,6 +1,41 @@
 {
-  "updated_at": "2026-11-24T12:33:34.959405+00:00",
+  "updated_at": "2026-11-24T13:52:32.705977+00:00",
   "items": [
+    {
+      "id": "e0bb583527e9b5c9",
+      "title": "CAN 2025: suivez en direct la décision du TAS sur la finale entre le Maroc et le Sénégal",
+      "url": "https://www.rfi.fr/fr/afrique-foot/20261124-can-2025-suivez-en-direct-la-d%C3%A9cision-du-tas-sur-la-finale-entre-le-maroc-et-le-s%C3%A9n%C3%A9gal",
+      "source": "RFI Afrique Foot",
+      "published_at": "2026-11-24T13:09:52+00:00",
+      "category": "clubs",
+      "language": "fr",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "25b7bd81feb79fe1",
+      "title": "‘I’m loving it at Brugge’: Freddie Potts on going from West Ham’s bench to Champions League",
+      "url": "https://www.theguardian.com/football/2026/nov/24/freddie-potts-brugge-champions-league-liverpool-west-ham",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-24T13:00:47+00:00",
+      "category": "competitions",
+      "language": "en",
+      "topics": [
+        "Ligue des champions"
+      ],
+      "priority": 12
+    },
+    {
+      "id": "72c01a18fabf0a5b",
+      "title": "Non-league player injured falling down badger hole",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw0k636m0vr3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-24T12:31:12+00:00",
+      "category": "injuries",
+      "language": "en",
+      "topics": [],
+      "priority": 8
+    },
     {
       "id": "f7c410f6fe909f38",
       "title": "Palace docked points for using four sub windows in win",
@@ -13,22 +48,22 @@
       "priority": 0
     },
     {
-      "id": "bd2413872ba7658e",
-      "title": "Crystal Palace docked three WSL points for extra substitution against Everton",
-      "url": "https://www.theguardian.com/football/2026/nov/24/crystal-palace-docked-three-points-wsl-extra-substitution-everton",
+      "id": "7a731a0e7fd39a68",
+      "title": "The NWSL 2026 goals, players and nutmegs we won’t forget",
+      "url": "https://www.theguardian.com/football/2026/nov/24/nwsl-awards-goals-players-moving-the-goalposts-newsletter",
       "source": "The Guardian Football",
-      "published_at": "2026-11-24T11:40:14+00:00",
+      "published_at": "2026-11-24T12:00:45+00:00",
       "category": "clubs",
       "language": "en",
       "topics": [],
       "priority": 0
     },
     {
-      "id": "237cbb91177550c4",
-      "title": "Glens boss Ferguson apologises after seven-game ban",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm0evqv7nyq5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-24T11:36:18+00:00",
+      "id": "bd2413872ba7658e",
+      "title": "Crystal Palace docked three WSL points for extra substitution against Everton",
+      "url": "https://www.theguardian.com/football/2026/nov/24/crystal-palace-docked-three-points-wsl-extra-substitution-everton",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-24T11:40:14+00:00",
       "category": "clubs",
       "language": "en",
       "topics": [],
@@ -102,7 +137,8 @@
       "category": "clubs",
       "language": "en",
       "topics": [],
-      "priority": 0
+      "search_trend_fr": "philippe diallo",
+      "priority": 24
     },
     {
       "id": "678aa9cb12717d85",
@@ -298,19 +334,6 @@
       "priority": 12
     },
     {
-      "id": "baaafda92f50eb97",
-      "title": "The 2035 Women’s World Cup has huge potential for women and girls in UK",
-      "url": "https://www.theguardian.com/football/2026/nov/23/2035-womens-world-cup-potential-women-girls-uk",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-23T21:02:10+00:00",
-      "category": "competitions",
-      "language": "en",
-      "topics": [
-        "Sélections"
-      ],
-      "priority": 12
-    },
-    {
       "id": "3ab857961868442b",
       "title": "Ligue des champions: le PSG veut poursuivre son parcours sans faute, Lens et Lille aux abois",
       "url": "https://www.rfi.fr/fr/sports/20261123-ligue-des-champions-le-psg-veut-poursuivre-son-parcours-sans-faute-lens-et-lille-aux-abois",
@@ -334,19 +357,6 @@
       "language": "fr",
       "topics": [
         "Sélections"
-      ],
-      "priority": 12
-    },
-    {
-      "id": "d392348c285b930a",
-      "title": "Mauricio Pochettino can now see just how desperate Manchester United are | Jonathan Wilson",
-      "url": "https://www.theguardian.com/football/2026/nov/23/mauricio-pochettino-can-now-see-just-how-desperate-manchester-united-are",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-23T15:45:50+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [
-        "Premier League"
       ],
       "priority": 12
     },
@@ -434,17 +444,6 @@
       "priority": 12
     },
     {
-      "id": "416b76aed28317e3",
-      "title": "Présidence de la Fifa: le Japonais Tashima ne prévoit pas «pour l'instant» de se retirer en faveur de Diallo",
-      "url": "https://www.rfi.fr/fr/sports/20261120-pr%C3%A9sidence-de-la-fifa-le-japonais-tashima-ne-pr%C3%A9voit-pas-pour-l-instant-de-se-retirer-en-faveur-de-diallo",
-      "source": "RFI Sports",
-      "published_at": "2026-11-20T10:15:38+00:00",
-      "category": "clubs",
-      "language": "fr",
-      "topics": [],
-      "priority": 0
-    },
-    {
       "id": "85bb7a68d7b14ed9",
       "title": "Éliminatoires CAN 2027: Claude Le Roy devrait quitter la sélection du Congo",
       "url": "https://www.rfi.fr/fr/afrique-foot/20261118-%C3%A9liminatoires-can-2027-claude-le-roy-devrait-quitter-la-s%C3%A9lection-du-congo",
@@ -473,15 +472,15 @@
   ],
   "source_errors": [],
   "search_trends_fr": [
-    "elina svitolina",
-    "陈吉宁",
-    "équipe d'afrique du sud de rugby à xv",
-    "toulouse",
-    "lançon-provence",
-    "nicolas sarkozy",
-    "oliver bearman",
-    "katrina patchett",
-    "verglas",
-    "démarchage"
+    "philippe diallo",
+    "vierge de porto vecchio",
+    "abattement fiscal retraités",
+    "mayotte",
+    "équipe cycliste decathlon cma cgm",
+    "adriana karembeu",
+    "présomption",
+    "royaume-uni",
+    "joy hallyday",
+    "mimi marchand"
   ]
 }
