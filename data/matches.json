@@ -1,13 +1,13 @@
 {
   "source": "API-Football",
-  "updated_at": "2026-11-24T01:18:03.237910+00:00",
+  "updated_at": "2026-11-24T04:06:47.771844+00:00",
   "date_utc": "2026-11-24",
   "matches": [
     {
       "id": 1492469,
       "kickoff": "2026-11-24T00:00:00+00:00",
-      "status": "2H",
-      "elapsed": 50,
+      "status": "FT",
+      "elapsed": 90,
       "league": {
         "id": 71,
         "name": "Serie A",
@@ -21,14 +21,14 @@
       "away": {
         "name": "Gremio",
         "logo": "https://media.api-sports.io/football/teams/130.png",
-        "goals": 1
+        "goals": 2
       }
     },
     {
       "id": 1650863,
       "kickoff": "2026-11-24T00:00:00+00:00",
-      "status": "2H",
-      "elapsed": 59,
+      "status": "FT",
+      "elapsed": 90,
       "league": {
         "id": 163,
         "name": "Liga de Ascenso",
@@ -69,8 +69,8 @@
     {
       "id": 1651241,
       "kickoff": "2026-11-24T00:30:00+00:00",
-      "status": "1H",
-      "elapsed": 45,
+      "status": "FT",
+      "elapsed": 90,
       "league": {
         "id": 240,
         "name": "Primera B",
@@ -111,8 +111,8 @@
     {
       "id": 1649498,
       "kickoff": "2026-11-24T01:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
+      "status": "FT",
+      "elapsed": 90,
       "league": {
         "id": 253,
         "name": "Major League Soccer",
@@ -121,19 +121,19 @@
       "home": {
         "name": "St. Louis City",
         "logo": "https://media.api-sports.io/football/teams/20787.png",
-        "goals": null
+        "goals": 3
       },
       "away": {
         "name": "Los Angeles FC",
         "logo": "https://media.api-sports.io/football/teams/1616.png",
-        "goals": null
+        "goals": 2
       }
     },
     {
       "id": 1551727,
       "kickoff": "2026-11-24T02:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
+      "status": "FT",
+      "elapsed": 90,
       "league": {
         "id": 162,
         "name": "Primera División",
@@ -142,19 +142,19 @@
       "home": {
         "name": "LD Alajuelense",
         "logo": "https://media.api-sports.io/football/teams/822.png",
-        "goals": null
+        "goals": 1
       },
       "away": {
         "name": "CS Cartagines",
         "logo": "https://media.api-sports.io/football/teams/820.png",
-        "goals": null
+        "goals": 2
       }
     },
     {
       "id": 1636049,
       "kickoff": "2026-11-24T02:05:00+00:00",
-      "status": "NS",
-      "elapsed": null,
+      "status": "FT",
+      "elapsed": 90,
       "league": {
         "id": 1242,
         "name": "Primera Premier",
@@ -163,12 +163,12 @@
       "home": {
         "name": "Deportiva Venados",
         "logo": "https://media.api-sports.io/football/teams/19907.png",
-        "goals": null
+        "goals": 2
       },
       "away": {
         "name": "Reboceros La Piedad",
         "logo": "https://media.api-sports.io/football/teams/15937.png",
-        "goals": null
+        "goals": 1
       }
     },
     {
@@ -1029,6 +1029,27 @@
       "away": {
         "name": "Coventry City U21",
         "logo": "https://media.api-sports.io/football/teams/20092.png",
+        "goals": null
+      }
+    },
+    {
+      "id": 1632509,
+      "kickoff": "2026-11-24T13:00:00+00:00",
+      "status": "NS",
+      "elapsed": null,
+      "league": {
+        "id": 405,
+        "name": "National Soccer League",
+        "country": "Rwanda"
+      },
+      "home": {
+        "name": "Bugesera",
+        "logo": "https://media.api-sports.io/football/teams/5312.png",
+        "goals": null
+      },
+      "away": {
+        "name": "Rayon Sports",
+        "logo": "https://media.api-sports.io/football/teams/5323.png",
         "goals": null
       }
     },
@@ -2142,6 +2163,27 @@
       "away": {
         "name": "Krylia Sovetov",
         "logo": "https://media.api-sports.io/football/teams/1079.png",
+        "goals": null
+      }
+    },
+    {
+      "id": 1632503,
+      "kickoff": "2026-11-24T16:30:00+00:00",
+      "status": "NS",
+      "elapsed": null,
+      "league": {
+        "id": 405,
+        "name": "National Soccer League",
+        "country": "Rwanda"
+      },
+      "home": {
+        "name": "Kiyovu Sports",
+        "logo": "https://media.api-sports.io/football/teams/5317.png",
+        "goals": null
+      },
+      "away": {
+        "name": "Al Hilal Omdurman",
+        "logo": "https://media.api-sports.io/football/teams/5237.png",
         "goals": null
       }
     },
