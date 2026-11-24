@@ -92,6 +92,18 @@ const scoresLink = '<p><a href="/scores">Tous les scores</a></p>';
 export async function onRequestGet(context) {
   const id = context.params.id;
   const path = '/matchs/' + encodeURIComponent(id);
+  if (new URL(context.request.url).searchParams.get('format') === 'score') {
+    const headers = {'Cache-Control':'no-store'};
+    if (!/^[1-9][0-9]*$/.test(id)) return Response.json({}, {status:404, headers});
+    const latest = await getSnapshot(context);
+    const row = latest?.matches.find(item => String(item.id) === id);
+    if (!row) return Response.json({}, {status:404, headers});
+    return Response.json({
+      score: ['NS','TBD'].includes(row.status) ? 'VS' : matchScore(row),
+      status: matchStatus(row, latest),
+      finished: ['FT','AET','PEN','PST','CANC','ABD'].includes(row.status),
+    }, {headers});
+  }
   let snapshot;
   let match;
   let archiveUnavailable = false;
@@ -142,11 +154,13 @@ export async function onRequestGet(context) {
     loadData(context, 'fixture-details').catch(() => null),
   ]);
   const upcoming = match.status === 'NS' || match.status === 'TBD';
-  const scoreboard = `<section class="mc-section" aria-label="Tableau du match">
+  const refresh = !['FT','AET','PEN','PST','CANC','ABD'].includes(match.status) &&
+    Date.parse(match.kickoff) + 5 * 3600000 > Date.now();
+  const scoreboard = `<section class="mc-section mc-match-hero" aria-label="Tableau du match"${refresh ? ` data-match-kickoff="${escape(match.kickoff)}"` : ''}>
       <p class="mc-kicker">${escape(league)} <span aria-hidden="true">·</span> ${escape(date)} UTC</p>
       <div class="mc-scoreboard">
         <div>${teamLogo(match.home)}<strong>${teamLink(match.home)}</strong></div>
-        <div><strong class="mc-score">${escape(upcoming ? 'VS' : score)}</strong><span class="mc-status">${escape(status)}</span></div>
+        <div aria-live="polite" aria-atomic="true"><strong class="mc-score">${escape(upcoming ? 'VS' : score)}</strong><span class="mc-status">${escape(status)}</span></div>
         <div>${teamLogo(match.away)}<strong>${teamLink(match.away)}</strong></div>
       </div>
     </section>`;
@@ -175,7 +189,14 @@ export async function onRequestGet(context) {
       <nav class="mc-nav" aria-label="Dans cette fiche">${sections.map(([anchor, label]) =>
         `<a href="#${anchor}">${label}</a>`).join('')}</nav>
       ${sections.map(([, , html]) => html).join('')}
-      ${standings}${scoresLink}</div>`,
-    cache:30, ads:false, style:matchCenterStyle,
+      ${standings}${scoresLink}</div>${refresh ? '<script defer src="/footchrono-match-live.js"></script>' : ''}`,
+    cache:30, ads:false, style:matchCenterStyle + `
+      .mc-match-hero { background:radial-gradient(ellipse at 50% 105%, #185043, transparent 64%), #101f30; border-top:2px solid #70e3b3; }
+      .mc-match-hero .mc-scoreboard { padding-block:.6rem; }
+      .mc-match-hero .mc-status { padding:.2rem .65rem; border-radius:1rem; background:#132b30; }
+      .mc-center .mc-nav { flex-wrap:nowrap; overflow-x:auto; padding-block:.25rem; }
+      .mc-center .mc-nav a { flex:none; }
+      .mc-center .table-wrap { overflow-x:auto; }
+    `,
   });
 }
