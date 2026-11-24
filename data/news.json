@@ -1,6 +1,64 @@
 {
-  "updated_at": "2026-11-24T04:10:26.183885+00:00",
+  "updated_at": "2026-11-24T07:30:28.320678+00:00",
   "items": [
+    {
+      "id": "d2e76252169be283",
+      "title": "CAN 2025 : le TAS rendra sa décision sur la finale ce mardi 24 novembre",
+      "url": "https://www.france24.com/fr/%C3%A9missions/sports/20261124-can-2025-le-tas-rendra-sa-d%C3%A9cision-sur-la-finale-ce-mardi-24-novembre",
+      "source": "France 24",
+      "published_at": "2026-11-24T07:23:20+00:00",
+      "category": "clubs",
+      "language": "fr",
+      "topics": [],
+      "search_trend_fr": "24 novembre",
+      "priority": 24
+    },
+    {
+      "id": "b8d04225d4010411",
+      "title": "Why has De Bruyne struggled at Napoli as he returns to Man City?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqglreexkk06o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-24T06:57:16+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [
+        "Serie A"
+      ],
+      "priority": 12
+    },
+    {
+      "id": "95b154c2aa81a8ab",
+      "title": "Two goals in 15 games - what's going on with Gyokeres?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cklylr15gr2do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-24T06:45:27+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "a043b6ffd9be0abb",
+      "title": "Who am I? Plus today's other quizzes",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cke89ve1lnzvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-24T06:42:40+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "954d107825e83a4b",
+      "title": "115 days, 39 private-jet flights, one election - Infantino's globetrotting",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmkgk22w3vlvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-24T06:16:53+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
     {
       "id": "e80e15f10016117b",
       "title": "Who has made Troy's Premier League team of the week?",
@@ -110,17 +168,6 @@
       "priority": 0
     },
     {
-      "id": "8304ec5ee4d07f0f",
-      "title": "Hibs boss Reedijk rejects talk of Easter Road jinx",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr78274gepz0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-23T16:17:17+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
       "id": "3ab857961868442b",
       "title": "Ligue des champions: le PSG veut poursuivre son parcours sans faute, Lens et Lille aux abois",
       "url": "https://www.rfi.fr/fr/sports/20261123-ligue-des-champions-le-psg-veut-poursuivre-son-parcours-sans-faute-lens-et-lille-aux-abois",
@@ -132,8 +179,7 @@
         "Ligue 1",
         "Ligue des champions"
       ],
-      "search_trend_fr": "ligue des champions",
-      "priority": 36
+      "priority": 12
     },
     {
       "id": "c3d037a8f557bf57",
@@ -273,19 +319,6 @@
       "priority": 12
     },
     {
-      "id": "25838a3ba4e8e0f6",
-      "title": "Andreatta's masterplan to shock Sweden & take Scots to World Cup",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c94gn2mmjr4eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-23T11:49:40+00:00",
-      "category": "competitions",
-      "language": "en",
-      "topics": [
-        "Sélections"
-      ],
-      "priority": 12
-    },
-    {
       "id": "529b1dd220ac1d70",
       "title": "Infantino’s $20bn World Cup sell-off plan was to run for up to 96 years, documents show",
       "url": "https://www.theguardian.com/football/2026/nov/23/gianni-infantino-world-cup-sell-off-plan-96-years-documents-payouts",
@@ -307,7 +340,8 @@
       "category": "clubs",
       "language": "fr",
       "topics": [],
-      "priority": 0
+      "search_trend_fr": "24 novembre",
+      "priority": 24
     },
     {
       "id": "31099e0def3f398e",
@@ -315,17 +349,6 @@
       "url": "https://www.theguardian.com/football/2026/nov/23/wsl-talking-points-tottenham-london-city-lionesses-chelsea-arsenal",
       "source": "The Guardian Football",
       "published_at": "2026-11-23T11:19:05+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
-      "id": "5caf100d0e445de4",
-      "title": "Holloway sacked by Swindon after two seasons",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5yrg1r6ezno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-23T08:44:53+00:00",
       "category": "clubs",
       "language": "en",
       "topics": [],
@@ -348,17 +371,6 @@
       "url": "https://www.bbc.co.uk/sport/football/articles/c6p9dym309nxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
       "published_at": "2026-11-23T06:17:59+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
-      "id": "e14f915c510f2326",
-      "title": "Chaotic week, nightmare start and huge reality check for Pochettino",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwd012903kvgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-22T21:22:10+00:00",
       "category": "clubs",
       "language": "en",
       "topics": [],
@@ -454,15 +466,15 @@
   ],
   "source_errors": [],
   "search_trends_fr": [
-    "yael braun pivet",
-    "oise",
-    "raptors – bucks",
-    "lakers – jazz",
-    "kings – spurs",
-    "ligue des champions",
-    "pacers – thunder",
-    "timberwolves – nets",
-    "afghanistan",
-    "hornets – grizzlies"
+    "jardin massey",
+    "sébastien bazin",
+    "étudiant",
+    "canicule",
+    "camille bened",
+    "24 novembre",
+    "insmed",
+    "justice",
+    "loudéac",
+    "corseul"
   ]
 }
