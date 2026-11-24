@@ -1,3 +1,4 @@
+import {submitDraft} from '../_lib/editorial-draft.js';
 import {accessIdentity} from '../_lib/auth.js';
 import {escape} from '../_lib/public-football.js';
 
@@ -82,27 +83,8 @@ export async function onRequestPost({request, env}) {
   const db = env.COMMUNITY_DB;
   try {
     if (action === 'submit' && role.write) {
-      const match = read('match');
-      const title = read('title');
-      const paragraphs = read('body').split(/\r?\n\s*\r?\n/).map(p => p.trim()).filter(Boolean);
-      const urls = [...new Set(read('sources').split(/\s+/).filter(Boolean))];
-      if (!/^[1-9][0-9]{0,14}$/.test(match) || !title || title.length > 160 ||
-          !paragraphs.length || read('body').length > 12000 ||
-          !urls.length || urls.length > 10 || read('sources').length > 3000) {
-        return response('Renseignez le match, le titre, l’analyse et les sources.', 400);
-      }
-      const sources = [];
-      for (const url of urls) {
-        let parsed;
-        try { parsed = new URL(url); } catch { return response('Lien de source invalide.', 400); }
-        if (parsed.protocol !== 'https:' || parsed.username || parsed.password) {
-          return response('Chaque source doit être une adresse HTTPS.', 400);
-        }
-        sources.push({url:parsed.href, label:parsed.hostname});
-      }
-      const content = JSON.stringify({title, paragraphs, sources});
-      await db.prepare(`INSERT INTO match_editorial_revisions (id, match_id, content, author)
-        VALUES (?, ?, ?, ?)`).bind(crypto.randomUUID(), match, content, role.id).run();
+      const draft = await submitDraft(db, read, role.id, crypto.randomUUID());
+      if (!draft.ok) return response(await draft.text(), draft.status);
     } else if (['publish', 'reject'].includes(action) && role.review) {
       const revision = read('revision');
       const note = read('note');
