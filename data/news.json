@@ -1,45 +1,68 @@
 {
-  "updated_at": "2026-11-24T21:29:37.587297+00:00",
+  "updated_at": "2026-11-24T22:30:03.609316+00:00",
   "items": [
     {
       "id": "616f5da447af84f0",
       "title": "Pochettino leads Man Utd fury at Yoro red card ruling",
       "url": "https://www.bbc.co.uk/sport/football/articles/cqzr5ylmeerlo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
-      "published_at": "2026-11-24T21:27:13+00:00",
+      "published_at": "2026-11-24T22:05:31+00:00",
       "category": "clubs",
       "language": "en",
       "topics": [],
       "priority": 0
     },
     {
-      "id": "be11aa4ab79d322b",
-      "title": "Manchester City v Napoli, Real Madrid v PSV: Champions League clockwatch – live",
-      "url": "https://www.theguardian.com/football/live/2026/nov/24/manchester-city-v-napoli-real-madrid-v-psv-champions-league-clockwatch-live",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-24T21:14:42+00:00",
+      "id": "74b47908545cb468",
+      "title": "Ligue des champions: le Real renversant, Lens encore à terre",
+      "url": "https://www.rfi.fr/fr/sports/20261124-ligue-des-champions-le-real-renversant-lens-encore-%C3%A0-terre",
+      "source": "RFI Sports",
+      "published_at": "2026-11-24T22:04:55+00:00",
       "category": "competitions",
-      "language": "en",
+      "language": "fr",
       "topics": [
-        "Premier League",
-        "La Liga",
-        "Serie A",
         "Ligue des champions"
       ],
       "priority": 12
     },
     {
-      "id": "d770e3f28625dae0",
-      "title": "Arsenal v Borussia Dortmund: Champions League – live",
-      "url": "https://www.theguardian.com/football/live/2026/nov/24/arsenal-v-borussia-dortmund-champions-league-live",
+      "id": "8cc304cfe2718106",
+      "title": "Rayan Cherki magic denies Napoli but Manchester City’s struggles continue",
+      "url": "https://www.theguardian.com/football/2026/nov/24/manchester-city-napoli-champions-league-match-report",
       "source": "The Guardian Football",
-      "published_at": "2026-11-24T21:14:26+00:00",
-      "category": "competitions",
+      "published_at": "2026-11-24T22:01:51+00:00",
+      "category": "clubs",
       "language": "en",
       "topics": [
         "Premier League",
-        "Bundesliga",
-        "Ligue des champions"
+        "Serie A"
+      ],
+      "priority": 12
+    },
+    {
+      "id": "aad0fd4a314cdbc4",
+      "title": "Dortmund’s Beier halts Arsenal charge after thunderbolt from Gyökeres",
+      "url": "https://www.theguardian.com/football/2026/nov/24/arsenal-borussia-dortmund-champions-league-match-report",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-24T22:01:50+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [
+        "Premier League",
+        "Bundesliga"
+      ],
+      "priority": 12
+    },
+    {
+      "id": "7ca34228952b7878",
+      "title": "Pochettino criticises Premier League officiating after Yoro red card overturned",
+      "url": "https://www.theguardian.com/football/2026/nov/23/manchester-united-appeal-leny-yoro-red-card-liverpool",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-24T21:51:31+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [
+        "Premier League"
       ],
       "priority": 12
     },
@@ -105,19 +128,6 @@
       "priority": 12
     },
     {
-      "id": "4329dccd3a5fd7fd",
-      "title": "Manchester United win appeal over Yoro’s red card despite Webb backing decision",
-      "url": "https://www.theguardian.com/football/2026/nov/23/manchester-united-appeal-leny-yoro-red-card-liverpool",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-24T18:19:37+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [
-        "Premier League"
-      ],
-      "priority": 12
-    },
-    {
       "id": "7ae813274fec4f90",
       "title": "Klopp advice and Iraola confidence boosts Wirtz",
       "url": "https://www.bbc.co.uk/sport/football/articles/c69w91k0j9zeo?at_medium=RSS&at_campaign=rss",
@@ -160,17 +170,6 @@
       "language": "en",
       "topics": [],
       "priority": 0
-    },
-    {
-      "id": "1fe0ec227144d8fd",
-      "title": "FA chief signs NDA to view Fifa sell-off plot documents",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqx2x4k74ryxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-24T16:34:18+00:00",
-      "category": "transfers",
-      "language": "en",
-      "topics": [],
-      "priority": 8
     },
     {
       "id": "610beeead4c73acb",
@@ -417,6 +416,19 @@
       "priority": 0
     },
     {
+      "id": "3cf7d4c2309a55bc",
+      "title": "Ngumoha stars as Liverpool thrash 10-man Man Utd",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c933g77knz00o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-22T19:59:35+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [
+        "Premier League"
+      ],
+      "priority": 12
+    },
+    {
       "id": "ca473ef0d1987b6a",
       "title": "Football: rupture du ligament du genou pour Désiré Doué, le PSG devra s'activer pendant le mercato",
       "url": "https://www.rfi.fr/fr/sports/20261122-football-rupture-du-ligament-pour-d%C3%A9sir%C3%A9-dou%C3%A9-le-psg-devra-s-activer-pendant-le-mercato",
@@ -469,15 +481,15 @@
   ],
   "source_errors": [],
   "search_trends_fr": [
-    "jude bellingham",
-    "edgar grospiron",
-    "delphine ernotte",
-    "alex hugo ce soir",
-    "statistiques de rb leipzig – racing club de lens",
-    "nominations star academy",
-    "dortmund",
-    "champion league",
-    "como",
-    "ligue des champions de l'uefa 2026"
+    "le tueur",
+    "miss universe 2026",
+    "nadal",
+    "classement manchester city – ssc napoli",
+    "udr",
+    "guerre",
+    "fc porto",
+    "real betis balompié",
+    "nkunku",
+    "yan diomandé"
   ]
 }
