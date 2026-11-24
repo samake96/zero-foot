@@ -22,11 +22,13 @@ jobs:
         run: |
           python scripts/update_matches.py
           python scripts/validate_data.py
+          python scripts/update_fixture_details.py
       - name: Commit updated matches
         run: |
           git config user.name "zerofoot-bot"
           git config user.email "zerofoot-bot@users.noreply.github.com"
           git add data/matches.json data/match_results_archive.json
+          if [ -f data/fixture-details.json ]; then git add data/fixture-details.json; fi
           if ! git diff --cached --quiet; then
             git commit -m "Update football matches"
             git pull --rebase origin main
