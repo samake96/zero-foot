@@ -21,10 +21,37 @@ async function publishedAnalysis(db, matchId) {
 const statLabels = {
   'Ball Possession':'Possession', 'Total Shots':'Tirs', 'Shots on Goal':'Tirs cadrés',
   'Shots off Goal':'Tirs non cadrés', 'Blocked Shots':'Tirs contrés', 'Shots insidebox':'Tirs dans la surface',
+  'Shots outsidebox':'Tirs hors de la surface', 'expected_goals':'Buts attendus (xG)',
   'Corner Kicks':'Corners', 'Total passes':'Passes', 'Passes accurate':'Passes réussies',
   'Passes %':'Précision des passes', 'Fouls':'Fautes', 'Offsides':'Hors-jeu',
   'Yellow Cards':'Cartons jaunes', 'Red Cards':'Cartons rouges', 'Goalkeeper Saves':'Arrêts',
 };
+function playerList(rows) {
+  return '<ol>' + rows.map(({player}) => '<li>' +
+    escape([player?.number, player?.name].filter(value => value != null).join(' ')) +
+    '</li>').join('') + '</ol>';
+}
+function playerTables(groups) {
+  const columns = [
+    ['Minutes', s => s.games?.minutes], ['Note', s => s.games?.rating],
+    ['Buts', s => s.goals?.total], ['Passes décisives', s => s.goals?.assists],
+    ['Tirs cadrés', s => s.shots?.on], ['Passes clés', s => s.passes?.key],
+    ['Duels gagnés', s => s.duels?.won], ['Interceptions', s => s.tackles?.interceptions],
+    ['Arrêts', s => s.goals?.saves],
+  ];
+  return (groups || []).map(group => {
+    const rows = (group.players || []).filter(row => row.player?.name && row.statistics?.[0]?.games?.minutes > 0);
+    if (!rows.length) return '';
+    const available = columns.filter(([, value]) => rows.some(row => value(row.statistics[0]) != null));
+    return '<h3>' + escape(group.team?.name || 'Équipe') + '</h3><div class="table-wrap" tabindex="0" role="region" aria-label="' +
+      escape('Statistiques des joueurs de ' + (group.team?.name || 'l’équipe')) +
+      '"><table><thead><tr><th scope="col">Joueur</th>' +
+      available.map(([label]) => '<th scope="col">' + label + '</th>').join('') +
+      '</tr></thead><tbody>' + rows.map(row => '<tr><th scope="row">' + escape(row.player.name) + '</th>' +
+      available.map(([, value]) => '<td>' + escape(value(row.statistics[0]) ?? '—') + '</td>').join('') +
+      '</tr>').join('') + '</tbody></table></div>';
+  }).join('');
+}
 function detailSections(detail, match) {
   if (!detail) return [];
   const sections = [];
@@ -44,8 +71,12 @@ function detailSections(detail, match) {
   const lineups = (detail.lineups || []).filter(row => row.startXI?.length).map(row =>
     '<div><h3>' + escape(row.team?.name || 'Équipe') + '</h3>' +
     (row.formation ? '<p>Formation : ' + escape(row.formation) + '</p>' : '') +
-    '<ol>' + row.startXI.map(({player}) => '<li>' + escape([player?.number, player?.name].filter(value => value != null).join(' ')) + '</li>').join('') + '</ol></div>').join('');
+    (row.coach?.name ? '<p>Entraîneur : ' + escape(row.coach.name) + '</p>' : '') +
+    playerList(row.startXI) +
+    (row.substitutes?.length ? '<details><summary>Remplaçants</summary>' + playerList(row.substitutes) + '</details>' : '') +
+    '</div>').join('');
   if (lineups) add('compositions', 'Compositions', '<div class="mc-form">' + lineups + '</div>');
+  add('joueurs', 'Statistiques des joueurs', playerTables(detail.players));
   const eventLabels = {Goal:'But', Card:'Carton', subst:'Remplacement', Var:'VAR'};
   const timeline = (detail.events || []).filter(row => row.time?.elapsed != null && Object.hasOwn(eventLabels,row.type)).map(row => {
     const minute = row.time.elapsed + (row.time.extra ? '+' + row.time.extra : '') + '′';
