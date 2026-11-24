@@ -81,6 +81,7 @@ button:focus-visible,a:focus-visible,input:focus-visible,select:focus-visible,su
 .layout>div:first-child{min-width:0}.layout:has(aside[hidden]){grid-template-columns:minmax(0,1fr)}
 .sidebar-heading{display:flex;justify-content:space-between;align-items:center;gap:8px}
 .text-button{color:var(--green);font:inherit;font-size:13px;border:0;background:none;padding:6px 0;text-decoration:none;white-space:nowrap}
+.fc-initials{color:var(--green);background:#163246;border-radius:6px;padding:3px 6px;font-size:.75rem}
 #quickDays{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 12px}
 #quickDays button{min-height:44px;padding:8px 13px}
 #quickDays button[aria-pressed=true]{border-color:var(--green);color:var(--green)}
@@ -149,7 +150,6 @@ button:focus-visible,a:focus-visible,input:focus-visible,select:focus-visible,su
 <section class="section" id="homeToday" hidden><div class="sidebar-heading"><h2 id="homeTodayTitle"></h2></div><div class="panel" id="homeTodayFixtures"></div></section>
 <section class="section"><div class="sidebar-heading"><h2 data-i="sidebarPreviews">Avant-match</h2><button class="text-button" type="button" data-go="predictions" data-i="sidebarAll">Tout voir</button></div><div class="panel" id="homeForecasts"></div></section>
 <section class="section"><div class="sidebar-heading"><h2 data-i="sidebarNews">Fil info</h2><a href="/actualites/" class="text-button" data-i="sidebarAll">Tout voir</a></div><div class="panel" id="homeNews"></div></section>
-<section class="section"><div class="sidebar-heading"><h2 data-i="sidebarArchive">À lire dans les archives</h2></div><div class="panel"><a class="brief fc-feature" href="/actualites/liverpool-manchester-united-4-0-pochettino/"><img src="/images/liverpool-manchester-united-4-0.jpg" width="1200" height="800" alt="" loading="lazy"><span class="small">Premier League</span><strong>Liverpool 4–0 Manchester United</strong><span class="small">Le premier match de Pochettino a basculé en huit minutes.</span></a></div></section>
 </aside></main>
 <div class="fc-ad"><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-7180571260643744" data-ad-slot="1991336459" data-ad-format="horizontal" data-full-width-responsive="false"></ins></div>
 <script>(window.adsbygoogle = window.adsbygoogle || []).push({});</script>
@@ -466,11 +466,12 @@ function groupStatus(status) {
  if (['NS','TBD'].includes(status)) return 'NS';
  return 'OTHER';
 }
-function clubBadge(url, className, size) {
+function clubBadge(url, className, size, name='') {
  const id = /^https:\/\/media\.api-sports\.io\/football\/teams\/([1-9][0-9]{0,8})\.png$/.exec(url)?.[1];
  const fallback = /^https:\/\/crests\.football-data\.org\/[0-9]+\.(?:png|svg)$/.test(url);
  const src = id ? '/ecussons/'+id+'.png' : fallback ? url : '';
- return src ? `<img class="${className}" src="${esc(src)}" width="${size}" height="${size}" alt="" loading="lazy" onerror="this.hidden=true">` : '';
+ const fallbackBadge = name ? `<span class="fc-initials" aria-hidden="true"${src?' hidden':''}>${esc(name.trim().slice(0,2).toUpperCase())}</span>` : "";
+ return src ? `<img class="${className}" src="${esc(src)}" width="${size}" height="${size}" alt="" loading="lazy" onerror="this.hidden=true;if(this.nextElementSibling?.classList.contains('fc-initials'))this.nextElementSibling.hidden=false">${fallbackBadge}` : fallbackBadge;
 }
 
 function fixtureStatus(match) {
@@ -549,9 +550,9 @@ const matchRows = filtered.slice(0,matchLimit).map((m,i)=>{
  const time = m.at && Number.isFinite(kickoff.getTime())
   ? new Intl.DateTimeFormat(lang,{hour:'2-digit',minute:'2-digit'}).format(kickoff) : '—';
  const score = m.hg != null && m.ag != null ? m.hg+' – '+m.ag : groupStatus(m.status)==='NS' ? time : '—';
- const teams = `<span class="team-with-logo">${clubBadge(m.homeLogo,'team-logo',30)}<span class="team">${esc(m.home)}</span></span>
+ const teams = `<span class="team-with-logo">${clubBadge(m.homeLogo,'team-logo',30,m.home)}<span class="team">${esc(m.home)}</span></span>
  <span><span class="score">${esc(score)}</span><span class="meta status" data-status-id="${esc(m.id)}">${esc(status)}</span></span>
- <span class="team-with-logo right"><span class="team right">${esc(m.away)}</span>${clubBadge(m.awayLogo,'team-logo',30)}</span>`;
+ <span class="team-with-logo right"><span class="team right">${esc(m.away)}</span>${clubBadge(m.awayLogo,'team-logo',30,m.away)}</span>`;
  return group+`<div class="match-row">
   <button class="favorite-toggle${saved?' saved':''}" data-favorite="${esc(m.id)}" aria-pressed="${saved}"
     aria-label="${saved?(french?'Retirer des favoris':'Remove from favourites'):(french?'Ajouter aux favoris':'Add to favourites')}">${saved?'★':'☆'}</button>
@@ -577,7 +578,6 @@ renderNews();
 function renderHomeSidebar() {
  if (page !== 'home') return;
  const french = lang==='fr';
- document.querySelector('[data-i=sidebarArchive]').textContent=french?'À lire dans les archives':'From the archive';
  const empty = '<p class="small sidebar-empty">'+(dataLoaded?(french?'Rien de nouveau pour le moment.':'Nothing new right now.'):(french?'Chargement…':'Loading…'))+'</p>';
  const today = Date.now();
  const todayFixtures = fixtures.filter(match=>/^[1-9][0-9]*$/.test(match.id) && localDay(match.at)===localDay(today));
@@ -590,7 +590,7 @@ function renderHomeSidebar() {
  el('homeTodayTitle').textContent = french?'Match en vedette':'Featured match';
  const lead = highlights[0];
  const hour = match => new Intl.DateTimeFormat(lang,{hour:'2-digit',minute:'2-digit'}).format(new Date(match.at));
- const team = (name, logo) => `<span class="fc-spotlight-team">${clubBadge(logo,'',42)}<strong>${esc(name)}</strong></span>`;
+ const team = (name, logo) => `<span class="fc-spotlight-team">${clubBadge(logo,'',42,name)}<strong>${esc(name)}</strong></span>`;
  el('homeTodayFixtures').innerHTML = lead ? `<a class="brief fc-spotlight" href="/matchs/${lead.id}">
   <span class="small">${esc(european.length ? (french?'Ligue des champions':'Champions League') : lead.league)}</span>
   <span class="fc-spotlight-teams">${team(lead.home,lead.homeLogo)}
