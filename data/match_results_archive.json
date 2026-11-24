@@ -1,7 +1,7 @@
 {
   "source": "API-Football",
-  "updated_at": "2026-11-24T04:06:47.748749+00:00",
-  "total": 2042,
+  "updated_at": "2026-11-24T07:26:51.319848+00:00",
+  "total": 2043,
   "matches": [
     {
       "id": 1636049,
@@ -85,6 +85,27 @@
         "name": "Quindio",
         "logo": "https://media.api-sports.io/football/teams/1461.png",
         "goals": 2
+      }
+    },
+    {
+      "id": 1647132,
+      "kickoff": "2026-11-24T00:30:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 421,
+        "name": "Division di Honor",
+        "country": "Aruba"
+      },
+      "home": {
+        "name": "Bubali",
+        "logo": "https://media.api-sports.io/football/teams/8235.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "Estrella",
+        "logo": "https://media.api-sports.io/football/teams/8238.png",
+        "goals": 1
       }
     },
     {

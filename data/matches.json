@@ -1,6 +1,6 @@
 {
   "source": "API-Football",
-  "updated_at": "2026-11-24T04:06:47.771844+00:00",
+  "updated_at": "2026-11-24T07:26:51.353706+00:00",
   "date_utc": "2026-11-24",
   "matches": [
     {
@@ -48,8 +48,8 @@
     {
       "id": 1647132,
       "kickoff": "2026-11-24T00:30:00+00:00",
-      "status": "NS",
-      "elapsed": null,
+      "status": "FT",
+      "elapsed": 90,
       "league": {
         "id": 421,
         "name": "Division di Honor",
@@ -58,12 +58,12 @@
       "home": {
         "name": "Bubali",
         "logo": "https://media.api-sports.io/football/teams/8235.png",
-        "goals": null
+        "goals": 1
       },
       "away": {
         "name": "Estrella",
         "logo": "https://media.api-sports.io/football/teams/8238.png",
-        "goals": null
+        "goals": 1
       }
     },
     {
