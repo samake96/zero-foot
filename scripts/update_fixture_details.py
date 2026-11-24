@@ -7,7 +7,7 @@ from urllib.request import Request, urlopen
 from urllib.parse import urlencode
 
 ROOT = Path(__file__).resolve().parents[1] / 'data'
-FIELDS = ('statistics', 'lineups', 'events')
+FIELDS = ('statistics', 'lineups', 'events', 'players')
 
 def collect():
     token = os.environ.get('API_FOOTBALL_KEY')
