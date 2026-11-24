@@ -1,12 +1,47 @@
 {
-  "updated_at": "2026-11-24T14:59:23.888732+00:00",
+  "updated_at": "2026-11-24T16:09:09.918913+00:00",
   "items": [
+    {
+      "id": "122bdaa7af8c1782",
+      "title": "Man Utd's Yoro has Anfield red card overturned",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck868g93djl5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-24T15:59:59+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "04c790d5c1ac10a9",
+      "title": "Defender Heaven open to leaving Man Utd",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crd61gy4ednvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-24T15:56:55+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "96389103f9117f22",
+      "title": "Manchester United win appeal over Yoro’s one-match suspension after Anfield red card",
+      "url": "https://www.theguardian.com/football/2026/nov/23/manchester-united-appeal-leny-yoro-red-card-liverpool",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-24T15:49:02+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [
+        "Premier League"
+      ],
+      "priority": 12
+    },
     {
       "id": "a1ddec8d794a2764",
       "title": "Senegal reinstated as Afcon 2025 winners by court ruling",
       "url": "https://www.bbc.co.uk/sport/football/articles/crn80y2l1404o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
-      "published_at": "2026-11-24T14:53:10+00:00",
+      "published_at": "2026-11-24T15:40:05+00:00",
       "category": "clubs",
       "language": "en",
       "topics": [],
@@ -68,8 +103,8 @@
       "priority": 0
     },
     {
-      "id": "d81f059552d1fafc",
-      "title": "DIRECT- Le TAS déclare le Sénégal vainqueur de la CAN 2025",
+      "id": "074f553fb82da48f",
+      "title": "DIRECT- Le Maroc va «engager toutes les procédures légales nécessaires» contre la décision du TAS",
       "url": "https://www.rfi.fr/fr/afrique-foot/20261124-can-2025-suivez-en-direct-la-d%C3%A9cision-du-tas-sur-la-finale-entre-le-maroc-et-le-s%C3%A9n%C3%A9gal",
       "source": "RFI Afrique Foot",
       "published_at": "2026-11-24T13:09:52+00:00",
@@ -181,8 +216,7 @@
       "category": "clubs",
       "language": "en",
       "topics": [],
-      "search_trend_fr": "philippe diallo",
-      "priority": 24
+      "priority": 0
     },
     {
       "id": "678aa9cb12717d85",
@@ -242,20 +276,6 @@
       "priority": 0
     },
     {
-      "id": "18c7f16a8e1f6dbe",
-      "title": "Nwaneri at risk of becoming Arsenal’s forgotten teenager on return with Dortmund",
-      "url": "https://www.theguardian.com/football/2026/nov/24/ethan-nwaneri-arsenal-dortmund-mikel-arteta-champions-league",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-24T08:00:11+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [
-        "Premier League",
-        "Bundesliga"
-      ],
-      "priority": 12
-    },
-    {
       "id": "97f8f1d88b869a97",
       "title": "De Bruyne’s Napoli return will remind Manchester City what they are missing",
       "url": "https://www.theguardian.com/football/2026/nov/24/kevin-de-bruyne-napoli-manchester-city-champions-league",
@@ -288,17 +308,6 @@
       "url": "https://www.bbc.co.uk/sport/football/articles/cklylr15gr2do?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
       "published_at": "2026-11-24T06:45:27+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
-      "id": "a043b6ffd9be0abb",
-      "title": "Who am I? Plus today's other quizzes",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cke89ve1lnzvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-24T06:42:40+00:00",
       "category": "clubs",
       "language": "en",
       "topics": [],
@@ -342,20 +351,6 @@
       "priority": 12
     },
     {
-      "id": "d754a5407a05dfc7",
-      "title": "Arsenal and PSG keen on Nusa - Tuesday's gossip",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm8x0grpder5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-23T21:41:52+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [
-        "Premier League",
-        "Ligue 1"
-      ],
-      "priority": 12
-    },
-    {
       "id": "3ab857961868442b",
       "title": "Ligue des champions: le PSG veut poursuivre son parcours sans faute, Lens et Lille aux abois",
       "url": "https://www.rfi.fr/fr/sports/20261123-ligue-des-champions-le-psg-veut-poursuivre-son-parcours-sans-faute-lens-et-lille-aux-abois",
@@ -380,7 +375,8 @@
       "topics": [
         "Sélections"
       ],
-      "priority": 12
+      "search_trend_fr": "can 2027",
+      "priority": 36
     },
     {
       "id": "f0865ed90b165a87",
@@ -466,32 +462,19 @@
         "Sélections"
       ],
       "priority": 12
-    },
-    {
-      "id": "b0e6a1b642ab9baf",
-      "title": "Éliminatoires CAN 2027: Sénégal, Mali, Burkina Faso, Cameroun, Bénin et Maroc qualifiés, bilan de la 4e journée",
-      "url": "https://www.rfi.fr/fr/afrique-foot/20261117-%C3%A9liminatoires-can-2027-le-s%C3%A9n%C3%A9gal-d%C3%A9j%C3%A0-qualifi%C3%A9-r%C3%A9sultats-et-bilan-%C3%A0-l-issue-de-la-quatri%C3%A8me-journ%C3%A9e",
-      "source": "RFI Afrique Foot",
-      "published_at": "2026-11-17T15:16:48+00:00",
-      "category": "clubs",
-      "language": "fr",
-      "topics": [
-        "Sélections"
-      ],
-      "priority": 12
     }
   ],
   "source_errors": [],
   "search_trends_fr": [
-    "edouard philippe",
-    "neuf départements sont placés en vigilance jaune ce mercredi face aux pluies verglaçantes",
-    "conférence ouest de la nba",
-    "hélicoptère",
-    "can 2026",
-    "cocaïne",
-    "naruto",
-    "console ps5 pro",
-    "françois baroin",
-    "philippe diallo"
+    "rennes",
+    "hellfest 2027",
+    "forces armées de l'ukraine",
+    "vigilance forte inondations",
+    "elizabeth chai vasarhelyi",
+    "severe rain flood warning",
+    "algérie u-17 – monténégro u-17",
+    "can 2027",
+    "télévision",
+    "francoise gatel"
   ]
 }
