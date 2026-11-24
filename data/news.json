@@ -1,6 +1,52 @@
 {
-  "updated_at": "2026-11-24T10:30:17.592577+00:00",
+  "updated_at": "2026-11-24T11:26:15.784827+00:00",
   "items": [
+    {
+      "id": "02fe994152264e99",
+      "title": "CAN 2025 : avant le verdict du TAS, le Maroc sème déjà le doute en signalant un \"incident\"",
+      "url": "https://www.france24.com/fr/sports/20261124-can-2025-verdict-tas-maroc-incident",
+      "source": "France 24",
+      "published_at": "2026-11-24T11:23:53+00:00",
+      "category": "clubs",
+      "language": "fr",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "f40a3459005f6581",
+      "title": "Barnet footballer Isiah Noel-Williams charged with three counts of rape",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/24/isiah-noel-williams-barnet-footballer-charged-with-rape",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-24T11:03:14+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "85778e1da2cca663",
+      "title": "UK nations in dark over whether they will get automatic entry to 2035 Women’s World Cup",
+      "url": "https://www.theguardian.com/football/2026/nov/24/uk-automatic-qualification-2035-womens-world-cup-england-northern-ireland-scotland-wales",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-24T11:00:43+00:00",
+      "category": "competitions",
+      "language": "en",
+      "topics": [
+        "Sélections"
+      ],
+      "priority": 12
+    },
+    {
+      "id": "5df2f9b060f18424",
+      "title": "Four Midlands teams in the Championship top five - can it last?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c32l5d5py5k5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-24T10:27:17+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
     {
       "id": "daceb9e41676b835",
       "title": "Philippe Diallo learns harsh reality of mounting global challenge to Infantino",
@@ -24,8 +70,8 @@
       "priority": 0
     },
     {
-      "id": "93418ac5b2592d12",
-      "title": "MLS side to honour dead hippo with tifo",
+      "id": "d90a4a4fce34b7a8",
+      "title": "Dead hippo to be honoured on football club tifo",
       "url": "https://www.bbc.co.uk/sport/football/articles/c6n90jrvxrzpo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
       "published_at": "2026-11-24T09:43:38+00:00",
@@ -206,19 +252,6 @@
       "priority": 12
     },
     {
-      "id": "baaafda92f50eb97",
-      "title": "The 2035 Women’s World Cup has huge potential for women and girls in UK",
-      "url": "https://www.theguardian.com/football/2026/nov/23/2035-womens-world-cup-potential-women-girls-uk",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-23T21:02:10+00:00",
-      "category": "competitions",
-      "language": "en",
-      "topics": [
-        "Sélections"
-      ],
-      "priority": 12
-    },
-    {
       "id": "68f8cef3d3845d80",
       "title": "'No-one's coming to save us' - but how can Man Utd save themselves?",
       "url": "https://www.bbc.co.uk/sport/football/articles/ck9d7qxxl7w8o?at_medium=RSS&at_campaign=rss",
@@ -255,32 +288,6 @@
         "Sélections"
       ],
       "priority": 12
-    },
-    {
-      "id": "d392348c285b930a",
-      "title": "Mauricio Pochettino can now see just how desperate Manchester United are | Jonathan Wilson",
-      "url": "https://www.theguardian.com/football/2026/nov/23/mauricio-pochettino-can-now-see-just-how-desperate-manchester-united-are",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-23T15:45:50+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [
-        "Premier League"
-      ],
-      "priority": 12
-    },
-    {
-      "id": "ebe77af6e8973d7a",
-      "title": "Raya to miss Dortmund game but injury 'not serious'",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cjx2rqpr7l9lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-23T15:23:09+00:00",
-      "category": "injuries",
-      "language": "en",
-      "topics": [
-        "Bundesliga"
-      ],
-      "priority": 20
     },
     {
       "id": "3ccbc039f119e71a",
@@ -466,15 +473,15 @@
   ],
   "source_errors": [],
   "search_trends_fr": [
+    "vinicius junior",
+    "jeanine grasmeijer",
+    "abbaye",
     "sarrebourg",
     "barbara",
     "poulet",
+    "asiatiques",
     "vinicius júnior",
     "inflation",
-    "the strokes paris",
-    "rassie erasmus",
-    "clariane",
-    "australia vs england",
-    "nahel"
+    "the strokes paris"
   ]
 }
