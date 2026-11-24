@@ -1,8 +1,8 @@
 {
   "source": "API-Football",
-  "updated_at": "2026-11-23T08:45:21.048068+00:00",
-  "from_utc": "2026-11-23",
-  "to_utc": "2026-11-30",
+  "updated_at": "2026-11-24T08:36:03.695221+00:00",
+  "from_utc": "2026-11-24",
+  "to_utc": "2026-12-01",
   "target_leagues": [
     2,
     5,
@@ -13,80 +13,17 @@
     61
   ],
   "checked_dates": [
-    "2026-11-23",
     "2026-11-24",
     "2026-11-25",
     "2026-11-26",
     "2026-11-27",
     "2026-11-28",
     "2026-11-29",
-    "2026-11-30"
+    "2026-11-30",
+    "2026-12-01"
   ],
   "blocked_dates": [],
   "matches": [
-    {
-      "id": 1550203,
-      "kickoff": "2026-11-23T19:45:00+00:00",
-      "status": "NS",
-      "elapsed": null,
-      "league": {
-        "id": 135,
-        "name": "Serie A",
-        "country": "Italy"
-      },
-      "home": {
-        "name": "Monza",
-        "logo": "https://media.api-sports.io/football/teams/1579.png",
-        "goals": null
-      },
-      "away": {
-        "name": "Fiorentina",
-        "logo": "https://media.api-sports.io/football/teams/502.png",
-        "goals": null
-      }
-    },
-    {
-      "id": 1557469,
-      "kickoff": "2026-11-23T20:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
-      "league": {
-        "id": 39,
-        "name": "Premier League",
-        "country": "England"
-      },
-      "home": {
-        "name": "Brentford",
-        "logo": "https://media.api-sports.io/football/teams/55.png",
-        "goals": null
-      },
-      "away": {
-        "name": "Everton",
-        "logo": "https://media.api-sports.io/football/teams/45.png",
-        "goals": null
-      }
-    },
-    {
-      "id": 1570457,
-      "kickoff": "2026-11-23T20:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
-      "league": {
-        "id": 140,
-        "name": "La Liga",
-        "country": "Spain"
-      },
-      "home": {
-        "name": "Levante",
-        "logo": "https://media.api-sports.io/football/teams/539.png",
-        "goals": null
-      },
-      "away": {
-        "name": "Elche",
-        "logo": "https://media.api-sports.io/football/teams/797.png",
-        "goals": null
-      }
-    },
     {
       "id": 1635641,
       "kickoff": "2026-11-24T17:45:00+00:00",
@@ -1470,6 +1407,27 @@
       "away": {
         "name": "Getafe",
         "logo": "https://media.api-sports.io/football/teams/546.png",
+        "goals": null
+      }
+    },
+    {
+      "id": 1557491,
+      "kickoff": "2026-12-01T20:00:00+00:00",
+      "status": "NS",
+      "elapsed": null,
+      "league": {
+        "id": 39,
+        "name": "Premier League",
+        "country": "England"
+      },
+      "home": {
+        "name": "Coventry",
+        "logo": "https://media.api-sports.io/football/teams/1346.png",
+        "goals": null
+      },
+      "away": {
+        "name": "Ipswich",
+        "logo": "https://media.api-sports.io/football/teams/57.png",
         "goals": null
       }
     }

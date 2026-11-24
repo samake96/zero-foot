@@ -1,45 +1,7 @@
 {
-  "total_unmatched": 19,
+  "total_unmatched": 18,
   "potentially_resolved": 0,
   "diagnosis": [
-    {
-      "match_id": 1550203,
-      "competition": "SA",
-      "home": {
-        "fixture_name": "Monza",
-        "exact_normalized_matches": [],
-        "model_identity_matches": [],
-        "found_exact": false,
-        "found_by_model": false
-      },
-      "away": {
-        "fixture_name": "Fiorentina",
-        "exact_normalized_matches": [],
-        "model_identity_matches": [],
-        "found_exact": false,
-        "found_by_model": false
-      }
-    },
-    {
-      "match_id": 1570457,
-      "competition": "PD",
-      "home": {
-        "fixture_name": "Levante",
-        "exact_normalized_matches": [],
-        "model_identity_matches": [],
-        "found_exact": false,
-        "found_by_model": false
-      },
-      "away": {
-        "fixture_name": "Elche",
-        "exact_normalized_matches": [],
-        "model_identity_matches": [
-          "Elche CF"
-        ],
-        "found_exact": false,
-        "found_by_model": true
-      }
-    },
     {
       "match_id": 1550216,
       "competition": "SA",
@@ -372,6 +334,26 @@
       },
       "away": {
         "fixture_name": "Monza",
+        "exact_normalized_matches": [],
+        "model_identity_matches": [],
+        "found_exact": false,
+        "found_by_model": false
+      }
+    },
+    {
+      "match_id": 1550212,
+      "competition": "SA",
+      "home": {
+        "fixture_name": "Lecce",
+        "exact_normalized_matches": [],
+        "model_identity_matches": [
+          "US Lecce"
+        ],
+        "found_exact": false,
+        "found_by_model": true
+      },
+      "away": {
+        "fixture_name": "Atalanta",
         "exact_normalized_matches": [],
         "model_identity_matches": [],
         "found_exact": false,

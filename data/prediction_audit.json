@@ -1,5 +1,5 @@
 {
-  "created_at": "2026-11-23T08:45:23.067215+00:00",
+  "created_at": "2026-11-24T08:36:05.050435+00:00",
   "historical_by_competition": {
     "PD": 508,
     "FL1": 404,
@@ -8,29 +8,15 @@
     "SA": 499
   },
   "invalid_historical_rows": 0,
-  "fixture_count": 69,
-  "predictions_count": 29,
-  "excluded_count": 40,
+  "fixture_count": 67,
+  "predictions_count": 30,
+  "excluded_count": 37,
   "exclusion_reasons": {
-    "unmatched_team": 19,
     "unsupported_competition": 18,
-    "outside_next_7_days": 3
+    "unmatched_team": 18,
+    "outside_next_7_days": 1
   },
   "exclusions": [
-    {
-      "match_id": 1550203,
-      "reason": "unmatched_team",
-      "league_id": 135,
-      "home": "Monza",
-      "away": "Fiorentina"
-    },
-    {
-      "match_id": 1570457,
-      "reason": "unmatched_team",
-      "league_id": 140,
-      "home": "Levante",
-      "away": "Elche"
-    },
     {
       "match_id": 1635641,
       "reason": "unsupported_competition",
@@ -278,24 +264,17 @@
     },
     {
       "match_id": 1550212,
-      "reason": "outside_next_7_days",
+      "reason": "unmatched_team",
       "league_id": 135,
       "home": "Lecce",
       "away": "Atalanta"
     },
     {
-      "match_id": 1550208,
+      "match_id": 1557491,
       "reason": "outside_next_7_days",
-      "league_id": 135,
-      "home": "Cagliari",
-      "away": "AC Milan"
-    },
-    {
-      "match_id": 1570467,
-      "reason": "outside_next_7_days",
-      "league_id": 140,
-      "home": "Espanyol",
-      "away": "Getafe"
+      "league_id": 39,
+      "home": "Coventry",
+      "away": "Ipswich"
     }
   ]
 }

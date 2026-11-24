@@ -1,65 +1,17 @@
 {
   "source": "ZEROFOOT",
-  "created_at": "2026-11-23T08:45:23.067215+00:00",
+  "created_at": "2026-11-24T08:36:05.050435+00:00",
   "model": "poisson_v33_prototype",
   "warning": "Experimental forecasts based on available historical data, not validated for future betting or guaranteed returns.",
-  "input_matches": 69,
+  "input_matches": 67,
   "historical_matches": 2296,
-  "predictions_count": 29,
+  "predictions_count": 30,
   "skipped": {
-    "unmatched_team": 19,
     "unsupported_competition": 18,
-    "outside_next_7_days": 3
+    "unmatched_team": 18,
+    "outside_next_7_days": 1
   },
   "predictions": [
-    {
-      "match_id": 1557469,
-      "kickoff": "2026-11-23T20:00:00+00:00",
-      "competition": "PL",
-      "league": "Premier League",
-      "home": "Brentford",
-      "away": "Everton",
-      "probabilities_1x2": {
-        "home": 0.4804,
-        "draw": 0.2696,
-        "away": 0.2501
-      },
-      "expected_goals": {
-        "home": 1.417,
-        "away": 0.941
-      },
-      "historical_samples": {
-        "home": 24,
-        "away": 24
-      },
-      "analysis": {
-        "pick": "home",
-        "pick_label": "Brentford",
-        "confidence": "moderee",
-        "reasons": [
-          {
-            "type": "expected_goals",
-            "home": 1.417,
-            "away": 0.941,
-            "text_fr": "Buts attendus selon le modele : 1.42 pour Brentford, 0.94 pour Everton.",
-            "text_en": "Model expected goals: Brentford 1.42, Everton 0.94."
-          },
-          {
-            "type": "historical_samples",
-            "home": 24,
-            "away": 24,
-            "text_fr": "Base statistique : 24 matchs a domicile de Brentford et 24 matchs a l'exterieur de Everton.",
-            "text_en": "Statistical sample: 24 home games for Brentford and 24 away games for Everton."
-          }
-        ],
-        "opinion_fr": "Notre avis : Brentford. Cette orientation repose sur les buts attendus et les performances historiques domicile/exterieur. L'ecart entre les scenarios reste notable, et une surprise demeure possible.",
-        "opinion_en": "Our view: Brentford to win. This opinion uses expected goals and historical home/away performance. The gap between outcomes is meaningful, and an upset remains possible.",
-        "limitations_fr": "Avis statistique, sans prise en compte confirmee des blessures, compositions ou informations de derniere minute. Aucun resultat garanti.",
-        "limitations_en": "Statistical opinion; injuries, lineups and late news have not been verified. No outcome is guaranteed."
-      },
-      "model": "poisson_v33_prototype",
-      "experimental": true
-    },
     {
       "match_id": 1575237,
       "kickoff": "2026-11-27T19:30:00+00:00",
@@ -1398,6 +1350,102 @@
         ],
         "opinion_fr": "Notre avis : Real Sociedad. Cette orientation repose sur les buts attendus et les performances historiques domicile/exterieur. L'ecart entre les scenarios reste notable, et une surprise demeure possible.",
         "opinion_en": "Our view: Real Sociedad to win. This opinion uses expected goals and historical home/away performance. The gap between outcomes is meaningful, and an upset remains possible.",
+        "limitations_fr": "Avis statistique, sans prise en compte confirmee des blessures, compositions ou informations de derniere minute. Aucun resultat garanti.",
+        "limitations_en": "Statistical opinion; injuries, lineups and late news have not been verified. No outcome is guaranteed."
+      },
+      "model": "poisson_v33_prototype",
+      "experimental": true
+    },
+    {
+      "match_id": 1550208,
+      "kickoff": "2026-11-30T19:45:00+00:00",
+      "competition": "SA",
+      "league": "Serie A",
+      "home": "Cagliari",
+      "away": "AC Milan",
+      "probabilities_1x2": {
+        "home": 0.2129,
+        "draw": 0.2807,
+        "away": 0.5065
+      },
+      "expected_goals": {
+        "home": 0.77,
+        "away": 1.354
+      },
+      "historical_samples": {
+        "home": 24,
+        "away": 25
+      },
+      "analysis": {
+        "pick": "away",
+        "pick_label": "AC Milan",
+        "confidence": "moderee",
+        "reasons": [
+          {
+            "type": "expected_goals",
+            "home": 0.77,
+            "away": 1.354,
+            "text_fr": "Buts attendus selon le modele : 0.77 pour Cagliari, 1.35 pour AC Milan.",
+            "text_en": "Model expected goals: Cagliari 0.77, AC Milan 1.35."
+          },
+          {
+            "type": "historical_samples",
+            "home": 24,
+            "away": 25,
+            "text_fr": "Base statistique : 24 matchs a domicile de Cagliari et 25 matchs a l'exterieur de AC Milan.",
+            "text_en": "Statistical sample: 24 home games for Cagliari and 25 away games for AC Milan."
+          }
+        ],
+        "opinion_fr": "Notre avis : AC Milan. Cette orientation repose sur les buts attendus et les performances historiques domicile/exterieur. L'ecart entre les scenarios reste notable, et une surprise demeure possible.",
+        "opinion_en": "Our view: AC Milan to win. This opinion uses expected goals and historical home/away performance. The gap between outcomes is meaningful, and an upset remains possible.",
+        "limitations_fr": "Avis statistique, sans prise en compte confirmee des blessures, compositions ou informations de derniere minute. Aucun resultat garanti.",
+        "limitations_en": "Statistical opinion; injuries, lineups and late news have not been verified. No outcome is guaranteed."
+      },
+      "model": "poisson_v33_prototype",
+      "experimental": true
+    },
+    {
+      "match_id": 1570467,
+      "kickoff": "2026-11-30T20:00:00+00:00",
+      "competition": "PD",
+      "league": "La Liga",
+      "home": "Espanyol",
+      "away": "Getafe",
+      "probabilities_1x2": {
+        "home": 0.4443,
+        "draw": 0.3139,
+        "away": 0.2418
+      },
+      "expected_goals": {
+        "home": 1.12,
+        "away": 0.742
+      },
+      "historical_samples": {
+        "home": 25,
+        "away": 25
+      },
+      "analysis": {
+        "pick": "home",
+        "pick_label": "Espanyol",
+        "confidence": "moderee",
+        "reasons": [
+          {
+            "type": "expected_goals",
+            "home": 1.12,
+            "away": 0.742,
+            "text_fr": "Buts attendus selon le modele : 1.12 pour Espanyol, 0.74 pour Getafe.",
+            "text_en": "Model expected goals: Espanyol 1.12, Getafe 0.74."
+          },
+          {
+            "type": "historical_samples",
+            "home": 25,
+            "away": 25,
+            "text_fr": "Base statistique : 25 matchs a domicile de Espanyol et 25 matchs a l'exterieur de Getafe.",
+            "text_en": "Statistical sample: 25 home games for Espanyol and 25 away games for Getafe."
+          }
+        ],
+        "opinion_fr": "Notre avis : Espanyol. Cette orientation repose sur les buts attendus et les performances historiques domicile/exterieur. L'ecart entre les scenarios reste notable, et une surprise demeure possible.",
+        "opinion_en": "Our view: Espanyol to win. This opinion uses expected goals and historical home/away performance. The gap between outcomes is meaningful, and an upset remains possible.",
         "limitations_fr": "Avis statistique, sans prise en compte confirmee des blessures, compositions ou informations de derniere minute. Aucun resultat garanti.",
         "limitations_en": "Statistical opinion; injuries, lineups and late news have not been verified. No outcome is guaranteed."
       },
