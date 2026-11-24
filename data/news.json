@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-24T19:22:49.892347+00:00",
+  "updated_at": "2026-11-24T20:25:21.384194+00:00",
   "items": [
     {
       "id": "be11aa4ab79d322b",
       "title": "Manchester City v Napoli, Real Madrid v PSV: Champions League clockwatch – live",
       "url": "https://www.theguardian.com/football/live/2026/nov/24/manchester-city-v-napoli-real-madrid-v-psv-champions-league-clockwatch-live",
       "source": "The Guardian Football",
-      "published_at": "2026-11-24T19:02:49+00:00",
+      "published_at": "2026-11-24T20:15:22+00:00",
       "category": "competitions",
       "language": "en",
       "topics": [
@@ -14,6 +14,34 @@
         "La Liga",
         "Serie A",
         "Ligue des champions"
+      ],
+      "priority": 12
+    },
+    {
+      "id": "d770e3f28625dae0",
+      "title": "Arsenal v Borussia Dortmund: Champions League – live",
+      "url": "https://www.theguardian.com/football/live/2026/nov/24/arsenal-v-borussia-dortmund-champions-league-live",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-24T20:14:14+00:00",
+      "category": "competitions",
+      "language": "en",
+      "topics": [
+        "Premier League",
+        "Bundesliga",
+        "Ligue des champions"
+      ],
+      "priority": 12
+    },
+    {
+      "id": "68681e8fcc9bfe9a",
+      "title": "Bayern hold 'constructive' talks over Musiala's health",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9x2ejnypp8jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-24T19:58:58+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [
+        "Bundesliga"
       ],
       "priority": 12
     },
@@ -27,21 +55,6 @@
       "language": "en",
       "topics": [
         "Premier League"
-      ],
-      "priority": 12
-    },
-    {
-      "id": "d770e3f28625dae0",
-      "title": "Arsenal v Borussia Dortmund: Champions League – live",
-      "url": "https://www.theguardian.com/football/live/2026/nov/24/arsenal-v-borussia-dortmund-champions-league-live",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-24T18:59:37+00:00",
-      "category": "competitions",
-      "language": "en",
-      "topics": [
-        "Premier League",
-        "Bundesliga",
-        "Ligue des champions"
       ],
       "priority": 12
     },
@@ -309,30 +322,6 @@
       "priority": 0
     },
     {
-      "id": "0e7ac0d9cdb48b6d",
-      "title": "Why Potts swapped West Ham for Club Brugge after 16 years",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cxe89j8gj96jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-24T08:36:50+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
-      "id": "b8d04225d4010411",
-      "title": "Why has De Bruyne struggled at Napoli as he returns to Man City?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqglreexkk06o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-24T06:57:16+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [
-        "Serie A"
-      ],
-      "priority": 12
-    },
-    {
       "id": "95b154c2aa81a8ab",
       "title": "Two goals in 15 games - what's going on with Gyokeres?",
       "url": "https://www.bbc.co.uk/sport/football/articles/cklylr15gr2do?at_medium=RSS&at_campaign=rss",
@@ -349,6 +338,28 @@
       "url": "https://www.bbc.co.uk/sport/football/articles/cmkgk22w3vlvo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
       "published_at": "2026-11-24T06:16:53+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "c4b4808f305eaa19",
+      "title": "Moyes questions Tarkowski red in Brentford loss",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cq4gnk062y8go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-23T22:54:51+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "21dc208548d7d248",
+      "title": "Janelt scores stunner as Brentford beat 10-man Everton",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c5gm3jlw7l7xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-23T22:31:27+00:00",
       "category": "clubs",
       "language": "en",
       "topics": [],
@@ -417,17 +428,6 @@
       "priority": 20
     },
     {
-      "id": "44933565bae9bb6c",
-      "title": "Williams-Barnett announces himself as Spurs star, then signs new deal",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm9d7jg50e12o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-21T19:21:01+00:00",
-      "category": "transfers",
-      "language": "en",
-      "topics": [],
-      "priority": 8
-    },
-    {
       "id": "d36ff991a072c980",
       "title": "Présidence de la Fifa: la CAF affiche son unité derrière Gianni Infantino, un désaveu pour Philippe Diallo",
       "url": "https://www.rfi.fr/fr/sports/20261121-ca",
@@ -467,15 +467,15 @@
   ],
   "source_errors": [],
   "search_trends_fr": [
-    "real madrid – psv eindhoven",
-    "arsenal – dortmund",
-    "manchester city – naples",
-    "jean marc furlan",
-    "feyenoord – porto",
-    "côme – aek athènes",
-    "real madrid vs psv",
-    "slovan bratislava – betis",
-    "ligue des champions de l'uefa",
-    "stellantis - site de sochaux"
+    "chemsex qui est l acteur connu",
+    "etienne carbonnier",
+    "manuel bompard",
+    "resultat keno",
+    "justice gta 6",
+    "clima para amanhã",
+    "bmw ix5",
+    "keno",
+    "giorgia meloni",
+    "vremea de mâine"
   ]
 }
