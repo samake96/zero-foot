@@ -1,6 +1,63 @@
 {
-  "updated_at": "2026-11-24T18:11:10.469747+00:00",
+  "updated_at": "2026-11-24T19:22:49.892347+00:00",
   "items": [
+    {
+      "id": "be11aa4ab79d322b",
+      "title": "Manchester City v Napoli, Real Madrid v PSV: Champions League clockwatch – live",
+      "url": "https://www.theguardian.com/football/live/2026/nov/24/manchester-city-v-napoli-real-madrid-v-psv-champions-league-clockwatch-live",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-24T19:02:49+00:00",
+      "category": "competitions",
+      "language": "en",
+      "topics": [
+        "Premier League",
+        "La Liga",
+        "Serie A",
+        "Ligue des champions"
+      ],
+      "priority": 12
+    },
+    {
+      "id": "365825080bc85e38",
+      "title": "Florian Wirtz hails Iraola and Klopp as he reaches new levels for Liverpool",
+      "url": "https://www.theguardian.com/football/2026/nov/24/florian-wirtz-hails-iraola-and-klopp-as-he-reaches-new-levels-for-liverpool",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-24T19:02:09+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [
+        "Premier League"
+      ],
+      "priority": 12
+    },
+    {
+      "id": "d770e3f28625dae0",
+      "title": "Arsenal v Borussia Dortmund: Champions League – live",
+      "url": "https://www.theguardian.com/football/live/2026/nov/24/arsenal-v-borussia-dortmund-champions-league-live",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-24T18:59:37+00:00",
+      "category": "competitions",
+      "language": "en",
+      "topics": [
+        "Premier League",
+        "Bundesliga",
+        "Ligue des champions"
+      ],
+      "priority": 12
+    },
+    {
+      "id": "4329dccd3a5fd7fd",
+      "title": "Manchester United win appeal over Yoro’s red card despite Webb backing decision",
+      "url": "https://www.theguardian.com/football/2026/nov/23/manchester-united-appeal-leny-yoro-red-card-liverpool",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-24T18:19:37+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [
+        "Premier League"
+      ],
+      "priority": 12
+    },
     {
       "id": "7ae813274fec4f90",
       "title": "Klopp advice and Iraola confidence boosts Wirtz",
@@ -68,41 +125,6 @@
       "priority": 0
     },
     {
-      "id": "86c83091f24b4905",
-      "title": "2028 Copa América to be played in United States with six Concacaf teams",
-      "url": "https://www.theguardian.com/football/2026/nov/24/2028-copa-america-united-states-concacaf-conmebol",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-24T16:08:56+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
-      "id": "04c790d5c1ac10a9",
-      "title": "Defender Heaven open to leaving Man Utd",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crd61gy4ednvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-24T15:56:55+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
-      "id": "96389103f9117f22",
-      "title": "Manchester United win appeal over Yoro’s one-match suspension after Anfield red card",
-      "url": "https://www.theguardian.com/football/2026/nov/23/manchester-united-appeal-leny-yoro-red-card-liverpool",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-24T15:49:02+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [
-        "Premier League"
-      ],
-      "priority": 12
-    },
-    {
       "id": "4416092a7ca7b7e9",
       "title": "La CAN 2025 attribuée définitivement au Sénégal par le Tribunal arbitral du sport",
       "url": "https://www.rfi.fr/fr/afrique-foot/20261124-la-can-2025-attribu%C3%A9e-d%C3%A9finitivement-au-s%C3%A9n%C3%A9gal-par-le-tribunal-arbitral-du-sport",
@@ -159,7 +181,7 @@
     },
     {
       "id": "7ec10c5f68fbbf32",
-      "title": "DIRECT- CAN 2025: la CAF respecte la sentence du TAS et prendra toutes les mesures nécessaires»",
+      "title": "DIRECT- CAN 2025: la CAF «respecte la sentence du TAS et prendra toutes les mesures nécessaires»",
       "url": "https://www.rfi.fr/fr/afrique-foot/20261124-can-2025-suivez-en-direct-la-d%C3%A9cision-du-tas-sur-la-finale-entre-le-maroc-et-le-s%C3%A9n%C3%A9gal",
       "source": "RFI Afrique Foot",
       "published_at": "2026-11-24T13:09:52+00:00",
@@ -198,17 +220,6 @@
       "url": "https://www.bbc.co.uk/sport/football/articles/c8wy5vy160kpo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
       "published_at": "2026-11-24T12:14:19+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
-      "id": "7a731a0e7fd39a68",
-      "title": "The NWSL 2026 goals, players and nutmegs we won’t forget",
-      "url": "https://www.theguardian.com/football/2026/nov/24/nwsl-awards-goals-players-moving-the-goalposts-newsletter",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-24T12:00:45+00:00",
       "category": "clubs",
       "language": "en",
       "topics": [],
@@ -274,6 +285,19 @@
       "priority": 0
     },
     {
+      "id": "596e71c1ab6ca2e9",
+      "title": "The youngest Premier League goalscorers this season",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cme39v4w7ykqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-24T09:10:34+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [
+        "Premier League"
+      ],
+      "priority": 12
+    },
+    {
       "id": "48e817aea1d1eed0",
       "title": "Barnet forward Noel-Williams charged with rape",
       "url": "https://www.bbc.co.uk/news/articles/c8dx1v361vw7o?at_medium=RSS&at_campaign=rss",
@@ -294,20 +318,6 @@
       "language": "en",
       "topics": [],
       "priority": 0
-    },
-    {
-      "id": "97f8f1d88b869a97",
-      "title": "De Bruyne’s Napoli return will remind Manchester City what they are missing",
-      "url": "https://www.theguardian.com/football/2026/nov/24/kevin-de-bruyne-napoli-manchester-city-champions-league",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-24T08:00:10+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [
-        "Premier League",
-        "Serie A"
-      ],
-      "priority": 12
     },
     {
       "id": "b8d04225d4010411",
@@ -457,15 +467,15 @@
   ],
   "source_errors": [],
   "search_trends_fr": [
-    "iphone duo",
-    "alice rufo",
-    "polska",
-    "bodo glimt",
-    "débroussaillement",
-    "britney spears",
-    "starshield",
-    "enfant",
-    "jean louis borloo",
-    "éric ciotti"
+    "real madrid – psv eindhoven",
+    "arsenal – dortmund",
+    "manchester city – naples",
+    "jean marc furlan",
+    "feyenoord – porto",
+    "côme – aek athènes",
+    "real madrid vs psv",
+    "slovan bratislava – betis",
+    "ligue des champions de l'uefa",
+    "stellantis - site de sochaux"
   ]
 }
