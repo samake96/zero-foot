@@ -1,12 +1,67 @@
 {
-  "updated_at": "2026-11-24T16:09:09.918913+00:00",
+  "updated_at": "2026-11-24T17:20:16.175319+00:00",
   "items": [
     {
-      "id": "122bdaa7af8c1782",
-      "title": "Man Utd's Yoro has Anfield red card overturned",
+      "id": "a1ddec8d794a2764",
+      "title": "Senegal reinstated as Afcon 2025 winners by court ruling",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crn80y2l1404o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-24T17:16:09+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "1f61bbce9996072c",
+      "title": "CAN 2025 : pourquoi le TAS a donné raison à l'arbitre et au Sénégal",
+      "url": "https://www.france24.com/fr/sports/20261124-can-2025-pourquoi-tas-arbitre-senegal-maroc",
+      "source": "France 24",
+      "published_at": "2026-11-24T17:02:32+00:00",
+      "category": "clubs",
+      "language": "fr",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "98730447b180e46e",
+      "title": "Yoro red card overturned, but refs' chief Webb backs decision",
       "url": "https://www.bbc.co.uk/sport/football/articles/ck868g93djl5o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
-      "published_at": "2026-11-24T15:59:59+00:00",
+      "published_at": "2026-11-24T17:00:32+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "1fe0ec227144d8fd",
+      "title": "FA chief signs NDA to view Fifa sell-off plot documents",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqx2x4k74ryxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-24T16:34:18+00:00",
+      "category": "transfers",
+      "language": "en",
+      "topics": [],
+      "priority": 8
+    },
+    {
+      "id": "610beeead4c73acb",
+      "title": "Football Daily | The game’s gone: has fantasy football been ruined by AI gafferbots?",
+      "url": "https://www.theguardian.com/football/2026/nov/24/fpl-ruined-ai-football-daily-newsletter",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-24T16:16:52+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "86c83091f24b4905",
+      "title": "2028 Copa América to be played in United States with six Concacaf teams",
+      "url": "https://www.theguardian.com/football/2026/nov/24/2028-copa-america-united-states-concacaf-conmebol",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-24T16:08:56+00:00",
       "category": "clubs",
       "language": "en",
       "topics": [],
@@ -35,17 +90,6 @@
         "Premier League"
       ],
       "priority": 12
-    },
-    {
-      "id": "a1ddec8d794a2764",
-      "title": "Senegal reinstated as Afcon 2025 winners by court ruling",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crn80y2l1404o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-24T15:40:05+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
     },
     {
       "id": "4416092a7ca7b7e9",
@@ -184,17 +228,6 @@
       "priority": 12
     },
     {
-      "id": "f40a3459005f6581",
-      "title": "Barnet footballer Isiah Noel-Williams charged with three counts of rape",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/24/isiah-noel-williams-barnet-footballer-charged-with-rape",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-24T11:03:14+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
       "id": "85778e1da2cca663",
       "title": "UK nations in dark over whether they will get automatic entry to 2035 Women’s World Cup",
       "url": "https://www.theguardian.com/football/2026/nov/24/uk-automatic-qualification-2035-womens-world-cup-england-northern-ireland-scotland-wales",
@@ -213,17 +246,6 @@
       "url": "https://www.theguardian.com/football/2026/nov/24/philippe-diallo-gianni-infantino-fifa-president-confederation-african-football",
       "source": "The Guardian Football",
       "published_at": "2026-11-24T10:07:44+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
-      "id": "678aa9cb12717d85",
-      "title": "Timothy Weah: ‘I don’t want to beg to be back in the national team’",
-      "url": "https://www.theguardian.com/football/2026/nov/24/timothy-weah-i-dont-want-to-beg-to-be-back-in-the-national-team",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-24T10:00:13+00:00",
       "category": "clubs",
       "language": "en",
       "topics": [],
@@ -325,32 +347,6 @@
       "priority": 0
     },
     {
-      "id": "e80e15f10016117b",
-      "title": "Who has made Troy's Premier League team of the week?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c34gn2p5d0zwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-23T23:26:35+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [
-        "Premier League"
-      ],
-      "priority": 12
-    },
-    {
-      "id": "dcde8a3e3312f944",
-      "title": "Tarkowski's first Premier League red ruins Moyes' night - was it deserved?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmqx5eynvpqno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-23T22:43:39+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [
-        "Premier League"
-      ],
-      "priority": 12
-    },
-    {
       "id": "3ab857961868442b",
       "title": "Ligue des champions: le PSG veut poursuivre son parcours sans faute, Lens et Lille aux abois",
       "url": "https://www.rfi.fr/fr/sports/20261123-ligue-des-champions-le-psg-veut-poursuivre-son-parcours-sans-faute-lens-et-lille-aux-abois",
@@ -375,8 +371,7 @@
       "topics": [
         "Sélections"
       ],
-      "search_trend_fr": "can 2027",
-      "priority": 36
+      "priority": 12
     },
     {
       "id": "f0865ed90b165a87",
@@ -414,6 +409,17 @@
       "priority": 20
     },
     {
+      "id": "44933565bae9bb6c",
+      "title": "Williams-Barnett announces himself as Spurs star, then signs new deal",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm9d7jg50e12o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-21T19:21:01+00:00",
+      "category": "transfers",
+      "language": "en",
+      "topics": [],
+      "priority": 8
+    },
+    {
       "id": "d36ff991a072c980",
       "title": "Présidence de la Fifa: la CAF affiche son unité derrière Gianni Infantino, un désaveu pour Philippe Diallo",
       "url": "https://www.rfi.fr/fr/sports/20261121-ca",
@@ -423,19 +429,6 @@
       "language": "fr",
       "topics": [],
       "priority": 0
-    },
-    {
-      "id": "fcfcd86354fbb1d9",
-      "title": "Ligue des nations: la France affrontera l'Espagne en quarts de finale",
-      "url": "https://www.rfi.fr/fr/sports/20261120-foot-la-france-affrontera-l-espagne-en-quarts-de-finale-de-la-ligue-des-nations",
-      "source": "RFI Sports",
-      "published_at": "2026-11-20T11:39:23+00:00",
-      "category": "clubs",
-      "language": "fr",
-      "topics": [
-        "Sélections"
-      ],
-      "priority": 12
     },
     {
       "id": "1bcd0ce44fed28f9",
@@ -466,15 +459,15 @@
   ],
   "source_errors": [],
   "search_trends_fr": [
-    "rennes",
-    "hellfest 2027",
-    "forces armées de l'ukraine",
-    "vigilance forte inondations",
-    "elizabeth chai vasarhelyi",
-    "severe rain flood warning",
-    "algérie u-17 – monténégro u-17",
-    "can 2027",
-    "télévision",
-    "francoise gatel"
+    "bally bagayoko",
+    "sabotage",
+    "stade de twickenham",
+    "david rachline",
+    "un million",
+    "galatasaray vs aston villa",
+    "christophe gleizes",
+    "17 octobre",
+    "voilier",
+    "justine braisaz-bouchet"
   ]
 }
