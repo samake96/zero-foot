@@ -19,7 +19,7 @@ jobs:
           from urllib.request import Request, urlopen
           from urllib.error import HTTPError
 
-          token = os.environ.get('EDITORIAL_DRAFT_TOKEN')
+          token = (os.environ.get('EDITORIAL_DRAFT_TOKEN') or '').strip()
           if not token:
               raise SystemExit('EDITORIAL_DRAFT_TOKEN is missing in GitHub Actions.')
           match = '1635692'
@@ -32,7 +32,7 @@ jobs:
               'sources': '\n'.join(source['url'] for source in article['sources']),
           }).encode()
           request = Request('https://footchrono.com/api/editorial/drafts', data=body, headers={
-              'Authorization': 'Bearer ' + token,
+              'X-FootChrono-Draft-Token': token,
               'Content-Type': 'application/x-www-form-urlencoded',
               'Idempotency-Key': 'setup-city-napoli-v1',
           })
