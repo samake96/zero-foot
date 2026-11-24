@@ -1,8 +1,533 @@
 {
   "source": "API-Football",
-  "updated_at": "2026-11-24T16:19:40.020865+00:00",
-  "total": 2107,
+  "updated_at": "2026-11-24T19:06:36.664489+00:00",
+  "total": 2132,
   "matches": [
+    {
+      "id": 1598752,
+      "kickoff": "2026-11-24T17:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 701,
+        "name": "Liga Revelação U23",
+        "country": "Portugal"
+      },
+      "home": {
+        "name": "Torreense U23",
+        "logo": "https://media.api-sports.io/football/teams/21720.png",
+        "goals": 2
+      },
+      "away": {
+        "name": "Vizela U23",
+        "logo": "https://media.api-sports.io/football/teams/17475.png",
+        "goals": 1
+      }
+    },
+    {
+      "id": 1645616,
+      "kickoff": "2026-11-24T17:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 1162,
+        "name": "AGCFF Gulf Champions League",
+        "country": "World"
+      },
+      "home": {
+        "name": "Al-Duhail SC",
+        "logo": "https://media.api-sports.io/football/teams/2904.png",
+        "goals": 3
+      },
+      "away": {
+        "name": "NEOM",
+        "logo": "https://media.api-sports.io/football/teams/10513.png",
+        "goals": 2
+      }
+    },
+    {
+      "id": 1563682,
+      "kickoff": "2026-11-24T16:30:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 237,
+        "name": "Cup",
+        "country": "Russia"
+      },
+      "home": {
+        "name": "Zenit",
+        "logo": "https://media.api-sports.io/football/teams/596.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "Krylia Sovetov",
+        "logo": "https://media.api-sports.io/football/teams/1079.png",
+        "goals": 0
+      }
+    },
+    {
+      "id": 1632503,
+      "kickoff": "2026-11-24T16:30:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 405,
+        "name": "National Soccer League",
+        "country": "Rwanda"
+      },
+      "home": {
+        "name": "Kiyovu Sports",
+        "logo": "https://media.api-sports.io/football/teams/5317.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "Al Hilal Omdurman",
+        "logo": "https://media.api-sports.io/football/teams/5237.png",
+        "goals": 2
+      }
+    },
+    {
+      "id": 1571631,
+      "kickoff": "2026-11-24T16:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 173,
+        "name": "Second League",
+        "country": "Bulgaria"
+      },
+      "home": {
+        "name": "Fratria",
+        "logo": "https://media.api-sports.io/football/teams/21836.png",
+        "goals": 2
+      },
+      "away": {
+        "name": "Yantra 2019",
+        "logo": "https://media.api-sports.io/football/teams/8528.png",
+        "goals": 0
+      }
+    },
+    {
+      "id": 1629987,
+      "kickoff": "2026-11-24T16:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 17,
+        "name": "AFC Champions League Elite",
+        "country": "World"
+      },
+      "home": {
+        "name": "Shabab Al Ahli Dubai",
+        "logo": "https://media.api-sports.io/football/teams/2870.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "Al-Qadisiyah FC",
+        "logo": "https://media.api-sports.io/football/teams/2933.png",
+        "goals": 5
+      }
+    },
+    {
+      "id": 1630406,
+      "kickoff": "2026-11-24T16:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 18,
+        "name": "AFC Champions League Two",
+        "country": "World"
+      },
+      "home": {
+        "name": "Al Seeb",
+        "logo": "https://media.api-sports.io/football/teams/7504.png",
+        "goals": 2
+      },
+      "away": {
+        "name": "Al Shorta",
+        "logo": "https://media.api-sports.io/football/teams/28571.png",
+        "goals": 0
+      }
+    },
+    {
+      "id": 1647176,
+      "kickoff": "2026-11-24T16:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 680,
+        "name": "Cup",
+        "country": "Slovakia"
+      },
+      "home": {
+        "name": "Žilina",
+        "logo": "https://media.api-sports.io/football/teams/3554.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "Ružomberok",
+        "logo": "https://media.api-sports.io/football/teams/3549.png",
+        "goals": 0
+      }
+    },
+    {
+      "id": 1546163,
+      "kickoff": "2026-11-24T15:30:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 587,
+        "name": "World Cup - U17",
+        "country": "World"
+      },
+      "home": {
+        "name": "Algeria U17",
+        "logo": "https://media.api-sports.io/football/teams/21295.png",
+        "goals": 2
+      },
+      "away": {
+        "name": "Montenegro U17",
+        "logo": "https://media.api-sports.io/football/teams/17966.png",
+        "goals": 1
+      }
+    },
+    {
+      "id": 1546169,
+      "kickoff": "2026-11-24T15:30:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 587,
+        "name": "World Cup - U17",
+        "country": "World"
+      },
+      "home": {
+        "name": "Honduras U17",
+        "logo": "https://media.api-sports.io/football/teams/20997.png",
+        "goals": 0
+      },
+      "away": {
+        "name": "Colombia U17",
+        "logo": "https://media.api-sports.io/football/teams/20527.png",
+        "goals": 2
+      }
+    },
+    {
+      "id": 1645615,
+      "kickoff": "2026-11-24T15:30:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 1162,
+        "name": "AGCFF Gulf Champions League",
+        "country": "World"
+      },
+      "home": {
+        "name": "Ajman",
+        "logo": "https://media.api-sports.io/football/teams/2879.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "Al-Ettifaq",
+        "logo": "https://media.api-sports.io/football/teams/2934.png",
+        "goals": 2
+      }
+    },
+    {
+      "id": 1509229,
+      "kickoff": "2026-11-24T15:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 327,
+        "name": "Erovnuli Liga",
+        "country": "Georgia"
+      },
+      "home": {
+        "name": "Gagra",
+        "logo": "https://media.api-sports.io/football/teams/3505.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "Dinamo Tbilisi",
+        "logo": "https://media.api-sports.io/football/teams/2262.png",
+        "goals": 2
+      }
+    },
+    {
+      "id": 1546164,
+      "kickoff": "2026-11-24T15:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 587,
+        "name": "World Cup - U17",
+        "country": "World"
+      },
+      "home": {
+        "name": "Brazil U17",
+        "logo": "https://media.api-sports.io/football/teams/12502.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "Tanzania U17",
+        "logo": "https://media.api-sports.io/football/teams/25822.png",
+        "goals": 0
+      }
+    },
+    {
+      "id": 1598746,
+      "kickoff": "2026-11-24T15:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 701,
+        "name": "Liga Revelação U23",
+        "country": "Portugal"
+      },
+      "home": {
+        "name": "Felgueiras U23",
+        "logo": "https://media.api-sports.io/football/teams/28013.png",
+        "goals": 4
+      },
+      "away": {
+        "name": "Academico Viseu U23",
+        "logo": "https://media.api-sports.io/football/teams/21718.png",
+        "goals": 2
+      }
+    },
+    {
+      "id": 1598748,
+      "kickoff": "2026-11-24T15:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 701,
+        "name": "Liga Revelação U23",
+        "country": "Portugal"
+      },
+      "home": {
+        "name": "Portimonense U23",
+        "logo": "https://media.api-sports.io/football/teams/15467.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "Estrela U23",
+        "logo": "https://media.api-sports.io/football/teams/19824.png",
+        "goals": 0
+      }
+    },
+    {
+      "id": 1598749,
+      "kickoff": "2026-11-24T15:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 701,
+        "name": "Liga Revelação U23",
+        "country": "Portugal"
+      },
+      "home": {
+        "name": "Rio Ave U23",
+        "logo": "https://media.api-sports.io/football/teams/15468.png",
+        "goals": 2
+      },
+      "away": {
+        "name": "União Leiria U23",
+        "logo": "https://media.api-sports.io/football/teams/26257.png",
+        "goals": 1
+      }
+    },
+    {
+      "id": 1612281,
+      "kickoff": "2026-11-24T15:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 233,
+        "name": "Premier League",
+        "country": "Egypt"
+      },
+      "home": {
+        "name": "Smouha SC",
+        "logo": "https://media.api-sports.io/football/teams/1044.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "National Bank of Egypt",
+        "logo": "https://media.api-sports.io/football/teams/15570.png",
+        "goals": 1
+      }
+    },
+    {
+      "id": 1612282,
+      "kickoff": "2026-11-24T15:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 233,
+        "name": "Premier League",
+        "country": "Egypt"
+      },
+      "home": {
+        "name": "Masr",
+        "logo": "https://media.api-sports.io/football/teams/7520.png",
+        "goals": 0
+      },
+      "away": {
+        "name": "Abu Qair Semad",
+        "logo": "https://media.api-sports.io/football/teams/15731.png",
+        "goals": 0
+      }
+    },
+    {
+      "id": 1637382,
+      "kickoff": "2026-11-24T15:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 14,
+        "name": "UEFA Youth League",
+        "country": "World"
+      },
+      "home": {
+        "name": "Feyenoord U19",
+        "logo": "https://media.api-sports.io/football/teams/7981.png",
+        "goals": 0
+      },
+      "away": {
+        "name": "Porto U19",
+        "logo": "https://media.api-sports.io/football/teams/7922.png",
+        "goals": 1
+      }
+    },
+    {
+      "id": 1637384,
+      "kickoff": "2026-11-24T15:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 14,
+        "name": "UEFA Youth League",
+        "country": "World"
+      },
+      "home": {
+        "name": "Manchester City U19",
+        "logo": "https://media.api-sports.io/football/teams/7914.png",
+        "goals": 4
+      },
+      "away": {
+        "name": "Napoli U19",
+        "logo": "https://media.api-sports.io/football/teams/7917.png",
+        "goals": 1
+      }
+    },
+    {
+      "id": 1637385,
+      "kickoff": "2026-11-24T15:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 14,
+        "name": "UEFA Youth League",
+        "country": "World"
+      },
+      "home": {
+        "name": "RB Leipzig U19",
+        "logo": "https://media.api-sports.io/football/teams/7924.png",
+        "goals": 2
+      },
+      "away": {
+        "name": "Lens U19",
+        "logo": "https://media.api-sports.io/football/teams/22372.png",
+        "goals": 3
+      }
+    },
+    {
+      "id": 1637386,
+      "kickoff": "2026-11-24T15:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 14,
+        "name": "UEFA Youth League",
+        "country": "World"
+      },
+      "home": {
+        "name": "Real Madrid U19",
+        "logo": "https://media.api-sports.io/football/teams/7926.png",
+        "goals": 3
+      },
+      "away": {
+        "name": "PSV U19",
+        "logo": "https://media.api-sports.io/football/teams/7965.png",
+        "goals": 3
+      }
+    },
+    {
+      "id": 1604068,
+      "kickoff": "2026-11-24T14:30:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 308,
+        "name": "Division 1",
+        "country": "Saudi-Arabia"
+      },
+      "home": {
+        "name": "Hajer",
+        "logo": "https://media.api-sports.io/football/teams/2948.png",
+        "goals": 2
+      },
+      "away": {
+        "name": "Al Taee",
+        "logo": "https://media.api-sports.io/football/teams/2942.png",
+        "goals": 1
+      }
+    },
+    {
+      "id": 1645614,
+      "kickoff": "2026-11-24T14:30:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 1162,
+        "name": "AGCFF Gulf Champions League",
+        "country": "World"
+      },
+      "home": {
+        "name": "Al Riffa",
+        "logo": "https://media.api-sports.io/football/teams/5482.png",
+        "goals": 4
+      },
+      "away": {
+        "name": "Al Zawra'a",
+        "logo": "https://media.api-sports.io/football/teams/8010.png",
+        "goals": 1
+      }
+    },
+    {
+      "id": 1650237,
+      "kickoff": "2026-11-24T14:30:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 587,
+        "name": "World Cup - U17",
+        "country": "World"
+      },
+      "home": {
+        "name": "Dominican Republic U17",
+        "logo": "https://media.api-sports.io/football/teams/20993.png",
+        "goals": 2
+      },
+      "away": {
+        "name": "Chile U17",
+        "logo": "https://media.api-sports.io/football/teams/12505.png",
+        "goals": 1
+      }
+    },
     {
       "id": 1563676,
       "kickoff": "2026-11-24T14:00:00+00:00",

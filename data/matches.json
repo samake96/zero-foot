@@ -1,6 +1,6 @@
 {
   "source": "API-Football",
-  "updated_at": "2026-11-24T16:19:40.071751+00:00",
+  "updated_at": "2026-11-24T19:06:36.686146+00:00",
   "date_utc": "2026-11-24",
   "matches": [
     {
@@ -615,7 +615,7 @@
     {
       "id": 1646783,
       "kickoff": "2026-11-24T12:00:00+00:00",
-      "status": "NS",
+      "status": "AWD",
       "elapsed": null,
       "league": {
         "id": 277,
@@ -625,12 +625,12 @@
       "home": {
         "name": "MOFA",
         "logo": "https://media.api-sports.io/football/teams/23407.png",
-        "goals": null
+        "goals": 0
       },
       "away": {
         "name": "Nairobi City Stars",
         "logo": "https://media.api-sports.io/football/teams/2482.png",
-        "goals": null
+        "goals": 0
       }
     },
     {
@@ -1728,8 +1728,8 @@
     {
       "id": 1604068,
       "kickoff": "2026-11-24T14:30:00+00:00",
-      "status": "2H",
-      "elapsed": 85,
+      "status": "FT",
+      "elapsed": 90,
       "league": {
         "id": 308,
         "name": "Division 1",
@@ -1738,7 +1738,7 @@
       "home": {
         "name": "Hajer",
         "logo": "https://media.api-sports.io/football/teams/2948.png",
-        "goals": 1
+        "goals": 2
       },
       "away": {
         "name": "Al Taee",
@@ -1749,8 +1749,8 @@
     {
       "id": 1645614,
       "kickoff": "2026-11-24T14:30:00+00:00",
-      "status": "2H",
-      "elapsed": 77,
+      "status": "FT",
+      "elapsed": 90,
       "league": {
         "id": 1162,
         "name": "AGCFF Gulf Champions League",
@@ -1759,18 +1759,18 @@
       "home": {
         "name": "Al Riffa",
         "logo": "https://media.api-sports.io/football/teams/5482.png",
-        "goals": 3
+        "goals": 4
       },
       "away": {
         "name": "Al Zawra'a",
         "logo": "https://media.api-sports.io/football/teams/8010.png",
-        "goals": 0
+        "goals": 1
       }
     },
     {
       "id": 1650237,
       "kickoff": "2026-11-24T14:30:00+00:00",
-      "status": "2H",
+      "status": "FT",
       "elapsed": 90,
       "league": {
         "id": 587,
@@ -1791,8 +1791,8 @@
     {
       "id": 1509229,
       "kickoff": "2026-11-24T15:00:00+00:00",
-      "status": "2H",
-      "elapsed": 61,
+      "status": "FT",
+      "elapsed": 90,
       "league": {
         "id": 327,
         "name": "Erovnuli Liga",
@@ -1806,14 +1806,14 @@
       "away": {
         "name": "Dinamo Tbilisi",
         "logo": "https://media.api-sports.io/football/teams/2262.png",
-        "goals": 1
+        "goals": 2
       }
     },
     {
       "id": 1546164,
       "kickoff": "2026-11-24T15:00:00+00:00",
-      "status": "2H",
-      "elapsed": 59,
+      "status": "FT",
+      "elapsed": 90,
       "league": {
         "id": 587,
         "name": "World Cup - U17",
@@ -1833,8 +1833,8 @@
     {
       "id": 1598746,
       "kickoff": "2026-11-24T15:00:00+00:00",
-      "status": "2H",
-      "elapsed": 61,
+      "status": "FT",
+      "elapsed": 90,
       "league": {
         "id": 701,
         "name": "Liga Revelação U23",
@@ -1843,7 +1843,7 @@
       "home": {
         "name": "Felgueiras U23",
         "logo": "https://media.api-sports.io/football/teams/28013.png",
-        "goals": 2
+        "goals": 4
       },
       "away": {
         "name": "Academico Viseu U23",
@@ -1854,8 +1854,8 @@
     {
       "id": 1598748,
       "kickoff": "2026-11-24T15:00:00+00:00",
-      "status": "2H",
-      "elapsed": 61,
+      "status": "FT",
+      "elapsed": 90,
       "league": {
         "id": 701,
         "name": "Liga Revelação U23",
@@ -1875,8 +1875,8 @@
     {
       "id": 1598749,
       "kickoff": "2026-11-24T15:00:00+00:00",
-      "status": "2H",
-      "elapsed": 56,
+      "status": "FT",
+      "elapsed": 90,
       "league": {
         "id": 701,
         "name": "Liga Revelação U23",
@@ -1885,19 +1885,19 @@
       "home": {
         "name": "Rio Ave U23",
         "logo": "https://media.api-sports.io/football/teams/15468.png",
-        "goals": 1
+        "goals": 2
       },
       "away": {
         "name": "União Leiria U23",
         "logo": "https://media.api-sports.io/football/teams/26257.png",
-        "goals": 0
+        "goals": 1
       }
     },
     {
       "id": 1612281,
       "kickoff": "2026-11-24T15:00:00+00:00",
-      "status": "2H",
-      "elapsed": 51,
+      "status": "FT",
+      "elapsed": 90,
       "league": {
         "id": 233,
         "name": "Premier League",
@@ -1906,19 +1906,19 @@
       "home": {
         "name": "Smouha SC",
         "logo": "https://media.api-sports.io/football/teams/1044.png",
-        "goals": 0
+        "goals": 1
       },
       "away": {
         "name": "National Bank of Egypt",
         "logo": "https://media.api-sports.io/football/teams/15570.png",
-        "goals": 0
+        "goals": 1
       }
     },
     {
       "id": 1612282,
       "kickoff": "2026-11-24T15:00:00+00:00",
-      "status": "2H",
-      "elapsed": 52,
+      "status": "FT",
+      "elapsed": 90,
       "league": {
         "id": 233,
         "name": "Premier League",
@@ -1938,8 +1938,8 @@
     {
       "id": 1637382,
       "kickoff": "2026-11-24T15:00:00+00:00",
-      "status": "2H",
-      "elapsed": 62,
+      "status": "FT",
+      "elapsed": 90,
       "league": {
         "id": 14,
         "name": "UEFA Youth League",
@@ -1959,8 +1959,8 @@
     {
       "id": 1637384,
       "kickoff": "2026-11-24T15:00:00+00:00",
-      "status": "2H",
-      "elapsed": 60,
+      "status": "FT",
+      "elapsed": 90,
       "league": {
         "id": 14,
         "name": "UEFA Youth League",
@@ -1969,7 +1969,7 @@
       "home": {
         "name": "Manchester City U19",
         "logo": "https://media.api-sports.io/football/teams/7914.png",
-        "goals": 3
+        "goals": 4
       },
       "away": {
         "name": "Napoli U19",
@@ -1980,8 +1980,8 @@
     {
       "id": 1637385,
       "kickoff": "2026-11-24T15:00:00+00:00",
-      "status": "2H",
-      "elapsed": 61,
+      "status": "FT",
+      "elapsed": 90,
       "league": {
         "id": 14,
         "name": "UEFA Youth League",
@@ -1990,19 +1990,19 @@
       "home": {
         "name": "RB Leipzig U19",
         "logo": "https://media.api-sports.io/football/teams/7924.png",
-        "goals": 1
+        "goals": 2
       },
       "away": {
         "name": "Lens U19",
         "logo": "https://media.api-sports.io/football/teams/22372.png",
-        "goals": 1
+        "goals": 3
       }
     },
     {
       "id": 1637386,
       "kickoff": "2026-11-24T15:00:00+00:00",
-      "status": "2H",
-      "elapsed": 61,
+      "status": "FT",
+      "elapsed": 90,
       "league": {
         "id": 14,
         "name": "UEFA Youth League",
@@ -2011,7 +2011,7 @@
       "home": {
         "name": "Real Madrid U19",
         "logo": "https://media.api-sports.io/football/teams/7926.png",
-        "goals": 2
+        "goals": 3
       },
       "away": {
         "name": "PSV U19",
@@ -2022,8 +2022,8 @@
     {
       "id": 1546163,
       "kickoff": "2026-11-24T15:30:00+00:00",
-      "status": "HT",
-      "elapsed": 45,
+      "status": "FT",
+      "elapsed": 90,
       "league": {
         "id": 587,
         "name": "World Cup - U17",
@@ -2032,7 +2032,7 @@
       "home": {
         "name": "Algeria U17",
         "logo": "https://media.api-sports.io/football/teams/21295.png",
-        "goals": 0
+        "goals": 2
       },
       "away": {
         "name": "Montenegro U17",
@@ -2043,8 +2043,8 @@
     {
       "id": 1546169,
       "kickoff": "2026-11-24T15:30:00+00:00",
-      "status": "HT",
-      "elapsed": 45,
+      "status": "FT",
+      "elapsed": 90,
       "league": {
         "id": 587,
         "name": "World Cup - U17",
@@ -2058,14 +2058,14 @@
       "away": {
         "name": "Colombia U17",
         "logo": "https://media.api-sports.io/football/teams/20527.png",
-        "goals": 0
+        "goals": 2
       }
     },
     {
       "id": 1645615,
       "kickoff": "2026-11-24T15:30:00+00:00",
-      "status": "1H",
-      "elapsed": 45,
+      "status": "FT",
+      "elapsed": 90,
       "league": {
         "id": 1162,
         "name": "AGCFF Gulf Champions League",
@@ -2079,14 +2079,14 @@
       "away": {
         "name": "Al-Ettifaq",
         "logo": "https://media.api-sports.io/football/teams/2934.png",
-        "goals": 1
+        "goals": 2
       }
     },
     {
       "id": 1571631,
       "kickoff": "2026-11-24T16:00:00+00:00",
-      "status": "1H",
-      "elapsed": 21,
+      "status": "FT",
+      "elapsed": 90,
       "league": {
         "id": 173,
         "name": "Second League",
@@ -2095,7 +2095,7 @@
       "home": {
         "name": "Fratria",
         "logo": "https://media.api-sports.io/football/teams/21836.png",
-        "goals": 0
+        "goals": 2
       },
       "away": {
         "name": "Yantra 2019",
@@ -2106,8 +2106,8 @@
     {
       "id": 1629987,
       "kickoff": "2026-11-24T16:00:00+00:00",
-      "status": "1H",
-      "elapsed": 19,
+      "status": "FT",
+      "elapsed": 90,
       "league": {
         "id": 17,
         "name": "AFC Champions League Elite",
@@ -2116,19 +2116,19 @@
       "home": {
         "name": "Shabab Al Ahli Dubai",
         "logo": "https://media.api-sports.io/football/teams/2870.png",
-        "goals": 0
+        "goals": 1
       },
       "away": {
         "name": "Al-Qadisiyah FC",
         "logo": "https://media.api-sports.io/football/teams/2933.png",
-        "goals": 2
+        "goals": 5
       }
     },
     {
       "id": 1630406,
       "kickoff": "2026-11-24T16:00:00+00:00",
-      "status": "1H",
-      "elapsed": 19,
+      "status": "FT",
+      "elapsed": 90,
       "league": {
         "id": 18,
         "name": "AFC Champions League Two",
@@ -2137,7 +2137,7 @@
       "home": {
         "name": "Al Seeb",
         "logo": "https://media.api-sports.io/football/teams/7504.png",
-        "goals": 0
+        "goals": 2
       },
       "away": {
         "name": "Al Shorta",
@@ -2148,8 +2148,8 @@
     {
       "id": 1647176,
       "kickoff": "2026-11-24T16:00:00+00:00",
-      "status": "1H",
-      "elapsed": 19,
+      "status": "FT",
+      "elapsed": 90,
       "league": {
         "id": 680,
         "name": "Cup",
@@ -2158,7 +2158,7 @@
       "home": {
         "name": "Žilina",
         "logo": "https://media.api-sports.io/football/teams/3554.png",
-        "goals": 0
+        "goals": 1
       },
       "away": {
         "name": "Ružomberok",
@@ -2169,8 +2169,8 @@
     {
       "id": 1563682,
       "kickoff": "2026-11-24T16:30:00+00:00",
-      "status": "NS",
-      "elapsed": null,
+      "status": "FT",
+      "elapsed": 90,
       "league": {
         "id": 237,
         "name": "Cup",
@@ -2179,19 +2179,19 @@
       "home": {
         "name": "Zenit",
         "logo": "https://media.api-sports.io/football/teams/596.png",
-        "goals": null
+        "goals": 1
       },
       "away": {
         "name": "Krylia Sovetov",
         "logo": "https://media.api-sports.io/football/teams/1079.png",
-        "goals": null
+        "goals": 0
       }
     },
     {
       "id": 1632503,
       "kickoff": "2026-11-24T16:30:00+00:00",
-      "status": "NS",
-      "elapsed": null,
+      "status": "FT",
+      "elapsed": 90,
       "league": {
         "id": 405,
         "name": "National Soccer League",
@@ -2200,19 +2200,19 @@
       "home": {
         "name": "Kiyovu Sports",
         "logo": "https://media.api-sports.io/football/teams/5317.png",
-        "goals": null
+        "goals": 1
       },
       "away": {
         "name": "Al Hilal Omdurman",
         "logo": "https://media.api-sports.io/football/teams/5237.png",
-        "goals": null
+        "goals": 2
       }
     },
     {
       "id": 1598752,
       "kickoff": "2026-11-24T17:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
+      "status": "FT",
+      "elapsed": 90,
       "league": {
         "id": 701,
         "name": "Liga Revelação U23",
@@ -2221,12 +2221,12 @@
       "home": {
         "name": "Torreense U23",
         "logo": "https://media.api-sports.io/football/teams/21720.png",
-        "goals": null
+        "goals": 2
       },
       "away": {
         "name": "Vizela U23",
         "logo": "https://media.api-sports.io/football/teams/17475.png",
-        "goals": null
+        "goals": 1
       }
     },
     {
@@ -2274,8 +2274,8 @@
     {
       "id": 1645616,
       "kickoff": "2026-11-24T17:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
+      "status": "FT",
+      "elapsed": 90,
       "league": {
         "id": 1162,
         "name": "AGCFF Gulf Champions League",
@@ -2284,19 +2284,19 @@
       "home": {
         "name": "Al-Duhail SC",
         "logo": "https://media.api-sports.io/football/teams/2904.png",
-        "goals": null
+        "goals": 3
       },
       "away": {
         "name": "NEOM",
         "logo": "https://media.api-sports.io/football/teams/10513.png",
-        "goals": null
+        "goals": 2
       }
     },
     {
       "id": 1600377,
       "kickoff": "2026-11-24T17:30:00+00:00",
-      "status": "NS",
-      "elapsed": null,
+      "status": "2H",
+      "elapsed": 78,
       "league": {
         "id": 288,
         "name": "Premier Soccer League",
@@ -2305,19 +2305,19 @@
       "home": {
         "name": "Durban City",
         "logo": "https://media.api-sports.io/football/teams/24757.png",
-        "goals": null
+        "goals": 2
       },
       "away": {
         "name": "Polokwane City",
         "logo": "https://media.api-sports.io/football/teams/2693.png",
-        "goals": null
+        "goals": 1
       }
     },
     {
       "id": 1600381,
       "kickoff": "2026-11-24T17:30:00+00:00",
-      "status": "NS",
-      "elapsed": null,
+      "status": "2H",
+      "elapsed": 79,
       "league": {
         "id": 288,
         "name": "Premier Soccer League",
@@ -2326,19 +2326,19 @@
       "home": {
         "name": "Orlando Pirates",
         "logo": "https://media.api-sports.io/football/teams/2700.png",
-        "goals": null
+        "goals": 0
       },
       "away": {
         "name": "Golden Arrows",
         "logo": "https://media.api-sports.io/football/teams/2690.png",
-        "goals": null
+        "goals": 0
       }
     },
     {
       "id": 1635641,
       "kickoff": "2026-11-24T17:45:00+00:00",
-      "status": "NS",
-      "elapsed": null,
+      "status": "2H",
+      "elapsed": 65,
       "league": {
         "id": 2,
         "name": "UEFA Champions League",
@@ -2347,19 +2347,19 @@
       "home": {
         "name": "Bodo/Glimt",
         "logo": "https://media.api-sports.io/football/teams/327.png",
-        "goals": null
+        "goals": 0
       },
       "away": {
         "name": "Lask Linz",
         "logo": "https://media.api-sports.io/football/teams/1026.png",
-        "goals": null
+        "goals": 0
       }
     },
     {
       "id": 1635667,
       "kickoff": "2026-11-24T17:45:00+00:00",
-      "status": "NS",
-      "elapsed": null,
+      "status": "2H",
+      "elapsed": 65,
       "league": {
         "id": 2,
         "name": "UEFA Champions League",
@@ -2368,19 +2368,19 @@
       "home": {
         "name": "Galatasaray",
         "logo": "https://media.api-sports.io/football/teams/645.png",
-        "goals": null
+        "goals": 0
       },
       "away": {
         "name": "Aston Villa",
         "logo": "https://media.api-sports.io/football/teams/66.png",
-        "goals": null
+        "goals": 0
       }
     },
     {
       "id": 1601617,
       "kickoff": "2026-11-24T18:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
+      "status": "HT",
+      "elapsed": 45,
       "league": {
         "id": 136,
         "name": "Serie B",
@@ -2389,19 +2389,19 @@
       "home": {
         "name": "Juve Stabia",
         "logo": "https://media.api-sports.io/football/teams/863.png",
-        "goals": null
+        "goals": 0
       },
       "away": {
         "name": "Catanzaro",
         "logo": "https://media.api-sports.io/football/teams/1687.png",
-        "goals": null
+        "goals": 2
       }
     },
     {
       "id": 1612283,
       "kickoff": "2026-11-24T18:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
+      "status": "2H",
+      "elapsed": 46,
       "league": {
         "id": 233,
         "name": "Premier League",
@@ -2410,19 +2410,19 @@
       "home": {
         "name": "AL Masry",
         "logo": "https://media.api-sports.io/football/teams/1031.png",
-        "goals": null
+        "goals": 1
       },
       "away": {
         "name": "Asyut Petrol",
         "logo": "https://media.api-sports.io/football/teams/18021.png",
-        "goals": null
+        "goals": 0
       }
     },
     {
       "id": 1612285,
       "kickoff": "2026-11-24T18:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
+      "status": "HT",
+      "elapsed": 45,
       "league": {
         "id": 233,
         "name": "Premier League",
@@ -2431,19 +2431,19 @@
       "home": {
         "name": "El Mokawloon",
         "logo": "https://media.api-sports.io/football/teams/1575.png",
-        "goals": null
+        "goals": 0
       },
       "away": {
         "name": "Olympic El Qanah",
         "logo": "https://media.api-sports.io/football/teams/13822.png",
-        "goals": null
+        "goals": 1
       }
     },
     {
       "id": 1629988,
       "kickoff": "2026-11-24T18:15:00+00:00",
-      "status": "NS",
-      "elapsed": null,
+      "status": "HT",
+      "elapsed": 45,
       "league": {
         "id": 17,
         "name": "AFC Champions League Elite",
@@ -2452,19 +2452,19 @@
       "home": {
         "name": "Al-Nassr",
         "logo": "https://media.api-sports.io/football/teams/2939.png",
-        "goals": null
+        "goals": 1
       },
       "away": {
         "name": "Al Sadd",
         "logo": "https://media.api-sports.io/football/teams/2895.png",
-        "goals": null
+        "goals": 1
       }
     },
     {
       "id": 1588819,
       "kickoff": "2026-11-24T19:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
+      "status": "1H",
+      "elapsed": 7,
       "league": {
         "id": 46,
         "name": "EFL Trophy",
@@ -2473,19 +2473,19 @@
       "home": {
         "name": "Salford City",
         "logo": "https://media.api-sports.io/football/teams/1844.png",
-        "goals": null
+        "goals": 1
       },
       "away": {
         "name": "Sunderland U21",
         "logo": "https://media.api-sports.io/football/teams/11915.png",
-        "goals": null
+        "goals": 0
       }
     },
     {
       "id": 1588839,
       "kickoff": "2026-11-24T19:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
+      "status": "1H",
+      "elapsed": 7,
       "league": {
         "id": 46,
         "name": "EFL Trophy",
@@ -2494,18 +2494,18 @@
       "home": {
         "name": "Tranmere",
         "logo": "https://media.api-sports.io/football/teams/1381.png",
-        "goals": null
+        "goals": 0
       },
       "away": {
         "name": "Everton U21",
         "logo": "https://media.api-sports.io/football/teams/7193.png",
-        "goals": null
+        "goals": 0
       }
     },
     {
       "id": 1588855,
       "kickoff": "2026-11-24T19:00:00+00:00",
-      "status": "PST",
+      "status": "NS",
       "elapsed": null,
       "league": {
         "id": 46,
@@ -2526,8 +2526,8 @@
     {
       "id": 1588868,
       "kickoff": "2026-11-24T19:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
+      "status": "1H",
+      "elapsed": 8,
       "league": {
         "id": 46,
         "name": "EFL Trophy",
@@ -2536,19 +2536,19 @@
       "home": {
         "name": "Oxford United",
         "logo": "https://media.api-sports.io/football/teams/1338.png",
-        "goals": null
+        "goals": 0
       },
       "away": {
         "name": "Tottenham Hotspur U21",
         "logo": "https://media.api-sports.io/football/teams/7202.png",
-        "goals": null
+        "goals": 0
       }
     },
     {
       "id": 1601613,
       "kickoff": "2026-11-24T19:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
+      "status": "1H",
+      "elapsed": 4,
       "league": {
         "id": 136,
         "name": "Serie B",
@@ -2557,19 +2557,19 @@
       "home": {
         "name": "Benevento",
         "logo": "https://media.api-sports.io/football/teams/506.png",
-        "goals": null
+        "goals": 1
       },
       "away": {
         "name": "Empoli",
         "logo": "https://media.api-sports.io/football/teams/511.png",
-        "goals": null
+        "goals": 0
       }
     },
     {
       "id": 1601614,
       "kickoff": "2026-11-24T19:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
+      "status": "1H",
+      "elapsed": 6,
       "league": {
         "id": 136,
         "name": "Serie B",
@@ -2578,19 +2578,19 @@
       "home": {
         "name": "Cesena",
         "logo": "https://media.api-sports.io/football/teams/509.png",
-        "goals": null
+        "goals": 0
       },
       "away": {
         "name": "Ascoli",
         "logo": "https://media.api-sports.io/football/teams/507.png",
-        "goals": null
+        "goals": 0
       }
     },
     {
       "id": 1601616,
       "kickoff": "2026-11-24T19:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
+      "status": "1H",
+      "elapsed": 6,
       "league": {
         "id": 136,
         "name": "Serie B",
@@ -2599,19 +2599,19 @@
       "home": {
         "name": "Virtus Entella",
         "logo": "https://media.api-sports.io/football/teams/527.png",
-        "goals": null
+        "goals": 0
       },
       "away": {
         "name": "Hellas Verona",
         "logo": "https://media.api-sports.io/football/teams/504.png",
-        "goals": null
+        "goals": 0
       }
     },
     {
       "id": 1601618,
       "kickoff": "2026-11-24T19:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
+      "status": "1H",
+      "elapsed": 6,
       "league": {
         "id": 136,
         "name": "Serie B",
@@ -2620,19 +2620,19 @@
       "home": {
         "name": "Vicenza Virtus",
         "logo": "https://media.api-sports.io/football/teams/1584.png",
-        "goals": null
+        "goals": 0
       },
       "away": {
         "name": "Carrarese",
         "logo": "https://media.api-sports.io/football/teams/1581.png",
-        "goals": null
+        "goals": 0
       }
     },
     {
       "id": 1601621,
       "kickoff": "2026-11-24T19:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
+      "status": "1H",
+      "elapsed": 5,
       "league": {
         "id": 136,
         "name": "Serie B",
@@ -2641,12 +2641,12 @@
       "home": {
         "name": "Palermo",
         "logo": "https://media.api-sports.io/football/teams/522.png",
-        "goals": null
+        "goals": 0
       },
       "away": {
         "name": "Sudtirol",
         "logo": "https://media.api-sports.io/football/teams/1578.png",
-        "goals": null
+        "goals": 0
       }
     },
     {
@@ -2673,8 +2673,8 @@
     {
       "id": 1627132,
       "kickoff": "2026-11-24T19:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
+      "status": "1H",
+      "elapsed": 6,
       "league": {
         "id": 871,
         "name": "Premier League Cup",
@@ -2683,19 +2683,19 @@
       "home": {
         "name": "Huddersfield Town U21",
         "logo": "https://media.api-sports.io/football/teams/20017.png",
-        "goals": null
+        "goals": 0
       },
       "away": {
         "name": "Swansea City U21",
         "logo": "https://media.api-sports.io/football/teams/11912.png",
-        "goals": null
+        "goals": 0
       }
     },
     {
       "id": 1627133,
       "kickoff": "2026-11-24T19:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
+      "status": "1H",
+      "elapsed": 7,
       "league": {
         "id": 871,
         "name": "Premier League Cup",
@@ -2704,19 +2704,19 @@
       "home": {
         "name": "Ipswich Town U21",
         "logo": "https://media.api-sports.io/football/teams/20094.png",
-        "goals": null
+        "goals": 0
       },
       "away": {
         "name": "Bromley U21",
         "logo": "https://media.api-sports.io/football/teams/24846.png",
-        "goals": null
+        "goals": 0
       }
     },
     {
       "id": 1627134,
       "kickoff": "2026-11-24T19:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
+      "status": "1H",
+      "elapsed": 6,
       "league": {
         "id": 871,
         "name": "Premier League Cup",
@@ -2725,19 +2725,19 @@
       "home": {
         "name": "Queens Park Rangers U21",
         "logo": "https://media.api-sports.io/football/teams/20085.png",
-        "goals": null
+        "goals": 0
       },
       "away": {
         "name": "Southampton U21",
         "logo": "https://media.api-sports.io/football/teams/7201.png",
-        "goals": null
+        "goals": 0
       }
     },
     {
       "id": 1627135,
       "kickoff": "2026-11-24T19:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
+      "status": "1H",
+      "elapsed": 7,
       "league": {
         "id": 871,
         "name": "Premier League Cup",
@@ -2746,12 +2746,12 @@
       "home": {
         "name": "Sheffield United U21",
         "logo": "https://media.api-sports.io/football/teams/20086.png",
-        "goals": null
+        "goals": 0
       },
       "away": {
         "name": "Millwall U21",
         "logo": "https://media.api-sports.io/football/teams/20095.png",
-        "goals": null
+        "goals": 0
       }
     },
     {
