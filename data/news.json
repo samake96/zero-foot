@@ -1,9 +1,75 @@
 {
-  "updated_at": "2026-11-24T13:52:32.705977+00:00",
+  "updated_at": "2026-11-24T14:59:23.888732+00:00",
   "items": [
     {
-      "id": "e0bb583527e9b5c9",
-      "title": "CAN 2025: suivez en direct la décision du TAS sur la finale entre le Maroc et le Sénégal",
+      "id": "a1ddec8d794a2764",
+      "title": "Senegal reinstated as Afcon 2025 winners by court ruling",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crn80y2l1404o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-24T14:53:10+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "4416092a7ca7b7e9",
+      "title": "La CAN 2025 attribuée définitivement au Sénégal par le Tribunal arbitral du sport",
+      "url": "https://www.rfi.fr/fr/afrique-foot/20261124-la-can-2025-attribu%C3%A9e-d%C3%A9finitivement-au-s%C3%A9n%C3%A9gal-par-le-tribunal-arbitral-du-sport",
+      "source": "RFI Afrique Foot",
+      "published_at": "2026-11-24T14:27:25+00:00",
+      "category": "clubs",
+      "language": "fr",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "f495f4a51e87b836",
+      "title": "🔴 Finale de la CAN 2025 : le Sénégal déclaré vainqueur par le TAS",
+      "url": "https://www.france24.com/fr/sports/20261124-finale-can-2025-maroc-senegal-tas-decision",
+      "source": "France 24",
+      "published_at": "2026-11-24T14:24:36+00:00",
+      "category": "clubs",
+      "language": "fr",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "65e3dbb29b6531c1",
+      "title": "Millwall face partial stadium closure after discriminatory chants",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6wy474lxd22o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-24T14:23:49+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "45e0055a4ad835cd",
+      "title": "Senegal restored as Africa Cup of Nations champions after court ruling",
+      "url": "https://www.theguardian.com/football/2026/nov/24/afcon-verdict-senegal-morocco-africa-cup-of-nations-champions-court-ruling-cas",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-24T14:22:36+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "e52ac38771ff7b92",
+      "title": "Finale de la CAN 2025 : le TAS rend son titre au Sénégal au détriment du Maroc",
+      "url": "https://www.france24.com/fr/sports/20261124-finale-can-2025-maroc-senegal-tas-decision",
+      "source": "France 24",
+      "published_at": "2026-11-24T14:20:33+00:00",
+      "category": "clubs",
+      "language": "fr",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "d81f059552d1fafc",
+      "title": "DIRECT- Le TAS déclare le Sénégal vainqueur de la CAN 2025",
       "url": "https://www.rfi.fr/fr/afrique-foot/20261124-can-2025-suivez-en-direct-la-d%C3%A9cision-du-tas-sur-la-finale-entre-le-maroc-et-le-s%C3%A9n%C3%A9gal",
       "source": "RFI Afrique Foot",
       "published_at": "2026-11-24T13:09:52+00:00",
@@ -37,8 +103,8 @@
       "priority": 8
     },
     {
-      "id": "f7c410f6fe909f38",
-      "title": "Palace docked points for using four sub windows in win",
+      "id": "8fcbeb0468bab4f5",
+      "title": "Palace docked points for using four sub windows in WSL win",
       "url": "https://www.bbc.co.uk/sport/football/articles/c8wy5vy160kpo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
       "published_at": "2026-11-24T12:14:19+00:00",
@@ -83,17 +149,6 @@
       "priority": 12
     },
     {
-      "id": "02fe994152264e99",
-      "title": "CAN 2025 : avant le verdict du TAS, le Maroc sème déjà le doute en signalant un \"incident\"",
-      "url": "https://www.france24.com/fr/sports/20261124-can-2025-verdict-tas-maroc-incident",
-      "source": "France 24",
-      "published_at": "2026-11-24T11:23:53+00:00",
-      "category": "clubs",
-      "language": "fr",
-      "topics": [],
-      "priority": 0
-    },
-    {
       "id": "f40a3459005f6581",
       "title": "Barnet footballer Isiah Noel-Williams charged with three counts of rape",
       "url": "https://www.theguardian.com/uk-news/2026/nov/24/isiah-noel-williams-barnet-footballer-charged-with-rape",
@@ -116,17 +171,6 @@
         "Sélections"
       ],
       "priority": 12
-    },
-    {
-      "id": "5df2f9b060f18424",
-      "title": "Four Midlands teams in the Championship top five - can it last?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c32l5d5py5k5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-24T10:27:17+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
     },
     {
       "id": "daceb9e41676b835",
@@ -226,17 +270,6 @@
       "priority": 12
     },
     {
-      "id": "d2e76252169be283",
-      "title": "CAN 2025 : le TAS rendra sa décision sur la finale ce mardi 24 novembre",
-      "url": "https://www.france24.com/fr/%C3%A9missions/sports/20261124-can-2025-le-tas-rendra-sa-d%C3%A9cision-sur-la-finale-ce-mardi-24-novembre",
-      "source": "France 24",
-      "published_at": "2026-11-24T07:23:20+00:00",
-      "category": "clubs",
-      "language": "fr",
-      "topics": [],
-      "priority": 0
-    },
-    {
       "id": "b8d04225d4010411",
       "title": "Why has De Bruyne struggled at Napoli as he returns to Man City?",
       "url": "https://www.bbc.co.uk/sport/football/articles/cqglreexkk06o?at_medium=RSS&at_campaign=rss",
@@ -309,17 +342,6 @@
       "priority": 12
     },
     {
-      "id": "64dda11bc4111afa",
-      "title": "Lewis-Potter double and Janelt stunner ease Brentford past 10-man Everton",
-      "url": "https://www.theguardian.com/football/2026/nov/23/brentford-everton-premier-league-match-report",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-23T22:09:41+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
       "id": "d754a5407a05dfc7",
       "title": "Arsenal and PSG keen on Nusa - Tuesday's gossip",
       "url": "https://www.bbc.co.uk/sport/football/articles/cm8x0grpder5o?at_medium=RSS&at_campaign=rss",
@@ -359,17 +381,6 @@
         "Sélections"
       ],
       "priority": 12
-    },
-    {
-      "id": "a6d5d59968272f17",
-      "title": "Morocco and Senegal await Afcon final verdict after court case",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckjw5jj2l26lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-23T11:56:41+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
     },
     {
       "id": "f0865ed90b165a87",
@@ -472,15 +483,15 @@
   ],
   "source_errors": [],
   "search_trends_fr": [
-    "philippe diallo",
-    "vierge de porto vecchio",
-    "abattement fiscal retraités",
-    "mayotte",
-    "équipe cycliste decathlon cma cgm",
-    "adriana karembeu",
-    "présomption",
-    "royaume-uni",
-    "joy hallyday",
-    "mimi marchand"
+    "edouard philippe",
+    "neuf départements sont placés en vigilance jaune ce mercredi face aux pluies verglaçantes",
+    "conférence ouest de la nba",
+    "hélicoptère",
+    "can 2026",
+    "cocaïne",
+    "naruto",
+    "console ps5 pro",
+    "françois baroin",
+    "philippe diallo"
   ]
 }
