@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T01:23:32.019587+00:00",
+  "updated_at": "2026-11-24T04:10:26.183885+00:00",
   "items": [
     {
       "id": "e80e15f10016117b",
@@ -132,7 +132,8 @@
         "Ligue 1",
         "Ligue des champions"
       ],
-      "priority": 12
+      "search_trend_fr": "ligue des champions",
+      "priority": 36
     },
     {
       "id": "c3d037a8f557bf57",
@@ -453,15 +454,15 @@
   ],
   "source_errors": [],
   "search_trends_fr": [
-    "pleine lune castor",
-    "santos – grêmio",
-    "saint-nazaire",
-    "disney",
-    "76ers – trail blazers",
-    "fc nantes grenoble",
-    "pouzol",
-    "téléfilm disparition inquiétante",
-    "saint-nicolas-d'aliermont",
-    "catherine clément"
+    "yael braun pivet",
+    "oise",
+    "raptors – bucks",
+    "lakers – jazz",
+    "kings – spurs",
+    "ligue des champions",
+    "pacers – thunder",
+    "timberwolves – nets",
+    "afghanistan",
+    "hornets – grizzlies"
   ]
 }
