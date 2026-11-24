@@ -1,12 +1,23 @@
 {
-  "updated_at": "2026-11-24T20:25:21.384194+00:00",
+  "updated_at": "2026-11-24T21:29:37.587297+00:00",
   "items": [
+    {
+      "id": "616f5da447af84f0",
+      "title": "Pochettino leads Man Utd fury at Yoro red card ruling",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqzr5ylmeerlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-24T21:27:13+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
     {
       "id": "be11aa4ab79d322b",
       "title": "Manchester City v Napoli, Real Madrid v PSV: Champions League clockwatch – live",
       "url": "https://www.theguardian.com/football/live/2026/nov/24/manchester-city-v-napoli-real-madrid-v-psv-champions-league-clockwatch-live",
       "source": "The Guardian Football",
-      "published_at": "2026-11-24T20:15:22+00:00",
+      "published_at": "2026-11-24T21:14:42+00:00",
       "category": "competitions",
       "language": "en",
       "topics": [
@@ -22,12 +33,47 @@
       "title": "Arsenal v Borussia Dortmund: Champions League – live",
       "url": "https://www.theguardian.com/football/live/2026/nov/24/arsenal-v-borussia-dortmund-champions-league-live",
       "source": "The Guardian Football",
-      "published_at": "2026-11-24T20:14:14+00:00",
+      "published_at": "2026-11-24T21:14:26+00:00",
       "category": "competitions",
       "language": "en",
       "topics": [
         "Premier League",
         "Bundesliga",
+        "Ligue des champions"
+      ],
+      "priority": 12
+    },
+    {
+      "id": "af0a3d8f565fa26f",
+      "title": "CAN 2025: le Sénégal en joie après sa victoire réattribuée par le TAS, le Maroc fataliste",
+      "url": "https://www.rfi.fr/fr/afrique-foot/20261124-can-2025-le-s%C3%A9n%C3%A9gal-en-joie-apr%C3%A8s-sa-victoire-r%C3%A9attribu%C3%A9e-par-le-tas-le-maroc-fataliste",
+      "source": "RFI Afrique Foot",
+      "published_at": "2026-11-24T21:09:23+00:00",
+      "category": "clubs",
+      "language": "fr",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "b18da05b65caf536",
+      "title": "Man Utd target Collins - Wednesday's gossip",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm15en5je9eko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-24T20:51:44+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "e5e4f82230934216",
+      "title": "Gul swoops late for buoyant Galatasaray to condemn Aston Villa to Champions League loss",
+      "url": "https://www.theguardian.com/football/2026/nov/24/galatasaray-aston-villa-champions-league-match-report",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-24T20:03:50+00:00",
+      "category": "competitions",
+      "language": "en",
+      "topics": [
         "Ligue des champions"
       ],
       "priority": 12
@@ -182,19 +228,8 @@
       "priority": 0
     },
     {
-      "id": "e52ac38771ff7b92",
-      "title": "Finale de la CAN 2025 : le TAS rend son titre au Sénégal au détriment du Maroc",
-      "url": "https://www.france24.com/fr/sports/20261124-finale-can-2025-maroc-senegal-tas-decision",
-      "source": "France 24",
-      "published_at": "2026-11-24T14:20:33+00:00",
-      "category": "clubs",
-      "language": "fr",
-      "topics": [],
-      "priority": 0
-    },
-    {
-      "id": "7ec10c5f68fbbf32",
-      "title": "DIRECT- CAN 2025: la CAF «respecte la sentence du TAS et prendra toutes les mesures nécessaires»",
+      "id": "365110db02f68689",
+      "title": "CAN 2025: revivez notre direct sur la décision du TAS qui confirme la victoire du Sénégal sur le Maroc",
       "url": "https://www.rfi.fr/fr/afrique-foot/20261124-can-2025-suivez-en-direct-la-d%C3%A9cision-du-tas-sur-la-finale-entre-le-maroc-et-le-s%C3%A9n%C3%A9gal",
       "source": "RFI Afrique Foot",
       "published_at": "2026-11-24T13:09:52+00:00",
@@ -276,17 +311,6 @@
       "priority": 12
     },
     {
-      "id": "daceb9e41676b835",
-      "title": "Philippe Diallo learns harsh reality of mounting global challenge to Infantino",
-      "url": "https://www.theguardian.com/football/2026/nov/24/philippe-diallo-gianni-infantino-fifa-president-confederation-african-football",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-24T10:07:44+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
       "id": "d90a4a4fce34b7a8",
       "title": "Dead hippo to be honoured on football club tifo",
       "url": "https://www.bbc.co.uk/sport/football/articles/c6n90jrvxrzpo?at_medium=RSS&at_campaign=rss",
@@ -311,33 +335,11 @@
       "priority": 12
     },
     {
-      "id": "48e817aea1d1eed0",
-      "title": "Barnet forward Noel-Williams charged with rape",
-      "url": "https://www.bbc.co.uk/news/articles/c8dx1v361vw7o?at_medium=RSS&at_campaign=rss",
+      "id": "39b9d978bac9a5f1",
+      "title": "Andrews praises 'versatile' Lewis-Potter",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c6z0kdgz39p3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
-      "published_at": "2026-11-24T08:50:17+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
-      "id": "95b154c2aa81a8ab",
-      "title": "Two goals in 15 games - what's going on with Gyokeres?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cklylr15gr2do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-24T06:45:27+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
-      "id": "954d107825e83a4b",
-      "title": "115 days, 39 private-jet flights, one election - Infantino's globetrotting",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmkgk22w3vlvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-24T06:16:53+00:00",
+      "published_at": "2026-11-23T22:59:14+00:00",
       "category": "clubs",
       "language": "en",
       "topics": [],
@@ -467,15 +469,15 @@
   ],
   "source_errors": [],
   "search_trends_fr": [
-    "chemsex qui est l acteur connu",
-    "etienne carbonnier",
-    "manuel bompard",
-    "resultat keno",
-    "justice gta 6",
-    "clima para amanhã",
-    "bmw ix5",
-    "keno",
-    "giorgia meloni",
-    "vremea de mâine"
+    "jude bellingham",
+    "edgar grospiron",
+    "delphine ernotte",
+    "alex hugo ce soir",
+    "statistiques de rb leipzig – racing club de lens",
+    "nominations star academy",
+    "dortmund",
+    "champion league",
+    "como",
+    "ligue des champions de l'uefa 2026"
   ]
 }
