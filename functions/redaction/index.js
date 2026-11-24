@@ -16,7 +16,10 @@ async function permissions(request, env) {
   const includes = value => String(value || '').split(',').some(email => email.trim().toLowerCase() === user.email);
   const write = includes(env.EDITORIAL_WRITERS);
   const review = includes(env.EDITORIAL_REVIEWERS);
-  return write || review ? {write, review, id:user.id} : null;
+  const soleEditor = write && review &&
+    String(env.EDITORIAL_WRITERS).trim().toLowerCase() === user.email &&
+    String(env.EDITORIAL_REVIEWERS).trim().toLowerCase() === user.email;
+  return write || review ? {write, review, soleEditor, id:user.id} : null;
 }
 
 const writeForm = `<form method="post" action="${route}">
@@ -36,7 +39,7 @@ export async function onRequestGet({request, env}) {
       FROM match_editorial_revisions WHERE state = 'pending' ORDER BY created_at, id LIMIT 50`).all();
     const items = results.map(row => {
       const content = JSON.parse(row.content);
-      const controls = role.review && role.id !== row.author ? `<form method="post" action="${route}">
+      const controls = role.review && (role.soleEditor || role.id !== row.author) ? `<form method="post" action="${route}">
         <input type="hidden" name="revision" value="${escape(row.id)}">
         <label>Note de relecture <input name="note" required maxlength="1000"></label>
         <button name="action" value="publish">Publier</button>
@@ -106,12 +109,12 @@ export async function onRequestPost({request, env}) {
       if (!revision || !note || note.length > 1000) return response('Ajoutez une note de relecture.', 400);
       const decision = db.prepare(`UPDATE match_editorial_revisions SET state = ?, reviewer = ?,
         decision_note = ?, reviewed_at = strftime('%Y-%m-%dT%H:%M:%fZ','now')
-        WHERE id = ? AND state = 'pending' AND author <> ?`)
-        .bind(action === 'publish' ? 'published' : 'rejected', role.id, note, revision, role.id);
+        WHERE id = ? AND state = 'pending' AND (author <> ? OR ? = 1)`)
+        .bind(action === 'publish' ? 'published' : 'rejected', role.id, note, revision, role.id, Number(role.soleEditor));
       const results = action === 'publish' ? await db.batch([
         db.prepare(`UPDATE match_editorial_revisions SET state = 'superseded'
           WHERE state = 'published' AND match_id = (SELECT match_id FROM match_editorial_revisions
-            WHERE id = ? AND state = 'pending' AND author <> ?)`).bind(revision, role.id),
+            WHERE id = ? AND state = 'pending' AND (author <> ? OR ? = 1))`).bind(revision, role.id, Number(role.soleEditor)),
         decision,
       ]) : [await decision.run()];
       if (!results.at(-1).meta.changes) return response('Cette révision ne peut plus être traitée par ce compte.', 409);
