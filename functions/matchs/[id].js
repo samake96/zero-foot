@@ -1,4 +1,4 @@
-import {matchSummary} from '../_lib/match-summary.js';
+import {matchSummary, recentComparison} from '../_lib/match-summary.js';
 import {matchCenterStyle} from '../_lib/match-center-style.js';
 import {matchHistory, resultList, teamLink, teamLogo} from '../_lib/match-center.js';
 import {historicalComparison} from '../_lib/openfootball.js';
@@ -79,10 +79,11 @@ export async function onRequestGet(context) {
         <div>${teamLogo(match.away)}<strong>${teamLink(match.away)}</strong></div>
       </div>
     </section>`;
-  const sections = [['resume', 'Résumé', matchSummary(match, history, status, published ?? editorials?.[id])]];
+  const sections = [['resume', 'Résumé', matchSummary(match, status, published ?? editorials?.[id])]];
   if (history.home.length || history.away.length) {
     sections.push(['forme', 'Forme', `<section id="forme" class="mc-section">
       <h2>Derniers résultats</h2>
+      ${recentComparison(match, history)}
       <div class="mc-form">${[[match.home.name, history.home], [match.away.name, history.away]]
         .filter(([, rows]) => rows.length)
         .map(([team, rows]) => `<div><h3>${escape(team)}</h3>${resultList(rows, team)}</div>`).join('')}</div></section>`]);
