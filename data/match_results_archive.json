@@ -1,8 +1,323 @@
 {
   "source": "API-Football",
-  "updated_at": "2026-11-24T10:18:06.470448+00:00",
-  "total": 2044,
+  "updated_at": "2026-11-24T13:24:50.638343+00:00",
+  "total": 2059,
   "matches": [
+    {
+      "id": 1602745,
+      "kickoff": "2026-11-24T11:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 297,
+        "name": "Thai League 2",
+        "country": "Thailand"
+      },
+      "home": {
+        "name": "Chanthaburi",
+        "logo": "https://media.api-sports.io/football/teams/6557.png",
+        "goals": 2
+      },
+      "away": {
+        "name": "Esan Pattaya",
+        "logo": "https://media.api-sports.io/football/teams/13309.png",
+        "goals": 0
+      }
+    },
+    {
+      "id": 1637383,
+      "kickoff": "2026-11-24T11:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 14,
+        "name": "UEFA Youth League",
+        "country": "World"
+      },
+      "home": {
+        "name": "Galatasaray U19",
+        "logo": "https://media.api-sports.io/football/teams/7900.png",
+        "goals": 3
+      },
+      "away": {
+        "name": "Aston Villa U19",
+        "logo": "https://media.api-sports.io/football/teams/24970.png",
+        "goals": 1
+      }
+    },
+    {
+      "id": 1644917,
+      "kickoff": "2026-11-24T11:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 424,
+        "name": "Ligue 1",
+        "country": "Congo-DR"
+      },
+      "home": {
+        "name": "Simba",
+        "logo": "https://media.api-sports.io/football/teams/8572.png",
+        "goals": 2
+      },
+      "away": {
+        "name": "Don Bosco",
+        "logo": "https://media.api-sports.io/football/teams/8571.png",
+        "goals": 1
+      }
+    },
+    {
+      "id": 1646634,
+      "kickoff": "2026-11-24T10:30:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 324,
+        "name": "I-League",
+        "country": "India"
+      },
+      "home": {
+        "name": "Samaleswari SC",
+        "logo": "https://media.api-sports.io/football/teams/28560.png",
+        "goals": 2
+      },
+      "away": {
+        "name": "Bengaluru United",
+        "logo": "https://media.api-sports.io/football/teams/15748.png",
+        "goals": 2
+      }
+    },
+    {
+      "id": 1605133,
+      "kickoff": "2026-11-24T10:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 343,
+        "name": "First League",
+        "country": "Armenia"
+      },
+      "home": {
+        "name": "Sardarapat 2",
+        "logo": "https://media.api-sports.io/football/teams/27992.png",
+        "goals": 5
+      },
+      "away": {
+        "name": "Ararat II",
+        "logo": "https://media.api-sports.io/football/teams/3688.png",
+        "goals": 0
+      }
+    },
+    {
+      "id": 1629982,
+      "kickoff": "2026-11-24T10:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 17,
+        "name": "AFC Champions League Elite",
+        "country": "World"
+      },
+      "home": {
+        "name": "Daejeon Citizen",
+        "logo": "https://media.api-sports.io/football/teams/2750.png",
+        "goals": 3
+      },
+      "away": {
+        "name": "Beijing Guoan",
+        "logo": "https://media.api-sports.io/football/teams/830.png",
+        "goals": 2
+      }
+    },
+    {
+      "id": 1629983,
+      "kickoff": "2026-11-24T10:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 17,
+        "name": "AFC Champions League Elite",
+        "country": "World"
+      },
+      "home": {
+        "name": "Kyoto Sanga",
+        "logo": "https://media.api-sports.io/football/teams/302.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "Pohang Steelers",
+        "logo": "https://media.api-sports.io/football/teams/2764.png",
+        "goals": 0
+      }
+    },
+    {
+      "id": 1637380,
+      "kickoff": "2026-11-24T10:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 14,
+        "name": "UEFA Youth League",
+        "country": "World"
+      },
+      "home": {
+        "name": "Bodø / Glimt U19",
+        "logo": "https://media.api-sports.io/football/teams/16553.png",
+        "goals": 2
+      },
+      "away": {
+        "name": "LASK U19",
+        "logo": "https://media.api-sports.io/football/teams/28370.png",
+        "goals": 6
+      }
+    },
+    {
+      "id": 1581945,
+      "kickoff": "2026-11-24T09:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 334,
+        "name": "Persha Liga",
+        "country": "Ukraine"
+      },
+      "home": {
+        "name": "Ahrobiznes Volochysk",
+        "logo": "https://media.api-sports.io/football/teams/3620.png",
+        "goals": 2
+      },
+      "away": {
+        "name": "Chernihiv",
+        "logo": "https://media.api-sports.io/football/teams/14433.png",
+        "goals": 1
+      }
+    },
+    {
+      "id": 1648376,
+      "kickoff": "2026-11-24T09:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 1250,
+        "name": "League Cup Indonesia",
+        "country": "Indonesia"
+      },
+      "home": {
+        "name": "Garudayaksa",
+        "logo": "https://media.api-sports.io/football/teams/26645.png",
+        "goals": 2
+      },
+      "away": {
+        "name": "PSS Sleman",
+        "logo": "https://media.api-sports.io/football/teams/3882.png",
+        "goals": 0
+      }
+    },
+    {
+      "id": 1648377,
+      "kickoff": "2026-11-24T09:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 1250,
+        "name": "League Cup Indonesia",
+        "country": "Indonesia"
+      },
+      "home": {
+        "name": "Persebaya Surabaya",
+        "logo": "https://media.api-sports.io/football/teams/2446.png",
+        "goals": 5
+      },
+      "away": {
+        "name": "PSBS Biak Numfor",
+        "logo": "https://media.api-sports.io/football/teams/4232.png",
+        "goals": 0
+      }
+    },
+    {
+      "id": 1648378,
+      "kickoff": "2026-11-24T09:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 1250,
+        "name": "League Cup Indonesia",
+        "country": "Indonesia"
+      },
+      "home": {
+        "name": "Persija",
+        "logo": "https://media.api-sports.io/football/teams/10134.png",
+        "goals": 7
+      },
+      "away": {
+        "name": "Sumsel United",
+        "logo": "https://media.api-sports.io/football/teams/26647.png",
+        "goals": 0
+      }
+    },
+    {
+      "id": 1640233,
+      "kickoff": "2026-11-24T08:30:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 811,
+        "name": "Federation Cup",
+        "country": "Bangladesh"
+      },
+      "home": {
+        "name": "Abahani",
+        "logo": "https://media.api-sports.io/football/teams/5009.png",
+        "goals": 2
+      },
+      "away": {
+        "name": "Fakirerpool",
+        "logo": "https://media.api-sports.io/football/teams/25416.png",
+        "goals": 0
+      }
+    },
+    {
+      "id": 1640234,
+      "kickoff": "2026-11-24T08:30:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 811,
+        "name": "Federation Cup",
+        "country": "Bangladesh"
+      },
+      "home": {
+        "name": "Chattogram",
+        "logo": "https://media.api-sports.io/football/teams/28428.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "Brothers Union",
+        "logo": "https://media.api-sports.io/football/teams/5013.png",
+        "goals": 0
+      }
+    },
+    {
+      "id": 1644919,
+      "kickoff": "2026-11-24T08:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 424,
+        "name": "Ligue 1",
+        "country": "Congo-DR"
+      },
+      "home": {
+        "name": "CS Manika",
+        "logo": "https://media.api-sports.io/football/teams/26886.png",
+        "goals": 4
+      },
+      "away": {
+        "name": "Saint Eloi Lupopo",
+        "logo": "https://media.api-sports.io/football/teams/8578.png",
+        "goals": 2
+      }
+    },
     {
       "id": 1629981,
       "kickoff": "2026-11-24T07:45:00+00:00",
