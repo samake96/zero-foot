@@ -1,12 +1,12 @@
 {
   "source": "football-data.org",
-  "updated_at": "2026-11-23T19:18:57.784770+00:00",
+  "updated_at": "2026-11-24T07:40:07.236013+00:00",
   "leagues": [
     {
       "id": 39,
       "name": "Premier League",
       "season": 2026,
-      "updated_at": "2026-11-23T19:18:57.784770+00:00",
+      "updated_at": "2026-11-24T07:40:07.236013+00:00",
       "teams": [
         {
           "rank": 1,
@@ -80,6 +80,20 @@
         },
         {
           "rank": 6,
+          "name": "Brentford FC",
+          "logo": "https://crests.football-data.org/402.png",
+          "played": 11,
+          "win": 4,
+          "draw": 5,
+          "lose": 2,
+          "goals_for": 20,
+          "goals_against": 11,
+          "goal_diff": 9,
+          "points": 17,
+          "form": null
+        },
+        {
+          "rank": 7,
           "name": "Leeds United FC",
           "logo": "https://crests.football-data.org/341.png",
           "played": 11,
@@ -90,20 +104,6 @@
           "goals_against": 9,
           "goal_diff": 5,
           "points": 17,
-          "form": null
-        },
-        {
-          "rank": 7,
-          "name": "Everton FC",
-          "logo": "https://crests.football-data.org/62.png",
-          "played": 10,
-          "win": 4,
-          "draw": 4,
-          "lose": 2,
-          "goals_for": 12,
-          "goals_against": 10,
-          "goal_diff": 2,
-          "points": 16,
           "form": null
         },
         {
@@ -122,6 +122,20 @@
         },
         {
           "rank": 9,
+          "name": "Everton FC",
+          "logo": "https://crests.football-data.org/62.png",
+          "played": 11,
+          "win": 4,
+          "draw": 4,
+          "lose": 3,
+          "goals_for": 12,
+          "goals_against": 14,
+          "goal_diff": -2,
+          "points": 16,
+          "form": null
+        },
+        {
+          "rank": 10,
           "name": "Tottenham Hotspur FC",
           "logo": "https://crests.football-data.org/73.png",
           "played": 11,
@@ -132,20 +146,6 @@
           "goals_against": 11,
           "goal_diff": 1,
           "points": 15,
-          "form": null
-        },
-        {
-          "rank": 10,
-          "name": "Brentford FC",
-          "logo": "https://crests.football-data.org/402.png",
-          "played": 10,
-          "win": 3,
-          "draw": 5,
-          "lose": 2,
-          "goals_for": 16,
-          "goals_against": 11,
-          "goal_diff": 5,
-          "points": 14,
           "form": null
         },
         {
@@ -294,7 +294,7 @@
       "id": 140,
       "name": "La Liga",
       "season": 2026,
-      "updated_at": "2026-11-23T19:18:57.784770+00:00",
+      "updated_at": "2026-11-24T07:40:07.236013+00:00",
       "teams": [
         {
           "rank": 1,
@@ -494,6 +494,20 @@
         },
         {
           "rank": 15,
+          "name": "Levante UD",
+          "logo": "https://crests.football-data.org/88.png",
+          "played": 13,
+          "win": 2,
+          "draw": 6,
+          "lose": 5,
+          "goals_for": 17,
+          "goals_against": 22,
+          "goal_diff": -5,
+          "points": 12,
+          "form": null
+        },
+        {
+          "rank": 16,
           "name": "Rayo Vallecano de Madrid",
           "logo": "https://crests.football-data.org/87.png",
           "played": 12,
@@ -507,7 +521,7 @@
           "form": null
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Valencia CF",
           "logo": "https://crests.football-data.org/95.png",
           "played": 13,
@@ -521,7 +535,7 @@
           "form": null
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Getafe CF",
           "logo": "https://crests.football-data.org/82.png",
           "played": 13,
@@ -535,31 +549,17 @@
           "form": null
         },
         {
-          "rank": 18,
-          "name": "Levante UD",
-          "logo": "https://crests.football-data.org/88.png",
-          "played": 12,
-          "win": 2,
-          "draw": 5,
-          "lose": 5,
-          "goals_for": 16,
-          "goals_against": 21,
-          "goal_diff": -5,
-          "points": 11,
-          "form": null
-        },
-        {
           "rank": 19,
           "name": "Elche CF",
           "logo": "https://crests.football-data.org/285.png",
-          "played": 12,
+          "played": 13,
           "win": 2,
-          "draw": 4,
+          "draw": 5,
           "lose": 6,
-          "goals_for": 14,
-          "goals_against": 20,
+          "goals_for": 15,
+          "goals_against": 21,
           "goal_diff": -6,
-          "points": 10,
+          "points": 11,
           "form": null
         },
         {
@@ -582,7 +582,7 @@
       "id": 78,
       "name": "Bundesliga",
       "season": 2026,
-      "updated_at": "2026-11-23T19:18:57.784770+00:00",
+      "updated_at": "2026-11-24T07:40:07.236013+00:00",
       "teams": [
         {
           "rank": 1,
@@ -842,7 +842,7 @@
       "id": 135,
       "name": "Serie A",
       "season": 2026,
-      "updated_at": "2026-11-23T19:18:57.784770+00:00",
+      "updated_at": "2026-11-24T07:40:07.236013+00:00",
       "teams": [
         {
           "rank": 1,
@@ -1028,6 +1028,20 @@
         },
         {
           "rank": 14,
+          "name": "AC Monza",
+          "logo": "https://crests.football-data.org/5911.png",
+          "played": 12,
+          "win": 3,
+          "draw": 1,
+          "lose": 8,
+          "goals_for": 20,
+          "goals_against": 25,
+          "goal_diff": -5,
+          "points": 10,
+          "form": null
+        },
+        {
+          "rank": 15,
           "name": "US Lecce",
           "logo": "https://crests.football-data.org/5890.png",
           "played": 12,
@@ -1041,21 +1055,21 @@
           "form": null
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "ACF Fiorentina",
           "logo": "https://crests.football-data.org/99.png",
-          "played": 11,
+          "played": 12,
           "win": 2,
           "draw": 3,
-          "lose": 6,
+          "lose": 7,
           "goals_for": 17,
-          "goals_against": 25,
-          "goal_diff": -8,
+          "goals_against": 28,
+          "goal_diff": -11,
           "points": 9,
           "form": null
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Parma Calcio 1913",
           "logo": "https://crests.football-data.org/112.png",
           "played": 12,
@@ -1069,7 +1083,7 @@
           "form": null
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "US Sassuolo Calcio",
           "logo": "https://crests.football-data.org/471.png",
           "played": 12,
@@ -1080,20 +1094,6 @@
           "goals_against": 31,
           "goal_diff": -15,
           "points": 8,
-          "form": null
-        },
-        {
-          "rank": 18,
-          "name": "AC Monza",
-          "logo": "https://crests.football-data.org/5911.png",
-          "played": 11,
-          "win": 2,
-          "draw": 1,
-          "lose": 8,
-          "goals_for": 17,
-          "goals_against": 25,
-          "goal_diff": -8,
-          "points": 7,
           "form": null
         },
         {
@@ -1130,7 +1130,7 @@
       "id": 61,
       "name": "Ligue 1",
       "season": 2026,
-      "updated_at": "2026-11-23T19:18:57.784770+00:00",
+      "updated_at": "2026-11-24T07:40:07.236013+00:00",
       "teams": [
         {
           "rank": 1,
