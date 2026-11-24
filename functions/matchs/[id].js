@@ -17,6 +17,45 @@ async function publishedAnalysis(db, matchId) {
   }
 }
 
+
+const statLabels = {
+  'Ball Possession':'Possession', 'Total Shots':'Tirs', 'Shots on Goal':'Tirs cadrés',
+  'Shots off Goal':'Tirs non cadrés', 'Blocked Shots':'Tirs contrés', 'Shots insidebox':'Tirs dans la surface',
+  'Corner Kicks':'Corners', 'Total passes':'Passes', 'Passes accurate':'Passes réussies',
+  'Passes %':'Précision des passes', 'Fouls':'Fautes', 'Offsides':'Hors-jeu',
+  'Yellow Cards':'Cartons jaunes', 'Red Cards':'Cartons rouges', 'Goalkeeper Saves':'Arrêts',
+};
+function detailSections(detail, match) {
+  if (!detail) return [];
+  const sections = [];
+  const add = (id, title, body) => {
+    if (body) sections.push([id, title, '<section id="' + id + '" class="mc-section"><h2>' + title + '</h2>' + body + '</section>']);
+  };
+  const ordered = (rows, team) => rows?.find(row =>
+    row.team?.name === team.name || (team.logo && row.team?.logo === team.logo));
+  const stats = [match.home, match.away].map(team => new Map(
+    (ordered(detail.statistics, team)?.statistics || []).map(row => [row.type, row.value])));
+  const statRows = Object.entries(statLabels).filter(([key]) => stats.some(side => side.get(key) != null))
+    .map(([key, label]) => '<tr><th scope="row">' + label + '</th>' +
+      stats.map(side => '<td>' + escape(side.get(key) ?? '—') + '</td>').join('') + '</tr>').join('');
+  if (statRows) add('statistiques', 'Statistiques', '<div class="table-wrap"><table><thead><tr><th scope="col">Indicateur</th>' +
+    [match.home,match.away].map(team => '<th scope="col">' + escape(team.name) + '</th>').join('') +
+    '</tr></thead><tbody>' + statRows + '</tbody></table></div>');
+  const lineups = (detail.lineups || []).filter(row => row.startXI?.length).map(row =>
+    '<div><h3>' + escape(row.team?.name || 'Équipe') + '</h3>' +
+    (row.formation ? '<p>Formation : ' + escape(row.formation) + '</p>' : '') +
+    '<ol>' + row.startXI.map(({player}) => '<li>' + escape([player?.number, player?.name].filter(value => value != null).join(' ')) + '</li>').join('') + '</ol></div>').join('');
+  if (lineups) add('compositions', 'Compositions', '<div class="mc-form">' + lineups + '</div>');
+  const eventLabels = {Goal:'But', Card:'Carton', subst:'Remplacement', Var:'VAR'};
+  const timeline = (detail.events || []).filter(row => row.time?.elapsed != null && Object.hasOwn(eventLabels,row.type)).map(row => {
+    const minute = row.time.elapsed + (row.time.extra ? '+' + row.time.extra : '') + '′';
+    return '<li><strong>' + escape(minute) + '</strong> ' +
+      escape([eventLabels[row.type], row.team?.name, row.player?.name, row.assist?.name].filter(Boolean).join(' · ')) + '</li>';
+  }).join('');
+  if (timeline) add('chronologie', 'Chronologie', '<ol>' + timeline + '</ol>');
+  return sections;
+}
+
 const scoresLink = '<p><a href="/scores">Tous les scores</a></p>';
 
 export async function onRequestGet(context) {
@@ -64,11 +103,12 @@ export async function onRequestGet(context) {
   const standings = competition
     ? '<p><a href="/classements/' + competition.slug + '">Classement ' + escape(league) + '</a></p>'
     : '';
-  const [history, archive, editorials, published] = await Promise.all([
+  const [history, archive, editorials, published, details] = await Promise.all([
     matchHistory(context, match),
     historicalComparison(context, match),
     loadData(context, 'match-editorials').catch(() => null),
     publishedAnalysis(context.env.COMMUNITY_DB, id),
+    loadData(context, 'fixture-details').catch(() => null),
   ]);
   const upcoming = match.status === 'NS' || match.status === 'TBD';
   const scoreboard = `<section class="mc-section" aria-label="Tableau du match">
@@ -80,6 +120,7 @@ export async function onRequestGet(context) {
       </div>
     </section>`;
   const sections = [['resume', 'Résumé', matchSummary(match, status, published ?? editorials?.[id])]];
+  sections.push(...detailSections(details?.[id], match));
   if (history.home.length || history.away.length) {
     sections.push(['forme', 'Forme', `<section id="forme" class="mc-section">
       <h2>Derniers résultats</h2>
