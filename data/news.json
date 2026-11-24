@@ -1,6 +1,42 @@
 {
-  "updated_at": "2026-11-24T22:30:03.609316+00:00",
+  "updated_at": "2026-11-24T23:25:04.136538+00:00",
   "items": [
+    {
+      "id": "a791fde6c36cfb45",
+      "title": "'Pass, pass, slow, slow' - Man City's slick machine grinding to a halt",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj3vgdp2edpxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-24T23:17:42+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "304a7eb34cefd47a",
+      "title": "Championship roundup: Boro edge Swansea, West Ham lose at Portsmouth",
+      "url": "https://www.theguardian.com/football/2026/nov/24/championship-roundup-will-lankshear-middlesbrough-swansea-west-ham",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-24T22:44:08+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "755a3dd1f01bd37f",
+      "title": "Ligue des champions : le Real Madrid impérial, Lens perd mais sauve l'honneur",
+      "url": "https://www.france24.com/fr/sports/20261124-football-ligue-des-champions-real-madrid-fait-le-show-rc-lens-sauve-l-honneur",
+      "source": "France 24",
+      "published_at": "2026-11-24T22:29:40+00:00",
+      "category": "competitions",
+      "language": "fr",
+      "topics": [
+        "La Liga",
+        "Ligue des champions"
+      ],
+      "priority": 12
+    },
     {
       "id": "616f5da447af84f0",
       "title": "Pochettino leads Man Utd fury at Yoro red card ruling",
@@ -89,8 +125,8 @@
       "priority": 0
     },
     {
-      "id": "e5e4f82230934216",
-      "title": "Gul swoops late for buoyant Galatasaray to condemn Aston Villa to Champions League loss",
+      "id": "fd16e0a1bad8f5b6",
+      "title": "Gul takes pain for buoyant Galatasaray to condemn Aston Villa to Champions League loss",
       "url": "https://www.theguardian.com/football/2026/nov/24/galatasaray-aston-villa-champions-league-match-report",
       "source": "The Guardian Football",
       "published_at": "2026-11-24T20:03:50+00:00",
@@ -194,17 +230,6 @@
       "priority": 0
     },
     {
-      "id": "f495f4a51e87b836",
-      "title": "🔴 Finale de la CAN 2025 : le Sénégal déclaré vainqueur par le TAS",
-      "url": "https://www.france24.com/fr/sports/20261124-finale-can-2025-maroc-senegal-tas-decision",
-      "source": "France 24",
-      "published_at": "2026-11-24T14:24:36+00:00",
-      "category": "clubs",
-      "language": "fr",
-      "topics": [],
-      "priority": 0
-    },
-    {
       "id": "65e3dbb29b6531c1",
       "title": "Millwall face partial stadium closure after discriminatory chants",
       "url": "https://www.bbc.co.uk/sport/football/articles/c6wy474lxd22o?at_medium=RSS&at_campaign=rss",
@@ -260,28 +285,6 @@
       "language": "en",
       "topics": [],
       "priority": 8
-    },
-    {
-      "id": "8fcbeb0468bab4f5",
-      "title": "Palace docked points for using four sub windows in WSL win",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c8wy5vy160kpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-24T12:14:19+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
-      "id": "bd2413872ba7658e",
-      "title": "Crystal Palace docked three WSL points for extra substitution against Everton",
-      "url": "https://www.theguardian.com/football/2026/nov/24/crystal-palace-docked-three-points-wsl-extra-substitution-everton",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-24T11:40:14+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
     },
     {
       "id": "22b7024ffa266ac8",
@@ -481,15 +484,15 @@
   ],
   "source_errors": [],
   "search_trends_fr": [
-    "le tueur",
-    "miss universe 2026",
-    "nadal",
-    "classement manchester city – ssc napoli",
-    "udr",
-    "guerre",
-    "fc porto",
-    "real betis balompié",
-    "nkunku",
-    "yan diomandé"
+    "air france-klm",
+    "1993",
+    "vice city",
+    "victime",
+    "élèves nommés star academy",
+    "classificações de feyenoord x futebol clube do porto",
+    "losc lille",
+    "hanouna",
+    "senat abattement fiscal retraités",
+    "henri guaino"
   ]
 }
