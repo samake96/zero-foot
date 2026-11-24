@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-24T17:20:16.175319+00:00",
+  "updated_at": "2026-11-24T18:11:10.469747+00:00",
   "items": [
+    {
+      "id": "7ae813274fec4f90",
+      "title": "Klopp advice and Iraola confidence boosts Wirtz",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c69w91k0j9zeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-24T17:19:08+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
     {
       "id": "a1ddec8d794a2764",
       "title": "Senegal reinstated as Afcon 2025 winners by court ruling",
@@ -147,8 +158,8 @@
       "priority": 0
     },
     {
-      "id": "074f553fb82da48f",
-      "title": "DIRECT- Le Maroc va «engager toutes les procédures légales nécessaires» contre la décision du TAS",
+      "id": "7ec10c5f68fbbf32",
+      "title": "DIRECT- CAN 2025: la CAF respecte la sentence du TAS et prendra toutes les mesures nécessaires»",
       "url": "https://www.rfi.fr/fr/afrique-foot/20261124-can-2025-suivez-en-direct-la-d%C3%A9cision-du-tas-sur-la-finale-entre-le-maroc-et-le-s%C3%A9n%C3%A9gal",
       "source": "RFI Afrique Foot",
       "published_at": "2026-11-24T13:09:52+00:00",
@@ -261,19 +272,6 @@
       "language": "en",
       "topics": [],
       "priority": 0
-    },
-    {
-      "id": "596e71c1ab6ca2e9",
-      "title": "The youngest Premier League goalscorers this season",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cme39v4w7ykqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-24T09:10:34+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [
-        "Premier League"
-      ],
-      "priority": 12
     },
     {
       "id": "48e817aea1d1eed0",
@@ -459,15 +457,15 @@
   ],
   "source_errors": [],
   "search_trends_fr": [
-    "bally bagayoko",
-    "sabotage",
-    "stade de twickenham",
-    "david rachline",
-    "un million",
-    "galatasaray vs aston villa",
-    "christophe gleizes",
-    "17 octobre",
-    "voilier",
-    "justine braisaz-bouchet"
+    "iphone duo",
+    "alice rufo",
+    "polska",
+    "bodo glimt",
+    "débroussaillement",
+    "britney spears",
+    "starshield",
+    "enfant",
+    "jean louis borloo",
+    "éric ciotti"
   ]
 }
