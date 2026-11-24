@@ -1,18 +1,53 @@
 {
-  "updated_at": "2026-11-23T21:59:58.681726+00:00",
+  "updated_at": "2026-11-24T01:23:32.019587+00:00",
   "items": [
     {
-      "id": "ab844b3532174e69",
-      "title": "Brentford v Everton: Premier League – live",
-      "url": "https://www.theguardian.com/football/live/2026/nov/23/brentford-v-everton-premier-league-live",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-23T21:45:02+00:00",
+      "id": "e80e15f10016117b",
+      "title": "Who has made Troy's Premier League team of the week?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c34gn2p5d0zwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-23T23:26:35+00:00",
       "category": "clubs",
       "language": "en",
       "topics": [
         "Premier League"
       ],
       "priority": 12
+    },
+    {
+      "id": "dcde8a3e3312f944",
+      "title": "Tarkowski's first Premier League red ruins Moyes' night - was it deserved?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmqx5eynvpqno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-23T22:43:39+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [
+        "Premier League"
+      ],
+      "priority": 12
+    },
+    {
+      "id": "21dc208548d7d248",
+      "title": "Janelt scores stunner as Brentford beat 10-man Everton",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c5gm3jlw7l7xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-23T22:31:27+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "64dda11bc4111afa",
+      "title": "Lewis-Potter double and Janelt stunner ease Brentford past 10-man Everton",
+      "url": "https://www.theguardian.com/football/2026/nov/23/brentford-everton-premier-league-match-report",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-23T22:09:41+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
     },
     {
       "id": "d754a5407a05dfc7",
@@ -69,17 +104,6 @@
       "url": "https://www.bbc.co.uk/sport/football/articles/ck9d7qxxl7w8o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
       "published_at": "2026-11-23T16:30:59+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
-      "id": "976ec9a7c61012a4",
-      "title": "When is the Euro 2028 qualifying draw?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cklye3q3jvnwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-23T16:25:50+00:00",
       "category": "clubs",
       "language": "en",
       "topics": [],
@@ -318,17 +342,6 @@
       "priority": 0
     },
     {
-      "id": "44b2d9ea6efaf303",
-      "title": "'Our Super Bowl moment' - what can WSL learn from booming US league?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c893rk66e1l7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-23T07:52:55+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
       "id": "8de234d7af844607",
       "title": "One of football's most-hyped 16-year-olds - what next for JJ Gabriel?",
       "url": "https://www.bbc.co.uk/sport/football/articles/c6p9dym309nxo?at_medium=RSS&at_campaign=rss",
@@ -349,19 +362,6 @@
       "language": "en",
       "topics": [],
       "priority": 0
-    },
-    {
-      "id": "3cf7d4c2309a55bc",
-      "title": "Ngumoha stars as Liverpool thrash 10-man Man Utd",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c933g77knz00o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-22T19:59:35+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [
-        "Premier League"
-      ],
-      "priority": 12
     },
     {
       "id": "ca473ef0d1987b6a",
@@ -453,15 +453,15 @@
   ],
   "source_errors": [],
   "search_trends_fr": [
-    "sao paulo",
-    "rihanna",
-    "ici tout commence en avance",
-    "flash",
-    "nécrologie",
-    "bresil",
-    "maxime lelue",
-    "james bond daniel craig",
-    "la comtesse de monte-cristo",
-    "gemma arterton"
+    "pleine lune castor",
+    "santos – grêmio",
+    "saint-nazaire",
+    "disney",
+    "76ers – trail blazers",
+    "fc nantes grenoble",
+    "pouzol",
+    "téléfilm disparition inquiétante",
+    "saint-nicolas-d'aliermont",
+    "catherine clément"
   ]
 }
