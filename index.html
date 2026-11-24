@@ -138,9 +138,10 @@ button:focus-visible,a:focus-visible,input:focus-visible,select:focus-visible,su
 <li><a href="https://x.com/David_Ornstein" target="_blank" rel="noopener noreferrer">David Ornstein · The Athletic ↗</a></li>
 <li><a href="https://x.com/LaurensJulien" target="_blank" rel="noopener noreferrer">Julien Laurens · ESPN ↗</a></li>
 </ul></section><p class="notice" data-i="newsNotice">Les titres et liens appartiennent à leurs éditeurs respectifs. Les articles complets sont disponibles chez les éditeurs.</p></section></div><aside id="homeSidebar" aria-label="Analyses et actualités">
-<section class="section"><div class="sidebar-heading"><h2>Débrief du jour</h2></div><div class="panel"><a class="brief fc-feature" href="/actualites/liverpool-manchester-united-4-0-pochettino/"><img src="/images/liverpool-manchester-united-4-0.jpg" width="1200" height="800" alt="" loading="lazy"><span class="small">Premier League</span><strong>Liverpool 4–0 Manchester United</strong><span class="small">Le premier match de Pochettino a basculé en huit minutes.</span></a></div></section>
+<section class="section" id="homeToday" hidden><div class="sidebar-heading"><h2 id="homeTodayTitle"></h2></div><div class="panel" id="homeTodayFixtures"></div></section>
 <section class="section"><div class="sidebar-heading"><h2 data-i="sidebarPreviews">Avant-match</h2><button class="text-button" type="button" data-go="predictions" data-i="sidebarAll">Tout voir</button></div><div class="panel" id="homeForecasts"></div></section>
 <section class="section"><div class="sidebar-heading"><h2 data-i="sidebarNews">À la une</h2><a href="/actualites/" class="text-button" data-i="sidebarAll">Tout voir</a></div><div class="panel" id="homeNews"></div></section>
+<section class="section"><div class="sidebar-heading"><h2 data-i="sidebarArchive">À lire dans les archives</h2></div><div class="panel"><a class="brief fc-feature" href="/actualites/liverpool-manchester-united-4-0-pochettino/"><img src="/images/liverpool-manchester-united-4-0.jpg" width="1200" height="800" alt="" loading="lazy"><span class="small">Premier League</span><strong>Liverpool 4–0 Manchester United</strong><span class="small">Le premier match de Pochettino a basculé en huit minutes.</span></a></div></section>
 </aside></main>
 <div class="fc-ad"><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-7180571260643744" data-ad-slot="1991336459" data-ad-format="horizontal" data-full-width-responsive="false"></ins></div>
 <script>(window.adsbygoogle = window.adsbygoogle || []).push({});</script>
@@ -564,8 +565,21 @@ renderNews();
 function renderHomeSidebar() {
  if (page !== 'home') return;
  const french = lang==='fr';
+ document.querySelector('[data-i=sidebarArchive]').textContent=french?'À lire dans les archives':'From the archive';
  const empty = '<p class="small sidebar-empty">'+(dataLoaded?(french?'Rien de nouveau pour le moment.':'Nothing new right now.'):(french?'Chargement…':'Loading…'))+'</p>';
  const today = Date.now();
+ const todayFixtures = fixtures.filter(match=>match.id && localDay(match.at)===localDay(today));
+ const featured = todayFixtures.filter(match=>String(match.leagueId)==='2');
+ const highlights = (featured.length ? featured : todayFixtures).sort((a,b)=>
+  Number(groupStatus(b.status)==='LIVE')-Number(groupStatus(a.status)==='LIVE') ||
+  Date.parse(a.at)-Date.parse(b.at));
+ el('homeToday').hidden = !highlights.length;
+ el('homeTodayTitle').textContent = featured.length
+  ? (french?'Ligue des champions aujourd’hui':'Champions League today')
+  : (french?'Les matchs du jour':'Today’s matches');
+ el('homeTodayFixtures').innerHTML = highlights.slice(0,6).map(match=>
+  `<a class="brief" href="/matchs/${encodeURIComponent(match.id)}"><span class="small">${esc(timeLabel(match))}</span>
+  <strong>${esc(match.home)} – ${esc(match.away)}</strong></a>`).join('');
  const forecasts = forecastOpinions.filter(item=>Date.parse(item.kickoff)>today)
   .sort((a,b)=>Date.parse(a.kickoff)-Date.parse(b.kickoff)).slice(0,4);
  el('homeForecasts').innerHTML = forecasts.map(item=>
@@ -860,6 +874,18 @@ function rebuildFixtures() {
  fixtures=[...scores.values()];
 }
 setInterval(refreshScores, 30000);
+setInterval(async () => {
+ if (!dataLoaded || document.hidden) return;
+ try {
+  const news = await loadPageData('news');
+  if (news.updated_at === newsUpdated || !Array.isArray(news.items)) return;
+  liveNews = news.items.filter(item=>typeof item.url==='string' && item.url.startsWith('https://'));
+  newsUpdated = news.updated_at;
+  newsError = false;
+  renderHomeSidebar();
+  if (page === 'news') renderNews();
+ } catch {}
+}, 60000);
 document.addEventListener('visibilitychange', () => {
  if (dataLoaded && !document.hidden) refreshScores();
 });
