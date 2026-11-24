@@ -1,12 +1,12 @@
 {
   "source": "football-data.org",
-  "updated_at": "2026-11-24T07:40:07.236013+00:00",
+  "updated_at": "2026-11-24T19:17:45.518147+00:00",
   "leagues": [
     {
       "id": 39,
       "name": "Premier League",
       "season": 2026,
-      "updated_at": "2026-11-24T07:40:07.236013+00:00",
+      "updated_at": "2026-11-24T19:17:45.518147+00:00",
       "teams": [
         {
           "rank": 1,
@@ -294,7 +294,7 @@
       "id": 140,
       "name": "La Liga",
       "season": 2026,
-      "updated_at": "2026-11-24T07:40:07.236013+00:00",
+      "updated_at": "2026-11-24T19:17:45.518147+00:00",
       "teams": [
         {
           "rank": 1,
@@ -582,7 +582,7 @@
       "id": 78,
       "name": "Bundesliga",
       "season": 2026,
-      "updated_at": "2026-11-24T07:40:07.236013+00:00",
+      "updated_at": "2026-11-24T19:17:45.518147+00:00",
       "teams": [
         {
           "rank": 1,
@@ -842,7 +842,7 @@
       "id": 135,
       "name": "Serie A",
       "season": 2026,
-      "updated_at": "2026-11-24T07:40:07.236013+00:00",
+      "updated_at": "2026-11-24T19:17:45.518147+00:00",
       "teams": [
         {
           "rank": 1,
@@ -1130,7 +1130,7 @@
       "id": 61,
       "name": "Ligue 1",
       "season": 2026,
-      "updated_at": "2026-11-24T07:40:07.236013+00:00",
+      "updated_at": "2026-11-24T19:17:45.518147+00:00",
       "teams": [
         {
           "rank": 1,
@@ -1303,7 +1303,7 @@
         {
           "rank": 13,
           "name": "Le Mans FC",
-          "logo": "https://crests.football-data.org/535.png",
+          "logo": "https://upload.wikimedia.org/wikipedia/en/5/57/Le_Mans_FC_logo.svg",
           "played": 11,
           "win": 2,
           "draw": 5,
