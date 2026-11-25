@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-11-25T07:48:32.861107+00:00",
+  "updated_at": "2026-11-25T08:52:40.826682+00:00",
   "items": [
+    {
+      "id": "f8bdbdf7ecd24630",
+      "title": "The story of how Pelé and Maradona went from friends to bitter rivals",
+      "url": "https://www.theguardian.com/football/2026/nov/25/pele-diego-maradona-brazil-argentina-world-cup",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-25T08:00:10+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "fb2f61f6d2234283",
+      "title": "Has a footballer had a longer career hiatus than Ronaldinho’s 11 year-gap? | The Knowledge",
+      "url": "https://www.theguardian.com/football/2026/nov/25/has-a-footballer-had-a-longer-career-hiatus-than-ronaldinhos-11-year-gap",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-25T08:00:09+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
     {
       "id": "c7132bed10781723",
       "title": "How to unearth young stars, the Bayern Munich way",
@@ -210,19 +232,6 @@
       "priority": 12
     },
     {
-      "id": "365825080bc85e38",
-      "title": "Florian Wirtz hails Iraola and Klopp as he reaches new levels for Liverpool",
-      "url": "https://www.theguardian.com/football/2026/nov/24/florian-wirtz-hails-iraola-and-klopp-as-he-reaches-new-levels-for-liverpool",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-24T19:02:09+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [
-        "Premier League"
-      ],
-      "priority": 12
-    },
-    {
       "id": "a1ddec8d794a2764",
       "title": "Senegal reinstated as Afcon 2025 winners by court ruling",
       "url": "https://www.bbc.co.uk/sport/football/articles/crn80y2l1404o?at_medium=RSS&at_campaign=rss",
@@ -302,17 +311,6 @@
         "Ligue des champions"
       ],
       "priority": 12
-    },
-    {
-      "id": "bd2413872ba7658e",
-      "title": "Crystal Palace docked three WSL points for extra substitution against Everton",
-      "url": "https://www.theguardian.com/football/2026/nov/24/crystal-palace-docked-three-points-wsl-extra-substitution-everton",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-24T11:40:14+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
     },
     {
       "id": "22b7024ffa266ac8",
@@ -499,15 +497,15 @@
   ],
   "source_errors": [],
   "search_trends_fr": [
-    "valérie pécresse",
-    "anne fraïsse",
-    "emilie konig",
-    "greve 25 novembre 2026",
-    "poulet",
-    "aurore bergé",
-    "kilmar armando ábrego garcía",
-    "stray kids suiatsu",
-    "arabie saoudite",
-    "ariana grande"
+    "sandra bullock",
+    "graulhet",
+    "ambassadeur",
+    "boudjellal",
+    "artigat",
+    "rachida brakni",
+    "christian de rocquigny",
+    "pension de réversion",
+    "central intelligence agency",
+    "fabien claude"
   ]
 }
