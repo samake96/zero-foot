@@ -1,5 +1,5 @@
 {
-  "total_unmatched": 18,
+  "total_unmatched": 19,
   "potentially_resolved": 0,
   "diagnosis": [
     {
@@ -354,6 +354,24 @@
       },
       "away": {
         "fixture_name": "Atalanta",
+        "exact_normalized_matches": [],
+        "model_identity_matches": [],
+        "found_exact": false,
+        "found_by_model": false
+      }
+    },
+    {
+      "match_id": 1557491,
+      "competition": "PL",
+      "home": {
+        "fixture_name": "Coventry",
+        "exact_normalized_matches": [],
+        "model_identity_matches": [],
+        "found_exact": false,
+        "found_by_model": false
+      },
+      "away": {
+        "fixture_name": "Ipswich",
         "exact_normalized_matches": [],
         "model_identity_matches": [],
         "found_exact": false,

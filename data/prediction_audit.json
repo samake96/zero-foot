@@ -1,5 +1,5 @@
 {
-  "created_at": "2026-11-24T08:36:05.050435+00:00",
+  "created_at": "2026-11-25T08:41:07.988621+00:00",
   "historical_by_competition": {
     "PD": 508,
     "FL1": 404,
@@ -8,78 +8,15 @@
     "SA": 499
   },
   "invalid_historical_rows": 0,
-  "fixture_count": 67,
+  "fixture_count": 68,
   "predictions_count": 30,
-  "excluded_count": 37,
+  "excluded_count": 38,
   "exclusion_reasons": {
-    "unsupported_competition": 18,
-    "unmatched_team": 18,
-    "outside_next_7_days": 1
+    "unsupported_competition": 9,
+    "unmatched_team": 19,
+    "outside_next_7_days": 10
   },
   "exclusions": [
-    {
-      "match_id": 1635641,
-      "reason": "unsupported_competition",
-      "league_id": 2,
-      "home": "Bodo/Glimt",
-      "away": "Lask Linz"
-    },
-    {
-      "match_id": 1635667,
-      "reason": "unsupported_competition",
-      "league_id": 2,
-      "home": "Galatasaray",
-      "away": "Aston Villa"
-    },
-    {
-      "match_id": 1635611,
-      "reason": "unsupported_competition",
-      "league_id": 2,
-      "home": "Arsenal",
-      "away": "Borussia Dortmund"
-    },
-    {
-      "match_id": 1635649,
-      "reason": "unsupported_competition",
-      "league_id": 2,
-      "home": "Como",
-      "away": "AEK Athens FC"
-    },
-    {
-      "match_id": 1635663,
-      "reason": "unsupported_competition",
-      "league_id": 2,
-      "home": "Feyenoord",
-      "away": "FC Porto"
-    },
-    {
-      "match_id": 1635692,
-      "reason": "unsupported_competition",
-      "league_id": 2,
-      "home": "Manchester City",
-      "away": "Napoli"
-    },
-    {
-      "match_id": 1635713,
-      "reason": "unsupported_competition",
-      "league_id": 2,
-      "home": "RB Leipzig",
-      "away": "Lens"
-    },
-    {
-      "match_id": 1635715,
-      "reason": "unsupported_competition",
-      "league_id": 2,
-      "home": "Real Madrid",
-      "away": "PSV Eindhoven"
-    },
-    {
-      "match_id": 1635731,
-      "reason": "unsupported_competition",
-      "league_id": 2,
-      "home": "Slovan Bratislava",
-      "away": "Real Betis"
-    },
     {
       "match_id": 1635718,
       "reason": "unsupported_competition",
@@ -271,10 +208,80 @@
     },
     {
       "match_id": 1557491,
-      "reason": "outside_next_7_days",
+      "reason": "unmatched_team",
       "league_id": 39,
       "home": "Coventry",
       "away": "Ipswich"
+    },
+    {
+      "match_id": 1570561,
+      "reason": "outside_next_7_days",
+      "league_id": 140,
+      "home": "Real Sociedad",
+      "away": "Real Madrid"
+    },
+    {
+      "match_id": 1557490,
+      "reason": "outside_next_7_days",
+      "league_id": 39,
+      "home": "Chelsea",
+      "away": "Crystal Palace"
+    },
+    {
+      "match_id": 1557492,
+      "reason": "outside_next_7_days",
+      "league_id": 39,
+      "home": "Hull City",
+      "away": "Nottingham Forest"
+    },
+    {
+      "match_id": 1557493,
+      "reason": "outside_next_7_days",
+      "league_id": 39,
+      "home": "Liverpool",
+      "away": "Sunderland"
+    },
+    {
+      "match_id": 1557494,
+      "reason": "outside_next_7_days",
+      "league_id": 39,
+      "home": "Manchester City",
+      "away": "Leeds"
+    },
+    {
+      "match_id": 1557487,
+      "reason": "outside_next_7_days",
+      "league_id": 39,
+      "home": "Aston Villa",
+      "away": "Everton"
+    },
+    {
+      "match_id": 1557488,
+      "reason": "outside_next_7_days",
+      "league_id": 39,
+      "home": "Bournemouth",
+      "away": "Brighton"
+    },
+    {
+      "match_id": 1557489,
+      "reason": "outside_next_7_days",
+      "league_id": 39,
+      "home": "Brentford",
+      "away": "Arsenal"
+    },
+    {
+      "match_id": 1557495,
+      "reason": "outside_next_7_days",
+      "league_id": 39,
+      "home": "Newcastle",
+      "away": "Manchester United"
+    },
+    {
+      "match_id": 1570555,
+      "reason": "outside_next_7_days",
+      "league_id": 140,
+      "home": "Barcelona",
+      "away": "Atletico Madrid"
     }
   ]
 }
