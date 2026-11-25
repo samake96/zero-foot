@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-25T08:52:40.826682+00:00",
+  "updated_at": "2026-11-25T10:12:36.699304+00:00",
   "items": [
+    {
+      "id": "483dee505e83a14b",
+      "title": "Search for next USMNT head coach needs to prioritize competence over fame",
+      "url": "https://www.theguardian.com/football/2026/nov/25/usmnt-head-coach-search",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-25T10:00:12+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
     {
       "id": "f8bdbdf7ecd24630",
       "title": "The story of how Pelé and Maradona went from friends to bitter rivals",
@@ -243,17 +254,6 @@
       "priority": 0
     },
     {
-      "id": "1f61bbce9996072c",
-      "title": "CAN 2025 : pourquoi le TAS a donné raison à l'arbitre et au Sénégal",
-      "url": "https://www.france24.com/fr/sports/20261124-can-2025-pourquoi-tas-arbitre-senegal-maroc",
-      "source": "France 24",
-      "published_at": "2026-11-24T17:02:32+00:00",
-      "category": "clubs",
-      "language": "fr",
-      "topics": [],
-      "priority": 0
-    },
-    {
       "id": "4416092a7ca7b7e9",
       "title": "La CAN 2025 attribuée définitivement au Sénégal par le Tribunal arbitral du sport",
       "url": "https://www.rfi.fr/fr/afrique-foot/20261124-la-can-2025-attribu%C3%A9e-d%C3%A9finitivement-au-s%C3%A9n%C3%A9gal-par-le-tribunal-arbitral-du-sport",
@@ -261,17 +261,6 @@
       "published_at": "2026-11-24T14:27:25+00:00",
       "category": "clubs",
       "language": "fr",
-      "topics": [],
-      "priority": 0
-    },
-    {
-      "id": "45e0055a4ad835cd",
-      "title": "Senegal restored as Africa Cup of Nations champions after court ruling",
-      "url": "https://www.theguardian.com/football/2026/nov/24/afcon-verdict-senegal-morocco-africa-cup-of-nations-champions-court-ruling-cas",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-24T14:22:36+00:00",
-      "category": "clubs",
-      "language": "en",
       "topics": [],
       "priority": 0
     },
@@ -480,32 +469,19 @@
         "Ligue 1"
       ],
       "priority": 12
-    },
-    {
-      "id": "85bb7a68d7b14ed9",
-      "title": "Éliminatoires CAN 2027: Claude Le Roy devrait quitter la sélection du Congo",
-      "url": "https://www.rfi.fr/fr/afrique-foot/20261118-%C3%A9liminatoires-can-2027-claude-le-roy-devrait-quitter-la-s%C3%A9lection-du-congo",
-      "source": "RFI Afrique Foot",
-      "published_at": "2026-11-18T09:46:56+00:00",
-      "category": "clubs",
-      "language": "fr",
-      "topics": [
-        "Sélections"
-      ],
-      "priority": 12
     }
   ],
   "source_errors": [],
   "search_trends_fr": [
-    "sandra bullock",
-    "graulhet",
-    "ambassadeur",
-    "boudjellal",
-    "artigat",
-    "rachida brakni",
-    "christian de rocquigny",
-    "pension de réversion",
-    "central intelligence agency",
-    "fabien claude"
+    "kilmar armando abrego garcia",
+    "chien",
+    "agression",
+    "courrier picard",
+    "kiev",
+    "impôt",
+    "accident du travail",
+    "action sanofi",
+    "centre de données",
+    "puy du fou"
   ]
 }
