@@ -1,6 +1,30 @@
 {
-  "updated_at": "2026-11-24T23:25:04.136538+00:00",
+  "updated_at": "2026-11-25T00:22:36.788897+00:00",
   "items": [
+    {
+      "id": "4815d6e9185b578e",
+      "title": "Bellingham plays down Zidane comparison after wonder goal",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c893r9kdwl91o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-24T23:54:10+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "d9e45bc1710941f2",
+      "title": "Arteta says Arsenal need more luck to kill off games",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3ewv0kdjlp9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-24T23:44:04+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [
+        "Premier League"
+      ],
+      "priority": 12
+    },
     {
       "id": "a791fde6c36cfb45",
       "title": "'Pass, pass, slow, slow' - Man City's slick machine grinding to a halt",
@@ -164,17 +188,6 @@
       "priority": 12
     },
     {
-      "id": "7ae813274fec4f90",
-      "title": "Klopp advice and Iraola confidence boosts Wirtz",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c69w91k0j9zeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-24T17:19:08+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
       "id": "a1ddec8d794a2764",
       "title": "Senegal reinstated as Afcon 2025 winners by court ruling",
       "url": "https://www.bbc.co.uk/sport/football/articles/crn80y2l1404o?at_medium=RSS&at_campaign=rss",
@@ -274,17 +287,6 @@
         "Ligue des champions"
       ],
       "priority": 12
-    },
-    {
-      "id": "72c01a18fabf0a5b",
-      "title": "Non-league player injured falling down badger hole",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cw0k636m0vr3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-24T12:31:12+00:00",
-      "category": "injuries",
-      "language": "en",
-      "topics": [],
-      "priority": 8
     },
     {
       "id": "22b7024ffa266ac8",
@@ -484,15 +486,15 @@
   ],
   "source_errors": [],
   "search_trends_fr": [
-    "air france-klm",
+    "bruce willis",
+    "scènes de ménages",
     "1993",
+    "air france-klm",
     "vice city",
     "victime",
     "élèves nommés star academy",
-    "classificações de feyenoord x futebol clube do porto",
-    "losc lille",
+    "pleine lune novembre 2026 du castor",
     "hanouna",
-    "senat abattement fiscal retraités",
-    "henri guaino"
+    "senat abattement fiscal retraités"
   ]
 }
