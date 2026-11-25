@@ -1,12 +1,47 @@
 {
-  "updated_at": "2026-11-25T13:53:07.104778+00:00",
+  "updated_at": "2026-11-25T15:04:25.944915+00:00",
   "items": [
+    {
+      "id": "de96945cc5bc4b25",
+      "title": "Premier League’s burst of early sendings-off may not last – but red cards are on the rise for a reason",
+      "url": "https://www.theguardian.com/football/2026/nov/25/premier-league-red-cards-costinha-leny-yoro-james-tarkowski-referees",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-25T14:46:33+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [
+        "Premier League"
+      ],
+      "priority": 12
+    },
+    {
+      "id": "336aa3120d89a566",
+      "title": "Présidence de la Fifa: Kozo Tashima promet s'il est élu de n'effectuer qu'un seul mandat",
+      "url": "https://www.rfi.fr/fr/sports/20261125-pr%C3%A9sidence-de-la-fifa-kozo-tashima-promet-s-il-est-%C3%A9lu-de-n-effectuer-qu-un-seul-mandat",
+      "source": "RFI Sports",
+      "published_at": "2026-11-25T14:43:49+00:00",
+      "category": "clubs",
+      "language": "fr",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "ce9dc684d85c6d28",
+      "title": "Guardiola says next coaching role will be with a national team amid USA links",
+      "url": "https://www.theguardian.com/football/2026/nov/25/pep-guardiola-coaching-job-usmnt-italy",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-25T14:07:50+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
     {
       "id": "1eb9b0d1ac1a4b20",
       "title": "Sterling given suspended sentence for dangerous driving",
       "url": "https://www.bbc.co.uk/news/articles/cv8e04ll9dd3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
-      "published_at": "2026-11-25T13:19:48+00:00",
+      "published_at": "2026-11-25T13:57:12+00:00",
       "category": "clubs",
       "language": "en",
       "topics": [],
@@ -35,8 +70,8 @@
       "priority": 0
     },
     {
-      "id": "44a6ccd4913d5f7d",
-      "title": "Senegal regaining Afcon title is the right end to embarrassing farrago but issues do not stop here",
+      "id": "4ec82b204705814a",
+      "title": "Senegal regaining Afcon title is the right end to embarrassing farrago but issues do not stop here | Osasu Obayiuwana",
       "url": "https://www.theguardian.com/football/2026/nov/25/senegal-regaining-afcon-title-right-end-african-football",
       "source": "The Guardian Football",
       "published_at": "2026-11-25T12:41:11+00:00",
@@ -169,17 +204,6 @@
       "priority": 0
     },
     {
-      "id": "373b1537d5ac79f2",
-      "title": "CAN 2025 : le Sénégal déclaré vainqueur par le TAS, le Maroc conteste",
-      "url": "https://www.france24.com/fr/%C3%A9missions/sports/20261125-can-2025-le-s%C3%A9n%C3%A9gal-d%C3%A9clar%C3%A9-vainqueur-par-le-tas-le-maroc-conteste",
-      "source": "France 24",
-      "published_at": "2026-11-25T06:28:24+00:00",
-      "category": "clubs",
-      "language": "fr",
-      "topics": [],
-      "priority": 0
-    },
-    {
       "id": "976e4f5eb4e51e21",
       "title": "Are Manchester United this season's Tottenham?",
       "url": "https://www.bbc.co.uk/sport/football/articles/cj4gndepk312o?at_medium=RSS&at_campaign=rss",
@@ -252,19 +276,6 @@
       "priority": 12
     },
     {
-      "id": "7ca34228952b7878",
-      "title": "Pochettino criticises Premier League officiating after Yoro red card overturned",
-      "url": "https://www.theguardian.com/football/2026/nov/23/manchester-united-appeal-leny-yoro-red-card-liverpool",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-24T21:51:31+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [
-        "Premier League"
-      ],
-      "priority": 12
-    },
-    {
       "id": "af0a3d8f565fa26f",
       "title": "CAN 2025: le Sénégal en joie après sa victoire réattribuée par le TAS, le Maroc fataliste",
       "url": "https://www.rfi.fr/fr/afrique-foot/20261124-can-2025-le-s%C3%A9n%C3%A9gal-en-joie-apr%C3%A8s-sa-victoire-r%C3%A9attribu%C3%A9e-par-le-tas-le-maroc-fataliste",
@@ -285,19 +296,6 @@
       "language": "en",
       "topics": [],
       "priority": 0
-    },
-    {
-      "id": "365825080bc85e38",
-      "title": "Florian Wirtz hails Iraola and Klopp as he reaches new levels for Liverpool",
-      "url": "https://www.theguardian.com/football/2026/nov/24/florian-wirtz-hails-iraola-and-klopp-as-he-reaches-new-levels-for-liverpool",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-24T19:02:09+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [
-        "Premier League"
-      ],
-      "priority": 12
     },
     {
       "id": "4416092a7ca7b7e9",
@@ -447,15 +445,15 @@
   ],
   "source_errors": [],
   "search_trends_fr": [
-    "négociation",
-    "théo curin",
-    "david le bars",
-    "ffr",
-    "christophe willem couple",
-    "delubac",
-    "taxe",
-    "troupeau",
-    "organisation des nations unies",
-    "oullins-pierre-bénite"
+    "emmanuel meafou",
+    "maladie à virus ebola",
+    "mini-série",
+    "joueur africain de l'année",
+    "arme nucléaire",
+    "coupe du monde u17",
+    "ukraine direct",
+    "ayyoub bouaddi",
+    "normandie",
+    "cannon beach"
   ]
 }
