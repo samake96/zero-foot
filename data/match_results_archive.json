@@ -1,8 +1,71 @@
 {
   "source": "API-Football",
-  "updated_at": "2026-11-25T04:14:28.522234+00:00",
-  "total": 2236,
+  "updated_at": "2026-11-25T07:29:36.935882+00:00",
+  "total": 2239,
   "matches": [
+    {
+      "id": 1555822,
+      "kickoff": "2026-11-25T05:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 100,
+        "name": "J3 League",
+        "country": "Japan"
+      },
+      "home": {
+        "name": "Kitakyushu",
+        "logo": "https://media.api-sports.io/football/teams/805.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "Kanazawa",
+        "logo": "https://media.api-sports.io/football/teams/300.png",
+        "goals": 1
+      }
+    },
+    {
+      "id": 1555829,
+      "kickoff": "2026-11-25T03:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 100,
+        "name": "J3 League",
+        "country": "Japan"
+      },
+      "home": {
+        "name": "FC Ryukyu",
+        "logo": "https://media.api-sports.io/football/teams/2235.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "Roasso Kumamoto",
+        "logo": "https://media.api-sports.io/football/teams/314.png",
+        "goals": 1
+      }
+    },
+    {
+      "id": 1649497,
+      "kickoff": "2026-11-25T03:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 253,
+        "name": "Major League Soccer",
+        "country": "USA"
+      },
+      "home": {
+        "name": "San Jose Earthquakes",
+        "logo": "https://media.api-sports.io/football/teams/1596.png",
+        "goals": 2
+      },
+      "away": {
+        "name": "Houston Dynamo",
+        "logo": "https://media.api-sports.io/football/teams/1600.png",
+        "goals": 1
+      }
+    },
     {
       "id": 1650514,
       "kickoff": "2026-11-25T01:30:00+00:00",
