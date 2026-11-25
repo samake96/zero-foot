@@ -1,23 +1,26 @@
 {
-  "updated_at": "2026-11-25T19:57:01.209257+00:00",
+  "updated_at": "2026-11-25T20:56:25.372383+00:00",
   "items": [
     {
-      "id": "7a5a3952d10a1c0c",
-      "title": "Football: un an de prison avec sursis pour l'international anglais Sterling après un accident de la route",
-      "url": "https://www.rfi.fr/fr/sports/20261125-football-un-an-de-prison-avec-sursis-pour-l-international-anglais-sterling-apr%C3%A8s-un-accident-de-la-route",
-      "source": "RFI Sports",
-      "published_at": "2026-11-25T19:54:54+00:00",
-      "category": "clubs",
-      "language": "fr",
-      "topics": [],
-      "priority": 0
+      "id": "997d28e88e51d250",
+      "title": "Sporting v Manchester United: Champions League – live",
+      "url": "https://www.theguardian.com/football/live/2026/nov/25/sporting-v-manchester-united-champions-league-live",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-25T20:44:14+00:00",
+      "category": "competitions",
+      "language": "en",
+      "topics": [
+        "Premier League",
+        "Ligue des champions"
+      ],
+      "priority": 12
     },
     {
       "id": "0b7f6cc39200af9b",
       "title": "Club Brugge v Liverpool, Lille v Bayern Munich and more: Champions League clockwatch – live",
       "url": "https://www.theguardian.com/football/live/2026/nov/25/club-brugge-v-liverpool-lille-v-bayern-munich-and-more-champions-league-clockwatch-live",
       "source": "The Guardian Football",
-      "published_at": "2026-11-25T19:45:03+00:00",
+      "published_at": "2026-11-25T20:43:51+00:00",
       "category": "competitions",
       "language": "en",
       "topics": [
@@ -28,18 +31,29 @@
       "priority": 12
     },
     {
-      "id": "997d28e88e51d250",
-      "title": "Sporting v Manchester United: Champions League – live",
-      "url": "https://www.theguardian.com/football/live/2026/nov/25/sporting-v-manchester-united-champions-league-live",
+      "id": "3b921794ec6ec520",
+      "title": "Champions League: Gordon twice on target in Barcelona’s cruise at Sabah",
+      "url": "https://www.theguardian.com/football/2026/nov/25/champions-league-barcelona-psg-roma-lille-bayern-munich-villarreal",
       "source": "The Guardian Football",
-      "published_at": "2026-11-25T19:43:52+00:00",
+      "published_at": "2026-11-25T20:16:42+00:00",
       "category": "competitions",
       "language": "en",
       "topics": [
-        "Premier League",
+        "La Liga",
         "Ligue des champions"
       ],
       "priority": 12
+    },
+    {
+      "id": "7a5a3952d10a1c0c",
+      "title": "Football: un an de prison avec sursis pour l'international anglais Sterling après un accident de la route",
+      "url": "https://www.rfi.fr/fr/sports/20261125-football-un-an-de-prison-avec-sursis-pour-l-international-anglais-sterling-apr%C3%A8s-un-accident-de-la-route",
+      "source": "RFI Sports",
+      "published_at": "2026-11-25T19:54:54+00:00",
+      "category": "clubs",
+      "language": "fr",
+      "topics": [],
+      "priority": 0
     },
     {
       "id": "ae5c98be42636f06",
@@ -143,19 +157,6 @@
       "priority": 0
     },
     {
-      "id": "2200640b8e0fee7b",
-      "title": "Football Daily | Manchester City get that empty feeling as they fail to win again",
-      "url": "https://www.theguardian.com/football/2026/nov/25/manchester-city-empty-feeling-football-daily-newsletter",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-25T15:13:01+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [
-        "Premier League"
-      ],
-      "priority": 12
-    },
-    {
       "id": "de96945cc5bc4b25",
       "title": "Premier League’s burst of early sendings-off may not last – but red cards are on the rise for a reason",
       "url": "https://www.theguardian.com/football/2026/nov/25/premier-league-red-cards-costinha-leny-yoro-james-tarkowski-referees",
@@ -202,8 +203,8 @@
       "priority": 0
     },
     {
-      "id": "4ec82b204705814a",
-      "title": "Senegal regaining Afcon title is the right end to embarrassing farrago but issues do not stop here | Osasu Obayiuwana",
+      "id": "070da2e9cbe6b575",
+      "title": "Senegal regaining Afcon title is the right end to fiasco but issues do not stop there | Osasu Obayiuwana",
       "url": "https://www.theguardian.com/football/2026/nov/25/senegal-regaining-afcon-title-right-end-african-football",
       "source": "The Guardian Football",
       "published_at": "2026-11-25T12:41:11+00:00",
@@ -305,17 +306,6 @@
       "priority": 12
     },
     {
-      "id": "616f5da447af84f0",
-      "title": "Pochettino leads Man Utd fury at Yoro red card ruling",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqzr5ylmeerlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-24T22:05:31+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
       "id": "74b47908545cb468",
       "title": "Ligue des champions: le Real renversant, Lens encore à terre",
       "url": "https://www.rfi.fr/fr/sports/20261124-ligue-des-champions-le-real-renversant-lens-encore-%C3%A0-terre",
@@ -384,6 +374,17 @@
         "Premier League"
       ],
       "priority": 12
+    },
+    {
+      "id": "c4b4808f305eaa19",
+      "title": "Moyes questions Tarkowski red in Brentford loss",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cq4gnk062y8go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-23T22:54:51+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
     },
     {
       "id": "21dc208548d7d248",
@@ -474,15 +475,15 @@
   ],
   "source_errors": [],
   "search_trends_fr": [
-    "canal",
-    "villarreal",
-    "canal +",
-    "ps5 gta",
-    "chien policier",
-    "avatar 4",
-    "fondation des femmes",
-    "patriarcat",
-    "club brugge – liverpool",
-    "manu koné"
+    "lec",
+    "thierry cotillard",
+    "egypte",
+    "inter milan",
+    "vitinha",
+    "jordan",
+    "nuno mendes",
+    "psg ce soir",
+    "atlético vs viking",
+    "malen"
   ]
 }
