@@ -1,6 +1,65 @@
 {
-  "updated_at": "2026-11-25T22:55:41.305965+00:00",
+  "updated_at": "2026-11-25T23:50:37.524088+00:00",
   "items": [
+    {
+      "id": "230c2c6ceef1df8b",
+      "title": "How Isak and Wirtz are becoming Liverpool's 'big-game players'",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cmqx527v3x19o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-25T23:38:42+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [
+        "Premier League"
+      ],
+      "priority": 12
+    },
+    {
+      "id": "b593e4c4f8f6e49b",
+      "title": "'All coming together' - Isak repaying Liverpool faith",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqm2l0gelkzxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-25T23:25:30+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [
+        "Premier League"
+      ],
+      "priority": 12
+    },
+    {
+      "id": "56c7ff263dfeca8f",
+      "title": "Fenerbahce squeeze past Shakhtar to seal back-to-back wins",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c6ly51452xe7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-25T23:16:18+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "20f265e0f96becef",
+      "title": "Martinez secures Inter win against Stuttgart",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c6j9mvjkkzymo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-25T23:02:15+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "5e1f6b2e26537822",
+      "title": "Championship roundup: Stoke rise to second, Birmingham condemn Burnley to record drought",
+      "url": "https://www.theguardian.com/football/2026/nov/25/championship-roundup-stoke-millwall-burnley-home-record-birmingham",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-25T22:55:48+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
     {
       "id": "6ed59ea64146510c",
       "title": "Champions League: Lille comeback adds to Bayern woes, Gordon leads Barcelona rout",
@@ -118,21 +177,8 @@
       "priority": 0
     },
     {
-      "id": "34c44e01ff9510a7",
-      "title": "Cherki rescues point for Man City against Napoli",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cjy5xwygqg9do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-25T22:05:49+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [
-        "Serie A"
-      ],
-      "priority": 12
-    },
-    {
-      "id": "34de2c5192630b9b",
-      "title": "Lammens howler costs Manchester United victory in frantic finale at Sporting",
+      "id": "41132c6d3b31d50b",
+      "title": "Lammens errors cost Manchester United victory in frantic finale at Sporting",
       "url": "https://www.theguardian.com/football/2026/nov/25/sporting-lisbon-manchester-united-champions-league-match-report",
       "source": "The Guardian Football",
       "published_at": "2026-11-25T22:05:49+00:00",
@@ -308,17 +354,6 @@
       "priority": 0
     },
     {
-      "id": "b4cd0e62ff41a179",
-      "title": "‘He’s more elegant’: Bellingham downplays Zidane comparisons after wondergoal",
-      "url": "https://www.theguardian.com/football/2026/nov/25/jude-bellingham-downplays-comparisons-to-zidane-after-wondergoal",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-25T12:59:29+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
       "id": "070da2e9cbe6b575",
       "title": "Senegal regaining Afcon title is the right end to fiasco but issues do not stop there | Osasu Obayiuwana",
       "url": "https://www.theguardian.com/football/2026/nov/25/senegal-regaining-afcon-title-right-end-african-football",
@@ -330,22 +365,22 @@
       "priority": 0
     },
     {
-      "id": "29654316ef986a63",
-      "title": "Raheem Sterling avoids jail over reckless driving while using nitrous oxide",
-      "url": "https://www.theguardian.com/football/2026/nov/25/raheem-sterling-avoids-jail-reckless-driving-nitrous-oxide-sentence",
+      "id": "e3e2976fe48ac378",
+      "title": "‘It threw me off my bowling a bit’: Isobel Goodwin living dream after England callup",
+      "url": "https://www.theguardian.com/football/2026/nov/25/isobel-goodwin-england-callup-london-city-lionesses-bowling",
       "source": "The Guardian Football",
-      "published_at": "2026-11-25T11:34:10+00:00",
+      "published_at": "2026-11-25T12:24:49+00:00",
       "category": "clubs",
       "language": "en",
       "topics": [],
       "priority": 0
     },
     {
-      "id": "f8bdbdf7ecd24630",
-      "title": "The story of how Pelé and Maradona went from friends to bitter rivals",
-      "url": "https://www.theguardian.com/football/2026/nov/25/pele-diego-maradona-brazil-argentina-world-cup",
+      "id": "29654316ef986a63",
+      "title": "Raheem Sterling avoids jail over reckless driving while using nitrous oxide",
+      "url": "https://www.theguardian.com/football/2026/nov/25/raheem-sterling-avoids-jail-reckless-driving-nitrous-oxide-sentence",
       "source": "The Guardian Football",
-      "published_at": "2026-11-25T08:00:10+00:00",
+      "published_at": "2026-11-25T11:34:10+00:00",
       "category": "clubs",
       "language": "en",
       "topics": [],
@@ -394,41 +429,6 @@
       "published_at": "2026-11-24T13:09:52+00:00",
       "category": "clubs",
       "language": "fr",
-      "topics": [],
-      "priority": 0
-    },
-    {
-      "id": "596e71c1ab6ca2e9",
-      "title": "The youngest Premier League goalscorers this season",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cme39v4w7ykqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-24T09:10:34+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [
-        "Premier League"
-      ],
-      "priority": 12
-    },
-    {
-      "id": "c4b4808f305eaa19",
-      "title": "Moyes questions Tarkowski red in Brentford loss",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cq4gnk062y8go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-23T22:54:51+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
-      "id": "21dc208548d7d248",
-      "title": "Janelt scores stunner as Brentford beat 10-man Everton",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c5gm3jlw7l7xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-23T22:31:27+00:00",
-      "category": "clubs",
-      "language": "en",
       "topics": [],
       "priority": 0
     },
@@ -497,15 +497,15 @@
   ],
   "source_errors": [],
   "search_trends_fr": [
+    "hm",
+    "lebron james",
+    "assurance vie",
+    "aurore bergé",
+    "maxime raynaud",
+    "sofia vergara",
+    "siya kolisi",
+    "losc lille vs bayern munich standings",
     "ligue europa",
-    "classement ligue des champions 2026",
-    "hanouka",
-    "lequipe",
-    "one piece 1200",
-    "assou ekotto",
-    "grippe épidémie",
-    "allemagne",
-    "europa league",
-    "marius borg høiby"
+    "hanouka"
   ]
 }
