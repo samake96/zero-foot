@@ -1,6 +1,61 @@
 {
-  "updated_at": "2026-11-25T12:23:21.725409+00:00",
+  "updated_at": "2026-11-25T13:53:07.104778+00:00",
   "items": [
+    {
+      "id": "1eb9b0d1ac1a4b20",
+      "title": "Sterling given suspended sentence for dangerous driving",
+      "url": "https://www.bbc.co.uk/news/articles/cv8e04ll9dd3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-25T13:19:48+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "b4cd0e62ff41a179",
+      "title": "‘He’s more elegant’: Bellingham downplays Zidane comparisons after wondergoal",
+      "url": "https://www.theguardian.com/football/2026/nov/25/jude-bellingham-downplays-comparisons-to-zidane-after-wondergoal",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-25T12:59:29+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "8329373bc280c66b",
+      "title": "Raheem Sterling - from national icon to suspended jail sentence",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cxzd9ydqzylno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-25T12:42:57+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "44a6ccd4913d5f7d",
+      "title": "Senegal regaining Afcon title is the right end to embarrassing farrago but issues do not stop here",
+      "url": "https://www.theguardian.com/football/2026/nov/25/senegal-regaining-afcon-title-right-end-african-football",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-25T12:41:11+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "e3e2976fe48ac378",
+      "title": "‘It threw me off my bowling a bit’: Isobel Goodwin living dream after England callup",
+      "url": "https://www.theguardian.com/football/2026/nov/25/isobel-goodwin-england-callup-london-city-lionesses-bowling",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-25T12:24:49+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
     {
       "id": "b27103097f965734",
       "title": "Will Hajime Moriyasu get a high-profile job in Europe after his eight years in charge of Japan?",
@@ -24,8 +79,8 @@
       "priority": 0
     },
     {
-      "id": "57805a6e79fcc2f4",
-      "title": "Lincoln sack head coach duo Cohen and Shaw",
+      "id": "a415cad2dfc0b371",
+      "title": "Lincoln sack head coach duo Cohen and Shaw after only six months",
       "url": "https://www.bbc.co.uk/sport/football/articles/cmglrzg3zx9no?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
       "published_at": "2026-11-25T11:32:28+00:00",
@@ -173,20 +228,6 @@
       "priority": 0
     },
     {
-      "id": "755a3dd1f01bd37f",
-      "title": "Ligue des champions : le Real Madrid impérial, Lens perd mais sauve l'honneur",
-      "url": "https://www.france24.com/fr/sports/20261124-football-ligue-des-champions-real-madrid-fait-le-show-rc-lens-sauve-l-honneur",
-      "source": "France 24",
-      "published_at": "2026-11-24T22:29:40+00:00",
-      "category": "competitions",
-      "language": "fr",
-      "topics": [
-        "La Liga",
-        "Ligue des champions"
-      ],
-      "priority": 12
-    },
-    {
       "id": "616f5da447af84f0",
       "title": "Pochettino leads Man Utd fury at Yoro red card ruling",
       "url": "https://www.bbc.co.uk/sport/football/articles/cqzr5ylmeerlo?at_medium=RSS&at_campaign=rss",
@@ -207,34 +248,6 @@
       "language": "fr",
       "topics": [
         "Ligue des champions"
-      ],
-      "priority": 12
-    },
-    {
-      "id": "8cc304cfe2718106",
-      "title": "Rayan Cherki magic denies Napoli but Manchester City’s struggles continue",
-      "url": "https://www.theguardian.com/football/2026/nov/24/manchester-city-napoli-champions-league-match-report",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-24T22:01:51+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [
-        "Premier League",
-        "Serie A"
-      ],
-      "priority": 12
-    },
-    {
-      "id": "aad0fd4a314cdbc4",
-      "title": "Dortmund’s Beier halts Arsenal charge after thunderbolt from Gyökeres",
-      "url": "https://www.theguardian.com/football/2026/nov/24/arsenal-borussia-dortmund-champions-league-match-report",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-24T22:01:50+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [
-        "Premier League",
-        "Bundesliga"
       ],
       "priority": 12
     },
@@ -274,6 +287,19 @@
       "priority": 0
     },
     {
+      "id": "365825080bc85e38",
+      "title": "Florian Wirtz hails Iraola and Klopp as he reaches new levels for Liverpool",
+      "url": "https://www.theguardian.com/football/2026/nov/24/florian-wirtz-hails-iraola-and-klopp-as-he-reaches-new-levels-for-liverpool",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-24T19:02:09+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [
+        "Premier League"
+      ],
+      "priority": 12
+    },
+    {
       "id": "4416092a7ca7b7e9",
       "title": "La CAN 2025 attribuée définitivement au Sénégal par le Tribunal arbitral du sport",
       "url": "https://www.rfi.fr/fr/afrique-foot/20261124-la-can-2025-attribu%C3%A9e-d%C3%A9finitivement-au-s%C3%A9n%C3%A9gal-par-le-tribunal-arbitral-du-sport",
@@ -285,19 +311,6 @@
       "priority": 0
     },
     {
-      "id": "d9038e6043470b2c",
-      "title": "Dynamic pricing to be used for games in US during 2031 Women’s World Cup",
-      "url": "https://www.theguardian.com/football/2026/nov/24/dynamic-pricing-tickets-womens-world-cup-2031",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-24T13:33:13+00:00",
-      "category": "competitions",
-      "language": "en",
-      "topics": [
-        "Sélections"
-      ],
-      "priority": 12
-    },
-    {
       "id": "365110db02f68689",
       "title": "CAN 2025: revivez notre direct sur la décision du TAS qui confirme la victoire du Sénégal sur le Maroc",
       "url": "https://www.rfi.fr/fr/afrique-foot/20261124-can-2025-suivez-en-direct-la-d%C3%A9cision-du-tas-sur-la-finale-entre-le-maroc-et-le-s%C3%A9n%C3%A9gal",
@@ -307,19 +320,6 @@
       "language": "fr",
       "topics": [],
       "priority": 0
-    },
-    {
-      "id": "25b7bd81feb79fe1",
-      "title": "‘I’m loving it at Brugge’: Freddie Potts on going from West Ham’s bench to Champions League",
-      "url": "https://www.theguardian.com/football/2026/nov/24/freddie-potts-brugge-champions-league-liverpool-west-ham",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-24T13:00:47+00:00",
-      "category": "competitions",
-      "language": "en",
-      "topics": [
-        "Ligue des champions"
-      ],
-      "priority": 12
     },
     {
       "id": "22b7024ffa266ac8",
@@ -346,28 +346,6 @@
         "Premier League"
       ],
       "priority": 12
-    },
-    {
-      "id": "39b9d978bac9a5f1",
-      "title": "Andrews praises 'versatile' Lewis-Potter",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c6z0kdgz39p3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-23T22:59:14+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
-      "id": "c4b4808f305eaa19",
-      "title": "Moyes questions Tarkowski red in Brentford loss",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cq4gnk062y8go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-23T22:54:51+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
     },
     {
       "id": "21dc208548d7d248",
@@ -469,15 +447,15 @@
   ],
   "source_errors": [],
   "search_trends_fr": [
-    "divorce",
-    "michel-édouard leclerc",
-    "steven hack",
-    "2026",
-    "garmin",
-    "mort",
-    "césarienne",
-    "kevin durand",
-    "grégory lorenzi",
-    "manuel neuer"
+    "négociation",
+    "théo curin",
+    "david le bars",
+    "ffr",
+    "christophe willem couple",
+    "delubac",
+    "taxe",
+    "troupeau",
+    "organisation des nations unies",
+    "oullins-pierre-bénite"
   ]
 }
