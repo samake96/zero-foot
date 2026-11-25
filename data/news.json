@@ -1,6 +1,50 @@
 {
-  "updated_at": "2026-11-25T16:11:01.617386+00:00",
+  "updated_at": "2026-11-25T17:19:53.378996+00:00",
   "items": [
+    {
+      "id": "aa56d102c27d07b0",
+      "title": "Alejandro Garnacho and the curious case of Aston Villa’s outcast loanees | Ben Fisher",
+      "url": "https://www.theguardian.com/football/2026/nov/25/alejandro-garnacho-aston-villa-loanees-unai-emery",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-25T17:00:31+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "05e3dc16ee15e098",
+      "title": "'Best midfielder in the world' - where does Bellingham rank?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmkgdjkr2y70o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-25T16:46:36+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "c123d8d0f8eb4fdc",
+      "title": "Confusion and anger - Yoro red card rescinded, but row goes on",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvze7y6n2redo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-25T16:28:10+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "99dfb8fee3069cd0",
+      "title": "Leicester no longer for sale as owner looks to future",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck1l0j77j43eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-25T16:19:45+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
     {
       "id": "a8975a775ff677ee",
       "title": "Saudi Arabia’s PIF looking to sell 25% of Newcastle through share issue",
@@ -184,22 +228,11 @@
       "priority": 0
     },
     {
-      "id": "483dee505e83a14b",
-      "title": "Search for next USMNT head coach needs to prioritize competence over fame",
-      "url": "https://www.theguardian.com/football/2026/nov/25/usmnt-head-coach-search",
+      "id": "fb2f61f6d2234283",
+      "title": "Has a footballer had a longer career hiatus than Ronaldinho’s 11 year-gap? | The Knowledge",
+      "url": "https://www.theguardian.com/football/2026/nov/25/has-a-footballer-had-a-longer-career-hiatus-than-ronaldinhos-11-year-gap",
       "source": "The Guardian Football",
-      "published_at": "2026-11-25T10:00:12+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
-      "id": "f8bdbdf7ecd24630",
-      "title": "The story of how Pelé and Maradona went from friends to bitter rivals",
-      "url": "https://www.theguardian.com/football/2026/nov/25/pele-diego-maradona-brazil-argentina-world-cup",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-25T08:00:10+00:00",
+      "published_at": "2026-11-25T08:00:09+00:00",
       "category": "clubs",
       "language": "en",
       "topics": [],
@@ -217,17 +250,6 @@
         "Bundesliga"
       ],
       "priority": 12
-    },
-    {
-      "id": "a043b6ffd9be0abb",
-      "title": "Who am I? Plus today's other quizzes",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cxvg2e6l57j7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-25T06:56:11+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
     },
     {
       "id": "976e4f5eb4e51e21",
@@ -359,28 +381,6 @@
       "priority": 12
     },
     {
-      "id": "c4b4808f305eaa19",
-      "title": "Moyes questions Tarkowski red in Brentford loss",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cq4gnk062y8go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-23T22:54:51+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
-      "id": "21dc208548d7d248",
-      "title": "Janelt scores stunner as Brentford beat 10-man Everton",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c5gm3jlw7l7xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-23T22:31:27+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
       "id": "3ab857961868442b",
       "title": "Ligue des champions: le PSG veut poursuivre son parcours sans faute, Lens et Lille aux abois",
       "url": "https://www.rfi.fr/fr/sports/20261123-ligue-des-champions-le-psg-veut-poursuivre-son-parcours-sans-faute-lens-et-lille-aux-abois",
@@ -443,17 +443,6 @@
       "priority": 20
     },
     {
-      "id": "d36ff991a072c980",
-      "title": "Présidence de la Fifa: la CAF affiche son unité derrière Gianni Infantino, un désaveu pour Philippe Diallo",
-      "url": "https://www.rfi.fr/fr/sports/20261121-ca",
-      "source": "RFI Sports",
-      "published_at": "2026-11-21T17:30:50+00:00",
-      "category": "clubs",
-      "language": "fr",
-      "topics": [],
-      "priority": 0
-    },
-    {
       "id": "1bcd0ce44fed28f9",
       "title": "Ligue 1: Hillel Konaté, l’Etalon de Troyes pour la bataille du maintien",
       "url": "https://www.rfi.fr/fr/afrique-foot/20261120-ligue-1-hillel-konat%C3%A9-l-etalon-de-troyes-pour-la-bataille-du-maintien",
@@ -469,15 +458,15 @@
   ],
   "source_errors": [],
   "search_trends_fr": [
-    "cyril hanouna",
-    "david lisnard taxe d habitation",
-    "zarak",
-    "marcus smith",
-    "arrestation",
-    "saint-sorlin-en-valloire",
-    "fonds souverain",
-    "youth league",
-    "olivier martinez",
-    "francoise gatel"
+    "fenerbahçe",
+    "sabah football club",
+    "slavia prague – villarreal",
+    "sabah vs barcelona",
+    "pierre sage",
+    "décollage fusée ariane 6",
+    "pari mutuel urbain",
+    "sabah football club – barcelone",
+    "eric antoine",
+    "astrid nielsen"
   ]
 }
