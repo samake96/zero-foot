@@ -1,26 +1,23 @@
 {
-  "updated_at": "2026-11-25T18:54:41.804333+00:00",
+  "updated_at": "2026-11-25T19:57:01.209257+00:00",
   "items": [
     {
-      "id": "997d28e88e51d250",
-      "title": "Sporting v Manchester United: Champions League – live",
-      "url": "https://www.theguardian.com/football/live/2026/nov/25/sporting-v-manchester-united-champions-league-live",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-25T18:42:47+00:00",
-      "category": "competitions",
-      "language": "en",
-      "topics": [
-        "Premier League",
-        "Ligue des champions"
-      ],
-      "priority": 12
+      "id": "7a5a3952d10a1c0c",
+      "title": "Football: un an de prison avec sursis pour l'international anglais Sterling après un accident de la route",
+      "url": "https://www.rfi.fr/fr/sports/20261125-football-un-an-de-prison-avec-sursis-pour-l-international-anglais-sterling-apr%C3%A8s-un-accident-de-la-route",
+      "source": "RFI Sports",
+      "published_at": "2026-11-25T19:54:54+00:00",
+      "category": "clubs",
+      "language": "fr",
+      "topics": [],
+      "priority": 0
     },
     {
       "id": "0b7f6cc39200af9b",
       "title": "Club Brugge v Liverpool, Lille v Bayern Munich and more: Champions League clockwatch – live",
       "url": "https://www.theguardian.com/football/live/2026/nov/25/club-brugge-v-liverpool-lille-v-bayern-munich-and-more-champions-league-clockwatch-live",
       "source": "The Guardian Football",
-      "published_at": "2026-11-25T18:42:35+00:00",
+      "published_at": "2026-11-25T19:45:03+00:00",
       "category": "competitions",
       "language": "en",
       "topics": [
@@ -31,15 +28,18 @@
       "priority": 12
     },
     {
-      "id": "2d8b33e5c295f77f",
-      "title": "Can Iordanescu make a difference at Watford & how do you become a free-kick specialist?",
-      "url": "https://www.bbc.co.uk/sounds/play/p0ppxp3z?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-25T18:35:00+00:00",
-      "category": "clubs",
+      "id": "997d28e88e51d250",
+      "title": "Sporting v Manchester United: Champions League – live",
+      "url": "https://www.theguardian.com/football/live/2026/nov/25/sporting-v-manchester-united-champions-league-live",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-25T19:43:52+00:00",
+      "category": "competitions",
       "language": "en",
-      "topics": [],
-      "priority": 0
+      "topics": [
+        "Premier League",
+        "Ligue des champions"
+      ],
+      "priority": 12
     },
     {
       "id": "ae5c98be42636f06",
@@ -224,17 +224,6 @@
       "priority": 0
     },
     {
-      "id": "b27103097f965734",
-      "title": "Will Hajime Moriyasu get a high-profile job in Europe after his eight years in charge of Japan?",
-      "url": "https://www.theguardian.com/football/2026/nov/25/hajime-moriyasu-leave-japan-world-cup-samurai-blue",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-25T12:00:26+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
       "id": "29654316ef986a63",
       "title": "Raheem Sterling avoids jail over reckless driving while using nitrous oxide",
       "url": "https://www.theguardian.com/football/2026/nov/25/raheem-sterling-avoids-jail-reckless-driving-nitrous-oxide-sentence",
@@ -279,6 +268,17 @@
       "priority": 0
     },
     {
+      "id": "f8bdbdf7ecd24630",
+      "title": "The story of how Pelé and Maradona went from friends to bitter rivals",
+      "url": "https://www.theguardian.com/football/2026/nov/25/pele-diego-maradona-brazil-argentina-world-cup",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-25T08:00:10+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
       "id": "c7132bed10781723",
       "title": "How to unearth young stars, the Bayern Munich way",
       "url": "https://www.bbc.co.uk/sport/football/articles/c6702wddqz17o?at_medium=RSS&at_campaign=rss",
@@ -303,17 +303,6 @@
         "Premier League"
       ],
       "priority": 12
-    },
-    {
-      "id": "a791fde6c36cfb45",
-      "title": "'Pass, pass, slow, slow' - Man City's slick machine grinding to a halt",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cj3vgdp2edpxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-24T23:17:42+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
     },
     {
       "id": "616f5da447af84f0",
@@ -380,6 +369,30 @@
       "published_at": "2026-11-24T13:09:52+00:00",
       "category": "clubs",
       "language": "fr",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "596e71c1ab6ca2e9",
+      "title": "The youngest Premier League goalscorers this season",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cme39v4w7ykqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-24T09:10:34+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [
+        "Premier League"
+      ],
+      "priority": 12
+    },
+    {
+      "id": "21dc208548d7d248",
+      "title": "Janelt scores stunner as Brentford beat 10-man Everton",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c5gm3jlw7l7xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-23T22:31:27+00:00",
+      "category": "clubs",
+      "language": "en",
       "topics": [],
       "priority": 0
     },
@@ -461,15 +474,15 @@
   ],
   "source_errors": [],
   "search_trends_fr": [
-    "a13",
-    "secrétaire général de l'otan",
-    "équipe de france de football des moins de 17 ans",
-    "gabriel jesus",
-    "yamal",
-    "james gray",
-    "bill gates",
-    "zlatan",
-    "niger",
-    "équipe du maroc de football"
+    "canal",
+    "villarreal",
+    "canal +",
+    "ps5 gta",
+    "chien policier",
+    "avatar 4",
+    "fondation des femmes",
+    "patriarcat",
+    "club brugge – liverpool",
+    "manu koné"
   ]
 }
