@@ -1,12 +1,27 @@
 {
-  "updated_at": "2026-11-25T20:56:25.372383+00:00",
+  "updated_at": "2026-11-25T21:57:09.557760+00:00",
   "items": [
+    {
+      "id": "0b7f6cc39200af9b",
+      "title": "Club Brugge v Liverpool, Lille v Bayern Munich and more: Champions League clockwatch – live",
+      "url": "https://www.theguardian.com/football/live/2026/nov/25/club-brugge-v-liverpool-lille-v-bayern-munich-and-more-champions-league-clockwatch-live",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-25T21:45:01+00:00",
+      "category": "competitions",
+      "language": "en",
+      "topics": [
+        "Premier League",
+        "Bundesliga",
+        "Ligue des champions"
+      ],
+      "priority": 12
+    },
     {
       "id": "997d28e88e51d250",
       "title": "Sporting v Manchester United: Champions League – live",
       "url": "https://www.theguardian.com/football/live/2026/nov/25/sporting-v-manchester-united-champions-league-live",
       "source": "The Guardian Football",
-      "published_at": "2026-11-25T20:44:14+00:00",
+      "published_at": "2026-11-25T21:44:45+00:00",
       "category": "competitions",
       "language": "en",
       "topics": [
@@ -16,17 +31,48 @@
       "priority": 12
     },
     {
-      "id": "0b7f6cc39200af9b",
-      "title": "Club Brugge v Liverpool, Lille v Bayern Munich and more: Champions League clockwatch – live",
-      "url": "https://www.theguardian.com/football/live/2026/nov/25/club-brugge-v-liverpool-lille-v-bayern-munich-and-more-champions-league-clockwatch-live",
+      "id": "b7abfbfe47e87f1e",
+      "title": "Ferguson's Glentoran reign hits early turbulence",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cxzd9v7457nro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-25T21:41:00+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "25eb7e1f719e80ac",
+      "title": "Regulator chief 'has stomach' to face Man City",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c65y10z8k59jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-25T21:27:35+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "b6c940e3bd116d6a",
+      "title": "Oliver Glasner criticises Nottingham Forest players for not learning English",
+      "url": "https://www.theguardian.com/football/2026/nov/25/oliver-glasner-criticises-nottingham-forest-for-not-making-players-learn-english",
       "source": "The Guardian Football",
-      "published_at": "2026-11-25T20:43:51+00:00",
-      "category": "competitions",
+      "published_at": "2026-11-25T21:17:34+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "af71f47cb430220e",
+      "title": "Liverpool mull Quansah return - Thursday's gossip",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6n831jk3x4mo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-25T20:57:48+00:00",
+      "category": "clubs",
       "language": "en",
       "topics": [
-        "Premier League",
-        "Bundesliga",
-        "Ligue des champions"
+        "Premier League"
       ],
       "priority": 12
     },
@@ -61,17 +107,6 @@
       "url": "https://www.bbc.co.uk/sport/football/articles/cw20xr4d7x55o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
       "published_at": "2026-11-25T18:32:55+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
-      "id": "d5d1fb5e35eb0dbe",
-      "title": "'Justice for sport' - Afcon reaction as Senegal reinstated as winners",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6vg2e32e7vno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-25T17:32:30+00:00",
       "category": "clubs",
       "language": "en",
       "topics": [],
@@ -155,19 +190,6 @@
       "language": "fr",
       "topics": [],
       "priority": 0
-    },
-    {
-      "id": "de96945cc5bc4b25",
-      "title": "Premier League’s burst of early sendings-off may not last – but red cards are on the rise for a reason",
-      "url": "https://www.theguardian.com/football/2026/nov/25/premier-league-red-cards-costinha-leny-yoro-james-tarkowski-referees",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-25T14:46:33+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [
-        "Premier League"
-      ],
-      "priority": 12
     },
     {
       "id": "336aa3120d89a566",
@@ -258,17 +280,6 @@
       "priority": 0
     },
     {
-      "id": "4d164a520e91f835",
-      "title": "EA adds AI-generated John Motson to FC 27 video game",
-      "url": "https://www.bbc.co.uk/news/articles/c65y10j841jpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-25T10:11:34+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
       "id": "f8bdbdf7ecd24630",
       "title": "The story of how Pelé and Maradona went from friends to bitter rivals",
       "url": "https://www.theguardian.com/football/2026/nov/25/pele-diego-maradona-brazil-argentina-world-cup",
@@ -326,17 +337,6 @@
       "published_at": "2026-11-24T21:09:23+00:00",
       "category": "clubs",
       "language": "fr",
-      "topics": [],
-      "priority": 0
-    },
-    {
-      "id": "b18da05b65caf536",
-      "title": "Man Utd target Collins - Wednesday's gossip",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm15en5je9eko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-24T20:51:44+00:00",
-      "category": "clubs",
-      "language": "en",
       "topics": [],
       "priority": 0
     },
@@ -475,15 +475,15 @@
   ],
   "source_errors": [],
   "search_trends_fr": [
-    "lec",
-    "thierry cotillard",
-    "egypte",
-    "inter milan",
-    "vitinha",
-    "jordan",
-    "nuno mendes",
-    "psg ce soir",
-    "atlético vs viking",
-    "malen"
+    "m8",
+    "l'équipe",
+    "76ers – heat",
+    "mika godts",
+    "donyell malen",
+    "revenu",
+    "hunger games 3",
+    "endométriose",
+    "augustin trapenard",
+    "laure boulleau"
   ]
 }
