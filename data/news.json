@@ -1,6 +1,39 @@
 {
-  "updated_at": "2026-11-25T17:19:53.378996+00:00",
+  "updated_at": "2026-11-25T18:04:37.754766+00:00",
   "items": [
+    {
+      "id": "ae5c98be42636f06",
+      "title": "Glasner criticises Forest players yet to learn English",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw20xr4d7x55o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-25T18:00:26+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "d5d1fb5e35eb0dbe",
+      "title": "'Justice for sport' - Afcon reaction as Senegal reinstated as winners",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6vg2e32e7vno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-25T17:32:30+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "8667b4caf8dc3d01",
+      "title": "EFL Trophy holders Luton face Palace U21s in last 32",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckzd9vqed5d7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-25T17:12:57+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
     {
       "id": "aa56d102c27d07b0",
       "title": "Alejandro Garnacho and the curious case of Aston Villa’s outcast loanees | Ben Fisher",
@@ -118,8 +151,8 @@
       "priority": 0
     },
     {
-      "id": "ce9dc684d85c6d28",
-      "title": "Guardiola says next coaching role will be with a national team amid USA links",
+      "id": "8c4eb8c044ecf99b",
+      "title": "Pep Guardiola says next coaching role will be with a national team amid USA links",
       "url": "https://www.theguardian.com/football/2026/nov/25/pep-guardiola-coaching-job-usmnt-italy",
       "source": "The Guardian Football",
       "published_at": "2026-11-25T14:07:50+00:00",
@@ -265,30 +298,6 @@
       "priority": 12
     },
     {
-      "id": "4815d6e9185b578e",
-      "title": "Bellingham plays down Zidane comparison after wonder goal",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c893r9kdwl91o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-24T23:54:10+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
-      "id": "d9e45bc1710941f2",
-      "title": "Arteta says Arsenal need more luck to kill off games",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3ewv0kdjlp9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-24T23:44:04+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [
-        "Premier League"
-      ],
-      "priority": 12
-    },
-    {
       "id": "a791fde6c36cfb45",
       "title": "'Pass, pass, slow, slow' - Man City's slick machine grinding to a halt",
       "url": "https://www.bbc.co.uk/sport/football/articles/cj3vgdp2edpxo?at_medium=RSS&at_campaign=rss",
@@ -368,19 +377,6 @@
       "priority": 0
     },
     {
-      "id": "596e71c1ab6ca2e9",
-      "title": "The youngest Premier League goalscorers this season",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cme39v4w7ykqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-24T09:10:34+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [
-        "Premier League"
-      ],
-      "priority": 12
-    },
-    {
       "id": "3ab857961868442b",
       "title": "Ligue des champions: le PSG veut poursuivre son parcours sans faute, Lens et Lille aux abois",
       "url": "https://www.rfi.fr/fr/sports/20261123-ligue-des-champions-le-psg-veut-poursuivre-son-parcours-sans-faute-lens-et-lille-aux-abois",
@@ -458,15 +454,15 @@
   ],
   "source_errors": [],
   "search_trends_fr": [
-    "fenerbahçe",
-    "sabah football club",
-    "slavia prague – villarreal",
-    "sabah vs barcelona",
-    "pierre sage",
-    "décollage fusée ariane 6",
-    "pari mutuel urbain",
-    "sabah football club – barcelone",
-    "eric antoine",
-    "astrid nielsen"
+    "inflation",
+    "azerbaïdjan",
+    "pontivy",
+    "otan",
+    "télérama",
+    "cocaïne",
+    "slavia praha vs villarreal",
+    "benoit assou ekotto",
+    "princesse de galles",
+    "نادي صباح ضد برشلونة"
   ]
 }
