@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-11-25T06:17:30.950115+00:00",
+  "updated_at": "2026-11-25T07:48:32.861107+00:00",
   "items": [
+    {
+      "id": "c7132bed10781723",
+      "title": "How to unearth young stars, the Bayern Munich way",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6702wddqz17o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-25T07:22:27+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [
+        "Bundesliga"
+      ],
+      "priority": 12
+    },
+    {
+      "id": "a043b6ffd9be0abb",
+      "title": "Who am I? Plus today's other quizzes",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cxvg2e6l57j7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-25T06:56:11+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "373b1537d5ac79f2",
+      "title": "CAN 2025 : le Sénégal déclaré vainqueur par le TAS, le Maroc conteste",
+      "url": "https://www.france24.com/fr/%C3%A9missions/sports/20261125-can-2025-le-s%C3%A9n%C3%A9gal-d%C3%A9clar%C3%A9-vainqueur-par-le-tas-le-maroc-conteste",
+      "source": "France 24",
+      "published_at": "2026-11-25T06:28:24+00:00",
+      "category": "clubs",
+      "language": "fr",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "976e4f5eb4e51e21",
+      "title": "Are Manchester United this season's Tottenham?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj4gndepk312o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-25T06:22:36+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [
+        "Premier League"
+      ],
+      "priority": 12
+    },
     {
       "id": "4815d6e9185b578e",
       "title": "Bellingham plays down Zidane comparison after wonder goal",
@@ -162,19 +210,6 @@
       "priority": 12
     },
     {
-      "id": "68681e8fcc9bfe9a",
-      "title": "Bayern hold 'constructive' talks over Musiala's health",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9x2ejnypp8jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-24T19:58:58+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [
-        "Bundesliga"
-      ],
-      "priority": 12
-    },
-    {
       "id": "365825080bc85e38",
       "title": "Florian Wirtz hails Iraola and Klopp as he reaches new levels for Liverpool",
       "url": "https://www.theguardian.com/football/2026/nov/24/florian-wirtz-hails-iraola-and-klopp-as-he-reaches-new-levels-for-liverpool",
@@ -210,17 +245,6 @@
       "priority": 0
     },
     {
-      "id": "98730447b180e46e",
-      "title": "Yoro red card overturned, but refs' chief Webb backs decision",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck868g93djl5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-24T17:00:32+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
       "id": "4416092a7ca7b7e9",
       "title": "La CAN 2025 attribuée définitivement au Sénégal par le Tribunal arbitral du sport",
       "url": "https://www.rfi.fr/fr/afrique-foot/20261124-la-can-2025-attribu%C3%A9e-d%C3%A9finitivement-au-s%C3%A9n%C3%A9gal-par-le-tribunal-arbitral-du-sport",
@@ -228,17 +252,6 @@
       "published_at": "2026-11-24T14:27:25+00:00",
       "category": "clubs",
       "language": "fr",
-      "topics": [],
-      "priority": 0
-    },
-    {
-      "id": "65e3dbb29b6531c1",
-      "title": "Millwall face partial stadium closure after discriminatory chants",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6wy474lxd22o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-24T14:23:49+00:00",
-      "category": "clubs",
-      "language": "en",
       "topics": [],
       "priority": 0
     },
@@ -486,15 +499,15 @@
   ],
   "source_errors": [],
   "search_trends_fr": [
-    "un si grand soleil 25 novembre 2026",
-    "acteurs publics",
-    "rinderknech",
-    "openai",
-    "paris fc",
-    "meteo nice",
-    "meteo nancy",
-    "météo",
-    "jennifer barreto",
-    "weather"
+    "valérie pécresse",
+    "anne fraïsse",
+    "emilie konig",
+    "greve 25 novembre 2026",
+    "poulet",
+    "aurore bergé",
+    "kilmar armando ábrego garcía",
+    "stray kids suiatsu",
+    "arabie saoudite",
+    "ariana grande"
   ]
 }
