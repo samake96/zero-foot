@@ -1,7 +1,7 @@
 {
   "source": "API-Football",
-  "updated_at": "2026-11-25T10:18:46.555995+00:00",
-  "total": 2241,
+  "updated_at": "2026-11-25T13:29:51.430921+00:00",
+  "total": 2295,
   "matches": [
     {
       "id": 1618433,
@@ -21,6 +21,1140 @@
       "away": {
         "name": "Gemert",
         "logo": "https://media.api-sports.io/football/teams/1230.png",
+        "goals": 0
+      }
+    },
+    {
+      "id": 1602749,
+      "kickoff": "2026-11-25T11:30:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 297,
+        "name": "Thai League 2",
+        "country": "Thailand"
+      },
+      "home": {
+        "name": "Muangthong United",
+        "logo": "https://media.api-sports.io/football/teams/2786.png",
+        "goals": 3
+      },
+      "away": {
+        "name": "Nakhon Ratchasima FC",
+        "logo": "https://media.api-sports.io/football/teams/2773.png",
+        "goals": 2
+      }
+    },
+    {
+      "id": 1602750,
+      "kickoff": "2026-11-25T11:30:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 297,
+        "name": "Thai League 2",
+        "country": "Thailand"
+      },
+      "home": {
+        "name": "Satun",
+        "logo": "https://media.api-sports.io/football/teams/22348.png",
+        "goals": 0
+      },
+      "away": {
+        "name": "Police Tero",
+        "logo": "https://media.api-sports.io/football/teams/2775.png",
+        "goals": 0
+      }
+    },
+    {
+      "id": 1602747,
+      "kickoff": "2026-11-25T11:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 297,
+        "name": "Thai League 2",
+        "country": "Thailand"
+      },
+      "home": {
+        "name": "Chiangmai United",
+        "logo": "https://media.api-sports.io/football/teams/2863.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "Mahasarakham United",
+        "logo": "https://media.api-sports.io/football/teams/17910.png",
+        "goals": 2
+      }
+    },
+    {
+      "id": 1602748,
+      "kickoff": "2026-11-25T11:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 297,
+        "name": "Thai League 2",
+        "country": "Thailand"
+      },
+      "home": {
+        "name": "Kasetsart FC",
+        "logo": "https://media.api-sports.io/football/teams/2800.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "Phrae United",
+        "logo": "https://media.api-sports.io/football/teams/6585.png",
+        "goals": 1
+      }
+    },
+    {
+      "id": 1611800,
+      "kickoff": "2026-11-25T11:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 1065,
+        "name": "U19 League",
+        "country": "Ukraine"
+      },
+      "home": {
+        "name": "Dynamo Kyiv U19",
+        "logo": "https://media.api-sports.io/football/teams/7898.png",
+        "goals": 3
+      },
+      "away": {
+        "name": "Livyi Bereh U19",
+        "logo": "https://media.api-sports.io/football/teams/25118.png",
+        "goals": 0
+      }
+    },
+    {
+      "id": 1637393,
+      "kickoff": "2026-11-25T11:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 14,
+        "name": "UEFA Youth League",
+        "country": "World"
+      },
+      "home": {
+        "name": "Sabah U19",
+        "logo": "https://media.api-sports.io/football/teams/24986.png",
+        "goals": 0
+      },
+      "away": {
+        "name": "Barcelona U19",
+        "logo": "https://media.api-sports.io/football/teams/7885.png",
+        "goals": 7
+      }
+    },
+    {
+      "id": 1648207,
+      "kickoff": "2026-11-25T11:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 108,
+        "name": "Cup",
+        "country": "Poland"
+      },
+      "home": {
+        "name": "Polonia Środa",
+        "logo": "https://media.api-sports.io/football/teams/6948.png",
+        "goals": 2
+      },
+      "away": {
+        "name": "Sokół Kleczew",
+        "logo": "https://media.api-sports.io/football/teams/16255.png",
+        "goals": 1
+      }
+    },
+    {
+      "id": 1649073,
+      "kickoff": "2026-11-25T11:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 14,
+        "name": "UEFA Youth League",
+        "country": "World"
+      },
+      "home": {
+        "name": "Legia Warszawa U19",
+        "logo": "https://media.api-sports.io/football/teams/7987.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "Super Nova U19",
+        "logo": "https://media.api-sports.io/football/teams/28406.png",
+        "goals": 0
+      }
+    },
+    {
+      "id": 1556156,
+      "kickoff": "2026-11-25T10:30:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 98,
+        "name": "J1 League",
+        "country": "Japan"
+      },
+      "home": {
+        "name": "Urawa",
+        "logo": "https://media.api-sports.io/football/teams/287.png",
+        "goals": 2
+      },
+      "away": {
+        "name": "Cerezo Osaka",
+        "logo": "https://media.api-sports.io/football/teams/291.png",
+        "goals": 2
+      }
+    },
+    {
+      "id": 1629136,
+      "kickoff": "2026-11-25T10:30:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 276,
+        "name": "FKF Premier League",
+        "country": "Kenya"
+      },
+      "home": {
+        "name": "Homeboyz",
+        "logo": "https://media.api-sports.io/football/teams/2462.png",
+        "goals": 3
+      },
+      "away": {
+        "name": "Shabana",
+        "logo": "https://media.api-sports.io/football/teams/19489.png",
+        "goals": 2
+      }
+    },
+    {
+      "id": 1639380,
+      "kickoff": "2026-11-25T10:30:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 589,
+        "name": "Taiwan Football Premier League",
+        "country": "Chinese-Taipei"
+      },
+      "home": {
+        "name": "Tainan City",
+        "logo": "https://media.api-sports.io/football/teams/12543.png",
+        "goals": 4
+      },
+      "away": {
+        "name": "Taichung Rock FC",
+        "logo": "https://media.api-sports.io/football/teams/26332.png",
+        "goals": 0
+      }
+    },
+    {
+      "id": 1646636,
+      "kickoff": "2026-11-25T10:30:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 324,
+        "name": "I-League",
+        "country": "India"
+      },
+      "home": {
+        "name": "Mohammedan",
+        "logo": "https://media.api-sports.io/football/teams/15585.png",
+        "goals": 0
+      },
+      "away": {
+        "name": "Rajasthan United",
+        "logo": "https://media.api-sports.io/football/teams/18009.png",
+        "goals": 4
+      }
+    },
+    {
+      "id": 1650648,
+      "kickoff": "2026-11-25T10:30:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 1252,
+        "name": "Premier League U22",
+        "country": "Hong-Kong"
+      },
+      "home": {
+        "name": "Kowloon City U22",
+        "logo": "https://media.api-sports.io/football/teams/28702.png",
+        "goals": 2
+      },
+      "away": {
+        "name": "Shatin U22",
+        "logo": "https://media.api-sports.io/football/teams/28705.png",
+        "goals": 0
+      }
+    },
+    {
+      "id": 1527766,
+      "kickoff": "2026-11-25T10:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 571,
+        "name": "Vysshaya Liga",
+        "country": "Tajikistan"
+      },
+      "home": {
+        "name": "Istiqlol",
+        "logo": "https://media.api-sports.io/football/teams/8012.png",
+        "goals": 8
+      },
+      "away": {
+        "name": "Istaravshan",
+        "logo": "https://media.api-sports.io/football/teams/12264.png",
+        "goals": 0
+      }
+    },
+    {
+      "id": 1555821,
+      "kickoff": "2026-11-25T10:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 100,
+        "name": "J3 League",
+        "country": "Japan"
+      },
+      "home": {
+        "name": "FC Gifu",
+        "logo": "https://media.api-sports.io/football/teams/297.png",
+        "goals": 0
+      },
+      "away": {
+        "name": "Thespakusatsu Gunma",
+        "logo": "https://media.api-sports.io/football/teams/756.png",
+        "goals": 1
+      }
+    },
+    {
+      "id": 1555823,
+      "kickoff": "2026-11-25T10:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 100,
+        "name": "J3 League",
+        "country": "Japan"
+      },
+      "home": {
+        "name": "Kamatamare Sanuki",
+        "logo": "https://media.api-sports.io/football/teams/317.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "Gainare Tottori",
+        "logo": "https://media.api-sports.io/football/teams/4319.png",
+        "goals": 0
+      }
+    },
+    {
+      "id": 1555824,
+      "kickoff": "2026-11-25T10:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 100,
+        "name": "J3 League",
+        "country": "Japan"
+      },
+      "home": {
+        "name": "Parceiro Nagano",
+        "logo": "https://media.api-sports.io/football/teams/4323.png",
+        "goals": 0
+      },
+      "away": {
+        "name": "Kagoshima United",
+        "logo": "https://media.api-sports.io/football/teams/2236.png",
+        "goals": 2
+      }
+    },
+    {
+      "id": 1555825,
+      "kickoff": "2026-11-25T10:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 100,
+        "name": "J3 League",
+        "country": "Japan"
+      },
+      "home": {
+        "name": "Nara Club",
+        "logo": "https://media.api-sports.io/football/teams/7135.png",
+        "goals": 2
+      },
+      "away": {
+        "name": "Matsumoto Yamaga",
+        "logo": "https://media.api-sports.io/football/teams/304.png",
+        "goals": 1
+      }
+    },
+    {
+      "id": 1555826,
+      "kickoff": "2026-11-25T10:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 100,
+        "name": "J3 League",
+        "country": "Japan"
+      },
+      "home": {
+        "name": "Osaka",
+        "logo": "https://media.api-sports.io/football/teams/7138.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "Tochigi SC",
+        "logo": "https://media.api-sports.io/football/teams/315.png",
+        "goals": 0
+      }
+    },
+    {
+      "id": 1555828,
+      "kickoff": "2026-11-25T10:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 100,
+        "name": "J3 League",
+        "country": "Japan"
+      },
+      "home": {
+        "name": "Renofa Yamaguchi",
+        "logo": "https://media.api-sports.io/football/teams/309.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "Fukushima United",
+        "logo": "https://media.api-sports.io/football/teams/4318.png",
+        "goals": 2
+      }
+    },
+    {
+      "id": 1556151,
+      "kickoff": "2026-11-25T10:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 98,
+        "name": "J1 League",
+        "country": "Japan"
+      },
+      "home": {
+        "name": "Avispa Fukuoka",
+        "logo": "https://media.api-sports.io/football/teams/316.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "Yokohama F. Marinos",
+        "logo": "https://media.api-sports.io/football/teams/296.png",
+        "goals": 2
+      }
+    },
+    {
+      "id": 1556152,
+      "kickoff": "2026-11-25T10:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 98,
+        "name": "J1 League",
+        "country": "Japan"
+      },
+      "home": {
+        "name": "JEF United Chiba",
+        "logo": "https://media.api-sports.io/football/teams/301.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "Nagoya Grampus",
+        "logo": "https://media.api-sports.io/football/teams/288.png",
+        "goals": 2
+      }
+    },
+    {
+      "id": 1556153,
+      "kickoff": "2026-11-25T10:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 98,
+        "name": "J1 League",
+        "country": "Japan"
+      },
+      "home": {
+        "name": "FC Tokyo",
+        "logo": "https://media.api-sports.io/football/teams/292.png",
+        "goals": 2
+      },
+      "away": {
+        "name": "Sanfrecce Hiroshima",
+        "logo": "https://media.api-sports.io/football/teams/282.png",
+        "goals": 2
+      }
+    },
+    {
+      "id": 1556154,
+      "kickoff": "2026-11-25T10:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 98,
+        "name": "J1 League",
+        "country": "Japan"
+      },
+      "home": {
+        "name": "Mito Hollyhock",
+        "logo": "https://media.api-sports.io/football/teams/305.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "Tokyo Verdy",
+        "logo": "https://media.api-sports.io/football/teams/306.png",
+        "goals": 0
+      }
+    },
+    {
+      "id": 1556155,
+      "kickoff": "2026-11-25T10:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 98,
+        "name": "J1 League",
+        "country": "Japan"
+      },
+      "home": {
+        "name": "Fagiano Okayama",
+        "logo": "https://media.api-sports.io/football/teams/310.png",
+        "goals": 2
+      },
+      "away": {
+        "name": "Shimizu S-pulse",
+        "logo": "https://media.api-sports.io/football/teams/283.png",
+        "goals": 0
+      }
+    },
+    {
+      "id": 1556157,
+      "kickoff": "2026-11-25T10:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 98,
+        "name": "J1 League",
+        "country": "Japan"
+      },
+      "home": {
+        "name": "V-varen Nagasaki",
+        "logo": "https://media.api-sports.io/football/teams/285.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "Kawasaki Frontale",
+        "logo": "https://media.api-sports.io/football/teams/294.png",
+        "goals": 2
+      }
+    },
+    {
+      "id": 1565097,
+      "kickoff": "2026-11-25T10:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 668,
+        "name": "1. Liga U19",
+        "country": "Czech-Republic"
+      },
+      "home": {
+        "name": "Viktoria Plzeň U19",
+        "logo": "https://media.api-sports.io/football/teams/7970.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "Sparta Praha U19",
+        "logo": "https://media.api-sports.io/football/teams/7995.png",
+        "goals": 1
+      }
+    },
+    {
+      "id": 1565108,
+      "kickoff": "2026-11-25T10:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 668,
+        "name": "1. Liga U19",
+        "country": "Czech-Republic"
+      },
+      "home": {
+        "name": "Sigma Olomouc U19",
+        "logo": "https://media.api-sports.io/football/teams/7969.png",
+        "goals": 5
+      },
+      "away": {
+        "name": "Baník Ostrava U19",
+        "logo": "https://media.api-sports.io/football/teams/14830.png",
+        "goals": 2
+      }
+    },
+    {
+      "id": 1605129,
+      "kickoff": "2026-11-25T10:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 343,
+        "name": "First League",
+        "country": "Armenia"
+      },
+      "home": {
+        "name": "Ararat-Armenia II",
+        "logo": "https://media.api-sports.io/football/teams/3689.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "Noah II",
+        "logo": "https://media.api-sports.io/football/teams/21879.png",
+        "goals": 1
+      }
+    },
+    {
+      "id": 1606778,
+      "kickoff": "2026-11-25T10:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 99,
+        "name": "J2 League",
+        "country": "Japan"
+      },
+      "home": {
+        "name": "Montedio Yamagata",
+        "logo": "https://media.api-sports.io/football/teams/312.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "Jubilo Iwata",
+        "logo": "https://media.api-sports.io/football/teams/280.png",
+        "goals": 0
+      }
+    },
+    {
+      "id": 1606779,
+      "kickoff": "2026-11-25T10:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 99,
+        "name": "J2 League",
+        "country": "Japan"
+      },
+      "home": {
+        "name": "Tochigi City",
+        "logo": "https://media.api-sports.io/football/teams/7145.png",
+        "goals": 0
+      },
+      "away": {
+        "name": "Blaublitz Akita",
+        "logo": "https://media.api-sports.io/football/teams/4315.png",
+        "goals": 0
+      }
+    },
+    {
+      "id": 1606780,
+      "kickoff": "2026-11-25T10:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 99,
+        "name": "J2 League",
+        "country": "Japan"
+      },
+      "home": {
+        "name": "Yokohama FC",
+        "logo": "https://media.api-sports.io/football/teams/307.png",
+        "goals": 2
+      },
+      "away": {
+        "name": "Vegalta Sendai",
+        "logo": "https://media.api-sports.io/football/teams/286.png",
+        "goals": 1
+      }
+    },
+    {
+      "id": 1606781,
+      "kickoff": "2026-11-25T10:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 99,
+        "name": "J2 League",
+        "country": "Japan"
+      },
+      "home": {
+        "name": "Iwaki",
+        "logo": "https://media.api-sports.io/football/teams/7127.png",
+        "goals": 0
+      },
+      "away": {
+        "name": "Kataller Toyama",
+        "logo": "https://media.api-sports.io/football/teams/4322.png",
+        "goals": 1
+      }
+    },
+    {
+      "id": 1606782,
+      "kickoff": "2026-11-25T10:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 99,
+        "name": "J2 League",
+        "country": "Japan"
+      },
+      "home": {
+        "name": "Omiya Ardija",
+        "logo": "https://media.api-sports.io/football/teams/313.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "Tokushima Vortis",
+        "logo": "https://media.api-sports.io/football/teams/299.png",
+        "goals": 2
+      }
+    },
+    {
+      "id": 1606783,
+      "kickoff": "2026-11-25T10:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 99,
+        "name": "J2 League",
+        "country": "Japan"
+      },
+      "home": {
+        "name": "Sagan Tosu",
+        "logo": "https://media.api-sports.io/football/teams/295.png",
+        "goals": 4
+      },
+      "away": {
+        "name": "Oita Trinita",
+        "logo": "https://media.api-sports.io/football/teams/298.png",
+        "goals": 0
+      }
+    },
+    {
+      "id": 1606784,
+      "kickoff": "2026-11-25T10:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 99,
+        "name": "J2 League",
+        "country": "Japan"
+      },
+      "home": {
+        "name": "Shonan Bellmare",
+        "logo": "https://media.api-sports.io/football/teams/284.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "Ventforet Kofu",
+        "logo": "https://media.api-sports.io/football/teams/308.png",
+        "goals": 0
+      }
+    },
+    {
+      "id": 1606785,
+      "kickoff": "2026-11-25T10:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 99,
+        "name": "J2 League",
+        "country": "Japan"
+      },
+      "home": {
+        "name": "Consadole Sapporo",
+        "logo": "https://media.api-sports.io/football/teams/279.png",
+        "goals": 2
+      },
+      "away": {
+        "name": "Fujieda MYFC",
+        "logo": "https://media.api-sports.io/football/teams/4317.png",
+        "goals": 1
+      }
+    },
+    {
+      "id": 1611801,
+      "kickoff": "2026-11-25T10:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 1065,
+        "name": "U19 League",
+        "country": "Ukraine"
+      },
+      "home": {
+        "name": "Metalist 1925 U19",
+        "logo": "https://media.api-sports.io/football/teams/23078.png",
+        "goals": 2
+      },
+      "away": {
+        "name": "Oleksandria U19",
+        "logo": "https://media.api-sports.io/football/teams/23081.png",
+        "goals": 2
+      }
+    },
+    {
+      "id": 1611802,
+      "kickoff": "2026-11-25T10:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 1065,
+        "name": "U19 League",
+        "country": "Ukraine"
+      },
+      "home": {
+        "name": "Karpaty Lviv U19",
+        "logo": "https://media.api-sports.io/football/teams/24177.png",
+        "goals": 3
+      },
+      "away": {
+        "name": "Obolon' Kyiv U19",
+        "logo": "https://media.api-sports.io/football/teams/23080.png",
+        "goals": 0
+      }
+    },
+    {
+      "id": 1611889,
+      "kickoff": "2026-11-25T10:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 1065,
+        "name": "U19 League",
+        "country": "Ukraine"
+      },
+      "home": {
+        "name": "Zhytomyr U19",
+        "logo": "https://media.api-sports.io/football/teams/23084.png",
+        "goals": 6
+      },
+      "away": {
+        "name": "SK Metalurh U19",
+        "logo": "https://media.api-sports.io/football/teams/28082.png",
+        "goals": 0
+      }
+    },
+    {
+      "id": 1629989,
+      "kickoff": "2026-11-25T10:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 17,
+        "name": "AFC Champions League Elite",
+        "country": "World"
+      },
+      "home": {
+        "name": "Gamba Osaka",
+        "logo": "https://media.api-sports.io/football/teams/293.png",
+        "goals": 2
+      },
+      "away": {
+        "name": "Port FC",
+        "logo": "https://media.api-sports.io/football/teams/2789.png",
+        "goals": 0
+      }
+    },
+    {
+      "id": 1629990,
+      "kickoff": "2026-11-25T10:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 17,
+        "name": "AFC Champions League Elite",
+        "country": "World"
+      },
+      "home": {
+        "name": "Kashima",
+        "logo": "https://media.api-sports.io/football/teams/290.png",
+        "goals": 3
+      },
+      "away": {
+        "name": "Jeonbuk Motors",
+        "logo": "https://media.api-sports.io/football/teams/2762.png",
+        "goals": 0
+      }
+    },
+    {
+      "id": 1651625,
+      "kickoff": "2026-11-25T10:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 238,
+        "name": "Youth Championship",
+        "country": "Russia"
+      },
+      "home": {
+        "name": "Kirovets-Voskhozhdenie U19",
+        "logo": "https://media.api-sports.io/football/teams/28731.png",
+        "goals": 0
+      },
+      "away": {
+        "name": "Nizhny Novgorod U19",
+        "logo": "https://media.api-sports.io/football/teams/17151.png",
+        "goals": 4
+      }
+    },
+    {
+      "id": 1509231,
+      "kickoff": "2026-11-25T09:30:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 327,
+        "name": "Erovnuli Liga",
+        "country": "Georgia"
+      },
+      "home": {
+        "name": "Samgurali",
+        "logo": "https://media.api-sports.io/football/teams/10017.png",
+        "goals": 0
+      },
+      "away": {
+        "name": "Torpedo Kutaisi",
+        "logo": "https://media.api-sports.io/football/teams/685.png",
+        "goals": 1
+      }
+    },
+    {
+      "id": 1555830,
+      "kickoff": "2026-11-25T09:30:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 100,
+        "name": "J3 League",
+        "country": "Japan"
+      },
+      "home": {
+        "name": "Sagamihara",
+        "logo": "https://media.api-sports.io/football/teams/4324.png",
+        "goals": 3
+      },
+      "away": {
+        "name": "Ehime FC",
+        "logo": "https://media.api-sports.io/football/teams/318.png",
+        "goals": 0
+      }
+    },
+    {
+      "id": 1606776,
+      "kickoff": "2026-11-25T09:30:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 99,
+        "name": "J2 League",
+        "country": "Japan"
+      },
+      "home": {
+        "name": "Vanraure Hachinohe",
+        "logo": "https://media.api-sports.io/football/teams/4326.png",
+        "goals": 0
+      },
+      "away": {
+        "name": "Albirex Niigata",
+        "logo": "https://media.api-sports.io/football/teams/311.png",
+        "goals": 1
+      }
+    },
+    {
+      "id": 1606777,
+      "kickoff": "2026-11-25T09:30:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 99,
+        "name": "J2 League",
+        "country": "Japan"
+      },
+      "home": {
+        "name": "Imabari",
+        "logo": "https://media.api-sports.io/football/teams/10075.png",
+        "goals": 2
+      },
+      "away": {
+        "name": "Tegevajaro Miyazaki",
+        "logo": "https://media.api-sports.io/football/teams/10409.png",
+        "goals": 1
+      }
+    },
+    {
+      "id": 1555827,
+      "kickoff": "2026-11-25T09:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 100,
+        "name": "J3 League",
+        "country": "Japan"
+      },
+      "home": {
+        "name": "Biwako Shiga",
+        "logo": "https://media.api-sports.io/football/teams/7117.png",
+        "goals": 0
+      },
+      "away": {
+        "name": "Kochi United",
+        "logo": "https://media.api-sports.io/football/teams/7129.png",
+        "goals": 1
+      }
+    },
+    {
+      "id": 1634844,
+      "kickoff": "2026-11-25T09:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 588,
+        "name": "National League",
+        "country": "Myanmar"
+      },
+      "home": {
+        "name": "Yangon United",
+        "logo": "https://media.api-sports.io/football/teams/8013.png",
+        "goals": 3
+      },
+      "away": {
+        "name": "Myawady",
+        "logo": "https://media.api-sports.io/football/teams/19048.png",
+        "goals": 0
+      }
+    },
+    {
+      "id": 1634864,
+      "kickoff": "2026-11-25T09:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 588,
+        "name": "National League",
+        "country": "Myanmar"
+      },
+      "home": {
+        "name": "Shan United",
+        "logo": "https://media.api-sports.io/football/teams/8015.png",
+        "goals": 4
+      },
+      "away": {
+        "name": "Thitsar Arman",
+        "logo": "https://media.api-sports.io/football/teams/24091.png",
+        "goals": 3
+      }
+    },
+    {
+      "id": 1648382,
+      "kickoff": "2026-11-25T08:30:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 1250,
+        "name": "League Cup Indonesia",
+        "country": "Indonesia"
+      },
+      "home": {
+        "name": "Persiku Kudus",
+        "logo": "https://media.api-sports.io/football/teams/24997.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "PSIM Yogyakarta",
+        "logo": "https://media.api-sports.io/football/teams/4235.png",
+        "goals": 2
+      }
+    },
+    {
+      "id": 1650704,
+      "kickoff": "2026-11-25T08:30:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 1253,
+        "name": "Liga Nusantara",
+        "country": "Indonesia"
+      },
+      "home": {
+        "name": "Batavia",
+        "logo": "https://media.api-sports.io/football/teams/28708.png",
+        "goals": 0
+      },
+      "away": {
+        "name": "Pesik",
+        "logo": "https://media.api-sports.io/football/teams/28719.png",
+        "goals": 1
+      }
+    },
+    {
+      "id": 1650705,
+      "kickoff": "2026-11-25T08:30:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 1253,
+        "name": "Liga Nusantara",
+        "country": "Indonesia"
+      },
+      "home": {
+        "name": "Persekat",
+        "logo": "https://media.api-sports.io/football/teams/11130.png",
+        "goals": 0
+      },
+      "away": {
+        "name": "Nusantara United",
+        "logo": "https://media.api-sports.io/football/teams/20074.png",
+        "goals": 0
+      }
+    },
+    {
+      "id": 1650706,
+      "kickoff": "2026-11-25T08:30:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 1253,
+        "name": "Liga Nusantara",
+        "country": "Indonesia"
+      },
+      "home": {
+        "name": "Persikota Tangerang",
+        "logo": "https://media.api-sports.io/football/teams/24996.png",
+        "goals": 7
+      },
+      "away": {
+        "name": "Persitara",
+        "logo": "https://media.api-sports.io/football/teams/28718.png",
         "goals": 0
       }
     },
