@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T00:22:36.788897+00:00",
+  "updated_at": "2026-11-25T01:55:45.115090+00:00",
   "items": [
     {
       "id": "4815d6e9185b578e",
@@ -221,17 +221,6 @@
       "priority": 0
     },
     {
-      "id": "610beeead4c73acb",
-      "title": "Football Daily | The game’s gone: has fantasy football been ruined by AI gafferbots?",
-      "url": "https://www.theguardian.com/football/2026/nov/24/fpl-ruined-ai-football-daily-newsletter",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-24T16:16:52+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
       "id": "4416092a7ca7b7e9",
       "title": "La CAN 2025 attribuée définitivement au Sénégal par le Tribunal arbitral du sport",
       "url": "https://www.rfi.fr/fr/afrique-foot/20261124-la-can-2025-attribu%C3%A9e-d%C3%A9finitivement-au-s%C3%A9n%C3%A9gal-par-le-tribunal-arbitral-du-sport",
@@ -265,6 +254,19 @@
       "priority": 0
     },
     {
+      "id": "d9038e6043470b2c",
+      "title": "Dynamic pricing to be used for games in US during 2031 Women’s World Cup",
+      "url": "https://www.theguardian.com/football/2026/nov/24/dynamic-pricing-tickets-womens-world-cup-2031",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-24T13:33:13+00:00",
+      "category": "competitions",
+      "language": "en",
+      "topics": [
+        "Sélections"
+      ],
+      "priority": 12
+    },
+    {
       "id": "365110db02f68689",
       "title": "CAN 2025: revivez notre direct sur la décision du TAS qui confirme la victoire du Sénégal sur le Maroc",
       "url": "https://www.rfi.fr/fr/afrique-foot/20261124-can-2025-suivez-en-direct-la-d%C3%A9cision-du-tas-sur-la-finale-entre-le-maroc-et-le-s%C3%A9n%C3%A9gal",
@@ -289,6 +291,17 @@
       "priority": 12
     },
     {
+      "id": "bd2413872ba7658e",
+      "title": "Crystal Palace docked three WSL points for extra substitution against Everton",
+      "url": "https://www.theguardian.com/football/2026/nov/24/crystal-palace-docked-three-points-wsl-extra-substitution-everton",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-24T11:40:14+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
       "id": "22b7024ffa266ac8",
       "title": "David Squires on … Pochettino flying into a storm at Manchester United. Here we go again",
       "url": "https://www.theguardian.com/football/picture/2026/nov/24/david-squires-on-mauricio-pochettino-manchester-united-here-we-go-again",
@@ -298,19 +311,6 @@
       "language": "en",
       "topics": [
         "Premier League"
-      ],
-      "priority": 12
-    },
-    {
-      "id": "85778e1da2cca663",
-      "title": "UK nations in dark over whether they will get automatic entry to 2035 Women’s World Cup",
-      "url": "https://www.theguardian.com/football/2026/nov/24/uk-automatic-qualification-2035-womens-world-cup-england-northern-ireland-scotland-wales",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-24T11:00:43+00:00",
-      "category": "competitions",
-      "language": "en",
-      "topics": [
-        "Sélections"
       ],
       "priority": 12
     },
@@ -486,15 +486,15 @@
   ],
   "source_errors": [],
   "search_trends_fr": [
+    "election miss universe",
+    "magic – pistons",
     "bruce willis",
     "scènes de ménages",
-    "1993",
     "air france-klm",
     "vice city",
-    "victime",
+    "1993",
     "élèves nommés star academy",
-    "pleine lune novembre 2026 du castor",
-    "hanouna",
-    "senat abattement fiscal retraités"
+    "victime",
+    "pleine lune novembre 2026 du castor"
   ]
 }
