@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-11-25T15:04:25.944915+00:00",
+  "updated_at": "2026-11-25T16:11:01.617386+00:00",
   "items": [
+    {
+      "id": "a8975a775ff677ee",
+      "title": "Saudi Arabia’s PIF looking to sell 25% of Newcastle through share issue",
+      "url": "https://www.theguardian.com/football/2026/nov/25/saudi-arabia-pif-newcastle-share-issue",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-25T15:36:32+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [
+        "Premier League"
+      ],
+      "priority": 12
+    },
+    {
+      "id": "ba1807fde815beda",
+      "title": "CAN 2025 : le Tribunal arbitral du sport a-t-il déjà été déjugé ?",
+      "url": "https://www.france24.com/fr/sports/20261125-can-2025-tribunal-arbitral-sport-d%C3%A9j%C3%A0-%C3%A9t%C3%A9-d%C3%A9jug%C3%A9",
+      "source": "France 24",
+      "published_at": "2026-11-25T15:34:18+00:00",
+      "category": "clubs",
+      "language": "fr",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "e50ad829737c7da6",
+      "title": "CAN 2025: le président de la Fédération sénégalaise dément une nouvelle fois tout contact avec un juge du TAS",
+      "url": "https://www.rfi.fr/fr/afrique-foot/20261125-can-2025-le-pr%C3%A9sident-de-la-f%C3%A9d%C3%A9ration-s%C3%A9n%C3%A9galaise-d%C3%A9ment-une-nouvelle-fois-tout-contact-avec-un-juge-du-tas",
+      "source": "RFI Afrique Foot",
+      "published_at": "2026-11-25T15:17:34+00:00",
+      "category": "clubs",
+      "language": "fr",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "2200640b8e0fee7b",
+      "title": "Football Daily | Manchester City get that empty feeling as they fail to win again",
+      "url": "https://www.theguardian.com/football/2026/nov/25/manchester-city-empty-feeling-football-daily-newsletter",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-25T15:13:01+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [
+        "Premier League"
+      ],
+      "priority": 12
+    },
     {
       "id": "de96945cc5bc4b25",
       "title": "Premier League’s burst of early sendings-off may not last – but red cards are on the rise for a reason",
@@ -31,17 +79,6 @@
       "url": "https://www.theguardian.com/football/2026/nov/25/pep-guardiola-coaching-job-usmnt-italy",
       "source": "The Guardian Football",
       "published_at": "2026-11-25T14:07:50+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
-      "id": "1eb9b0d1ac1a4b20",
-      "title": "Sterling given suspended sentence for dangerous driving",
-      "url": "https://www.bbc.co.uk/news/articles/cv8e04ll9dd3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-25T13:57:12+00:00",
       "category": "clubs",
       "language": "en",
       "topics": [],
@@ -163,17 +200,6 @@
       "url": "https://www.theguardian.com/football/2026/nov/25/pele-diego-maradona-brazil-argentina-world-cup",
       "source": "The Guardian Football",
       "published_at": "2026-11-25T08:00:10+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
-      "id": "fb2f61f6d2234283",
-      "title": "Has a footballer had a longer career hiatus than Ronaldinho’s 11 year-gap? | The Knowledge",
-      "url": "https://www.theguardian.com/football/2026/nov/25/has-a-footballer-had-a-longer-career-hiatus-than-ronaldinhos-11-year-gap",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-25T08:00:09+00:00",
       "category": "clubs",
       "language": "en",
       "topics": [],
@@ -320,19 +346,6 @@
       "priority": 0
     },
     {
-      "id": "22b7024ffa266ac8",
-      "title": "David Squires on … Pochettino flying into a storm at Manchester United. Here we go again",
-      "url": "https://www.theguardian.com/football/picture/2026/nov/24/david-squires-on-mauricio-pochettino-manchester-united-here-we-go-again",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-24T11:31:27+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [
-        "Premier League"
-      ],
-      "priority": 12
-    },
-    {
       "id": "596e71c1ab6ca2e9",
       "title": "The youngest Premier League goalscorers this season",
       "url": "https://www.bbc.co.uk/sport/football/videos/cme39v4w7ykqo?at_medium=RSS&at_campaign=rss",
@@ -344,6 +357,17 @@
         "Premier League"
       ],
       "priority": 12
+    },
+    {
+      "id": "c4b4808f305eaa19",
+      "title": "Moyes questions Tarkowski red in Brentford loss",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cq4gnk062y8go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-23T22:54:51+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
     },
     {
       "id": "21dc208548d7d248",
@@ -445,15 +469,15 @@
   ],
   "source_errors": [],
   "search_trends_fr": [
-    "emmanuel meafou",
-    "maladie à virus ebola",
-    "mini-série",
-    "joueur africain de l'année",
-    "arme nucléaire",
-    "coupe du monde u17",
-    "ukraine direct",
-    "ayyoub bouaddi",
-    "normandie",
-    "cannon beach"
+    "cyril hanouna",
+    "david lisnard taxe d habitation",
+    "zarak",
+    "marcus smith",
+    "arrestation",
+    "saint-sorlin-en-valloire",
+    "fonds souverain",
+    "youth league",
+    "olivier martinez",
+    "francoise gatel"
   ]
 }
