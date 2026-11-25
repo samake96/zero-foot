@@ -1,12 +1,52 @@
 {
-  "updated_at": "2026-11-25T18:04:37.754766+00:00",
+  "updated_at": "2026-11-25T18:54:41.804333+00:00",
   "items": [
+    {
+      "id": "997d28e88e51d250",
+      "title": "Sporting v Manchester United: Champions League – live",
+      "url": "https://www.theguardian.com/football/live/2026/nov/25/sporting-v-manchester-united-champions-league-live",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-25T18:42:47+00:00",
+      "category": "competitions",
+      "language": "en",
+      "topics": [
+        "Premier League",
+        "Ligue des champions"
+      ],
+      "priority": 12
+    },
+    {
+      "id": "0b7f6cc39200af9b",
+      "title": "Club Brugge v Liverpool, Lille v Bayern Munich and more: Champions League clockwatch – live",
+      "url": "https://www.theguardian.com/football/live/2026/nov/25/club-brugge-v-liverpool-lille-v-bayern-munich-and-more-champions-league-clockwatch-live",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-25T18:42:35+00:00",
+      "category": "competitions",
+      "language": "en",
+      "topics": [
+        "Premier League",
+        "Bundesliga",
+        "Ligue des champions"
+      ],
+      "priority": 12
+    },
+    {
+      "id": "2d8b33e5c295f77f",
+      "title": "Can Iordanescu make a difference at Watford & how do you become a free-kick specialist?",
+      "url": "https://www.bbc.co.uk/sounds/play/p0ppxp3z?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-25T18:35:00+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
     {
       "id": "ae5c98be42636f06",
       "title": "Glasner criticises Forest players yet to learn English",
       "url": "https://www.bbc.co.uk/sport/football/articles/cw20xr4d7x55o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
-      "published_at": "2026-11-25T18:00:26+00:00",
+      "published_at": "2026-11-25T18:32:55+00:00",
       "category": "clubs",
       "language": "en",
       "topics": [],
@@ -18,17 +58,6 @@
       "url": "https://www.bbc.co.uk/sport/football/articles/c6vg2e32e7vno?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
       "published_at": "2026-11-25T17:32:30+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
-      "id": "8667b4caf8dc3d01",
-      "title": "EFL Trophy holders Luton face Palace U21s in last 32",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckzd9vqed5d7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-25T17:12:57+00:00",
       "category": "clubs",
       "language": "en",
       "topics": [],
@@ -151,17 +180,6 @@
       "priority": 0
     },
     {
-      "id": "8c4eb8c044ecf99b",
-      "title": "Pep Guardiola says next coaching role will be with a national team amid USA links",
-      "url": "https://www.theguardian.com/football/2026/nov/25/pep-guardiola-coaching-job-usmnt-italy",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-25T14:07:50+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
       "id": "b4cd0e62ff41a179",
       "title": "‘He’s more elegant’: Bellingham downplays Zidane comparisons after wondergoal",
       "url": "https://www.theguardian.com/football/2026/nov/25/jude-bellingham-downplays-comparisons-to-zidane-after-wondergoal",
@@ -255,17 +273,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c65y10j841jpo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
       "published_at": "2026-11-25T10:11:34+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
-      "id": "fb2f61f6d2234283",
-      "title": "Has a footballer had a longer career hiatus than Ronaldinho’s 11 year-gap? | The Knowledge",
-      "url": "https://www.theguardian.com/football/2026/nov/25/has-a-footballer-had-a-longer-career-hiatus-than-ronaldinhos-11-year-gap",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-25T08:00:09+00:00",
       "category": "clubs",
       "language": "en",
       "topics": [],
@@ -454,15 +461,15 @@
   ],
   "source_errors": [],
   "search_trends_fr": [
-    "inflation",
-    "azerbaïdjan",
-    "pontivy",
-    "otan",
-    "télérama",
-    "cocaïne",
-    "slavia praha vs villarreal",
-    "benoit assou ekotto",
-    "princesse de galles",
-    "نادي صباح ضد برشلونة"
+    "a13",
+    "secrétaire général de l'otan",
+    "équipe de france de football des moins de 17 ans",
+    "gabriel jesus",
+    "yamal",
+    "james gray",
+    "bill gates",
+    "zlatan",
+    "niger",
+    "équipe du maroc de football"
   ]
 }
