@@ -1,8 +1,50 @@
 {
   "source": "API-Football",
-  "updated_at": "2026-11-25T01:24:12.198101+00:00",
-  "total": 2234,
+  "updated_at": "2026-11-25T04:14:28.522234+00:00",
+  "total": 2236,
   "matches": [
+    {
+      "id": 1650514,
+      "kickoff": "2026-11-25T01:30:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 239,
+        "name": "Primera A",
+        "country": "Colombia"
+      },
+      "home": {
+        "name": "America de Cali",
+        "logo": "https://media.api-sports.io/football/teams/1138.png",
+        "goals": 2
+      },
+      "away": {
+        "name": "Deportivo Cali",
+        "logo": "https://media.api-sports.io/football/teams/1127.png",
+        "goals": 1
+      }
+    },
+    {
+      "id": 1649153,
+      "kickoff": "2026-11-25T00:30:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 617,
+        "name": "Copa do Brasil U20",
+        "country": "Brazil"
+      },
+      "home": {
+        "name": "São Paulo U20",
+        "logo": "https://media.api-sports.io/football/teams/12973.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "Atlético Mineiro U20",
+        "logo": "https://media.api-sports.io/football/teams/12952.png",
+        "goals": 2
+      }
+    },
     {
       "id": 1563282,
       "kickoff": "2026-11-24T20:00:00+00:00",

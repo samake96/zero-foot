@@ -1,13 +1,13 @@
 {
   "source": "API-Football",
-  "updated_at": "2026-11-25T01:24:12.235675+00:00",
+  "updated_at": "2026-11-25T04:14:28.543886+00:00",
   "date_utc": "2026-11-25",
   "matches": [
     {
       "id": 1649153,
       "kickoff": "2026-11-25T00:30:00+00:00",
-      "status": "HT",
-      "elapsed": 45,
+      "status": "FT",
+      "elapsed": 90,
       "league": {
         "id": 617,
         "name": "Copa do Brasil U20",
@@ -21,14 +21,14 @@
       "away": {
         "name": "Atlético Mineiro U20",
         "logo": "https://media.api-sports.io/football/teams/12952.png",
-        "goals": 0
+        "goals": 2
       }
     },
     {
       "id": 1650514,
       "kickoff": "2026-11-25T01:30:00+00:00",
-      "status": "NS",
-      "elapsed": null,
+      "status": "FT",
+      "elapsed": 90,
       "league": {
         "id": 239,
         "name": "Primera A",
@@ -37,19 +37,19 @@
       "home": {
         "name": "America de Cali",
         "logo": "https://media.api-sports.io/football/teams/1138.png",
-        "goals": null
+        "goals": 2
       },
       "away": {
         "name": "Deportivo Cali",
         "logo": "https://media.api-sports.io/football/teams/1127.png",
-        "goals": null
+        "goals": 1
       }
     },
     {
       "id": 1555829,
       "kickoff": "2026-11-25T03:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
+      "status": "2H",
+      "elapsed": 56,
       "league": {
         "id": 100,
         "name": "J3 League",
@@ -58,19 +58,19 @@
       "home": {
         "name": "FC Ryukyu",
         "logo": "https://media.api-sports.io/football/teams/2235.png",
-        "goals": null
+        "goals": 0
       },
       "away": {
         "name": "Roasso Kumamoto",
         "logo": "https://media.api-sports.io/football/teams/314.png",
-        "goals": null
+        "goals": 0
       }
     },
     {
       "id": 1649497,
       "kickoff": "2026-11-25T03:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
+      "status": "1H",
+      "elapsed": 44,
       "league": {
         "id": 253,
         "name": "Major League Soccer",
@@ -79,12 +79,12 @@
       "home": {
         "name": "San Jose Earthquakes",
         "logo": "https://media.api-sports.io/football/teams/1596.png",
-        "goals": null
+        "goals": 2
       },
       "away": {
         "name": "Houston Dynamo",
         "logo": "https://media.api-sports.io/football/teams/1600.png",
-        "goals": null
+        "goals": 0
       }
     },
     {
@@ -252,6 +252,27 @@
       "away": {
         "name": "Rukh Vynnyky U19",
         "logo": "https://media.api-sports.io/football/teams/20240.png",
+        "goals": null
+      }
+    },
+    {
+      "id": 1634844,
+      "kickoff": "2026-11-25T09:00:00+00:00",
+      "status": "NS",
+      "elapsed": null,
+      "league": {
+        "id": 588,
+        "name": "National League",
+        "country": "Myanmar"
+      },
+      "home": {
+        "name": "Yangon United",
+        "logo": "https://media.api-sports.io/football/teams/8013.png",
+        "goals": null
+      },
+      "away": {
+        "name": "Myawady",
+        "logo": "https://media.api-sports.io/football/teams/19048.png",
         "goals": null
       }
     },
@@ -672,27 +693,6 @@
       "away": {
         "name": "Noah II",
         "logo": "https://media.api-sports.io/football/teams/21879.png",
-        "goals": null
-      }
-    },
-    {
-      "id": 1605132,
-      "kickoff": "2026-11-25T10:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
-      "league": {
-        "id": 343,
-        "name": "First League",
-        "country": "Armenia"
-      },
-      "home": {
-        "name": "Mika",
-        "logo": "https://media.api-sports.io/football/teams/11174.png",
-        "goals": null
-      },
-      "away": {
-        "name": "Olympia Yerevan",
-        "logo": "https://media.api-sports.io/football/teams/27987.png",
         "goals": null
       }
     },
@@ -2923,27 +2923,6 @@
       }
     },
     {
-      "id": 1628561,
-      "kickoff": "2026-11-25T15:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
-      "league": {
-        "id": 399,
-        "name": "NPFL",
-        "country": "Nigeria"
-      },
-      "home": {
-        "name": "Sporting Lagos",
-        "logo": "https://media.api-sports.io/football/teams/22585.png",
-        "goals": null
-      },
-      "away": {
-        "name": "Enugu Rangers",
-        "logo": "https://media.api-sports.io/football/teams/5176.png",
-        "goals": null
-      }
-    },
-    {
       "id": 1637388,
       "kickoff": "2026-11-25T15:00:00+00:00",
       "status": "NS",
@@ -3339,174 +3318,6 @@
       "away": {
         "name": "Maccabi Tel Aviv U19",
         "logo": "https://media.api-sports.io/football/teams/7959.png",
-        "goals": null
-      }
-    },
-    {
-      "id": 1650179,
-      "kickoff": "2026-11-25T16:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
-      "league": {
-        "id": 321,
-        "name": "Cup",
-        "country": "Cyprus"
-      },
-      "home": {
-        "name": "AEK Larnaca",
-        "logo": "https://media.api-sports.io/football/teams/614.png",
-        "goals": null
-      },
-      "away": {
-        "name": "Anorthosis",
-        "logo": "https://media.api-sports.io/football/teams/2269.png",
-        "goals": null
-      }
-    },
-    {
-      "id": 1650180,
-      "kickoff": "2026-11-25T16:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
-      "league": {
-        "id": 321,
-        "name": "Cup",
-        "country": "Cyprus"
-      },
-      "home": {
-        "name": "AEL",
-        "logo": "https://media.api-sports.io/football/teams/3396.png",
-        "goals": null
-      },
-      "away": {
-        "name": "Enosis",
-        "logo": "https://media.api-sports.io/football/teams/3399.png",
-        "goals": null
-      }
-    },
-    {
-      "id": 1650181,
-      "kickoff": "2026-11-25T16:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
-      "league": {
-        "id": 321,
-        "name": "Cup",
-        "country": "Cyprus"
-      },
-      "home": {
-        "name": "Apoel Nicosia",
-        "logo": "https://media.api-sports.io/football/teams/2247.png",
-        "goals": null
-      },
-      "away": {
-        "name": "Aris",
-        "logo": "https://media.api-sports.io/football/teams/3408.png",
-        "goals": null
-      }
-    },
-    {
-      "id": 1650182,
-      "kickoff": "2026-11-25T16:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
-      "league": {
-        "id": 321,
-        "name": "Cup",
-        "country": "Cyprus"
-      },
-      "home": {
-        "name": "Karmiotissa",
-        "logo": "https://media.api-sports.io/football/teams/3413.png",
-        "goals": null
-      },
-      "away": {
-        "name": "Apollon Limassol",
-        "logo": "https://media.api-sports.io/football/teams/602.png",
-        "goals": null
-      }
-    },
-    {
-      "id": 1650183,
-      "kickoff": "2026-11-25T16:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
-      "league": {
-        "id": 321,
-        "name": "Cup",
-        "country": "Cyprus"
-      },
-      "home": {
-        "name": "Digenis Ypsonas",
-        "logo": "https://media.api-sports.io/football/teams/3424.png",
-        "goals": null
-      },
-      "away": {
-        "name": "ASIL Lysi",
-        "logo": "https://media.api-sports.io/football/teams/3405.png",
-        "goals": null
-      }
-    },
-    {
-      "id": 1650184,
-      "kickoff": "2026-11-25T16:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
-      "league": {
-        "id": 321,
-        "name": "Cup",
-        "country": "Cyprus"
-      },
-      "home": {
-        "name": "Nea Salamis",
-        "logo": "https://media.api-sports.io/football/teams/3401.png",
-        "goals": null
-      },
-      "away": {
-        "name": "Pafos",
-        "logo": "https://media.api-sports.io/football/teams/3403.png",
-        "goals": null
-      }
-    },
-    {
-      "id": 1650185,
-      "kickoff": "2026-11-25T16:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
-      "league": {
-        "id": 321,
-        "name": "Cup",
-        "country": "Cyprus"
-      },
-      "home": {
-        "name": "Omonia Nicosia",
-        "logo": "https://media.api-sports.io/football/teams/3402.png",
-        "goals": null
-      },
-      "away": {
-        "name": "Olympiakos",
-        "logo": "https://media.api-sports.io/football/teams/3415.png",
-        "goals": null
-      }
-    },
-    {
-      "id": 1650186,
-      "kickoff": "2026-11-25T16:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
-      "league": {
-        "id": 321,
-        "name": "Cup",
-        "country": "Cyprus"
-      },
-      "home": {
-        "name": "Omonia Aradippou",
-        "logo": "https://media.api-sports.io/football/teams/3416.png",
-        "goals": null
-      },
-      "away": {
-        "name": "Omonia 29is Maiou",
-        "logo": "https://media.api-sports.io/football/teams/14126.png",
         "goals": null
       }
     },
@@ -4221,27 +4032,6 @@
       "away": {
         "name": "Modena",
         "logo": "https://media.api-sports.io/football/teams/899.png",
-        "goals": null
-      }
-    },
-    {
-      "id": 1618433,
-      "kickoff": "2026-11-25T19:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
-      "league": {
-        "id": 92,
-        "name": "Derde Divisie",
-        "country": "Netherlands"
-      },
-      "home": {
-        "name": "Roosendaal",
-        "logo": "https://media.api-sports.io/football/teams/19266.png",
-        "goals": null
-      },
-      "away": {
-        "name": "Gemert",
-        "logo": "https://media.api-sports.io/football/teams/1230.png",
         "goals": null
       }
     },
