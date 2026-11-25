@@ -1,12 +1,56 @@
 {
-  "updated_at": "2026-11-25T11:18:49.075401+00:00",
+  "updated_at": "2026-11-25T12:23:21.725409+00:00",
   "items": [
+    {
+      "id": "b27103097f965734",
+      "title": "Will Hajime Moriyasu get a high-profile job in Europe after his eight years in charge of Japan?",
+      "url": "https://www.theguardian.com/football/2026/nov/25/hajime-moriyasu-leave-japan-world-cup-samurai-blue",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-25T12:00:26+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "29654316ef986a63",
+      "title": "Raheem Sterling avoids jail over reckless driving while using nitrous oxide",
+      "url": "https://www.theguardian.com/football/2026/nov/25/raheem-sterling-avoids-jail-reckless-driving-nitrous-oxide-sentence",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-25T11:34:10+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
     {
       "id": "57805a6e79fcc2f4",
       "title": "Lincoln sack head coach duo Cohen and Shaw",
       "url": "https://www.bbc.co.uk/sport/football/articles/cmglrzg3zx9no?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
-      "published_at": "2026-11-25T11:04:32+00:00",
+      "published_at": "2026-11-25T11:32:28+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "a06a9647d27b80f9",
+      "title": "Watford appoint Iordanescu as head coach",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cv1j65j2lw3po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-25T11:15:34+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "4d164a520e91f835",
+      "title": "EA adds AI-generated John Motson to FC 27 video game",
+      "url": "https://www.bbc.co.uk/news/articles/c65y10j841jpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-25T10:11:34+00:00",
       "category": "clubs",
       "language": "en",
       "topics": [],
@@ -129,17 +173,6 @@
       "priority": 0
     },
     {
-      "id": "304a7eb34cefd47a",
-      "title": "Championship roundup: Boro edge Swansea, West Ham lose at Portsmouth",
-      "url": "https://www.theguardian.com/football/2026/nov/24/championship-roundup-will-lankshear-middlesbrough-swansea-west-ham",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-24T22:44:08+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
       "id": "755a3dd1f01bd37f",
       "title": "Ligue des champions : le Real Madrid impérial, Lens perd mais sauve l'honneur",
       "url": "https://www.france24.com/fr/sports/20261124-football-ligue-des-champions-real-madrid-fait-le-show-rc-lens-sauve-l-honneur",
@@ -235,30 +268,6 @@
       "url": "https://www.bbc.co.uk/sport/football/articles/cm15en5je9eko?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
       "published_at": "2026-11-24T20:51:44+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
-      "id": "fd16e0a1bad8f5b6",
-      "title": "Gul takes pain for buoyant Galatasaray to condemn Aston Villa to Champions League loss",
-      "url": "https://www.theguardian.com/football/2026/nov/24/galatasaray-aston-villa-champions-league-match-report",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-24T20:03:50+00:00",
-      "category": "competitions",
-      "language": "en",
-      "topics": [
-        "Ligue des champions"
-      ],
-      "priority": 12
-    },
-    {
-      "id": "a1ddec8d794a2764",
-      "title": "Senegal reinstated as Afcon 2025 winners by court ruling",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crn80y2l1404o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-24T17:16:09+00:00",
       "category": "clubs",
       "language": "en",
       "topics": [],
@@ -421,19 +430,6 @@
       "priority": 0
     },
     {
-      "id": "3cf7d4c2309a55bc",
-      "title": "Ngumoha stars as Liverpool thrash 10-man Man Utd",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c933g77knz00o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-22T19:59:35+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [
-        "Premier League"
-      ],
-      "priority": 12
-    },
-    {
       "id": "ca473ef0d1987b6a",
       "title": "Football: rupture du ligament du genou pour Désiré Doué, le PSG devra s'activer pendant le mercato",
       "url": "https://www.rfi.fr/fr/sports/20261122-football-rupture-du-ligament-pour-d%C3%A9sir%C3%A9-dou%C3%A9-le-psg-devra-s-activer-pendant-le-mercato",
@@ -473,15 +469,15 @@
   ],
   "source_errors": [],
   "search_trends_fr": [
-    "igor bogdanoff",
-    "grève eurostar",
-    "lorient",
-    "viande",
-    "japan expo",
-    "eurostar",
-    "kilmar armando abrego garcia",
-    "chien",
-    "agression",
-    "la chapelle"
+    "divorce",
+    "michel-édouard leclerc",
+    "steven hack",
+    "2026",
+    "garmin",
+    "mort",
+    "césarienne",
+    "kevin durand",
+    "grégory lorenzi",
+    "manuel neuer"
   ]
 }
