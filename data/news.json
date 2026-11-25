@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-25T10:12:36.699304+00:00",
+  "updated_at": "2026-11-25T11:18:49.075401+00:00",
   "items": [
+    {
+      "id": "57805a6e79fcc2f4",
+      "title": "Lincoln sack head coach duo Cohen and Shaw",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmglrzg3zx9no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-25T11:04:32+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
     {
       "id": "483dee505e83a14b",
       "title": "Search for next USMNT head coach needs to prioritize competence over fame",
@@ -315,17 +326,6 @@
       "priority": 12
     },
     {
-      "id": "d90a4a4fce34b7a8",
-      "title": "Dead hippo to be honoured on football club tifo",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6n90jrvxrzpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-24T09:43:38+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
       "id": "596e71c1ab6ca2e9",
       "title": "The youngest Premier League goalscorers this season",
       "url": "https://www.bbc.co.uk/sport/football/videos/cme39v4w7ykqo?at_medium=RSS&at_campaign=rss",
@@ -473,15 +473,15 @@
   ],
   "source_errors": [],
   "search_trends_fr": [
+    "igor bogdanoff",
+    "grève eurostar",
+    "lorient",
+    "viande",
+    "japan expo",
+    "eurostar",
     "kilmar armando abrego garcia",
     "chien",
     "agression",
-    "courrier picard",
-    "kiev",
-    "impôt",
-    "accident du travail",
-    "action sanofi",
-    "centre de données",
-    "puy du fou"
+    "la chapelle"
   ]
 }
