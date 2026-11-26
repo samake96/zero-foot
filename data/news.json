@@ -1,6 +1,41 @@
 {
-  "updated_at": "2026-11-26T13:18:57.389800+00:00",
+  "updated_at": "2026-11-26T14:33:39.484029+00:00",
   "items": [
+    {
+      "id": "d66871f6395999fb",
+      "title": "David Squires on … youth development and nightmare parents on the touchline",
+      "url": "https://www.theguardian.com/sport/picture/2026/nov/27/david-squires-cartoon-youth-development-and-nightmare-football-parents",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-26T14:00:37+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "188032a8658a6f02",
+      "title": "The American manager with a maths degree making history in La Liga",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6r7g4v8vee5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-26T13:49:20+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [
+        "La Liga"
+      ],
+      "priority": 12
+    },
+    {
+      "id": "c0440454450c121d",
+      "title": "Not even making a 12-man bench - what next for Garnacho?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr3wgd5exl0do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-26T13:23:05+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
     {
       "id": "ae30741738c7710d",
       "title": "Manchester United held in Lisbon: is Mauricio Pochettino just unlucky? – Football Weekly podcast",
@@ -142,17 +177,6 @@
       "priority": 0
     },
     {
-      "id": "192679964190a338",
-      "title": "Divots, howlers and bad decisions - dissecting Man Utd's draw in Lisbon",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvrlg074ld74o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-26T00:22:28+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
       "id": "230c2c6ceef1df8b",
       "title": "How Isak and Wirtz are becoming Liverpool's 'big-game players'",
       "url": "https://www.bbc.co.uk/sport/football/videos/cmqx527v3x19o?at_medium=RSS&at_campaign=rss",
@@ -177,28 +201,6 @@
         "Premier League"
       ],
       "priority": 12
-    },
-    {
-      "id": "20f265e0f96becef",
-      "title": "Martinez secures Inter win against Stuttgart",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c6j9mvjkkzymo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-25T23:02:15+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
-      "id": "5e1f6b2e26537822",
-      "title": "Championship roundup: Stoke rise to second, Birmingham condemn Burnley to record drought",
-      "url": "https://www.theguardian.com/football/2026/nov/25/championship-roundup-stoke-millwall-burnley-home-record-birmingham",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-25T22:55:48+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
     },
     {
       "id": "edc28456b5b0d44e",
@@ -477,15 +479,15 @@
   ],
   "source_errors": [],
   "search_trends_fr": [
-    "saint-sorlin-en-valloire",
-    "bourse de paris",
-    "haakon viii",
-    "abdelmadjid tebboune",
-    "prénom",
-    "ultragauche",
-    "radar",
-    "lilia hassaine",
-    "ben stiller",
-    "les millionnaires patriotes"
+    "grand prix de formule 1 du qatar",
+    "coupe d'afrique des nations de football 2025",
+    "maroc u-17 – espagne u-17",
+    "naufrage ibiza",
+    "village abandonné",
+    "mutares",
+    "corée du nord",
+    "royal navy",
+    "groupe antifasciste lyon et environs",
+    "abattement fiscal retraités 2027"
   ]
 }
