@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-11-26T08:50:38.088409+00:00",
+  "updated_at": "2026-11-26T09:52:35.994390+00:00",
   "items": [
+    {
+      "id": "1df640c7666bb1db",
+      "title": "Pochettino claims officials ‘punished’ Manchester United in chaotic Sporting draw",
+      "url": "https://www.theguardian.com/football/2026/nov/25/mauricio-pochettino-officials-punished-manchester-united-sporting",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-26T09:00:56+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [
+        "Premier League"
+      ],
+      "priority": 12
+    },
+    {
+      "id": "49d38bd8ef798eab",
+      "title": "Tenu en échec par la Roma, le PSG laisse filer ses premiers points de la saison",
+      "url": "https://www.france24.com/fr/%C3%A9missions/sports/20261126-tenu-en-%C3%A9chec-par-la-roma-le-psg-laisse-filer-ses-premiers-points-de-la-saison",
+      "source": "France 24",
+      "published_at": "2026-11-26T08:45:59+00:00",
+      "category": "clubs",
+      "language": "fr",
+      "topics": [
+        "Ligue 1"
+      ],
+      "priority": 12
+    },
     {
       "id": "b285d28533e90135",
       "title": "No drums, no tifo … no point? The impact of Palace’s missing Holmesdale Fanatics",
@@ -66,19 +92,6 @@
       "language": "en",
       "topics": [],
       "priority": 0
-    },
-    {
-      "id": "1df640c7666bb1db",
-      "title": "Pochettino claims officials ‘punished’ Manchester United in chaotic Sporting draw",
-      "url": "https://www.theguardian.com/football/2026/nov/25/mauricio-pochettino-officials-punished-manchester-united-sporting",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-25T23:50:56+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [
-        "Premier League"
-      ],
-      "priority": 12
     },
     {
       "id": "230c2c6ceef1df8b",
@@ -481,15 +494,15 @@
   ],
   "source_errors": [],
   "search_trends_fr": [
+    "épave",
+    "iker lecuona",
+    "ludovic marais tours",
+    "creche perpignan",
+    "psg mercato",
+    "ptz natalité",
+    "fusillade audincourt",
+    "ligne 14",
     "cristina cordula",
-    "trail blazers spurs",
-    "1password",
-    "audincourt",
-    "millionnaire patriotes",
-    "horoscope du 26 novembre 2026",
-    "ibiza",
-    "rsf",
-    "charlene wittstock",
-    "biathlon programme"
+    "1password"
   ]
 }
