@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-11-26T12:00:14.404263+00:00",
+  "updated_at": "2026-11-26T13:18:57.389800+00:00",
   "items": [
+    {
+      "id": "ae30741738c7710d",
+      "title": "Manchester United held in Lisbon: is Mauricio Pochettino just unlucky? – Football Weekly podcast",
+      "url": "https://www.theguardian.com/football/audio/2026/nov/26/manchester-united-held-in-lisbon-is-mauricio-pochettino-just-unlucky-football-weekly",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-26T12:11:18+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [
+        "Premier League"
+      ],
+      "priority": 12
+    },
+    {
+      "id": "ced61d1007ec5686",
+      "title": "Manchester United, Liverpool and Spurs using same law firm to set up legal claim against City",
+      "url": "https://www.theguardian.com/football/2026/nov/26/manchester-united-liverpool-tottenham-arsenal-city-legal-claim-financial-breaches-damages",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-26T12:00:34+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [
+        "Premier League"
+      ],
+      "priority": 12
+    },
     {
       "id": "e3d4376f5d2a7665",
       "title": "Fifa confirms internal data stolen in cyber attack",
@@ -48,15 +74,15 @@
       "priority": 12
     },
     {
-      "id": "1df640c7666bb1db",
-      "title": "Pochettino claims officials ‘punished’ Manchester United in chaotic Sporting draw",
-      "url": "https://www.theguardian.com/football/2026/nov/25/mauricio-pochettino-officials-punished-manchester-united-sporting",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-26T09:00:56+00:00",
+      "id": "49d38bd8ef798eab",
+      "title": "Tenu en échec par la Roma, le PSG laisse filer ses premiers points de la saison",
+      "url": "https://www.france24.com/fr/%C3%A9missions/sports/20261126-tenu-en-%C3%A9chec-par-la-roma-le-psg-laisse-filer-ses-premiers-points-de-la-saison",
+      "source": "France 24",
+      "published_at": "2026-11-26T08:45:59+00:00",
       "category": "clubs",
-      "language": "en",
+      "language": "fr",
       "topics": [
-        "Premier League"
+        "Ligue 1"
       ],
       "priority": 12
     },
@@ -151,6 +177,17 @@
         "Premier League"
       ],
       "priority": 12
+    },
+    {
+      "id": "20f265e0f96becef",
+      "title": "Martinez secures Inter win against Stuttgart",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c6j9mvjkkzymo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-25T23:02:15+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
     },
     {
       "id": "5e1f6b2e26537822",
@@ -286,17 +323,6 @@
       "priority": 0
     },
     {
-      "id": "ae5c98be42636f06",
-      "title": "Glasner criticises Forest players yet to learn English",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cw20xr4d7x55o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-25T18:32:55+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
       "id": "aa56d102c27d07b0",
       "title": "Alejandro Garnacho and the curious case of Aston Villa’s outcast loanees | Ben Fisher",
       "url": "https://www.theguardian.com/football/2026/nov/25/alejandro-garnacho-aston-villa-loanees-unai-emery",
@@ -335,17 +361,6 @@
       "url": "https://www.theguardian.com/football/2026/nov/25/jude-bellingham-downplays-comparisons-to-zidane-after-wondergoal",
       "source": "The Guardian Football",
       "published_at": "2026-11-25T12:59:29+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
-      "id": "e3e2976fe48ac378",
-      "title": "‘It threw me off my bowling a bit’: Isobel Goodwin living dream after England callup",
-      "url": "https://www.theguardian.com/football/2026/nov/25/isobel-goodwin-england-callup-london-city-lionesses-bowling",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-25T12:24:49+00:00",
       "category": "clubs",
       "language": "en",
       "topics": [],
@@ -460,19 +475,17 @@
       "priority": 12
     }
   ],
-  "source_errors": [
-    "France 24: HTTPError: HTTP Error 403: Forbidden"
-  ],
+  "source_errors": [],
   "search_trends_fr": [
-    "lycée en france",
-    "leila bekhti",
-    "xpeng",
-    "équipe de france féminine de handball",
-    "manu tuilagi",
-    "vaucluse",
-    "flamanville",
-    "rallye du var 2026",
-    "euralis",
-    "ibiza navire"
+    "saint-sorlin-en-valloire",
+    "bourse de paris",
+    "haakon viii",
+    "abdelmadjid tebboune",
+    "prénom",
+    "ultragauche",
+    "radar",
+    "lilia hassaine",
+    "ben stiller",
+    "les millionnaires patriotes"
   ]
 }
