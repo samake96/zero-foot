@@ -1,6 +1,39 @@
 {
-  "updated_at": "2026-11-26T06:17:18.620889+00:00",
+  "updated_at": "2026-11-26T07:46:27.639570+00:00",
   "items": [
+    {
+      "id": "a7029ca12739ec89",
+      "title": "Why KMI Panel frustrates referees too - and impacts their salary",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq20x16zxxzeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-26T07:28:18+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "a043b6ffd9be0abb",
+      "title": "Who am I? Plus today's other quizzes",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6ly5125qgy9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-26T06:53:51+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "2211a6bf656a507c",
+      "title": "'Laughing gas has ended careers' - so how common is it in football?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6kgdrj9nxgdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-26T06:18:30+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
     {
       "id": "639cfd5613e93bbc",
       "title": "Frustration reigns for Pochettino in chaotic start to Man Utd job",
@@ -50,28 +83,6 @@
       "priority": 12
     },
     {
-      "id": "56c7ff263dfeca8f",
-      "title": "Fenerbahce squeeze past Shakhtar to seal back-to-back wins",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c6ly51452xe7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-25T23:16:18+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
-      "id": "20f265e0f96becef",
-      "title": "Martinez secures Inter win against Stuttgart",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c6j9mvjkkzymo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-25T23:02:15+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
       "id": "5e1f6b2e26537822",
       "title": "Championship roundup: Stoke rise to second, Birmingham condemn Burnley to record drought",
       "url": "https://www.theguardian.com/football/2026/nov/25/championship-roundup-stoke-millwall-burnley-home-record-birmingham",
@@ -98,8 +109,8 @@
       "priority": 12
     },
     {
-      "id": "df00f01764d970ee",
-      "title": "Ligue des champions : accroche à domicile pour le PSG, Lille signe un exploit face au Bayern",
+      "id": "af4b3589049df0dd",
+      "title": "Ligue des champions : la Roma accroche le PSG, Lille signe un exploit face au Bayern",
       "url": "https://www.france24.com/fr/sports/20261125-ligue-des-champions-premi%C3%A8re-difficult%C3%A9-pour-le-psg-lille-signe-un-exploit-face-au-bayern",
       "source": "France 24",
       "published_at": "2026-11-25T22:35:25+00:00",
@@ -172,20 +183,6 @@
       "language": "en",
       "topics": [],
       "priority": 0
-    },
-    {
-      "id": "dea39d11743ed572",
-      "title": "Borussia Dortmund fight back to draw with Arsenal",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cmedqg06d8vwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-25T22:05:57+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [
-        "Premier League",
-        "Bundesliga"
-      ],
-      "priority": 12
     },
     {
       "id": "41132c6d3b31d50b",
@@ -484,15 +481,15 @@
   ],
   "source_errors": [],
   "search_trends_fr": [
-    "biathlète",
-    "trashtalk",
-    "douanes",
-    "koh-lanta",
-    "meteo dijon",
-    "actu.fr",
-    "miraval",
-    "deni avdija",
-    "guillermo del toro",
-    "friedrich merz"
+    "lait infantile",
+    "ritchy thibault",
+    "miss martinique",
+    "cochon",
+    "simon abkarian",
+    "mona brorsson",
+    "laurent romejko",
+    "ici tout commence",
+    "trémolat",
+    "federica brignone"
   ]
 }
