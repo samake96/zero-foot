@@ -1,8 +1,512 @@
 {
   "source": "API-Football",
-  "updated_at": "2026-11-26T10:18:58.340499+00:00",
-  "total": 2458,
+  "updated_at": "2026-11-26T13:28:52.696769+00:00",
+  "total": 2482,
   "matches": [
+    {
+      "id": 1507263,
+      "kickoff": "2026-11-26T11:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 326,
+        "name": "Erovnuli Liga 2",
+        "country": "Georgia"
+      },
+      "home": {
+        "name": "Telavi",
+        "logo": "https://media.api-sports.io/football/teams/3511.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "Gori",
+        "logo": "https://media.api-sports.io/football/teams/14861.png",
+        "goals": 2
+      }
+    },
+    {
+      "id": 1602752,
+      "kickoff": "2026-11-26T11:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 297,
+        "name": "Thai League 2",
+        "country": "Thailand"
+      },
+      "home": {
+        "name": "Uttaradit",
+        "logo": "https://media.api-sports.io/football/teams/6610.png",
+        "goals": 0
+      },
+      "away": {
+        "name": "Songkhla",
+        "logo": "https://media.api-sports.io/football/teams/6604.png",
+        "goals": 2
+      }
+    },
+    {
+      "id": 1630470,
+      "kickoff": "2026-11-26T10:30:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 418,
+        "name": "Birinci Dasta",
+        "country": "Azerbaijan"
+      },
+      "home": {
+        "name": "Baku Sportinq",
+        "logo": "https://media.api-sports.io/football/teams/22788.png",
+        "goals": 0
+      },
+      "away": {
+        "name": "Şahdağ",
+        "logo": "https://media.api-sports.io/football/teams/5576.png",
+        "goals": 1
+      }
+    },
+    {
+      "id": 1630472,
+      "kickoff": "2026-11-26T10:30:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 418,
+        "name": "Birinci Dasta",
+        "country": "Azerbaijan"
+      },
+      "home": {
+        "name": "Karvan",
+        "logo": "https://media.api-sports.io/football/teams/11239.png",
+        "goals": 2
+      },
+      "away": {
+        "name": "Mingəçevir",
+        "logo": "https://media.api-sports.io/football/teams/5573.png",
+        "goals": 1
+      }
+    },
+    {
+      "id": 1605128,
+      "kickoff": "2026-11-26T10:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 343,
+        "name": "First League",
+        "country": "Armenia"
+      },
+      "home": {
+        "name": "Andranik",
+        "logo": "https://media.api-sports.io/football/teams/21877.png",
+        "goals": 3
+      },
+      "away": {
+        "name": "Araks Ararat",
+        "logo": "https://media.api-sports.io/football/teams/25114.png",
+        "goals": 1
+      }
+    },
+    {
+      "id": 1605130,
+      "kickoff": "2026-11-26T10:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 343,
+        "name": "First League",
+        "country": "Armenia"
+      },
+      "home": {
+        "name": "Bentonit Ijevan",
+        "logo": "https://media.api-sports.io/football/teams/24965.png",
+        "goals": 6
+      },
+      "away": {
+        "name": "Shirak II",
+        "logo": "https://media.api-sports.io/football/teams/3697.png",
+        "goals": 0
+      }
+    },
+    {
+      "id": 1630414,
+      "kickoff": "2026-11-26T10:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 18,
+        "name": "AFC Champions League Two",
+        "country": "World"
+      },
+      "home": {
+        "name": "Gangwon FC",
+        "logo": "https://media.api-sports.io/football/teams/2746.png",
+        "goals": 3
+      },
+      "away": {
+        "name": "Kitchee",
+        "logo": "https://media.api-sports.io/football/teams/4453.png",
+        "goals": 2
+      }
+    },
+    {
+      "id": 1630415,
+      "kickoff": "2026-11-26T10:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 18,
+        "name": "AFC Champions League Two",
+        "country": "World"
+      },
+      "home": {
+        "name": "Kuching FA",
+        "logo": "https://media.api-sports.io/football/teams/10108.png",
+        "goals": 3
+      },
+      "away": {
+        "name": "Phnom Penh Crown",
+        "logo": "https://media.api-sports.io/football/teams/5394.png",
+        "goals": 0
+      }
+    },
+    {
+      "id": 1630416,
+      "kickoff": "2026-11-26T10:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 18,
+        "name": "AFC Champions League Two",
+        "country": "World"
+      },
+      "home": {
+        "name": "Tampines Rovers",
+        "logo": "https://media.api-sports.io/football/teams/4206.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "Shanghai Shenhua",
+        "logo": "https://media.api-sports.io/football/teams/833.png",
+        "goals": 7
+      }
+    },
+    {
+      "id": 1649632,
+      "kickoff": "2026-11-26T10:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 1075,
+        "name": "Pro League A",
+        "country": "Uzbekistan"
+      },
+      "home": {
+        "name": "Shortan",
+        "logo": "https://media.api-sports.io/football/teams/4222.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "Olimpik-Mobiuz",
+        "logo": "https://media.api-sports.io/football/teams/23309.png",
+        "goals": 2
+      }
+    },
+    {
+      "id": 1507259,
+      "kickoff": "2026-11-26T09:30:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 326,
+        "name": "Erovnuli Liga 2",
+        "country": "Georgia"
+      },
+      "home": {
+        "name": "Aragvi Dusheti",
+        "logo": "https://media.api-sports.io/football/teams/10015.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "Merani Martvili",
+        "logo": "https://media.api-sports.io/football/teams/10016.png",
+        "goals": 3
+      }
+    },
+    {
+      "id": 1507260,
+      "kickoff": "2026-11-26T09:30:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 326,
+        "name": "Erovnuli Liga 2",
+        "country": "Georgia"
+      },
+      "home": {
+        "name": "Gareji",
+        "logo": "https://media.api-sports.io/football/teams/14860.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "Samtredia",
+        "logo": "https://media.api-sports.io/football/teams/581.png",
+        "goals": 1
+      }
+    },
+    {
+      "id": 1507262,
+      "kickoff": "2026-11-26T09:30:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 326,
+        "name": "Erovnuli Liga 2",
+        "country": "Georgia"
+      },
+      "home": {
+        "name": "Odishi 1919",
+        "logo": "https://media.api-sports.io/football/teams/13856.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "Shturmi",
+        "logo": "https://media.api-sports.io/football/teams/16516.png",
+        "goals": 0
+      }
+    },
+    {
+      "id": 1507500,
+      "kickoff": "2026-11-26T09:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 1104,
+        "name": "Liga 3",
+        "country": "Georgia"
+      },
+      "home": {
+        "name": "Gardabani",
+        "logo": "https://media.api-sports.io/football/teams/13851.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "Dinamo Tbilisi II",
+        "logo": "https://media.api-sports.io/football/teams/13865.png",
+        "goals": 2
+      }
+    },
+    {
+      "id": 1527769,
+      "kickoff": "2026-11-26T09:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 571,
+        "name": "Vysshaya Liga",
+        "country": "Tajikistan"
+      },
+      "home": {
+        "name": "Parvoz",
+        "logo": "https://media.api-sports.io/football/teams/12271.png",
+        "goals": 2
+      },
+      "away": {
+        "name": "CSKA Pomir",
+        "logo": "https://media.api-sports.io/football/teams/12261.png",
+        "goals": 2
+      }
+    },
+    {
+      "id": 1527771,
+      "kickoff": "2026-11-26T09:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 571,
+        "name": "Vysshaya Liga",
+        "country": "Tajikistan"
+      },
+      "home": {
+        "name": "Regar-TadAZ",
+        "logo": "https://media.api-sports.io/football/teams/12268.png",
+        "goals": 2
+      },
+      "away": {
+        "name": "Sardor Tursunzoda",
+        "logo": "https://media.api-sports.io/football/teams/27266.png",
+        "goals": 0
+      }
+    },
+    {
+      "id": 1622807,
+      "kickoff": "2026-11-26T08:30:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 274,
+        "name": "Liga 1",
+        "country": "Indonesia"
+      },
+      "home": {
+        "name": "Pusamania Borneo",
+        "logo": "https://media.api-sports.io/football/teams/2442.png",
+        "goals": 2
+      },
+      "away": {
+        "name": "Persita",
+        "logo": "https://media.api-sports.io/football/teams/4244.png",
+        "goals": 3
+      }
+    },
+    {
+      "id": 1650707,
+      "kickoff": "2026-11-26T08:30:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 1253,
+        "name": "Liga Nusantara",
+        "country": "Indonesia"
+      },
+      "home": {
+        "name": "Donggala United",
+        "logo": "https://media.api-sports.io/football/teams/28709.png",
+        "goals": 2
+      },
+      "away": {
+        "name": "Persikutim",
+        "logo": "https://media.api-sports.io/football/teams/28714.png",
+        "goals": 2
+      }
+    },
+    {
+      "id": 1650708,
+      "kickoff": "2026-11-26T08:30:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 1253,
+        "name": "Liga Nusantara",
+        "country": "Indonesia"
+      },
+      "home": {
+        "name": "Persegres Gresik United",
+        "logo": "https://media.api-sports.io/football/teams/15800.png",
+        "goals": 2
+      },
+      "away": {
+        "name": "Persibangga Purbalingga",
+        "logo": "https://media.api-sports.io/football/teams/15810.png",
+        "goals": 1
+      }
+    },
+    {
+      "id": 1650709,
+      "kickoff": "2026-11-26T08:30:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 1253,
+        "name": "Liga Nusantara",
+        "country": "Indonesia"
+      },
+      "home": {
+        "name": "Persiba Bantul",
+        "logo": "https://media.api-sports.io/football/teams/15809.png",
+        "goals": 0
+      },
+      "away": {
+        "name": "Pesinga Ngawi",
+        "logo": "https://media.api-sports.io/football/teams/28720.png",
+        "goals": 1
+      }
+    },
+    {
+      "id": 1650711,
+      "kickoff": "2026-11-26T08:30:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 1253,
+        "name": "Liga Nusantara",
+        "country": "Indonesia"
+      },
+      "home": {
+        "name": "Persipani Paniai",
+        "logo": "https://media.api-sports.io/football/teams/28717.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "Persinab Nabire",
+        "logo": "https://media.api-sports.io/football/teams/28716.png",
+        "goals": 1
+      }
+    },
+    {
+      "id": 1650712,
+      "kickoff": "2026-11-26T08:30:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 1253,
+        "name": "Liga Nusantara",
+        "country": "Indonesia"
+      },
+      "home": {
+        "name": "Putra Sang Fajar",
+        "logo": "https://media.api-sports.io/football/teams/28721.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "Persibo",
+        "logo": "https://media.api-sports.io/football/teams/15814.png",
+        "goals": 0
+      }
+    },
+    {
+      "id": 1650817,
+      "kickoff": "2026-11-26T08:30:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 1253,
+        "name": "Liga Nusantara",
+        "country": "Indonesia"
+      },
+      "home": {
+        "name": "Persekabpas Pasuruan",
+        "logo": "https://media.api-sports.io/football/teams/15803.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "Ngada",
+        "logo": "https://media.api-sports.io/football/teams/28710.png",
+        "goals": 1
+      }
+    },
+    {
+      "id": 1651254,
+      "kickoff": "2026-11-26T08:30:00+00:00",
+      "status": "PEN",
+      "elapsed": 120,
+      "league": {
+        "id": 1202,
+        "name": "Australian Championship",
+        "country": "Australia"
+      },
+      "home": {
+        "name": "South Melbourne",
+        "logo": "https://media.api-sports.io/football/teams/3811.png",
+        "goals": 3
+      },
+      "away": {
+        "name": "Oakleigh Cannons",
+        "logo": "https://media.api-sports.io/football/teams/3808.png",
+        "goals": 3
+      }
+    },
     {
       "id": 1651503,
       "kickoff": "2026-11-26T03:10:00+00:00",
