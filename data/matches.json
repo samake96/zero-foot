@@ -1,13 +1,13 @@
 {
   "source": "API-Football",
-  "updated_at": "2026-11-26T01:25:06.835039+00:00",
+  "updated_at": "2026-11-26T04:10:18.578705+00:00",
   "date_utc": "2026-11-26",
   "matches": [
     {
       "id": 1639789,
       "kickoff": "2026-11-26T00:00:00+00:00",
-      "status": "1H",
-      "elapsed": 16,
+      "status": "FT",
+      "elapsed": 90,
       "league": {
         "id": 242,
         "name": "Liga Pro",
@@ -16,19 +16,19 @@
       "home": {
         "name": "Barcelona SC",
         "logo": "https://media.api-sports.io/football/teams/1152.png",
-        "goals": 0
+        "goals": 1
       },
       "away": {
         "name": "Independiente del Valle",
         "logo": "https://media.api-sports.io/football/teams/1153.png",
-        "goals": 0
+        "goals": 1
       }
     },
     {
       "id": 1649565,
       "kickoff": "2026-11-26T00:00:00+00:00",
-      "status": "2H",
-      "elapsed": 63,
+      "status": "FT",
+      "elapsed": 90,
       "league": {
         "id": 128,
         "name": "Liga Profesional Argentina",
@@ -48,8 +48,8 @@
     {
       "id": 1651499,
       "kickoff": "2026-11-26T01:00:00+00:00",
-      "status": "1H",
-      "elapsed": 24,
+      "status": "FT",
+      "elapsed": 90,
       "league": {
         "id": 370,
         "name": "Primera Division",
@@ -63,14 +63,14 @@
       "away": {
         "name": "FAS",
         "logo": "https://media.api-sports.io/football/teams/4302.png",
-        "goals": 0
+        "goals": 1
       }
     },
     {
       "id": 1651505,
       "kickoff": "2026-11-26T01:00:00+00:00",
-      "status": "1H",
-      "elapsed": 24,
+      "status": "FT",
+      "elapsed": 90,
       "league": {
         "id": 262,
         "name": "Liga MX",
@@ -79,7 +79,7 @@
       "home": {
         "name": "Toluca",
         "logo": "https://media.api-sports.io/football/teams/2281.png",
-        "goals": 1
+        "goals": 2
       },
       "away": {
         "name": "Atlas",
@@ -90,8 +90,8 @@
     {
       "id": 1651513,
       "kickoff": "2026-11-26T01:00:00+00:00",
-      "status": "1H",
-      "elapsed": 26,
+      "status": "FT",
+      "elapsed": 90,
       "league": {
         "id": 396,
         "name": "Primera Division",
@@ -100,7 +100,7 @@
       "home": {
         "name": "Real Estelí",
         "logo": "https://media.api-sports.io/football/teams/4645.png",
-        "goals": 0
+        "goals": 3
       },
       "away": {
         "name": "Rancho Santana",
@@ -111,8 +111,8 @@
     {
       "id": 1651514,
       "kickoff": "2026-11-26T01:00:00+00:00",
-      "status": "1H",
-      "elapsed": 25,
+      "status": "FT",
+      "elapsed": 90,
       "league": {
         "id": 396,
         "name": "Primera Division",
@@ -126,14 +126,14 @@
       "away": {
         "name": "Walter Ferretti",
         "logo": "https://media.api-sports.io/football/teams/4648.png",
-        "goals": 0
+        "goals": 2
       }
     },
     {
       "id": 1650516,
       "kickoff": "2026-11-26T01:30:00+00:00",
-      "status": "NS",
-      "elapsed": null,
+      "status": "FT",
+      "elapsed": 90,
       "league": {
         "id": 239,
         "name": "Primera A",
@@ -142,19 +142,19 @@
       "home": {
         "name": "Atletico Nacional",
         "logo": "https://media.api-sports.io/football/teams/1137.png",
-        "goals": null
+        "goals": 3
       },
       "away": {
         "name": "Independiente Medellin",
         "logo": "https://media.api-sports.io/football/teams/1128.png",
-        "goals": null
+        "goals": 1
       }
     },
     {
       "id": 1559702,
       "kickoff": "2026-11-26T02:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
+      "status": "FT",
+      "elapsed": 90,
       "league": {
         "id": 339,
         "name": "Liga Nacional",
@@ -163,19 +163,19 @@
       "home": {
         "name": "Municipal",
         "logo": "https://media.api-sports.io/football/teams/3665.png",
-        "goals": null
+        "goals": 3
       },
       "away": {
         "name": "Aurora",
         "logo": "https://media.api-sports.io/football/teams/10154.png",
-        "goals": null
+        "goals": 2
       }
     },
     {
       "id": 1651498,
       "kickoff": "2026-11-26T02:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
+      "status": "FT",
+      "elapsed": 90,
       "league": {
         "id": 370,
         "name": "Primera Division",
@@ -184,19 +184,19 @@
       "home": {
         "name": "Inter",
         "logo": "https://media.api-sports.io/football/teams/26154.png",
-        "goals": null
+        "goals": 2
       },
       "away": {
         "name": "Águila",
         "logo": "https://media.api-sports.io/football/teams/4310.png",
-        "goals": null
+        "goals": 0
       }
     },
     {
       "id": 1651503,
       "kickoff": "2026-11-26T03:10:00+00:00",
-      "status": "NS",
-      "elapsed": null,
+      "status": "HT",
+      "elapsed": 45,
       "league": {
         "id": 262,
         "name": "Liga MX",
@@ -205,12 +205,12 @@
       "home": {
         "name": "Monterrey",
         "logo": "https://media.api-sports.io/football/teams/2282.png",
-        "goals": null
+        "goals": 0
       },
       "away": {
         "name": "Club America",
         "logo": "https://media.api-sports.io/football/teams/2287.png",
-        "goals": null
+        "goals": 0
       }
     },
     {
