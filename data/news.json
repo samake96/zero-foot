@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-26T22:40:18.640253+00:00",
+  "updated_at": "2026-11-26T23:40:04.670217+00:00",
   "items": [
+    {
+      "id": "7e0172e8e2329c03",
+      "title": "Europa League: Bournemouth make it 10 wins in a row while Celtic leave it very late",
+      "url": "https://www.theguardian.com/football/2026/nov/26/europa-league-roundup-bournemouth-celta-vigo-celtic-milan-benfica",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-26T23:24:43+00:00",
+      "category": "competitions",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
     {
       "id": "e7dfeb9269273e1c",
       "title": "Bournemouth 'allowed to dream' as fans book Europa League final hotels",
@@ -8,6 +19,28 @@
       "source": "BBC Sport Football",
       "published_at": "2026-11-26T22:27:52+00:00",
       "category": "competitions",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "e6530e29a7d5261f",
+      "title": "Reinildo error extends Sunderland woe as Jagiellonia grab Europa League draw",
+      "url": "https://www.theguardian.com/football/2026/nov/26/sunderland-jagiellonia-bialystok-europa-league-match-report",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-26T22:27:37+00:00",
+      "category": "competitions",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "e78835b19d4bc5a9",
+      "title": "Euro Leagues",
+      "url": "https://www.bbc.co.uk/sounds/play/p0pq4ydb?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-26T22:13:00+00:00",
+      "category": "clubs",
       "language": "en",
       "topics": [],
       "priority": 0
@@ -68,11 +101,33 @@
       "priority": 0
     },
     {
+      "id": "051eff836d201d59",
+      "title": "Carsley eyes Euros history with England U21s after draw",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c97726npre86o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-26T19:35:17+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
       "id": "90cd186ca878e0ab",
       "title": "Referee being 'drunk' claims are 'entirely unfounded'",
       "url": "https://www.bbc.co.uk/sport/football/articles/c6x289w0vpr1o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
       "published_at": "2026-11-26T19:19:49+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "363786a4394a06e3",
+      "title": "What will returning Magill bring to Northern Ireland?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm93rdqrgkz2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-26T18:34:20+00:00",
       "category": "clubs",
       "language": "en",
       "topics": [],
@@ -90,6 +145,28 @@
       "priority": 8
     },
     {
+      "id": "2b18e4ff27cb35f7",
+      "title": "Germany's Freigang given 16-month ban over drugs test issues",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqlym4rd3y52o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-26T17:12:45+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "d4323bf80345fdc0",
+      "title": "Fofana has apologised for interview - Alonso",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5wy43j1l3rwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-26T16:47:47+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
       "id": "10fe760c47f2a03d",
       "title": "Football Daily | Bayern Munich go from bad to worse with own goals on and off the pitch",
       "url": "https://www.theguardian.com/football/2026/nov/26/football-daily-newsletter-bayern-munich",
@@ -101,6 +178,17 @@
         "Bundesliga"
       ],
       "priority": 12
+    },
+    {
+      "id": "d2c8cb2ae0b7d76c",
+      "title": "Sutton's predictions v Kings of Leon drummer Nathan Followill",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3n0l29lrr27o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-26T15:01:48+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
     },
     {
       "id": "e9ea80ec544d9580",
@@ -122,6 +210,17 @@
       "url": "https://www.bbc.co.uk/sport/football/articles/cmn4k7v93gvzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
       "published_at": "2026-11-26T14:56:30+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "c0440454450c121d",
+      "title": "Not even making a 12-man bench - what next for Garnacho?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr3wgd5exl0do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-26T13:23:05+00:00",
       "category": "clubs",
       "language": "en",
       "topics": [],
@@ -163,121 +262,22 @@
       "priority": 0
     },
     {
-      "id": "230c2c6ceef1df8b",
-      "title": "How Isak and Wirtz are becoming Liverpool's 'big-game players'",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cmqx527v3x19o?at_medium=RSS&at_campaign=rss",
+      "id": "a043b6ffd9be0abb",
+      "title": "Who am I? Plus today's other quizzes",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6ly5125qgy9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
-      "published_at": "2026-11-25T23:38:42+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [
-        "Premier League"
-      ],
-      "priority": 12
-    },
-    {
-      "id": "56c7ff263dfeca8f",
-      "title": "Fenerbahce squeeze past Shakhtar to seal back-to-back wins",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c6ly51452xe7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-25T23:16:18+00:00",
+      "published_at": "2026-11-26T06:53:51+00:00",
       "category": "clubs",
       "language": "en",
       "topics": [],
       "priority": 0
     },
     {
-      "id": "20f265e0f96becef",
-      "title": "Martinez secures Inter win against Stuttgart",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c6j9mvjkkzymo?at_medium=RSS&at_campaign=rss",
+      "id": "2211a6bf656a507c",
+      "title": "'Laughing gas has ended careers' - so how common is it in football?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6kgdrj9nxgdo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
-      "published_at": "2026-11-25T23:02:15+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
-      "id": "edc28456b5b0d44e",
-      "title": "Lammens howler denies Man Utd victory against Sporting in incident-packed game",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c6ly5145gg1do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-25T22:32:51+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
-      "id": "ae5366a929fd2029",
-      "title": "PSG held by Roma as in-form Malen scores again",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cwvg2832elr4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-25T22:27:14+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [
-        "Ligue 1"
-      ],
-      "priority": 12
-    },
-    {
-      "id": "31f38088f191e191",
-      "title": "Terrible Pavlovic own goal gifts Lille shock win against Bayern",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cq36gx1g10p6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-25T22:24:57+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [
-        "Bundesliga"
-      ],
-      "priority": 12
-    },
-    {
-      "id": "28b789e5a6f7aa18",
-      "title": "Isak scores twice as clinical Liverpool beat Brugge",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cqvg28l0z8mro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-25T22:12:19+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [
-        "Premier League"
-      ],
-      "priority": 12
-    },
-    {
-      "id": "5969c6a39b768b3e",
-      "title": "Gordon stars in comfortable Barca win over Sabah",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c6z74ljxjv2xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-25T22:07:02+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
-      "id": "dea39d11743ed572",
-      "title": "Borussia Dortmund fight back to draw with Arsenal",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cmedqg06d8vwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-25T22:05:57+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [
-        "Premier League",
-        "Bundesliga"
-      ],
-      "priority": 12
-    },
-    {
-      "id": "f19edc8453a9a0b7",
-      "title": "Sublime Bellingham strike lights up Real's rout of PSV",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c5evr0y83197o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-25T22:05:45+00:00",
+      "published_at": "2026-11-26T06:18:30+00:00",
       "category": "clubs",
       "language": "en",
       "topics": [],
@@ -299,17 +299,6 @@
       "priority": 12
     },
     {
-      "id": "b6c940e3bd116d6a",
-      "title": "Oliver Glasner criticises Nottingham Forest players for not learning English",
-      "url": "https://www.theguardian.com/football/2026/nov/25/oliver-glasner-criticises-nottingham-forest-for-not-making-players-learn-english",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-25T21:17:34+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
       "id": "7a5a3952d10a1c0c",
       "title": "Football: un an de prison avec sursis pour l'international anglais Sterling après un accident de la route",
       "url": "https://www.rfi.fr/fr/sports/20261125-football-un-an-de-prison-avec-sursis-pour-l-international-anglais-sterling-apr%C3%A8s-un-accident-de-la-route",
@@ -317,17 +306,6 @@
       "published_at": "2026-11-25T19:54:54+00:00",
       "category": "clubs",
       "language": "fr",
-      "topics": [],
-      "priority": 0
-    },
-    {
-      "id": "aa56d102c27d07b0",
-      "title": "Alejandro Garnacho and the curious case of Aston Villa’s outcast loanees | Ben Fisher",
-      "url": "https://www.theguardian.com/football/2026/nov/25/alejandro-garnacho-aston-villa-loanees-unai-emery",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-25T17:00:31+00:00",
-      "category": "clubs",
-      "language": "en",
       "topics": [],
       "priority": 0
     },
@@ -464,15 +442,15 @@
   ],
   "source_errors": [],
   "search_trends_fr": [
-    "jessica alba",
-    "argentan",
-    "classement crystal palace – real sociedad",
-    "interpol",
-    "jean philippe tanguy",
-    "van der vaart",
-    "coralie licata",
-    "corse-matin",
-    "nz vs ind",
-    "estonie"
+    "trump",
+    "darty black friday",
+    "airpods pro 3",
+    "apple",
+    "on",
+    "lululemon",
+    "indice uefa",
+    "lisnard sondage présidentielle 2027",
+    "classement borac banja luka – atalanta bergame",
+    "jessica alba"
   ]
 }
