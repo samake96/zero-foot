@@ -1,13 +1,24 @@
 {
-  "updated_at": "2026-11-26T21:37:34.712101+00:00",
+  "updated_at": "2026-11-26T22:40:18.640253+00:00",
   "items": [
     {
-      "id": "5ddaabe04e91e1c3",
-      "title": "Sunderland v Jagiellonia Bialystok, Crystal Palace v Real Sociedad, and more: Europa League – live",
-      "url": "https://www.theguardian.com/football/live/2026/nov/26/sunderland-v-jagiellonia-bialystok-crystal-palace-v-real-sociedad-and-more-europa-league-live",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-26T21:29:42+00:00",
+      "id": "e7dfeb9269273e1c",
+      "title": "Bournemouth 'allowed to dream' as fans book Europa League final hotels",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmq5v84vw818o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-26T22:27:52+00:00",
       "category": "competitions",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "e4a5245071b640fc",
+      "title": "Thomas Frank earns first Crystal Palace win as McNeil cuts down Real Sociedad",
+      "url": "https://www.theguardian.com/football/2026/nov/26/crystal-palace-real-sociedad-europa-league-match-report",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-26T22:10:14+00:00",
+      "category": "clubs",
       "language": "en",
       "topics": [],
       "priority": 0
@@ -79,17 +90,6 @@
       "priority": 8
     },
     {
-      "id": "2b18e4ff27cb35f7",
-      "title": "Germany's Freigang given 16-month ban over drugs test issues",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqlym4rd3y52o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-26T17:12:45+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
       "id": "10fe760c47f2a03d",
       "title": "Football Daily | Bayern Munich go from bad to worse with own goals on and off the pitch",
       "url": "https://www.theguardian.com/football/2026/nov/26/football-daily-newsletter-bayern-munich",
@@ -122,17 +122,6 @@
       "url": "https://www.bbc.co.uk/sport/football/articles/cmn4k7v93gvzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
       "published_at": "2026-11-26T14:56:30+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
-      "id": "c0440454450c121d",
-      "title": "Not even making a 12-man bench - what next for Garnacho?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr3wgd5exl0do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-26T13:23:05+00:00",
       "category": "clubs",
       "language": "en",
       "topics": [],
@@ -282,6 +271,17 @@
         "Bundesliga"
       ],
       "priority": 12
+    },
+    {
+      "id": "f19edc8453a9a0b7",
+      "title": "Sublime Bellingham strike lights up Real's rout of PSV",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c5evr0y83197o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-25T22:05:45+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
     },
     {
       "id": "fc8a50b104c7d1af",
@@ -464,15 +464,15 @@
   ],
   "source_errors": [],
   "search_trends_fr": [
-    "boursobank",
-    "jamie dornan",
-    "jeff ekhator",
-    "pierre-emerick aubameyang",
-    "rosamund pike",
-    "je deteste cyril hanouna",
-    "h&m",
-    "assou ekotto",
-    "maverick viñales",
-    "reali"
+    "jessica alba",
+    "argentan",
+    "classement crystal palace – real sociedad",
+    "interpol",
+    "jean philippe tanguy",
+    "van der vaart",
+    "coralie licata",
+    "corse-matin",
+    "nz vs ind",
+    "estonie"
   ]
 }
