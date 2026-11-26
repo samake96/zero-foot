@@ -940,5 +940,131 @@
       "draw": 0.3139,
       "away": 0.2418
     }
+  },
+  {
+    "match_id": 1570561,
+    "kickoff": "2026-12-02T18:00:00+00:00",
+    "recorded_at": "2026-11-26T08:38:01.847895+00:00",
+    "competition": "PD",
+    "home": "Real Sociedad",
+    "away": "Real Madrid",
+    "model": "poisson_v33_prototype",
+    "probabilities_1x2": {
+      "home": 0.2365,
+      "draw": 0.2156,
+      "away": 0.5479
+    }
+  },
+  {
+    "match_id": 1557490,
+    "kickoff": "2026-12-02T19:30:00+00:00",
+    "recorded_at": "2026-11-26T08:38:01.847895+00:00",
+    "competition": "PL",
+    "home": "Chelsea",
+    "away": "Crystal Palace",
+    "model": "poisson_v33_prototype",
+    "probabilities_1x2": {
+      "home": 0.4689,
+      "draw": 0.238,
+      "away": 0.2932
+    }
+  },
+  {
+    "match_id": 1557492,
+    "kickoff": "2026-12-02T19:30:00+00:00",
+    "recorded_at": "2026-11-26T08:38:01.847895+00:00",
+    "competition": "PL",
+    "home": "Hull City",
+    "away": "Nottingham Forest",
+    "model": "poisson_v33_prototype",
+    "probabilities_1x2": {
+      "home": 0.4635,
+      "draw": 0.2532,
+      "away": 0.2833
+    }
+  },
+  {
+    "match_id": 1557493,
+    "kickoff": "2026-12-02T19:30:00+00:00",
+    "recorded_at": "2026-11-26T08:38:01.847895+00:00",
+    "competition": "PL",
+    "home": "Liverpool",
+    "away": "Sunderland",
+    "model": "poisson_v33_prototype",
+    "probabilities_1x2": {
+      "home": 0.5742,
+      "draw": 0.236,
+      "away": 0.1899
+    }
+  },
+  {
+    "match_id": 1557494,
+    "kickoff": "2026-12-02T19:30:00+00:00",
+    "recorded_at": "2026-11-26T08:38:01.847895+00:00",
+    "competition": "PL",
+    "home": "Manchester City",
+    "away": "Leeds",
+    "model": "poisson_v33_prototype",
+    "probabilities_1x2": {
+      "home": 0.676,
+      "draw": 0.1876,
+      "away": 0.1364
+    }
+  },
+  {
+    "match_id": 1557487,
+    "kickoff": "2026-12-02T20:15:00+00:00",
+    "recorded_at": "2026-11-26T08:38:01.847895+00:00",
+    "competition": "PL",
+    "home": "Aston Villa",
+    "away": "Everton",
+    "model": "poisson_v33_prototype",
+    "probabilities_1x2": {
+      "home": 0.4088,
+      "draw": 0.282,
+      "away": 0.3092
+    }
+  },
+  {
+    "match_id": 1557488,
+    "kickoff": "2026-12-02T20:15:00+00:00",
+    "recorded_at": "2026-11-26T08:38:01.847895+00:00",
+    "competition": "PL",
+    "home": "Bournemouth",
+    "away": "Brighton",
+    "model": "poisson_v33_prototype",
+    "probabilities_1x2": {
+      "home": 0.4386,
+      "draw": 0.2674,
+      "away": 0.294
+    }
+  },
+  {
+    "match_id": 1557489,
+    "kickoff": "2026-12-02T20:15:00+00:00",
+    "recorded_at": "2026-11-26T08:38:01.847895+00:00",
+    "competition": "PL",
+    "home": "Brentford",
+    "away": "Arsenal",
+    "model": "poisson_v33_prototype",
+    "probabilities_1x2": {
+      "home": 0.338,
+      "draw": 0.2788,
+      "away": 0.3832
+    }
+  },
+  {
+    "match_id": 1557495,
+    "kickoff": "2026-12-02T20:15:00+00:00",
+    "recorded_at": "2026-11-26T08:38:01.847895+00:00",
+    "competition": "PL",
+    "home": "Newcastle",
+    "away": "Manchester United",
+    "model": "poisson_v33_prototype",
+    "probabilities_1x2": {
+      "home": 0.4026,
+      "draw": 0.2299,
+      "away": 0.3675
+    }
   }
 ]

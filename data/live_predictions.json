@@ -1,15 +1,14 @@
 {
   "source": "ZEROFOOT",
-  "created_at": "2026-11-25T08:41:07.988621+00:00",
+  "created_at": "2026-11-26T08:38:01.755734+00:00",
   "model": "poisson_v33_prototype",
   "warning": "Experimental forecasts based on available historical data, not validated for future betting or guaranteed returns.",
-  "input_matches": 68,
+  "input_matches": 60,
   "historical_matches": 2296,
-  "predictions_count": 30,
+  "predictions_count": 39,
   "skipped": {
-    "unsupported_competition": 9,
-    "unmatched_team": 19,
-    "outside_next_7_days": 10
+    "unmatched_team": 20,
+    "outside_next_7_days": 1
   },
   "predictions": [
     {
@@ -1446,6 +1445,438 @@
         ],
         "opinion_fr": "Notre avis : Espanyol. Cette orientation repose sur les buts attendus et les performances historiques domicile/exterieur. L'ecart entre les scenarios reste notable, et une surprise demeure possible.",
         "opinion_en": "Our view: Espanyol to win. This opinion uses expected goals and historical home/away performance. The gap between outcomes is meaningful, and an upset remains possible.",
+        "limitations_fr": "Avis statistique, sans prise en compte confirmee des blessures, compositions ou informations de derniere minute. Aucun resultat garanti.",
+        "limitations_en": "Statistical opinion; injuries, lineups and late news have not been verified. No outcome is guaranteed."
+      },
+      "model": "poisson_v33_prototype",
+      "experimental": true
+    },
+    {
+      "match_id": 1570561,
+      "kickoff": "2026-12-02T18:00:00+00:00",
+      "competition": "PD",
+      "league": "La Liga",
+      "home": "Real Sociedad",
+      "away": "Real Madrid",
+      "probabilities_1x2": {
+        "home": 0.2365,
+        "draw": 0.2156,
+        "away": 0.5479
+      },
+      "expected_goals": {
+        "home": 1.256,
+        "away": 2.007
+      },
+      "historical_samples": {
+        "home": 25,
+        "away": 26
+      },
+      "analysis": {
+        "pick": "away",
+        "pick_label": "Real Madrid",
+        "confidence": "moderee",
+        "reasons": [
+          {
+            "type": "expected_goals",
+            "home": 1.256,
+            "away": 2.007,
+            "text_fr": "Buts attendus selon le modele : 1.26 pour Real Sociedad, 2.01 pour Real Madrid.",
+            "text_en": "Model expected goals: Real Sociedad 1.26, Real Madrid 2.01."
+          },
+          {
+            "type": "historical_samples",
+            "home": 25,
+            "away": 26,
+            "text_fr": "Base statistique : 25 matchs a domicile de Real Sociedad et 26 matchs a l'exterieur de Real Madrid.",
+            "text_en": "Statistical sample: 25 home games for Real Sociedad and 26 away games for Real Madrid."
+          }
+        ],
+        "opinion_fr": "Notre avis : Real Madrid. Cette orientation repose sur les buts attendus et les performances historiques domicile/exterieur. L'ecart entre les scenarios reste notable, et une surprise demeure possible.",
+        "opinion_en": "Our view: Real Madrid to win. This opinion uses expected goals and historical home/away performance. The gap between outcomes is meaningful, and an upset remains possible.",
+        "limitations_fr": "Avis statistique, sans prise en compte confirmee des blessures, compositions ou informations de derniere minute. Aucun resultat garanti.",
+        "limitations_en": "Statistical opinion; injuries, lineups and late news have not been verified. No outcome is guaranteed."
+      },
+      "model": "poisson_v33_prototype",
+      "experimental": true
+    },
+    {
+      "match_id": 1557490,
+      "kickoff": "2026-12-02T19:30:00+00:00",
+      "competition": "PL",
+      "league": "Premier League",
+      "home": "Chelsea",
+      "away": "Crystal Palace",
+      "probabilities_1x2": {
+        "home": 0.4689,
+        "draw": 0.238,
+        "away": 0.2932
+      },
+      "expected_goals": {
+        "home": 1.698,
+        "away": 1.297
+      },
+      "historical_samples": {
+        "home": 25,
+        "away": 25
+      },
+      "analysis": {
+        "pick": "home",
+        "pick_label": "Chelsea",
+        "confidence": "moderee",
+        "reasons": [
+          {
+            "type": "expected_goals",
+            "home": 1.698,
+            "away": 1.297,
+            "text_fr": "Buts attendus selon le modele : 1.70 pour Chelsea, 1.30 pour Crystal Palace.",
+            "text_en": "Model expected goals: Chelsea 1.70, Crystal Palace 1.30."
+          },
+          {
+            "type": "historical_samples",
+            "home": 25,
+            "away": 25,
+            "text_fr": "Base statistique : 25 matchs a domicile de Chelsea et 25 matchs a l'exterieur de Crystal Palace.",
+            "text_en": "Statistical sample: 25 home games for Chelsea and 25 away games for Crystal Palace."
+          }
+        ],
+        "opinion_fr": "Notre avis : Chelsea. Cette orientation repose sur les buts attendus et les performances historiques domicile/exterieur. L'ecart entre les scenarios reste notable, et une surprise demeure possible.",
+        "opinion_en": "Our view: Chelsea to win. This opinion uses expected goals and historical home/away performance. The gap between outcomes is meaningful, and an upset remains possible.",
+        "limitations_fr": "Avis statistique, sans prise en compte confirmee des blessures, compositions ou informations de derniere minute. Aucun resultat garanti.",
+        "limitations_en": "Statistical opinion; injuries, lineups and late news have not been verified. No outcome is guaranteed."
+      },
+      "model": "poisson_v33_prototype",
+      "experimental": true
+    },
+    {
+      "match_id": 1557492,
+      "kickoff": "2026-12-02T19:30:00+00:00",
+      "competition": "PL",
+      "league": "Premier League",
+      "home": "Hull City",
+      "away": "Nottingham Forest",
+      "probabilities_1x2": {
+        "home": 0.4635,
+        "draw": 0.2532,
+        "away": 0.2833
+      },
+      "expected_goals": {
+        "home": 1.539,
+        "away": 1.147
+      },
+      "historical_samples": {
+        "home": 6,
+        "away": 25
+      },
+      "analysis": {
+        "pick": "home",
+        "pick_label": "Hull City",
+        "confidence": "moderee",
+        "reasons": [
+          {
+            "type": "expected_goals",
+            "home": 1.539,
+            "away": 1.147,
+            "text_fr": "Buts attendus selon le modele : 1.54 pour Hull City, 1.15 pour Nottingham Forest.",
+            "text_en": "Model expected goals: Hull City 1.54, Nottingham Forest 1.15."
+          },
+          {
+            "type": "historical_samples",
+            "home": 6,
+            "away": 25,
+            "text_fr": "Base statistique : 6 matchs a domicile de Hull City et 25 matchs a l'exterieur de Nottingham Forest.",
+            "text_en": "Statistical sample: 6 home games for Hull City and 25 away games for Nottingham Forest."
+          }
+        ],
+        "opinion_fr": "Notre avis : Hull City. Cette orientation repose sur les buts attendus et les performances historiques domicile/exterieur. L'ecart entre les scenarios reste notable, et une surprise demeure possible.",
+        "opinion_en": "Our view: Hull City to win. This opinion uses expected goals and historical home/away performance. The gap between outcomes is meaningful, and an upset remains possible.",
+        "limitations_fr": "Avis statistique, sans prise en compte confirmee des blessures, compositions ou informations de derniere minute. Aucun resultat garanti.",
+        "limitations_en": "Statistical opinion; injuries, lineups and late news have not been verified. No outcome is guaranteed."
+      },
+      "model": "poisson_v33_prototype",
+      "experimental": true
+    },
+    {
+      "match_id": 1557493,
+      "kickoff": "2026-12-02T19:30:00+00:00",
+      "competition": "PL",
+      "league": "Premier League",
+      "home": "Liverpool",
+      "away": "Sunderland",
+      "probabilities_1x2": {
+        "home": 0.5742,
+        "draw": 0.236,
+        "away": 0.1899
+      },
+      "expected_goals": {
+        "home": 1.731,
+        "away": 0.883
+      },
+      "historical_samples": {
+        "home": 25,
+        "away": 25
+      },
+      "analysis": {
+        "pick": "home",
+        "pick_label": "Liverpool",
+        "confidence": "moderee",
+        "reasons": [
+          {
+            "type": "expected_goals",
+            "home": 1.731,
+            "away": 0.883,
+            "text_fr": "Buts attendus selon le modele : 1.73 pour Liverpool, 0.88 pour Sunderland.",
+            "text_en": "Model expected goals: Liverpool 1.73, Sunderland 0.88."
+          },
+          {
+            "type": "historical_samples",
+            "home": 25,
+            "away": 25,
+            "text_fr": "Base statistique : 25 matchs a domicile de Liverpool et 25 matchs a l'exterieur de Sunderland.",
+            "text_en": "Statistical sample: 25 home games for Liverpool and 25 away games for Sunderland."
+          }
+        ],
+        "opinion_fr": "Notre avis : Liverpool. Cette orientation repose sur les buts attendus et les performances historiques domicile/exterieur. L'ecart entre les scenarios reste notable, et une surprise demeure possible.",
+        "opinion_en": "Our view: Liverpool to win. This opinion uses expected goals and historical home/away performance. The gap between outcomes is meaningful, and an upset remains possible.",
+        "limitations_fr": "Avis statistique, sans prise en compte confirmee des blessures, compositions ou informations de derniere minute. Aucun resultat garanti.",
+        "limitations_en": "Statistical opinion; injuries, lineups and late news have not been verified. No outcome is guaranteed."
+      },
+      "model": "poisson_v33_prototype",
+      "experimental": true
+    },
+    {
+      "match_id": 1557494,
+      "kickoff": "2026-12-02T19:30:00+00:00",
+      "competition": "PL",
+      "league": "Premier League",
+      "home": "Manchester City",
+      "away": "Leeds",
+      "probabilities_1x2": {
+        "home": 0.676,
+        "draw": 0.1876,
+        "away": 0.1364
+      },
+      "expected_goals": {
+        "home": 2.209,
+        "away": 0.88
+      },
+      "historical_samples": {
+        "home": 25,
+        "away": 25
+      },
+      "analysis": {
+        "pick": "home",
+        "pick_label": "Manchester City",
+        "confidence": "moderee",
+        "reasons": [
+          {
+            "type": "expected_goals",
+            "home": 2.209,
+            "away": 0.88,
+            "text_fr": "Buts attendus selon le modele : 2.21 pour Manchester City, 0.88 pour Leeds.",
+            "text_en": "Model expected goals: Manchester City 2.21, Leeds 0.88."
+          },
+          {
+            "type": "historical_samples",
+            "home": 25,
+            "away": 25,
+            "text_fr": "Base statistique : 25 matchs a domicile de Manchester City et 25 matchs a l'exterieur de Leeds.",
+            "text_en": "Statistical sample: 25 home games for Manchester City and 25 away games for Leeds."
+          }
+        ],
+        "opinion_fr": "Notre avis : Manchester City. Cette orientation repose sur les buts attendus et les performances historiques domicile/exterieur. L'ecart entre les scenarios reste notable, et une surprise demeure possible.",
+        "opinion_en": "Our view: Manchester City to win. This opinion uses expected goals and historical home/away performance. The gap between outcomes is meaningful, and an upset remains possible.",
+        "limitations_fr": "Avis statistique, sans prise en compte confirmee des blessures, compositions ou informations de derniere minute. Aucun resultat garanti.",
+        "limitations_en": "Statistical opinion; injuries, lineups and late news have not been verified. No outcome is guaranteed."
+      },
+      "model": "poisson_v33_prototype",
+      "experimental": true
+    },
+    {
+      "match_id": 1557487,
+      "kickoff": "2026-12-02T20:15:00+00:00",
+      "competition": "PL",
+      "league": "Premier League",
+      "home": "Aston Villa",
+      "away": "Everton",
+      "probabilities_1x2": {
+        "home": 0.4088,
+        "draw": 0.282,
+        "away": 0.3092
+      },
+      "expected_goals": {
+        "home": 1.25,
+        "away": 1.048
+      },
+      "historical_samples": {
+        "home": 25,
+        "away": 24
+      },
+      "analysis": {
+        "pick": "home",
+        "pick_label": "Aston Villa",
+        "confidence": "prudente",
+        "reasons": [
+          {
+            "type": "expected_goals",
+            "home": 1.25,
+            "away": 1.048,
+            "text_fr": "Buts attendus selon le modele : 1.25 pour Aston Villa, 1.05 pour Everton.",
+            "text_en": "Model expected goals: Aston Villa 1.25, Everton 1.05."
+          },
+          {
+            "type": "historical_samples",
+            "home": 25,
+            "away": 24,
+            "text_fr": "Base statistique : 25 matchs a domicile de Aston Villa et 24 matchs a l'exterieur de Everton.",
+            "text_en": "Statistical sample: 25 home games for Aston Villa and 24 away games for Everton."
+          }
+        ],
+        "opinion_fr": "Notre avis : Aston Villa. Cette orientation repose sur les buts attendus et les performances historiques domicile/exterieur. L'ecart entre les scenarios reste limite, et une surprise demeure possible.",
+        "opinion_en": "Our view: Aston Villa to win. This opinion uses expected goals and historical home/away performance. The gap between outcomes is narrow, and an upset remains possible.",
+        "limitations_fr": "Avis statistique, sans prise en compte confirmee des blessures, compositions ou informations de derniere minute. Aucun resultat garanti.",
+        "limitations_en": "Statistical opinion; injuries, lineups and late news have not been verified. No outcome is guaranteed."
+      },
+      "model": "poisson_v33_prototype",
+      "experimental": true
+    },
+    {
+      "match_id": 1557488,
+      "kickoff": "2026-12-02T20:15:00+00:00",
+      "competition": "PL",
+      "league": "Premier League",
+      "home": "Bournemouth",
+      "away": "Brighton",
+      "probabilities_1x2": {
+        "home": 0.4386,
+        "draw": 0.2674,
+        "away": 0.294
+      },
+      "expected_goals": {
+        "home": 1.393,
+        "away": 1.089
+      },
+      "historical_samples": {
+        "home": 25,
+        "away": 25
+      },
+      "analysis": {
+        "pick": "home",
+        "pick_label": "Bournemouth",
+        "confidence": "moderee",
+        "reasons": [
+          {
+            "type": "expected_goals",
+            "home": 1.393,
+            "away": 1.089,
+            "text_fr": "Buts attendus selon le modele : 1.39 pour Bournemouth, 1.09 pour Brighton.",
+            "text_en": "Model expected goals: Bournemouth 1.39, Brighton 1.09."
+          },
+          {
+            "type": "historical_samples",
+            "home": 25,
+            "away": 25,
+            "text_fr": "Base statistique : 25 matchs a domicile de Bournemouth et 25 matchs a l'exterieur de Brighton.",
+            "text_en": "Statistical sample: 25 home games for Bournemouth and 25 away games for Brighton."
+          }
+        ],
+        "opinion_fr": "Notre avis : Bournemouth. Cette orientation repose sur les buts attendus et les performances historiques domicile/exterieur. L'ecart entre les scenarios reste notable, et une surprise demeure possible.",
+        "opinion_en": "Our view: Bournemouth to win. This opinion uses expected goals and historical home/away performance. The gap between outcomes is meaningful, and an upset remains possible.",
+        "limitations_fr": "Avis statistique, sans prise en compte confirmee des blessures, compositions ou informations de derniere minute. Aucun resultat garanti.",
+        "limitations_en": "Statistical opinion; injuries, lineups and late news have not been verified. No outcome is guaranteed."
+      },
+      "model": "poisson_v33_prototype",
+      "experimental": true
+    },
+    {
+      "match_id": 1557489,
+      "kickoff": "2026-12-02T20:15:00+00:00",
+      "competition": "PL",
+      "league": "Premier League",
+      "home": "Brentford",
+      "away": "Arsenal",
+      "probabilities_1x2": {
+        "home": 0.338,
+        "draw": 0.2788,
+        "away": 0.3832
+      },
+      "expected_goals": {
+        "home": 1.135,
+        "away": 1.228
+      },
+      "historical_samples": {
+        "home": 24,
+        "away": 25
+      },
+      "analysis": {
+        "pick": "away",
+        "pick_label": "Arsenal",
+        "confidence": "prudente",
+        "reasons": [
+          {
+            "type": "expected_goals",
+            "home": 1.135,
+            "away": 1.228,
+            "text_fr": "Buts attendus selon le modele : 1.14 pour Brentford, 1.23 pour Arsenal.",
+            "text_en": "Model expected goals: Brentford 1.14, Arsenal 1.23."
+          },
+          {
+            "type": "historical_samples",
+            "home": 24,
+            "away": 25,
+            "text_fr": "Base statistique : 24 matchs a domicile de Brentford et 25 matchs a l'exterieur de Arsenal.",
+            "text_en": "Statistical sample: 24 home games for Brentford and 25 away games for Arsenal."
+          }
+        ],
+        "opinion_fr": "Notre avis : Arsenal. Cette orientation repose sur les buts attendus et les performances historiques domicile/exterieur. L'ecart entre les scenarios reste limite, et une surprise demeure possible.",
+        "opinion_en": "Our view: Arsenal to win. This opinion uses expected goals and historical home/away performance. The gap between outcomes is narrow, and an upset remains possible.",
+        "limitations_fr": "Avis statistique, sans prise en compte confirmee des blessures, compositions ou informations de derniere minute. Aucun resultat garanti.",
+        "limitations_en": "Statistical opinion; injuries, lineups and late news have not been verified. No outcome is guaranteed."
+      },
+      "model": "poisson_v33_prototype",
+      "experimental": true
+    },
+    {
+      "match_id": 1557495,
+      "kickoff": "2026-12-02T20:15:00+00:00",
+      "competition": "PL",
+      "league": "Premier League",
+      "home": "Newcastle",
+      "away": "Manchester United",
+      "probabilities_1x2": {
+        "home": 0.4026,
+        "draw": 0.2299,
+        "away": 0.3675
+      },
+      "expected_goals": {
+        "home": 1.694,
+        "away": 1.61
+      },
+      "historical_samples": {
+        "home": 25,
+        "away": 25
+      },
+      "analysis": {
+        "pick": "home",
+        "pick_label": "Newcastle",
+        "confidence": "prudente",
+        "reasons": [
+          {
+            "type": "expected_goals",
+            "home": 1.694,
+            "away": 1.61,
+            "text_fr": "Buts attendus selon le modele : 1.69 pour Newcastle, 1.61 pour Manchester United.",
+            "text_en": "Model expected goals: Newcastle 1.69, Manchester United 1.61."
+          },
+          {
+            "type": "historical_samples",
+            "home": 25,
+            "away": 25,
+            "text_fr": "Base statistique : 25 matchs a domicile de Newcastle et 25 matchs a l'exterieur de Manchester United.",
+            "text_en": "Statistical sample: 25 home games for Newcastle and 25 away games for Manchester United."
+          }
+        ],
+        "opinion_fr": "Notre avis : Newcastle. Cette orientation repose sur les buts attendus et les performances historiques domicile/exterieur. L'ecart entre les scenarios reste limite, et une surprise demeure possible.",
+        "opinion_en": "Our view: Newcastle to win. This opinion uses expected goals and historical home/away performance. The gap between outcomes is narrow, and an upset remains possible.",
         "limitations_fr": "Avis statistique, sans prise en compte confirmee des blessures, compositions ou informations de derniere minute. Aucun resultat garanti.",
         "limitations_en": "Statistical opinion; injuries, lineups and late news have not been verified. No outcome is guaranteed."
       },

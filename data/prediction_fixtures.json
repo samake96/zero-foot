@@ -1,8 +1,8 @@
 {
   "source": "API-Football",
-  "updated_at": "2026-11-25T08:41:06.695056+00:00",
-  "from_utc": "2026-11-25",
-  "to_utc": "2026-12-02",
+  "updated_at": "2026-11-26T08:37:59.984234+00:00",
+  "from_utc": "2026-11-26",
+  "to_utc": "2026-12-03",
   "target_leagues": [
     2,
     5,
@@ -13,206 +13,17 @@
     61
   ],
   "checked_dates": [
-    "2026-11-25",
     "2026-11-26",
     "2026-11-27",
     "2026-11-28",
     "2026-11-29",
     "2026-11-30",
     "2026-12-01",
-    "2026-12-02"
+    "2026-12-02",
+    "2026-12-03"
   ],
   "blocked_dates": [],
   "matches": [
-    {
-      "id": 1635718,
-      "kickoff": "2026-11-25T17:45:00+00:00",
-      "status": "NS",
-      "elapsed": null,
-      "league": {
-        "id": 2,
-        "name": "UEFA Champions League",
-        "country": "World"
-      },
-      "home": {
-        "name": "Sabah FA",
-        "logo": "https://media.api-sports.io/football/teams/13976.png",
-        "goals": null
-      },
-      "away": {
-        "name": "Barcelona",
-        "logo": "https://media.api-sports.io/football/teams/529.png",
-        "goals": null
-      }
-    },
-    {
-      "id": 1635728,
-      "kickoff": "2026-11-25T17:45:00+00:00",
-      "status": "NS",
-      "elapsed": null,
-      "league": {
-        "id": 2,
-        "name": "UEFA Champions League",
-        "country": "World"
-      },
-      "home": {
-        "name": "Slavia Praha",
-        "logo": "https://media.api-sports.io/football/teams/560.png",
-        "goals": null
-      },
-      "away": {
-        "name": "Villarreal",
-        "logo": "https://media.api-sports.io/football/teams/533.png",
-        "goals": null
-      }
-    },
-    {
-      "id": 1635625,
-      "kickoff": "2026-11-25T20:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
-      "league": {
-        "id": 2,
-        "name": "UEFA Champions League",
-        "country": "World"
-      },
-      "home": {
-        "name": "Atletico Madrid",
-        "logo": "https://media.api-sports.io/football/teams/530.png",
-        "goals": null
-      },
-      "away": {
-        "name": "Viking",
-        "logo": "https://media.api-sports.io/football/teams/759.png",
-        "goals": null
-      }
-    },
-    {
-      "id": 1635642,
-      "kickoff": "2026-11-25T20:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
-      "league": {
-        "id": 2,
-        "name": "UEFA Champions League",
-        "country": "World"
-      },
-      "home": {
-        "name": "Club Brugge KV",
-        "logo": "https://media.api-sports.io/football/teams/569.png",
-        "goals": null
-      },
-      "away": {
-        "name": "Liverpool",
-        "logo": "https://media.api-sports.io/football/teams/40.png",
-        "goals": null
-      }
-    },
-    {
-      "id": 1635673,
-      "kickoff": "2026-11-25T20:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
-      "league": {
-        "id": 2,
-        "name": "UEFA Champions League",
-        "country": "World"
-      },
-      "home": {
-        "name": "Inter",
-        "logo": "https://media.api-sports.io/football/teams/505.png",
-        "goals": null
-      },
-      "away": {
-        "name": "VfB Stuttgart",
-        "logo": "https://media.api-sports.io/football/teams/172.png",
-        "goals": null
-      }
-    },
-    {
-      "id": 1635682,
-      "kickoff": "2026-11-25T20:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
-      "league": {
-        "id": 2,
-        "name": "UEFA Champions League",
-        "country": "World"
-      },
-      "home": {
-        "name": "Lille",
-        "logo": "https://media.api-sports.io/football/teams/79.png",
-        "goals": null
-      },
-      "away": {
-        "name": "Bayern München",
-        "logo": "https://media.api-sports.io/football/teams/157.png",
-        "goals": null
-      }
-    },
-    {
-      "id": 1635703,
-      "kickoff": "2026-11-25T20:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
-      "league": {
-        "id": 2,
-        "name": "UEFA Champions League",
-        "country": "World"
-      },
-      "home": {
-        "name": "Paris Saint Germain",
-        "logo": "https://media.api-sports.io/football/teams/85.png",
-        "goals": null
-      },
-      "away": {
-        "name": "AS Roma",
-        "logo": "https://media.api-sports.io/football/teams/497.png",
-        "goals": null
-      }
-    },
-    {
-      "id": 1635724,
-      "kickoff": "2026-11-25T20:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
-      "league": {
-        "id": 2,
-        "name": "UEFA Champions League",
-        "country": "World"
-      },
-      "home": {
-        "name": "Shakhtar Donetsk",
-        "logo": "https://media.api-sports.io/football/teams/550.png",
-        "goals": null
-      },
-      "away": {
-        "name": "Fenerbahçe",
-        "logo": "https://media.api-sports.io/football/teams/611.png",
-        "goals": null
-      }
-    },
-    {
-      "id": 1635735,
-      "kickoff": "2026-11-25T20:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
-      "league": {
-        "id": 2,
-        "name": "UEFA Champions League",
-        "country": "World"
-      },
-      "home": {
-        "name": "Sporting CP",
-        "logo": "https://media.api-sports.io/football/teams/228.png",
-        "goals": null
-      },
-      "away": {
-        "name": "Manchester United",
-        "logo": "https://media.api-sports.io/football/teams/33.png",
-        "goals": null
-      }
-    },
     {
       "id": 1575237,
       "kickoff": "2026-11-27T19:30:00+00:00",
@@ -1449,6 +1260,27 @@
       "away": {
         "name": "Atletico Madrid",
         "logo": "https://media.api-sports.io/football/teams/530.png",
+        "goals": null
+      }
+    },
+    {
+      "id": 1557496,
+      "kickoff": "2026-12-03T20:00:00+00:00",
+      "status": "NS",
+      "elapsed": null,
+      "league": {
+        "id": 39,
+        "name": "Premier League",
+        "country": "England"
+      },
+      "home": {
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png",
+        "goals": null
+      },
+      "away": {
+        "name": "Fulham",
+        "logo": "https://media.api-sports.io/football/teams/36.png",
         "goals": null
       }
     }

@@ -1,5 +1,5 @@
 {
-  "total_unmatched": 19,
+  "total_unmatched": 20,
   "potentially_resolved": 0,
   "diagnosis": [
     {
@@ -376,6 +376,26 @@
         "model_identity_matches": [],
         "found_exact": false,
         "found_by_model": false
+      }
+    },
+    {
+      "match_id": 1570555,
+      "competition": "PD",
+      "home": {
+        "fixture_name": "Barcelona",
+        "exact_normalized_matches": [],
+        "model_identity_matches": [],
+        "found_exact": false,
+        "found_by_model": false
+      },
+      "away": {
+        "fixture_name": "Atletico Madrid",
+        "exact_normalized_matches": [],
+        "model_identity_matches": [
+          "Club Atlético de Madrid"
+        ],
+        "found_exact": false,
+        "found_by_model": true
       }
     }
   ],

@@ -1,5 +1,5 @@
 {
-  "created_at": "2026-11-25T08:41:07.988621+00:00",
+  "created_at": "2026-11-26T08:38:01.755734+00:00",
   "historical_by_competition": {
     "PD": 508,
     "FL1": 404,
@@ -8,78 +8,14 @@
     "SA": 499
   },
   "invalid_historical_rows": 0,
-  "fixture_count": 68,
-  "predictions_count": 30,
-  "excluded_count": 38,
+  "fixture_count": 60,
+  "predictions_count": 39,
+  "excluded_count": 21,
   "exclusion_reasons": {
-    "unsupported_competition": 9,
-    "unmatched_team": 19,
-    "outside_next_7_days": 10
+    "unmatched_team": 20,
+    "outside_next_7_days": 1
   },
   "exclusions": [
-    {
-      "match_id": 1635718,
-      "reason": "unsupported_competition",
-      "league_id": 2,
-      "home": "Sabah FA",
-      "away": "Barcelona"
-    },
-    {
-      "match_id": 1635728,
-      "reason": "unsupported_competition",
-      "league_id": 2,
-      "home": "Slavia Praha",
-      "away": "Villarreal"
-    },
-    {
-      "match_id": 1635625,
-      "reason": "unsupported_competition",
-      "league_id": 2,
-      "home": "Atletico Madrid",
-      "away": "Viking"
-    },
-    {
-      "match_id": 1635642,
-      "reason": "unsupported_competition",
-      "league_id": 2,
-      "home": "Club Brugge KV",
-      "away": "Liverpool"
-    },
-    {
-      "match_id": 1635673,
-      "reason": "unsupported_competition",
-      "league_id": 2,
-      "home": "Inter",
-      "away": "VfB Stuttgart"
-    },
-    {
-      "match_id": 1635682,
-      "reason": "unsupported_competition",
-      "league_id": 2,
-      "home": "Lille",
-      "away": "Bayern München"
-    },
-    {
-      "match_id": 1635703,
-      "reason": "unsupported_competition",
-      "league_id": 2,
-      "home": "Paris Saint Germain",
-      "away": "AS Roma"
-    },
-    {
-      "match_id": 1635724,
-      "reason": "unsupported_competition",
-      "league_id": 2,
-      "home": "Shakhtar Donetsk",
-      "away": "Fenerbahçe"
-    },
-    {
-      "match_id": 1635735,
-      "reason": "unsupported_competition",
-      "league_id": 2,
-      "home": "Sporting CP",
-      "away": "Manchester United"
-    },
     {
       "match_id": 1550216,
       "reason": "unmatched_team",
@@ -214,74 +150,18 @@
       "away": "Ipswich"
     },
     {
-      "match_id": 1570561,
-      "reason": "outside_next_7_days",
-      "league_id": 140,
-      "home": "Real Sociedad",
-      "away": "Real Madrid"
-    },
-    {
-      "match_id": 1557490,
-      "reason": "outside_next_7_days",
-      "league_id": 39,
-      "home": "Chelsea",
-      "away": "Crystal Palace"
-    },
-    {
-      "match_id": 1557492,
-      "reason": "outside_next_7_days",
-      "league_id": 39,
-      "home": "Hull City",
-      "away": "Nottingham Forest"
-    },
-    {
-      "match_id": 1557493,
-      "reason": "outside_next_7_days",
-      "league_id": 39,
-      "home": "Liverpool",
-      "away": "Sunderland"
-    },
-    {
-      "match_id": 1557494,
-      "reason": "outside_next_7_days",
-      "league_id": 39,
-      "home": "Manchester City",
-      "away": "Leeds"
-    },
-    {
-      "match_id": 1557487,
-      "reason": "outside_next_7_days",
-      "league_id": 39,
-      "home": "Aston Villa",
-      "away": "Everton"
-    },
-    {
-      "match_id": 1557488,
-      "reason": "outside_next_7_days",
-      "league_id": 39,
-      "home": "Bournemouth",
-      "away": "Brighton"
-    },
-    {
-      "match_id": 1557489,
-      "reason": "outside_next_7_days",
-      "league_id": 39,
-      "home": "Brentford",
-      "away": "Arsenal"
-    },
-    {
-      "match_id": 1557495,
-      "reason": "outside_next_7_days",
-      "league_id": 39,
-      "home": "Newcastle",
-      "away": "Manchester United"
-    },
-    {
       "match_id": 1570555,
-      "reason": "outside_next_7_days",
+      "reason": "unmatched_team",
       "league_id": 140,
       "home": "Barcelona",
       "away": "Atletico Madrid"
+    },
+    {
+      "match_id": 1557496,
+      "reason": "outside_next_7_days",
+      "league_id": 39,
+      "home": "Tottenham",
+      "away": "Fulham"
     }
   ]
 }
