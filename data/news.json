@@ -1,6 +1,30 @@
 {
-  "updated_at": "2026-11-26T09:52:35.994390+00:00",
+  "updated_at": "2026-11-26T10:58:54.078755+00:00",
   "items": [
+    {
+      "id": "dbcd543322a6f2cb",
+      "title": "Neville, Carragher and the inescapable podcasting feedback loop of doom | Jonathan Liew",
+      "url": "https://www.theguardian.com/football/2026/nov/26/gary-neville-jamie-carragher-podcast-manchester-united-michael-carrick",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-26T10:19:16+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "537da50e9de730f9",
+      "title": "‘Not Bayern-like’: Joshua Kimmich fumes at club’s treatment of Jamal Musiala",
+      "url": "https://www.theguardian.com/football/2026/nov/26/bayern-munich-joshua-kimmich-jamal-musiala",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-26T10:19:07+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [
+        "Bundesliga"
+      ],
+      "priority": 12
+    },
     {
       "id": "1df640c7666bb1db",
       "title": "Pochettino claims officials ‘punished’ Manchester United in chaotic Sporting draw",
@@ -141,21 +165,6 @@
       "topics": [
         "La Liga",
         "Bundesliga",
-        "Ligue des champions"
-      ],
-      "priority": 12
-    },
-    {
-      "id": "af4b3589049df0dd",
-      "title": "Ligue des champions : la Roma accroche le PSG, Lille signe un exploit face au Bayern",
-      "url": "https://www.france24.com/fr/sports/20261125-ligue-des-champions-premi%C3%A8re-difficult%C3%A9-pour-le-psg-lille-signe-un-exploit-face-au-bayern",
-      "source": "France 24",
-      "published_at": "2026-11-25T22:35:25+00:00",
-      "category": "competitions",
-      "language": "fr",
-      "topics": [
-        "Bundesliga",
-        "Ligue 1",
         "Ligue des champions"
       ],
       "priority": 12
@@ -316,19 +325,6 @@
       "priority": 0
     },
     {
-      "id": "a8975a775ff677ee",
-      "title": "Saudi Arabia’s PIF looking to sell 25% of Newcastle through share issue",
-      "url": "https://www.theguardian.com/football/2026/nov/25/saudi-arabia-pif-newcastle-share-issue",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-25T15:36:32+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [
-        "Premier League"
-      ],
-      "priority": 12
-    },
-    {
       "id": "e50ad829737c7da6",
       "title": "CAN 2025: le président de la Fédération sénégalaise dément une nouvelle fois tout contact avec un juge du TAS",
       "url": "https://www.rfi.fr/fr/afrique-foot/20261125-can-2025-le-pr%C3%A9sident-de-la-f%C3%A9d%C3%A9ration-s%C3%A9n%C3%A9galaise-d%C3%A9ment-une-nouvelle-fois-tout-contact-avec-un-juge-du-tas",
@@ -356,17 +352,6 @@
       "url": "https://www.theguardian.com/football/2026/nov/25/jude-bellingham-downplays-comparisons-to-zidane-after-wondergoal",
       "source": "The Guardian Football",
       "published_at": "2026-11-25T12:59:29+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
-      "id": "070da2e9cbe6b575",
-      "title": "Senegal regaining Afcon title is the right end to fiasco but issues do not stop there | Osasu Obayiuwana",
-      "url": "https://www.theguardian.com/football/2026/nov/25/senegal-regaining-afcon-title-right-end-african-football",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-25T12:41:11+00:00",
       "category": "clubs",
       "language": "en",
       "topics": [],
@@ -494,15 +479,15 @@
   ],
   "source_errors": [],
   "search_trends_fr": [
+    "2crsi",
+    "india a vs sri lanka a",
+    "embouteillage",
+    "libye",
+    "louis ducruet",
     "épave",
     "iker lecuona",
     "ludovic marais tours",
-    "creche perpignan",
-    "psg mercato",
-    "ptz natalité",
-    "fusillade audincourt",
-    "ligne 14",
-    "cristina cordula",
-    "1password"
+    "millionnaires patriotes",
+    "creche perpignan"
   ]
 }
