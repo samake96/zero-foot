@@ -1,6 +1,41 @@
 {
-  "updated_at": "2026-11-26T16:40:33.073100+00:00",
+  "updated_at": "2026-11-26T17:40:33.644428+00:00",
   "items": [
+    {
+      "id": "2b18e4ff27cb35f7",
+      "title": "Germany's Freigang given 16-month ban over drugs test issues",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqlym4rd3y52o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-26T17:12:45+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "d4323bf80345fdc0",
+      "title": "Fofana has apologised for interview - Alonso",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5wy43j1l3rwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-26T16:47:47+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "10fe760c47f2a03d",
+      "title": "Football Daily | Bayern Munich go from bad to worse with own goals on and off the pitch",
+      "url": "https://www.theguardian.com/football/2026/nov/26/football-daily-newsletter-bayern-munich",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-26T15:48:28+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [
+        "Bundesliga"
+      ],
+      "priority": 12
+    },
     {
       "id": "d2c8cb2ae0b7d76c",
       "title": "Sutton's predictions v Kings of Leon drummer Nathan Followill",
@@ -73,19 +108,6 @@
       "priority": 0
     },
     {
-      "id": "ae30741738c7710d",
-      "title": "Manchester United held in Lisbon: is Mauricio Pochettino just unlucky? – Football Weekly podcast",
-      "url": "https://www.theguardian.com/football/audio/2026/nov/26/manchester-united-held-in-lisbon-is-mauricio-pochettino-just-unlucky-football-weekly",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-26T12:11:18+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [
-        "Premier League"
-      ],
-      "priority": 12
-    },
-    {
       "id": "ced61d1007ec5686",
       "title": "Manchester United, Liverpool and Spurs using same law firm to set up legal claim against City",
       "url": "https://www.theguardian.com/football/2026/nov/26/manchester-united-liverpool-tottenham-arsenal-city-legal-claim-financial-breaches-damages",
@@ -97,17 +119,6 @@
         "Premier League"
       ],
       "priority": 12
-    },
-    {
-      "id": "e3d4376f5d2a7665",
-      "title": "Fifa confirms internal data stolen in cyber attack",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crd61nvg4d84o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-26T11:30:07+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
     },
     {
       "id": "8e007c9ed00935bf",
@@ -156,28 +167,6 @@
       "priority": 0
     },
     {
-      "id": "a7029ca12739ec89",
-      "title": "Why KMI Panel frustrates referees too - and impacts their salary",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq20x16zxxzeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-26T07:28:18+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
-      "id": "a043b6ffd9be0abb",
-      "title": "Who am I? Plus today's other quizzes",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6ly5125qgy9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-26T06:53:51+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
       "id": "2211a6bf656a507c",
       "title": "'Laughing gas has ended careers' - so how common is it in football?",
       "url": "https://www.bbc.co.uk/sport/football/articles/c6kgdrj9nxgdo?at_medium=RSS&at_campaign=rss",
@@ -198,6 +187,19 @@
       "language": "en",
       "topics": [],
       "priority": 0
+    },
+    {
+      "id": "230c2c6ceef1df8b",
+      "title": "How Isak and Wirtz are becoming Liverpool's 'big-game players'",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cmqx527v3x19o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-25T23:38:42+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [
+        "Premier League"
+      ],
+      "priority": 12
     },
     {
       "id": "b593e4c4f8f6e49b",
@@ -302,6 +304,17 @@
       "priority": 12
     },
     {
+      "id": "b6c940e3bd116d6a",
+      "title": "Oliver Glasner criticises Nottingham Forest players for not learning English",
+      "url": "https://www.theguardian.com/football/2026/nov/25/oliver-glasner-criticises-nottingham-forest-for-not-making-players-learn-english",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-25T21:17:34+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
       "id": "7a5a3952d10a1c0c",
       "title": "Football: un an de prison avec sursis pour l'international anglais Sterling après un accident de la route",
       "url": "https://www.rfi.fr/fr/sports/20261125-football-un-an-de-prison-avec-sursis-pour-l-international-anglais-sterling-apr%C3%A8s-un-accident-de-la-route",
@@ -342,17 +355,6 @@
       "published_at": "2026-11-25T14:43:49+00:00",
       "category": "clubs",
       "language": "fr",
-      "topics": [],
-      "priority": 0
-    },
-    {
-      "id": "b4cd0e62ff41a179",
-      "title": "‘He’s more elegant’: Bellingham downplays Zidane comparisons after wondergoal",
-      "url": "https://www.theguardian.com/football/2026/nov/25/jude-bellingham-downplays-comparisons-to-zidane-after-wondergoal",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-25T12:59:29+00:00",
-      "category": "clubs",
-      "language": "en",
       "topics": [],
       "priority": 0
     },
@@ -467,15 +469,15 @@
   ],
   "source_errors": [],
   "search_trends_fr": [
-    "a40",
-    "coupe du monde fifa u-17",
-    "lyon - la duchère",
-    "mayenne",
-    "travail",
-    "angelina jolie",
-    "équipe du tadjikistan des moins de 17 ans de football – équipe du sénégal des moins de 17 ans de football",
-    "tubi",
-    "portugal",
-    "abattement fiscal des retraités"
+    "voiture de sport",
+    "grégoire arfeuil",
+    "feu d'artifice lyon",
+    "ligue europa conférence",
+    "olympiakos – ac milan",
+    "vaimalama chaves",
+    "beşiktaş - hapoel beerşeba",
+    "marseille vs levski sofia",
+    "gaëtan barlot",
+    "lance broadway"
   ]
 }
