@@ -1,6 +1,42 @@
 {
-  "updated_at": "2026-11-26T14:33:39.484029+00:00",
+  "updated_at": "2026-11-26T15:35:43.849113+00:00",
   "items": [
+    {
+      "id": "d2c8cb2ae0b7d76c",
+      "title": "Sutton's predictions v Kings of Leon drummer Nathan Followill",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3n0l29lrr27o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-26T15:01:48+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "e9ea80ec544d9580",
+      "title": "Champions League review: Lille monster Bayern, De Bruyne’s sad return and more United chaos",
+      "url": "https://www.theguardian.com/football/2026/nov/26/champions-league-review-lille-bayern-munich-kevin-de-bruyne-napoli",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-26T15:00:39+00:00",
+      "category": "competitions",
+      "language": "en",
+      "topics": [
+        "Bundesliga",
+        "Ligue des champions"
+      ],
+      "priority": 12
+    },
+    {
+      "id": "ccbc9976489df227",
+      "title": "Lammens - the Man Utd goalkeeper under scrutiny like never before",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmn4k7v93gvzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-26T14:56:30+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
     {
       "id": "d66871f6395999fb",
       "title": "David Squires on … youth development and nightmare parents on the touchline",
@@ -109,19 +145,6 @@
       "priority": 12
     },
     {
-      "id": "49d38bd8ef798eab",
-      "title": "Tenu en échec par la Roma, le PSG laisse filer ses premiers points de la saison",
-      "url": "https://www.france24.com/fr/%C3%A9missions/sports/20261126-tenu-en-%C3%A9chec-par-la-roma-le-psg-laisse-filer-ses-premiers-points-de-la-saison",
-      "source": "France 24",
-      "published_at": "2026-11-26T08:45:59+00:00",
-      "category": "clubs",
-      "language": "fr",
-      "topics": [
-        "Ligue 1"
-      ],
-      "priority": 12
-    },
-    {
       "id": "b285d28533e90135",
       "title": "No drums, no tifo … no point? The impact of Palace’s missing Holmesdale Fanatics",
       "url": "https://www.theguardian.com/football/2026/nov/26/no-drums-no-tifo-no-point-the-impact-of-palaces-missing-holmesdale-fanatics",
@@ -175,19 +198,6 @@
       "language": "en",
       "topics": [],
       "priority": 0
-    },
-    {
-      "id": "230c2c6ceef1df8b",
-      "title": "How Isak and Wirtz are becoming Liverpool's 'big-game players'",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cmqx527v3x19o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-25T23:38:42+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [
-        "Premier League"
-      ],
-      "priority": 12
     },
     {
       "id": "b593e4c4f8f6e49b",
@@ -290,28 +300,6 @@
         "Ligue des champions"
       ],
       "priority": 12
-    },
-    {
-      "id": "25eb7e1f719e80ac",
-      "title": "Regulator chief 'has stomach' to face Man City",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c65y10z8k59jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-25T21:27:35+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
-      "id": "b6c940e3bd116d6a",
-      "title": "Oliver Glasner criticises Nottingham Forest players for not learning English",
-      "url": "https://www.theguardian.com/football/2026/nov/25/oliver-glasner-criticises-nottingham-forest-for-not-making-players-learn-english",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-25T21:17:34+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
     },
     {
       "id": "7a5a3952d10a1c0c",
@@ -479,15 +467,15 @@
   ],
   "source_errors": [],
   "search_trends_fr": [
-    "grand prix de formule 1 du qatar",
-    "coupe d'afrique des nations de football 2025",
-    "maroc u-17 – espagne u-17",
-    "naufrage ibiza",
-    "village abandonné",
-    "mutares",
-    "corée du nord",
-    "royal navy",
-    "groupe antifasciste lyon et environs",
-    "abattement fiscal retraités 2027"
+    "israël",
+    "pablo hernández de cos",
+    "club de football",
+    "black friday ps5",
+    "union syndicale des magistrats",
+    "gérard larcher",
+    "hospitalisation",
+    "grand prix automobile du qatar 2026",
+    "prévision",
+    "zelda switch 2"
   ]
 }
