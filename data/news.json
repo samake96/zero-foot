@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-11-26T10:58:54.078755+00:00",
+  "updated_at": "2026-11-26T12:00:14.404263+00:00",
   "items": [
+    {
+      "id": "e3d4376f5d2a7665",
+      "title": "Fifa confirms internal data stolen in cyber attack",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crd61nvg4d84o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-26T11:30:07+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "8e007c9ed00935bf",
+      "title": "‘We are on the edge’: how Swedish league declined from summit of women’s game",
+      "url": "https://www.theguardian.com/football/2026/nov/26/damallsvenskan-swedish-league-decline-fans-attendances-media-coverage-finances",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-26T11:00:32+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
     {
       "id": "dbcd543322a6f2cb",
       "title": "Neville, Carragher and the inescapable podcasting feedback loop of doom | Jonathan Liew",
@@ -35,19 +57,6 @@
       "language": "en",
       "topics": [
         "Premier League"
-      ],
-      "priority": 12
-    },
-    {
-      "id": "49d38bd8ef798eab",
-      "title": "Tenu en échec par la Roma, le PSG laisse filer ses premiers points de la saison",
-      "url": "https://www.france24.com/fr/%C3%A9missions/sports/20261126-tenu-en-%C3%A9chec-par-la-roma-le-psg-laisse-filer-ses-premiers-points-de-la-saison",
-      "source": "France 24",
-      "published_at": "2026-11-26T08:45:59+00:00",
-      "category": "clubs",
-      "language": "fr",
-      "topics": [
-        "Ligue 1"
       ],
       "priority": 12
     },
@@ -153,21 +162,6 @@
       "language": "en",
       "topics": [],
       "priority": 0
-    },
-    {
-      "id": "6ed59ea64146510c",
-      "title": "Champions League: Lille comeback adds to Bayern woes, Gordon leads Barcelona rout",
-      "url": "https://www.theguardian.com/football/2026/nov/25/champions-league-barcelona-psg-roma-lille-bayern-munich-villarreal",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-25T22:38:19+00:00",
-      "category": "competitions",
-      "language": "en",
-      "topics": [
-        "La Liga",
-        "Bundesliga",
-        "Ligue des champions"
-      ],
-      "priority": 12
     },
     {
       "id": "edc28456b5b0d44e",
@@ -308,17 +302,6 @@
       "url": "https://www.theguardian.com/football/2026/nov/25/alejandro-garnacho-aston-villa-loanees-unai-emery",
       "source": "The Guardian Football",
       "published_at": "2026-11-25T17:00:31+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
-      "id": "05e3dc16ee15e098",
-      "title": "'Best midfielder in the world' - where does Bellingham rank?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmkgdjkr2y70o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-25T16:46:36+00:00",
       "category": "clubs",
       "language": "en",
       "topics": [],
@@ -477,17 +460,19 @@
       "priority": 12
     }
   ],
-  "source_errors": [],
+  "source_errors": [
+    "France 24: HTTPError: HTTP Error 403: Forbidden"
+  ],
   "search_trends_fr": [
-    "2crsi",
-    "india a vs sri lanka a",
-    "embouteillage",
-    "libye",
-    "louis ducruet",
-    "épave",
-    "iker lecuona",
-    "ludovic marais tours",
-    "millionnaires patriotes",
-    "creche perpignan"
+    "lycée en france",
+    "leila bekhti",
+    "xpeng",
+    "équipe de france féminine de handball",
+    "manu tuilagi",
+    "vaucluse",
+    "flamanville",
+    "rallye du var 2026",
+    "euralis",
+    "ibiza navire"
   ]
 }
