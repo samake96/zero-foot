@@ -1,6 +1,39 @@
 {
-  "updated_at": "2026-11-26T18:38:13.927207+00:00",
+  "updated_at": "2026-11-26T19:50:38.759126+00:00",
   "items": [
+    {
+      "id": "5ddaabe04e91e1c3",
+      "title": "Sunderland v Jagiellonia Bialystok, Crystal Palace v Real Sociedad, and more: Europa League – live",
+      "url": "https://www.theguardian.com/football/live/2026/nov/26/sunderland-v-jagiellonia-bialystok-crystal-palace-v-real-sociedad-and-more-europa-league-live",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-26T19:44:10+00:00",
+      "category": "competitions",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "90cd186ca878e0ab",
+      "title": "Referee being 'drunk' claims are 'entirely unfounded'",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6x289w0vpr1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-26T19:19:49+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "22394296019fbc9e",
+      "title": "Fifa confirms cyber-attack exposed ‘personal and business information’",
+      "url": "https://www.theguardian.com/football/2026/nov/26/fifa-cyberattack-hack-personal-information",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-26T18:45:44+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
     {
       "id": "dcd9c3f8aadddbc5",
       "title": "Calvert-Lewin signs new Leeds deal until 2029",
@@ -46,17 +79,6 @@
         "Bundesliga"
       ],
       "priority": 12
-    },
-    {
-      "id": "d2c8cb2ae0b7d76c",
-      "title": "Sutton's predictions v Kings of Leon drummer Nathan Followill",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3n0l29lrr27o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-26T15:01:48+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
     },
     {
       "id": "e9ea80ec544d9580",
@@ -165,17 +187,6 @@
         "Bundesliga"
       ],
       "priority": 12
-    },
-    {
-      "id": "b285d28533e90135",
-      "title": "No drums, no tifo … no point? The impact of Palace’s missing Holmesdale Fanatics",
-      "url": "https://www.theguardian.com/football/2026/nov/26/no-drums-no-tifo-no-point-the-impact-of-palaces-missing-holmesdale-fanatics",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-26T08:00:50+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
     },
     {
       "id": "2211a6bf656a507c",
@@ -300,17 +311,6 @@
         "Ligue des champions"
       ],
       "priority": 12
-    },
-    {
-      "id": "b6c940e3bd116d6a",
-      "title": "Oliver Glasner criticises Nottingham Forest players for not learning English",
-      "url": "https://www.theguardian.com/football/2026/nov/25/oliver-glasner-criticises-nottingham-forest-for-not-making-players-learn-english",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-25T21:17:34+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
     },
     {
       "id": "7a5a3952d10a1c0c",
@@ -467,15 +467,15 @@
   ],
   "source_errors": [],
   "search_trends_fr": [
-    "hm",
-    "groupe lapeyre",
-    "lions – bears",
-    "le meilleur pâtissier",
-    "sidelined 3",
-    "union saint-gilloise – lech poznań",
-    "om ce soir",
-    "robert palmer",
-    "valérie bénaïm",
-    "sérum"
+    "ol",
+    "jd",
+    "associazione calcio milan",
+    "neuer",
+    "karim leklou",
+    "vincent cassel",
+    "miss france 2027",
+    "sunderland – jagiellonia białystok",
+    "brive – biarritz",
+    "ferry"
   ]
 }
