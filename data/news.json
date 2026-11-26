@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-26T07:46:27.639570+00:00",
+  "updated_at": "2026-11-26T08:50:38.088409+00:00",
   "items": [
+    {
+      "id": "b285d28533e90135",
+      "title": "No drums, no tifo … no point? The impact of Palace’s missing Holmesdale Fanatics",
+      "url": "https://www.theguardian.com/football/2026/nov/26/no-drums-no-tifo-no-point-the-impact-of-palaces-missing-holmesdale-fanatics",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-26T08:00:50+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
     {
       "id": "a7029ca12739ec89",
       "title": "Why KMI Panel frustrates referees too - and impacts their salary",
@@ -35,8 +46,8 @@
       "priority": 0
     },
     {
-      "id": "639cfd5613e93bbc",
-      "title": "Frustration reigns for Pochettino in chaotic start to Man Utd job",
+      "id": "6d0df5aa9828076c",
+      "title": "More ref frustration as Pochettino's chaotic start at Man Utd continues",
       "url": "https://www.bbc.co.uk/sport/football/articles/c6vg24l724l4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
       "published_at": "2026-11-26T00:24:48+00:00",
@@ -55,6 +66,19 @@
       "language": "en",
       "topics": [],
       "priority": 0
+    },
+    {
+      "id": "1df640c7666bb1db",
+      "title": "Pochettino claims officials ‘punished’ Manchester United in chaotic Sporting draw",
+      "url": "https://www.theguardian.com/football/2026/nov/25/mauricio-pochettino-officials-punished-manchester-united-sporting",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-25T23:50:56+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [
+        "Premier League"
+      ],
+      "priority": 12
     },
     {
       "id": "230c2c6ceef1df8b",
@@ -183,19 +207,6 @@
       "language": "en",
       "topics": [],
       "priority": 0
-    },
-    {
-      "id": "41132c6d3b31d50b",
-      "title": "Lammens errors cost Manchester United victory in frantic finale at Sporting",
-      "url": "https://www.theguardian.com/football/2026/nov/25/sporting-lisbon-manchester-united-champions-league-match-report",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-25T22:05:49+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [
-        "Premier League"
-      ],
-      "priority": 12
     },
     {
       "id": "da7c6ca4caabc493",
@@ -360,17 +371,6 @@
       "priority": 0
     },
     {
-      "id": "29654316ef986a63",
-      "title": "Raheem Sterling avoids jail over reckless driving while using nitrous oxide",
-      "url": "https://www.theguardian.com/football/2026/nov/25/raheem-sterling-avoids-jail-reckless-driving-nitrous-oxide-sentence",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-25T11:34:10+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
       "id": "74b47908545cb468",
       "title": "Ligue des champions: le Real renversant, Lens encore à terre",
       "url": "https://www.rfi.fr/fr/sports/20261124-ligue-des-champions-le-real-renversant-lens-encore-%C3%A0-terre",
@@ -481,15 +481,15 @@
   ],
   "source_errors": [],
   "search_trends_fr": [
-    "lait infantile",
-    "ritchy thibault",
-    "miss martinique",
-    "cochon",
-    "simon abkarian",
-    "mona brorsson",
-    "laurent romejko",
-    "ici tout commence",
-    "trémolat",
-    "federica brignone"
+    "cristina cordula",
+    "trail blazers spurs",
+    "1password",
+    "audincourt",
+    "millionnaire patriotes",
+    "horoscope du 26 novembre 2026",
+    "ibiza",
+    "rsf",
+    "charlene wittstock",
+    "biathlon programme"
   ]
 }
