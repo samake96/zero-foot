@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-11-25T23:50:37.524088+00:00",
+  "updated_at": "2026-11-26T00:38:38.716048+00:00",
   "items": [
+    {
+      "id": "639cfd5613e93bbc",
+      "title": "Frustration reigns for Pochettino in chaotic start to Man Utd job",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6vg24l724l4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-26T00:24:48+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "192679964190a338",
+      "title": "Divots, howlers and bad decisions - dissecting Man Utd's draw in Lisbon",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvrlg074ld74o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-26T00:22:28+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
     {
       "id": "230c2c6ceef1df8b",
       "title": "How Isak and Wirtz are becoming Liverpool's 'big-game players'",
@@ -166,17 +188,6 @@
       "priority": 12
     },
     {
-      "id": "e938465bdc0df6c8",
-      "title": "Blunt Villa beaten by late Galatasaray winner",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c6r7g92p5k79o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-25T22:05:53+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
       "id": "41132c6d3b31d50b",
       "title": "Lammens errors cost Manchester United victory in frantic finale at Sporting",
       "url": "https://www.theguardian.com/football/2026/nov/25/sporting-lisbon-manchester-united-champions-league-match-report",
@@ -186,19 +197,6 @@
       "language": "en",
       "topics": [
         "Premier League"
-      ],
-      "priority": 12
-    },
-    {
-      "id": "94fa85653aa6d52b",
-      "title": "Real Madrid put in five-star second half to win against PSV",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c5evr0y83197o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-25T22:05:45+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [
-        "La Liga"
       ],
       "priority": 12
     },
@@ -343,11 +341,11 @@
       "priority": 0
     },
     {
-      "id": "8c4eb8c044ecf99b",
-      "title": "Pep Guardiola says next coaching role will be with a national team amid USA links",
-      "url": "https://www.theguardian.com/football/2026/nov/25/pep-guardiola-coaching-job-usmnt-italy",
+      "id": "b4cd0e62ff41a179",
+      "title": "‘He’s more elegant’: Bellingham downplays Zidane comparisons after wondergoal",
+      "url": "https://www.theguardian.com/football/2026/nov/25/jude-bellingham-downplays-comparisons-to-zidane-after-wondergoal",
       "source": "The Guardian Football",
-      "published_at": "2026-11-25T14:07:50+00:00",
+      "published_at": "2026-11-25T12:59:29+00:00",
       "category": "clubs",
       "language": "en",
       "topics": [],
@@ -497,15 +495,15 @@
   ],
   "source_errors": [],
   "search_trends_fr": [
-    "hm",
+    "joseph zada",
+    "pre epidemie grippe",
     "lebron james",
+    "hm",
     "assurance vie",
     "aurore bergé",
     "maxime raynaud",
     "sofia vergara",
     "siya kolisi",
-    "losc lille vs bayern munich standings",
-    "ligue europa",
-    "hanouka"
+    "losc lille vs bayern munich standings"
   ]
 }
