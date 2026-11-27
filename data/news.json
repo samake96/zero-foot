@@ -1,6 +1,42 @@
 {
-  "updated_at": "2026-11-27T12:17:31.376023+00:00",
+  "updated_at": "2026-11-27T13:39:31.304772+00:00",
   "items": [
+    {
+      "id": "a11b1fa0f956bf8d",
+      "title": "Macron condemns Marseille violence; Fernandes misses Manchester United training – football live",
+      "url": "https://www.theguardian.com/football/live/2026/nov/27/premier-league-news-levski-fans-marseille-violence-football",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-27T13:32:35+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [
+        "Premier League",
+        "Ligue 1"
+      ],
+      "priority": 12
+    },
+    {
+      "id": "caaa5d6371e8bfa2",
+      "title": "The local boy aiming to be at the heart of Cardiff City's derby aims",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq23jpng4gy9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-27T13:16:05+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "f3d04487d63a8c79",
+      "title": "Coupe de la Confédération CAF: calendrier et résultats de l'édition 2026-2027",
+      "url": "https://www.rfi.fr/fr/afrique-foot/20261127-coupe-de-la-conf%C3%A9d%C3%A9ration-caf-calendrier-et-r%C3%A9sultats-de-l-%C3%A9dition-2026-2027",
+      "source": "RFI Afrique Foot",
+      "published_at": "2026-11-27T12:47:51+00:00",
+      "category": "clubs",
+      "language": "fr",
+      "topics": [],
+      "priority": 0
+    },
     {
       "id": "a2b9baba789af351",
       "title": "Ross County have 102 goals and British football’s best start but is it a fairytale?",
@@ -24,21 +60,6 @@
       "priority": 0
     },
     {
-      "id": "60c818be70570529",
-      "title": "Macron condemns Marseille violence; Olise adds to Bayern woes; Premier League latest – football live",
-      "url": "https://www.theguardian.com/football/live/2026/nov/27/premier-league-news-levski-fans-marseille-violence-football",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-27T11:57:03+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [
-        "Premier League",
-        "Bundesliga",
-        "Ligue 1"
-      ],
-      "priority": 12
-    },
-    {
       "id": "c371428f53e93d84",
       "title": "CAN 2025: pour les Congolais, la décision du TAS réhabilite l’arbitre Jean-Jacques Ndala",
       "url": "https://www.rfi.fr/fr/afrique-foot/20261127-can-2025-pour-les-congolais-la-d%C3%A9cision-du-tas-r%C3%A9habilite-l-arbitre-jean-jacques-ndala",
@@ -50,8 +71,8 @@
       "priority": 0
     },
     {
-      "id": "19101906d37d5bd2",
-      "title": "EFL preview: Happy Potters and the deathly Hammers",
+      "id": "ee53731e06b07854",
+      "title": "EFL preview: Happy Potters face struggling Hammers",
       "url": "https://www.bbc.co.uk/sport/football/articles/cry49dpy9zdyo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
       "published_at": "2026-11-27T11:03:43+00:00",
@@ -315,17 +336,6 @@
       "priority": 0
     },
     {
-      "id": "ccbc9976489df227",
-      "title": "Lammens - the Man Utd goalkeeper under scrutiny like never before",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmn4k7v93gvzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-26T14:56:30+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
       "id": "8e007c9ed00935bf",
       "title": "‘We are on the edge’: how Swedish league declined from summit of women’s game",
       "url": "https://www.theguardian.com/football/2026/nov/26/damallsvenskan-swedish-league-decline-fans-attendances-media-coverage-finances",
@@ -493,15 +503,15 @@
   ],
   "source_errors": [],
   "search_trends_fr": [
-    "un si grand soleil",
-    "nikolai de monpezat",
-    "système de combat aérien du futur",
-    "patrick drahi",
-    "télévision payante",
-    "javier milei",
-    "états-unis",
-    "nova",
-    "castelbajac",
-    "kevin costner"
+    "barberey-saint-sulpice",
+    "djamel belmadi",
+    "ingvar jónsson",
+    "terence tao",
+    "fc lorient",
+    "monnaie unique",
+    "jacqueline pozzi",
+    "abattement fiscal retraités 2027",
+    "le grand-quevilly",
+    "justine braisaz-bouchet"
   ]
 }
