@@ -1,6 +1,69 @@
 {
-  "updated_at": "2026-11-27T14:40:49.492099+00:00",
+  "updated_at": "2026-11-27T15:45:24.831464+00:00",
   "items": [
+    {
+      "id": "bef0c3c5de319b2d",
+      "title": "Arsenal head coach Slegers leaves by mutual consent",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmy49d5kpw78o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-27T15:43:26+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [
+        "Premier League"
+      ],
+      "priority": 12
+    },
+    {
+      "id": "26faa4e8a90ea9bd",
+      "title": "Manchester United extend Fernandes’s contract to 2028; Raya back in Arsenal training – football live",
+      "url": "https://www.theguardian.com/football/live/2026/nov/27/premier-league-news-levski-fans-marseille-violence-football",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-27T15:26:32+00:00",
+      "category": "transfers",
+      "language": "en",
+      "topics": [
+        "Premier League"
+      ],
+      "priority": 20
+    },
+    {
+      "id": "f893c755ce6c3dea",
+      "title": "Renée Slegers leaves job as Arsenal Women’s coach after dismal run of results",
+      "url": "https://www.theguardian.com/football/2026/nov/27/renee-slegers-leaves-arsenal-women-head-coach",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-27T15:11:25+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [
+        "Premier League"
+      ],
+      "priority": 12
+    },
+    {
+      "id": "d06752ca91bfaa91",
+      "title": "Man Utd trigger Fernandes' one-year contract extension",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6d91j5geepqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-27T15:08:41+00:00",
+      "category": "transfers",
+      "language": "en",
+      "topics": [],
+      "priority": 8
+    },
+    {
+      "id": "de9c898972c5b1a8",
+      "title": "What happens now for Bayern Munich and Musiala?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmly5j49ypzqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-27T15:03:12+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [
+        "Bundesliga"
+      ],
+      "priority": 12
+    },
     {
       "id": "3fb7841e2d2e0e85",
       "title": "'I am not a magician' - what can Maresca's Man City learn from watertight Arsenal?",
@@ -15,28 +78,15 @@
       "priority": 12
     },
     {
-      "id": "d06752ca91bfaa91",
-      "title": "Man Utd trigger Fernandes' one-year contract extension",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6d91j5geepqo?at_medium=RSS&at_campaign=rss",
+      "id": "52ed93f1f8bada70",
+      "title": "Falkirk chase seven in a row at Rangers & Celtic visit Hearts",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6x2wx4e90jeo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
-      "published_at": "2026-11-27T14:37:07+00:00",
-      "category": "transfers",
+      "published_at": "2026-11-27T14:37:51+00:00",
+      "category": "clubs",
       "language": "en",
       "topics": [],
-      "priority": 8
-    },
-    {
-      "id": "26faa4e8a90ea9bd",
-      "title": "Manchester United extend Fernandes’s contract to 2028; Raya back in Arsenal training – football live",
-      "url": "https://www.theguardian.com/football/live/2026/nov/27/premier-league-news-levski-fans-marseille-violence-football",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-27T14:32:41+00:00",
-      "category": "transfers",
-      "language": "en",
-      "topics": [
-        "Premier League"
-      ],
-      "priority": 20
+      "priority": 0
     },
     {
       "id": "a68afff53135570f",
@@ -50,8 +100,8 @@
       "priority": 0
     },
     {
-      "id": "7b69b1e8e56c0269",
-      "title": "Iordanescu's first Watford interview - what we learned",
+      "id": "46d0ecfa8bfd3049",
+      "title": "Iordanescu ready for Watford 'challenge'",
       "url": "https://www.bbc.co.uk/sport/football/articles/cw7726543kyzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
       "published_at": "2026-11-27T13:58:15+00:00",
@@ -72,17 +122,6 @@
         "Ligue 1"
       ],
       "priority": 12
-    },
-    {
-      "id": "eef7287f86bebb40",
-      "title": "The local boy aiming to be at the heart of Cardiff's derby aims",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq23jpng4gy9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-27T13:16:05+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
     },
     {
       "id": "f3d04487d63a8c79",
@@ -125,17 +164,6 @@
       "published_at": "2026-11-27T11:26:14+00:00",
       "category": "clubs",
       "language": "fr",
-      "topics": [],
-      "priority": 0
-    },
-    {
-      "id": "280d96232bd34aa3",
-      "title": "Botman banned from driving for using phone at wheel",
-      "url": "https://www.bbc.co.uk/news/articles/c6wy43d3ry12o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-27T10:34:09+00:00",
-      "category": "clubs",
-      "language": "en",
       "topics": [],
       "priority": 0
     },
@@ -258,19 +286,6 @@
       "priority": 0
     },
     {
-      "id": "de9c898972c5b1a8",
-      "title": "What happens now for Bayern Munich and Musiala?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmly5j49ypzqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-27T06:54:36+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [
-        "Bundesliga"
-      ],
-      "priority": 12
-    },
-    {
       "id": "6d6bf77191cf6a99",
       "title": "Man City owners should be forced to sell, say clubs",
       "url": "https://www.bbc.co.uk/sport/football/articles/cwp809d7yp4go?at_medium=RSS&at_campaign=rss",
@@ -304,17 +319,6 @@
         "Premier League"
       ],
       "priority": 12
-    },
-    {
-      "id": "a8edc603716d067d",
-      "title": "Europa League: Bournemouth make it a perfect 10 while Celtic leave it late",
-      "url": "https://www.theguardian.com/football/2026/nov/26/europa-league-roundup-bournemouth-celta-vigo-celtic-milan-benfica",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-26T23:24:43+00:00",
-      "category": "competitions",
-      "language": "en",
-      "topics": [],
-      "priority": 0
     },
     {
       "id": "e7dfeb9269273e1c",
@@ -517,15 +521,15 @@
   ],
   "source_errors": [],
   "search_trends_fr": [
-    "stellantis italie",
-    "magasin",
-    "jeu de grattage",
-    "marc touati",
-    "seine-maritime",
-    "barberey-saint-sulpice",
-    "neige france",
-    "djamel belmadi",
-    "placement",
-    "ingvar jónsson"
+    "ibu",
+    "josé mourinho",
+    "profil criminel gta 6",
+    "escroquerie",
+    "grenade assourdissante",
+    "béziers",
+    "sonzay",
+    "nicolas depoortere",
+    "franck azéma",
+    "tf1"
   ]
 }
