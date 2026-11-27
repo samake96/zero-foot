@@ -1,6 +1,58 @@
 {
-  "updated_at": "2026-11-27T22:41:39.705584+00:00",
+  "updated_at": "2026-11-27T23:38:13.274350+00:00",
   "items": [
+    {
+      "id": "38b516cfc351b52c",
+      "title": "Wilshere v Ramsey - Arsenal legends treading similar managerial paths",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm1dvn9w1px4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-27T22:58:49+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [
+        "Premier League"
+      ],
+      "priority": 12
+    },
+    {
+      "id": "ca61bb0e18b24ffd",
+      "title": "Gibbs-White scores twice as Forest beat struggling Chelsea",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm5y10n8e737o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-27T22:30:22+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [
+        "Premier League"
+      ],
+      "priority": 12
+    },
+    {
+      "id": "a1882e0a061e3820",
+      "title": "Arteta sets Arsenal 100-point Premier League target to emulate Manchester City",
+      "url": "https://www.theguardian.com/football/2026/nov/27/arteta-sets-arsenal-100-point-premier-league-target-to-emulate-manchester-city",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-27T22:30:22+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [
+        "Premier League"
+      ],
+      "priority": 12
+    },
+    {
+      "id": "6ed12a92eba05267",
+      "title": "‘My Tottenham was born’: De Zerbi harks back to opening defeat for Sunderland return",
+      "url": "https://www.theguardian.com/football/2026/nov/27/roberto-de-zerbi-tottenham-sunderland",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-27T22:30:22+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [
+        "Premier League"
+      ],
+      "priority": 12
+    },
     {
       "id": "5911d19b76fb4613",
       "title": "Spygate tensions erupt at Southampton after Finn Azaz’s cry-baby celebration riles Boro",
@@ -50,8 +102,8 @@
       "priority": 0
     },
     {
-      "id": "7020860eab4c13a8",
-      "title": "'You're not welcome here' - Chelsea's Fofana booed by own fans",
+      "id": "34a9fa33f7e2dcec",
+      "title": "'You're not welcome here' - Chelsea fans turn on Fofana",
       "url": "https://www.bbc.co.uk/sport/football/articles/cmqlqeqd4wg5o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
       "published_at": "2026-11-27T21:31:54+00:00",
@@ -291,30 +343,6 @@
       "priority": 0
     },
     {
-      "id": "71a9d1d3a0120dc3",
-      "title": "Clashes mar European games as Macron condemns violence",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c69q8y5x03ywo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-27T10:24:24+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
-      "id": "75d8763fc070a5f2",
-      "title": "Can Borussia Dortmund finally end their title wait? Three big questions for Bundesliga leaders",
-      "url": "https://www.theguardian.com/football/2026/nov/27/borussia-dortmund-bundesliga",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-27T10:00:01+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [
-        "Bundesliga"
-      ],
-      "priority": 12
-    },
-    {
       "id": "100e75241e558c29",
       "title": "Tarik Muharemovic: ‘Dad is at every Leeds game. I sometimes hear him shouting from the stands’",
       "url": "https://www.theguardian.com/football/2026/nov/27/tarik-muharemovic-leeds-bosnia-dad-parents",
@@ -350,17 +378,6 @@
       "priority": 0
     },
     {
-      "id": "851021047cb96dc1",
-      "title": "What makes or breaks a high press?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crgqxn1k283zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-27T07:17:13+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
       "id": "6d6bf77191cf6a99",
       "title": "Man City owners should be forced to sell, say clubs",
       "url": "https://www.bbc.co.uk/sport/football/articles/cwp809d7yp4go?at_medium=RSS&at_campaign=rss",
@@ -370,19 +387,6 @@
       "language": "en",
       "topics": [],
       "priority": 0
-    },
-    {
-      "id": "37afb463603c1b14",
-      "title": "Premier League: 10 things to look out for this weekend",
-      "url": "https://www.theguardian.com/football/2026/nov/27/premier-league-10-things-to-look-out-for-this-weekend",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-27T00:00:48+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [
-        "Premier League"
-      ],
-      "priority": 12
     },
     {
       "id": "d2c8cb2ae0b7d76c",
@@ -541,15 +545,15 @@
   ],
   "source_errors": [],
   "search_trends_fr": [
+    "relations entre la corée du nord et la russie",
+    "reformation",
+    "longchamp",
+    "racing santander",
+    "ez abde",
+    "zabiri",
     "kalash",
     "emanuel emegha",
-    "yassir zabiri",
-    "rui borges",
-    "axel ronde",
-    "groenland",
-    "novo",
-    "vitesse",
-    "vafc",
-    "jeremy ferrari"
+    "only",
+    "rui borges"
   ]
 }
