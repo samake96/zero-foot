@@ -1,12 +1,25 @@
 {
-  "updated_at": "2026-11-27T19:45:47.793305+00:00",
+  "updated_at": "2026-11-27T20:39:41.301111+00:00",
   "items": [
     {
       "id": "4e079c997559ae60",
       "title": "Nottingham Forest v Chelsea: Premier League – live",
       "url": "https://www.theguardian.com/football/live/2026/nov/27/nottingham-forest-v-chelsea-premier-league-live",
       "source": "The Guardian Football",
-      "published_at": "2026-11-27T19:32:13+00:00",
+      "published_at": "2026-11-27T20:24:36+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [
+        "Premier League"
+      ],
+      "priority": 12
+    },
+    {
+      "id": "215ece3b97f58918",
+      "title": "Why have things started to go wrong for Manchester City under Enzo Maresca?",
+      "url": "https://www.theguardian.com/football/2026/nov/27/why-things-started-go-wrong-manchester-city-under-enzo-maresca",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-27T20:00:19+00:00",
       "category": "clubs",
       "language": "en",
       "topics": [
@@ -520,15 +533,15 @@
   ],
   "source_errors": [],
   "search_trends_fr": [
-    "sylvie vartan",
-    "adele",
-    "narbonne – grenoble",
-    "fortune elon musk",
-    "billie a la croisée des mondes",
-    "action spacex",
-    "irlande – australie",
-    "provence rugby – montauban",
-    "creche perpignan",
-    "nottm forest – chelsea"
+    "meryl streep",
+    "isack hadjar",
+    "pfc",
+    "ireland vs australia",
+    "pascal praud",
+    "ester exposito",
+    "rtl2",
+    "canon francais",
+    "vincent bolloré",
+    "france venezuela"
   ]
 }
