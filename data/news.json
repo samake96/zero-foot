@@ -1,12 +1,36 @@
 {
-  "updated_at": "2026-11-27T15:45:24.831464+00:00",
+  "updated_at": "2026-11-27T16:51:20.346480+00:00",
   "items": [
+    {
+      "id": "26faa4e8a90ea9bd",
+      "title": "Manchester United extend Fernandes’s contract to 2028; Raya back in Arsenal training – football live",
+      "url": "https://www.theguardian.com/football/live/2026/nov/27/premier-league-news-levski-fans-marseille-violence-football",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-27T16:31:35+00:00",
+      "category": "transfers",
+      "language": "en",
+      "topics": [
+        "Premier League"
+      ],
+      "priority": 20
+    },
+    {
+      "id": "d879a91da4992bc9",
+      "title": "Nations Championship finale, Merseyside derby and Qatar GP – follow with us",
+      "url": "https://www.theguardian.com/sport/2026/nov/27/nations-championship-finale-merseyside-derby-and-qatar-gp-follow-with-us",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-27T16:29:04+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
     {
       "id": "bef0c3c5de319b2d",
       "title": "Arsenal head coach Slegers leaves by mutual consent",
       "url": "https://www.bbc.co.uk/sport/football/articles/cmy49d5kpw78o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
-      "published_at": "2026-11-27T15:43:26+00:00",
+      "published_at": "2026-11-27T16:14:34+00:00",
       "category": "clubs",
       "language": "en",
       "topics": [
@@ -15,17 +39,28 @@
       "priority": 12
     },
     {
-      "id": "26faa4e8a90ea9bd",
-      "title": "Manchester United extend Fernandes’s contract to 2028; Raya back in Arsenal training – football live",
-      "url": "https://www.theguardian.com/football/live/2026/nov/27/premier-league-news-levski-fans-marseille-violence-football",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-27T15:26:32+00:00",
-      "category": "transfers",
+      "id": "b44305824e13985b",
+      "title": "Spurs' Savio to miss festive fixtures after injury setback",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw4gnm4p3zxlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-27T16:05:30+00:00",
+      "category": "injuries",
       "language": "en",
+      "topics": [],
+      "priority": 8
+    },
+    {
+      "id": "e95885ee7359b1d7",
+      "title": "Ligue des champions CAF: une course au titre ouverte en l’absence d’Al Ahly et de Sundowns",
+      "url": "https://www.rfi.fr/fr/afrique-foot/20261127-ligue-des-champions-caf-une-course-au-titre-ouverte-en-l-absence-d-al-ahly-et-de-sundowns",
+      "source": "RFI Afrique Foot",
+      "published_at": "2026-11-27T15:47:01+00:00",
+      "category": "competitions",
+      "language": "fr",
       "topics": [
-        "Premier League"
+        "Ligue des champions"
       ],
-      "priority": 20
+      "priority": 12
     },
     {
       "id": "f893c755ce6c3dea",
@@ -100,17 +135,6 @@
       "priority": 0
     },
     {
-      "id": "46d0ecfa8bfd3049",
-      "title": "Iordanescu ready for Watford 'challenge'",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cw7726543kyzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-27T13:58:15+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
       "id": "a5c0956134df9889",
       "title": "French and Bulgarian presidents condemn violence at Marseille v Levski Europa League game",
       "url": "https://www.theguardian.com/football/2026/nov/27/french-bulgarian-presidents-emmanuel-macron-iliana-iotova-condemn-violence-marseille-levski-sofia-europa-league",
@@ -146,17 +170,6 @@
       "priority": 0
     },
     {
-      "id": "4499c1dc625865fe",
-      "title": "McInnes tempers 'anxiety' as Rangers seek top spot",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm4gnqxvy34wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-27T11:57:24+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
       "id": "c371428f53e93d84",
       "title": "CAN 2025: pour les Congolais, la décision du TAS réhabilite l’arbitre Jean-Jacques Ndala",
       "url": "https://www.rfi.fr/fr/afrique-foot/20261127-can-2025-pour-les-congolais-la-d%C3%A9cision-du-tas-r%C3%A9habilite-l-arbitre-jean-jacques-ndala",
@@ -164,6 +177,28 @@
       "published_at": "2026-11-27T11:26:14+00:00",
       "category": "clubs",
       "language": "fr",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "ee53731e06b07854",
+      "title": "EFL preview: Happy Potters face struggling Hammers",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cry49dpy9zdyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-27T11:03:43+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "280d96232bd34aa3",
+      "title": "Botman banned from driving for using phone at wheel",
+      "url": "https://www.bbc.co.uk/news/articles/c6wy43d3ry12o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-27T10:34:09+00:00",
+      "category": "clubs",
+      "language": "en",
       "topics": [],
       "priority": 0
     },
@@ -262,19 +297,6 @@
       "priority": 0
     },
     {
-      "id": "f021fb2318a243c0",
-      "title": "Lyon freiné, Marseille victorieux lors d'une soirée mitigée pour les clubs français en Europe",
-      "url": "https://www.france24.com/fr/%C3%A9missions/sports/20261127-lyon-frein%C3%A9-marseille-victorieux-lors-d-une-soir%C3%A9e-mitig%C3%A9e-pour-les-clubs-fran%C3%A7ais-en-europe",
-      "source": "France 24",
-      "published_at": "2026-11-27T07:14:58+00:00",
-      "category": "clubs",
-      "language": "fr",
-      "topics": [
-        "Ligue 1"
-      ],
-      "priority": 12
-    },
-    {
       "id": "9339eb8fc5fdd17b",
       "title": "Is it time to sell Haaland? - FPL gameweek 12 dilemmas",
       "url": "https://www.bbc.co.uk/sport/football/articles/cjvg2w35rn63o?at_medium=RSS&at_campaign=rss",
@@ -297,17 +319,6 @@
       "priority": 0
     },
     {
-      "id": "47420a640b269b68",
-      "title": "'Priceless' Duran proves 'the man' but is he papering over cracks at Celtic?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c62klz1wwdn7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-27T00:18:44+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
       "id": "37afb463603c1b14",
       "title": "Premier League: 10 things to look out for this weekend",
       "url": "https://www.theguardian.com/football/2026/nov/27/premier-league-10-things-to-look-out-for-this-weekend",
@@ -321,12 +332,12 @@
       "priority": 12
     },
     {
-      "id": "e7dfeb9269273e1c",
-      "title": "Bournemouth 'allowed to dream' as fans book Europa League final hotels",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmq5v84vw818o?at_medium=RSS&at_campaign=rss",
+      "id": "4647c3113125e1fa",
+      "title": "Haaland considers Man City exit - Friday's gossip",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9zr568gje67o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
-      "published_at": "2026-11-26T22:27:52+00:00",
-      "category": "competitions",
+      "published_at": "2026-11-26T21:25:06+00:00",
+      "category": "clubs",
       "language": "en",
       "topics": [],
       "priority": 0
@@ -521,15 +532,15 @@
   ],
   "source_errors": [],
   "search_trends_fr": [
-    "ibu",
-    "josé mourinho",
-    "profil criminel gta 6",
-    "escroquerie",
-    "grenade assourdissante",
-    "béziers",
-    "sonzay",
-    "nicolas depoortere",
-    "franck azéma",
-    "tf1"
+    "ben",
+    "harlan coben",
+    "julia vignali",
+    "quasimodo netflix",
+    "hanna oeberg",
+    "fabien galthié",
+    "alanyaspor – konyaspor",
+    "grippe",
+    "rockstar north",
+    "crise agricole"
   ]
 }
