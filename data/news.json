@@ -1,19 +1,77 @@
 {
-  "updated_at": "2026-11-27T10:10:35.919775+00:00",
+  "updated_at": "2026-11-27T11:12:12.851519+00:00",
   "items": [
     {
-      "id": "d3621c53bbad98df",
-      "title": "Levski fans in hospital after Marseille violence; Premier League news – football live",
+      "id": "60c818be70570529",
+      "title": "Macron condemns Marseille violence; Olise adds to Bayern woes; Premier League latest – football live",
       "url": "https://www.theguardian.com/football/live/2026/nov/27/premier-league-news-levski-fans-marseille-violence-football",
       "source": "The Guardian Football",
-      "published_at": "2026-11-27T09:55:50+00:00",
+      "published_at": "2026-11-27T11:04:49+00:00",
       "category": "clubs",
       "language": "en",
       "topics": [
         "Premier League",
+        "Bundesliga",
         "Ligue 1"
       ],
       "priority": 12
+    },
+    {
+      "id": "280d96232bd34aa3",
+      "title": "Botman banned from driving for using phone at wheel",
+      "url": "https://www.bbc.co.uk/news/articles/c6wy43d3ry12o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-27T10:34:09+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "71a9d1d3a0120dc3",
+      "title": "Clashes mar European games as Macron condemns violence",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c69q8y5x03ywo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-27T10:24:24+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "2fb9b9414fd792fe",
+      "title": "'Massive for both' - Saints and Boro revisit Spygate rivalry",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckp809ledgpdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-27T10:11:58+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "75d8763fc070a5f2",
+      "title": "Can Borussia Dortmund finally end their title wait? Three big questions for Bundesliga leaders",
+      "url": "https://www.theguardian.com/football/2026/nov/27/borussia-dortmund-bundesliga",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-27T10:00:01+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [
+        "Bundesliga"
+      ],
+      "priority": 12
+    },
+    {
+      "id": "100e75241e558c29",
+      "title": "Tarik Muharemovic: ‘Dad is at every Leeds game. I sometimes hear him shouting from the stands’",
+      "url": "https://www.theguardian.com/football/2026/nov/27/tarik-muharemovic-leeds-bosnia-dad-parents",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-27T09:57:44+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
     },
     {
       "id": "f84487c6237d3d28",
@@ -36,17 +94,6 @@
       "published_at": "2026-11-27T09:02:48+00:00",
       "category": "clubs",
       "language": "fr",
-      "topics": [],
-      "priority": 0
-    },
-    {
-      "id": "0f888c94d597ee57",
-      "title": "Why Cambridgeshire derby could be season-defining",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cxlyl3v8p5e0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-27T08:25:44+00:00",
-      "category": "clubs",
-      "language": "en",
       "topics": [],
       "priority": 0
     },
@@ -99,8 +146,8 @@
       "priority": 0
     },
     {
-      "id": "8c8a34d39df020ad",
-      "title": "Is it time to sell Erling Haaland? - FPL gameweek 12 dilemmas",
+      "id": "9339eb8fc5fdd17b",
+      "title": "Is it time to sell Haaland? - FPL gameweek 12 dilemmas",
       "url": "https://www.bbc.co.uk/sport/football/articles/cjvg2w35rn63o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
       "published_at": "2026-11-27T06:58:33+00:00",
@@ -204,17 +251,6 @@
       "priority": 0
     },
     {
-      "id": "e6530e29a7d5261f",
-      "title": "Reinildo error extends Sunderland woe as Jagiellonia grab Europa League draw",
-      "url": "https://www.theguardian.com/football/2026/nov/26/sunderland-jagiellonia-bialystok-europa-league-match-report",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-26T22:27:37+00:00",
-      "category": "competitions",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
       "id": "e4a5245071b640fc",
       "title": "Thomas Frank earns first Crystal Palace win as McNeil cuts down Real Sociedad",
       "url": "https://www.theguardian.com/football/2026/nov/26/crystal-palace-real-sociedad-europa-league-match-report",
@@ -270,28 +306,6 @@
       "priority": 0
     },
     {
-      "id": "2b18e4ff27cb35f7",
-      "title": "Germany's Freigang given 16-month ban over drugs test issues",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqlym4rd3y52o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-26T17:12:45+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
-      "id": "d4323bf80345fdc0",
-      "title": "Fofana has apologised for interview - Alonso",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5wy43j1l3rwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-26T16:47:47+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
       "id": "d2c8cb2ae0b7d76c",
       "title": "Sutton's predictions v Kings of Leon drummer Nathan Followill",
       "url": "https://www.bbc.co.uk/sport/football/articles/c3n0l29lrr27o?at_medium=RSS&at_campaign=rss",
@@ -301,20 +315,6 @@
       "language": "en",
       "topics": [],
       "priority": 0
-    },
-    {
-      "id": "e9ea80ec544d9580",
-      "title": "Champions League review: Lille monster Bayern, De Bruyne’s sad return and more United chaos",
-      "url": "https://www.theguardian.com/football/2026/nov/26/champions-league-review-lille-bayern-munich-kevin-de-bruyne-napoli",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-26T15:00:39+00:00",
-      "category": "competitions",
-      "language": "en",
-      "topics": [
-        "Bundesliga",
-        "Ligue des champions"
-      ],
-      "priority": 12
     },
     {
       "id": "ccbc9976489df227",
@@ -491,32 +491,19 @@
       "language": "fr",
       "topics": [],
       "priority": 0
-    },
-    {
-      "id": "1bcd0ce44fed28f9",
-      "title": "Ligue 1: Hillel Konaté, l’Etalon de Troyes pour la bataille du maintien",
-      "url": "https://www.rfi.fr/fr/afrique-foot/20261120-ligue-1-hillel-konat%C3%A9-l-etalon-de-troyes-pour-la-bataille-du-maintien",
-      "source": "RFI Afrique Foot",
-      "published_at": "2026-11-20T10:45:33+00:00",
-      "category": "clubs",
-      "language": "fr",
-      "topics": [
-        "Ligue 1"
-      ],
-      "priority": 12
     }
   ],
   "source_errors": [],
   "search_trends_fr": [
+    "justice mia mao",
+    "le verdon-sur-mer",
+    "burj khalifa",
     "rugby championship",
     "marc marquez",
     "marquez",
     "australia vs england",
     "recession",
-    "michel drucker",
-    "sondage présidentielle 2027 lisnard",
     "viande",
-    "budget 2027",
-    "guillaume cramont"
+    "michel drucker"
   ]
 }
