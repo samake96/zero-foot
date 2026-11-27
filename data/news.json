@@ -1,18 +1,16 @@
 {
-  "updated_at": "2026-11-27T17:43:03.658724+00:00",
+  "updated_at": "2026-11-27T18:37:48.187317+00:00",
   "items": [
     {
-      "id": "26faa4e8a90ea9bd",
-      "title": "Manchester United extend Fernandes’s contract to 2028; Raya back in Arsenal training – football live",
-      "url": "https://www.theguardian.com/football/live/2026/nov/27/premier-league-news-levski-fans-marseille-violence-football",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-27T17:24:16+00:00",
-      "category": "transfers",
+      "id": "630afe5a9efd721b",
+      "title": "Emery praises Garnacho attitude after Villa selection snub",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwp9d4eg4n2xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-27T17:42:00+00:00",
+      "category": "clubs",
       "language": "en",
-      "topics": [
-        "Premier League"
-      ],
-      "priority": 20
+      "topics": [],
+      "priority": 0
     },
     {
       "id": "643ad8516bf9320e",
@@ -37,15 +35,16 @@
       "priority": 0
     },
     {
-      "id": "bef0c3c5de319b2d",
-      "title": "Arsenal head coach Slegers leaves by mutual consent",
+      "id": "f5a6a8eea052cfe8",
+      "title": "Head coach Slegers leaves Arsenal 18 months after Champions League win",
       "url": "https://www.bbc.co.uk/sport/football/articles/cmy49d5kpw78o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
       "published_at": "2026-11-27T16:14:34+00:00",
-      "category": "clubs",
+      "category": "competitions",
       "language": "en",
       "topics": [
-        "Premier League"
+        "Premier League",
+        "Ligue des champions"
       ],
       "priority": 12
     },
@@ -72,6 +71,19 @@
         "Ligue des champions"
       ],
       "priority": 12
+    },
+    {
+      "id": "987ed2d82489227d",
+      "title": "Manchester United extend Fernandes contract until 2028 to stop free transfer",
+      "url": "https://www.theguardian.com/football/2026/nov/27/manchester-united-bruno-fernandes-contract-2028-activate-option-mauricio-pochettino",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-27T15:29:41+00:00",
+      "category": "transfers",
+      "language": "en",
+      "topics": [
+        "Premier League"
+      ],
+      "priority": 20
     },
     {
       "id": "f893c755ce6c3dea",
@@ -330,17 +342,6 @@
       "priority": 12
     },
     {
-      "id": "4647c3113125e1fa",
-      "title": "Haaland considers Man City exit - Friday's gossip",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9zr568gje67o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-26T21:25:06+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
       "id": "c077ca286d4fd63b",
       "title": "Éric Cantona: ‘If I regret something about the kung fu kick, it’s that I would love to kick him in another place’",
       "url": "https://www.theguardian.com/football/2026/nov/26/eric-cantona-interview-new-documentary",
@@ -519,15 +520,15 @@
   ],
   "source_errors": [],
   "search_trends_fr": [
-    "console ps5 slim",
-    "al ittihad – neom sports club",
-    "gianluigi donnarumma",
-    "bienvenue chez nous",
-    "gary neville",
-    "lucas chevalier",
-    "ilia malinin",
-    "sidney govou",
-    "ben",
-    "harlan coben"
+    "colomiers – nevers",
+    "valence-romans – aurillac",
+    "soyaux-angoulême – stade niçois rugby",
+    "vitinha",
+    "agen – béziers",
+    "boxing day",
+    "chimène badi",
+    "la guillotière",
+    "us dax – oyonnax",
+    "équipe d'italie de football"
   ]
 }
