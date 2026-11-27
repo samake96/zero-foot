@@ -1,9 +1,44 @@
 {
-  "updated_at": "2026-11-26T23:40:04.670217+00:00",
+  "updated_at": "2026-11-27T00:43:21.065339+00:00",
   "items": [
     {
-      "id": "7e0172e8e2329c03",
-      "title": "Europa League: Bournemouth make it 10 wins in a row while Celtic leave it very late",
+      "id": "47420a640b269b68",
+      "title": "'Priceless' Duran proves 'the man' but is he papering over cracks at Celtic?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c62klz1wwdn7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-27T00:18:44+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "37afb463603c1b14",
+      "title": "Premier League: 10 things to look out for this weekend",
+      "url": "https://www.theguardian.com/football/2026/nov/27/premier-league-10-things-to-look-out-for-this-weekend",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-27T00:00:48+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [
+        "Premier League"
+      ],
+      "priority": 12
+    },
+    {
+      "id": "f9c3bad9003f7984",
+      "title": "Hearts' European hopes hang by a thread but Vrancken proud",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqr7g49ej14ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-26T23:59:43+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "a8edc603716d067d",
+      "title": "Europa League: Bournemouth make it a perfect 10 while Celtic leave it late",
       "url": "https://www.theguardian.com/football/2026/nov/26/europa-league-roundup-bournemouth-celta-vigo-celtic-milan-benfica",
       "source": "The Guardian Football",
       "published_at": "2026-11-26T23:24:43+00:00",
@@ -30,17 +65,6 @@
       "source": "The Guardian Football",
       "published_at": "2026-11-26T22:27:37+00:00",
       "category": "competitions",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
-      "id": "e78835b19d4bc5a9",
-      "title": "Euro Leagues",
-      "url": "https://www.bbc.co.uk/sounds/play/p0pq4ydb?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-26T22:13:00+00:00",
-      "category": "clubs",
       "language": "en",
       "topics": [],
       "priority": 0
@@ -227,19 +251,6 @@
       "priority": 0
     },
     {
-      "id": "ced61d1007ec5686",
-      "title": "Manchester United, Liverpool and Spurs using same law firm to set up legal claim against City",
-      "url": "https://www.theguardian.com/football/2026/nov/26/manchester-united-liverpool-tottenham-arsenal-city-legal-claim-financial-breaches-damages",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-26T12:00:34+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [
-        "Premier League"
-      ],
-      "priority": 12
-    },
-    {
       "id": "8e007c9ed00935bf",
       "title": "‘We are on the edge’: how Swedish league declined from summit of women’s game",
       "url": "https://www.theguardian.com/football/2026/nov/26/damallsvenskan-swedish-league-decline-fans-attendances-media-coverage-finances",
@@ -256,17 +267,6 @@
       "url": "https://www.theguardian.com/football/2026/nov/26/gary-neville-jamie-carragher-podcast-manchester-united-michael-carrick",
       "source": "The Guardian Football",
       "published_at": "2026-11-26T10:19:16+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
-      "id": "a043b6ffd9be0abb",
-      "title": "Who am I? Plus today's other quizzes",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6ly5125qgy9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-26T06:53:51+00:00",
       "category": "clubs",
       "language": "en",
       "topics": [],
@@ -442,15 +442,15 @@
   ],
   "source_errors": [],
   "search_trends_fr": [
+    "openai",
+    "tirage eurodreams",
+    "ahmed attaf",
+    "cnews reporters sans frontières",
+    "lego black friday",
     "trump",
     "darty black friday",
-    "airpods pro 3",
-    "apple",
-    "on",
     "lululemon",
-    "indice uefa",
-    "lisnard sondage présidentielle 2027",
-    "classement borac banja luka – atalanta bergame",
-    "jessica alba"
+    "on",
+    "indice uefa"
   ]
 }
