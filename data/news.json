@@ -1,23 +1,81 @@
 {
-  "updated_at": "2026-11-27T13:39:31.304772+00:00",
+  "updated_at": "2026-11-27T14:40:49.492099+00:00",
   "items": [
     {
-      "id": "a11b1fa0f956bf8d",
-      "title": "Macron condemns Marseille violence; Fernandes misses Manchester United training – football live",
-      "url": "https://www.theguardian.com/football/live/2026/nov/27/premier-league-news-levski-fans-marseille-violence-football",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-27T13:32:35+00:00",
+      "id": "3fb7841e2d2e0e85",
+      "title": "'I am not a magician' - what can Maresca's Man City learn from watertight Arsenal?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cknv47dee54zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-27T14:37:58+00:00",
       "category": "clubs",
       "language": "en",
       "topics": [
-        "Premier League",
+        "Premier League"
+      ],
+      "priority": 12
+    },
+    {
+      "id": "d06752ca91bfaa91",
+      "title": "Man Utd trigger Fernandes' one-year contract extension",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6d91j5geepqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-27T14:37:07+00:00",
+      "category": "transfers",
+      "language": "en",
+      "topics": [],
+      "priority": 8
+    },
+    {
+      "id": "26faa4e8a90ea9bd",
+      "title": "Manchester United extend Fernandes’s contract to 2028; Raya back in Arsenal training – football live",
+      "url": "https://www.theguardian.com/football/live/2026/nov/27/premier-league-news-levski-fans-marseille-violence-football",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-27T14:32:41+00:00",
+      "category": "transfers",
+      "language": "en",
+      "topics": [
+        "Premier League"
+      ],
+      "priority": 20
+    },
+    {
+      "id": "a68afff53135570f",
+      "title": "Coupe de la Confédération: l’USM Alger en route pour un troisième sacre ?",
+      "url": "https://www.rfi.fr/fr/afrique-foot/20261127-coupe-de-la-conf%C3%A9d%C3%A9ration-l-usm-alger-en-route-pour-un-troisi%C3%A8me-sacre",
+      "source": "RFI Afrique Foot",
+      "published_at": "2026-11-27T14:01:10+00:00",
+      "category": "clubs",
+      "language": "fr",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "7b69b1e8e56c0269",
+      "title": "Iordanescu's first Watford interview - what we learned",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw7726543kyzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-27T13:58:15+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "a5c0956134df9889",
+      "title": "French and Bulgarian presidents condemn violence at Marseille v Levski Europa League game",
+      "url": "https://www.theguardian.com/football/2026/nov/27/french-bulgarian-presidents-emmanuel-macron-iliana-iotova-condemn-violence-marseille-levski-sofia-europa-league",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-27T13:58:00+00:00",
+      "category": "competitions",
+      "language": "en",
+      "topics": [
         "Ligue 1"
       ],
       "priority": 12
     },
     {
-      "id": "caaa5d6371e8bfa2",
-      "title": "The local boy aiming to be at the heart of Cardiff City's derby aims",
+      "id": "eef7287f86bebb40",
+      "title": "The local boy aiming to be at the heart of Cardiff's derby aims",
       "url": "https://www.bbc.co.uk/sport/football/articles/cq23jpng4gy9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
       "published_at": "2026-11-27T13:16:05+00:00",
@@ -67,17 +125,6 @@
       "published_at": "2026-11-27T11:26:14+00:00",
       "category": "clubs",
       "language": "fr",
-      "topics": [],
-      "priority": 0
-    },
-    {
-      "id": "ee53731e06b07854",
-      "title": "EFL preview: Happy Potters face struggling Hammers",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cry49dpy9zdyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-27T11:03:43+00:00",
-      "category": "clubs",
-      "language": "en",
       "topics": [],
       "priority": 0
     },
@@ -259,17 +306,6 @@
       "priority": 12
     },
     {
-      "id": "f9c3bad9003f7984",
-      "title": "Hearts' European hopes hang by a thread but Vrancken proud",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqr7g49ej14ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-26T23:59:43+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
       "id": "a8edc603716d067d",
       "title": "Europa League: Bournemouth make it a perfect 10 while Celtic leave it late",
       "url": "https://www.theguardian.com/football/2026/nov/26/europa-league-roundup-bournemouth-celta-vigo-celtic-milan-benfica",
@@ -287,28 +323,6 @@
       "source": "BBC Sport Football",
       "published_at": "2026-11-26T22:27:52+00:00",
       "category": "competitions",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
-      "id": "e4a5245071b640fc",
-      "title": "Thomas Frank earns first Crystal Palace win as McNeil cuts down Real Sociedad",
-      "url": "https://www.theguardian.com/football/2026/nov/26/crystal-palace-real-sociedad-europa-league-match-report",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-26T22:10:14+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
-      "id": "4647c3113125e1fa",
-      "title": "Haaland considers Man City exit - Friday's gossip",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9zr568gje67o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-26T21:25:06+00:00",
-      "category": "clubs",
       "language": "en",
       "topics": [],
       "priority": 0
@@ -503,15 +517,15 @@
   ],
   "source_errors": [],
   "search_trends_fr": [
+    "stellantis italie",
+    "magasin",
+    "jeu de grattage",
+    "marc touati",
+    "seine-maritime",
     "barberey-saint-sulpice",
+    "neige france",
     "djamel belmadi",
-    "ingvar jónsson",
-    "terence tao",
-    "fc lorient",
-    "monnaie unique",
-    "jacqueline pozzi",
-    "abattement fiscal retraités 2027",
-    "le grand-quevilly",
-    "justine braisaz-bouchet"
+    "placement",
+    "ingvar jónsson"
   ]
 }
