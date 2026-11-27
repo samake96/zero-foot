@@ -1,6 +1,44 @@
 {
-  "updated_at": "2026-11-27T09:04:53.585479+00:00",
+  "updated_at": "2026-11-27T10:10:35.919775+00:00",
   "items": [
+    {
+      "id": "d3621c53bbad98df",
+      "title": "Levski fans in hospital after Marseille violence; Premier League news – football live",
+      "url": "https://www.theguardian.com/football/live/2026/nov/27/premier-league-news-levski-fans-marseille-violence-football",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-27T09:55:50+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [
+        "Premier League",
+        "Ligue 1"
+      ],
+      "priority": 12
+    },
+    {
+      "id": "f84487c6237d3d28",
+      "title": "Ligue des champions CAF: calendrier et résultats de l'édition 2026-2027",
+      "url": "https://www.rfi.fr/fr/afrique-foot/20261127-ligue-des-champions-caf-calendrier-et-r%C3%A9sultats-de-l-%C3%A9dition-2026-2027",
+      "source": "RFI Afrique Foot",
+      "published_at": "2026-11-27T09:04:38+00:00",
+      "category": "competitions",
+      "language": "fr",
+      "topics": [
+        "Ligue des champions"
+      ],
+      "priority": 12
+    },
+    {
+      "id": "905703a84e2fbf62",
+      "title": "CAF Awards 2026: la liste des finalistes annonce un nouveau duel Maroc-Sénégal",
+      "url": "https://www.rfi.fr/fr/afrique-foot/20261127-caf-awards-2026-la-liste-des-finalistes-annonce-un-nouveau-duel-maroc-s%C3%A9n%C3%A9gal",
+      "source": "RFI Afrique Foot",
+      "published_at": "2026-11-27T09:02:48+00:00",
+      "category": "clubs",
+      "language": "fr",
+      "topics": [],
+      "priority": 0
+    },
     {
       "id": "0f888c94d597ee57",
       "title": "Why Cambridgeshire derby could be season-defining",
@@ -85,8 +123,8 @@
       "priority": 12
     },
     {
-      "id": "f448c8c9191c380c",
-      "title": "Man City owners should be forced to sell, say rival club chiefs",
+      "id": "6d6bf77191cf6a99",
+      "title": "Man City owners should be forced to sell, say clubs",
       "url": "https://www.bbc.co.uk/sport/football/articles/cwp809d7yp4go?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
       "published_at": "2026-11-27T06:38:14+00:00",
@@ -210,17 +248,6 @@
       "priority": 0
     },
     {
-      "id": "13aa301aa8347adf",
-      "title": "Pro-Palestinian banner as Besiktas face Israeli team causes delay and diplomatic incident",
-      "url": "https://www.theguardian.com/football/2026/nov/26/crowd-trouble-besiktas-hapoel-beer-sheva-diplomatic-incident-israel-palestine",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-26T20:47:37+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
       "id": "c077ca286d4fd63b",
       "title": "Éric Cantona: ‘If I regret something about the kung fu kick, it’s that I would love to kick him in another place’",
       "url": "https://www.theguardian.com/football/2026/nov/26/eric-cantona-interview-new-documentary",
@@ -241,17 +268,6 @@
       "language": "en",
       "topics": [],
       "priority": 0
-    },
-    {
-      "id": "dcd9c3f8aadddbc5",
-      "title": "Calvert-Lewin signs new Leeds deal until 2029",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx62pnz1evv4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-26T18:00:31+00:00",
-      "category": "transfers",
-      "language": "en",
-      "topics": [],
-      "priority": 8
     },
     {
       "id": "2b18e4ff27cb35f7",
@@ -299,6 +315,17 @@
         "Ligue des champions"
       ],
       "priority": 12
+    },
+    {
+      "id": "ccbc9976489df227",
+      "title": "Lammens - the Man Utd goalkeeper under scrutiny like never before",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmn4k7v93gvzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-26T14:56:30+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
     },
     {
       "id": "8e007c9ed00935bf",
@@ -481,15 +508,15 @@
   ],
   "source_errors": [],
   "search_trends_fr": [
-    "conforama",
-    "saint louis",
-    "blackfriday",
-    "gregory guillotin",
-    "caricaturiste",
-    "sortie pokemon 27 novembre",
-    "l'yonne républicaine",
-    "allemagne",
-    "mg4",
-    "taxe"
+    "rugby championship",
+    "marc marquez",
+    "marquez",
+    "australia vs england",
+    "recession",
+    "michel drucker",
+    "sondage présidentielle 2027 lisnard",
+    "viande",
+    "budget 2027",
+    "guillaume cramont"
   ]
 }
