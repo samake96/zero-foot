@@ -1,13 +1,13 @@
 {
   "source": "API-Football",
-  "updated_at": "2026-11-27T01:27:36.955719+00:00",
+  "updated_at": "2026-11-27T04:14:18.009016+00:00",
   "date_utc": "2026-11-27",
   "matches": [
     {
       "id": 1651516,
       "kickoff": "2026-11-27T00:00:00+00:00",
-      "status": "2H",
-      "elapsed": 66,
+      "status": "FT",
+      "elapsed": 90,
       "league": {
         "id": 396,
         "name": "Primera Division",
@@ -27,8 +27,8 @@
     {
       "id": 1649972,
       "kickoff": "2026-11-27T00:30:00+00:00",
-      "status": "HT",
-      "elapsed": 45,
+      "status": "FT",
+      "elapsed": 90,
       "league": {
         "id": 930,
         "name": "Copa Uruguay",
@@ -42,7 +42,7 @@
       "away": {
         "name": "Club Nacional",
         "logo": "https://media.api-sports.io/football/teams/2356.png",
-        "goals": 0
+        "goals": 1
       }
     },
     {
@@ -378,6 +378,27 @@
       "away": {
         "name": "WIT Georgia",
         "logo": "https://media.api-sports.io/football/teams/3504.png",
+        "goals": null
+      }
+    },
+    {
+      "id": 1591102,
+      "kickoff": "2026-11-27T10:00:00+00:00",
+      "status": "NS",
+      "elapsed": null,
+      "league": {
+        "id": 554,
+        "name": "3. Lig - Group 3",
+        "country": "Turkey"
+      },
+      "home": {
+        "name": "Yeşilyurt Belediyespor",
+        "logo": "https://media.api-sports.io/football/teams/6541.png",
+        "goals": null
+      },
+      "away": {
+        "name": "Ağrı 1970",
+        "logo": "https://media.api-sports.io/football/teams/6509.png",
         "goals": null
       }
     },
