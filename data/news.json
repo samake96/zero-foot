@@ -1,16 +1,42 @@
 {
-  "updated_at": "2026-11-27T20:39:41.301111+00:00",
+  "updated_at": "2026-11-27T21:41:25.282749+00:00",
   "items": [
+    {
+      "id": "7020860eab4c13a8",
+      "title": "'You're not welcome here' - Chelsea's Fofana booed by own fans",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmqlqeqd4wg5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-27T21:31:54+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [
+        "Premier League"
+      ],
+      "priority": 12
+    },
     {
       "id": "4e079c997559ae60",
       "title": "Nottingham Forest v Chelsea: Premier League – live",
       "url": "https://www.theguardian.com/football/live/2026/nov/27/nottingham-forest-v-chelsea-premier-league-live",
       "source": "The Guardian Football",
-      "published_at": "2026-11-27T20:24:36+00:00",
+      "published_at": "2026-11-27T21:24:58+00:00",
       "category": "clubs",
       "language": "en",
       "topics": [
         "Premier League"
+      ],
+      "priority": 12
+    },
+    {
+      "id": "022c8c2be9b14ccb",
+      "title": "Champions League to be a factor in Paz move - Saturday's gossip",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqvg23jg6x78o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-27T21:19:27+00:00",
+      "category": "competitions",
+      "language": "en",
+      "topics": [
+        "Ligue des champions"
       ],
       "priority": 12
     },
@@ -217,17 +243,6 @@
       "priority": 0
     },
     {
-      "id": "ee53731e06b07854",
-      "title": "EFL preview: Happy Potters face struggling Hammers",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cry49dpy9zdyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-27T11:03:43+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
       "id": "280d96232bd34aa3",
       "title": "Botman banned from driving for using phone at wheel",
       "url": "https://www.bbc.co.uk/news/articles/c6wy43d3ry12o?at_medium=RSS&at_campaign=rss",
@@ -342,17 +357,6 @@
         "Premier League"
       ],
       "priority": 12
-    },
-    {
-      "id": "4647c3113125e1fa",
-      "title": "Haaland considers Man City exit - Friday's gossip",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9zr568gje67o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-26T21:25:06+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
     },
     {
       "id": "c077ca286d4fd63b",
@@ -533,15 +537,15 @@
   ],
   "source_errors": [],
   "search_trends_fr": [
-    "meryl streep",
-    "isack hadjar",
-    "pfc",
-    "ireland vs australia",
-    "pascal praud",
-    "ester exposito",
-    "rtl2",
-    "canon francais",
-    "vincent bolloré",
-    "france venezuela"
+    "groenland",
+    "novo",
+    "vafc",
+    "jeremy ferrari",
+    "chiara ferragni",
+    "astrid et raphaëlle",
+    "sm caen",
+    "ingo thiel",
+    "kurtley beale",
+    "robert de niro"
   ]
 }
