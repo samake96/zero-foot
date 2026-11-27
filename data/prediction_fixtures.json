@@ -1,8 +1,8 @@
 {
   "source": "API-Football",
-  "updated_at": "2026-11-26T08:37:59.984234+00:00",
-  "from_utc": "2026-11-26",
-  "to_utc": "2026-12-03",
+  "updated_at": "2026-11-27T08:37:30.217471+00:00",
+  "from_utc": "2026-11-27",
+  "to_utc": "2026-12-04",
   "target_leagues": [
     2,
     5,
@@ -13,14 +13,14 @@
     61
   ],
   "checked_dates": [
-    "2026-11-26",
     "2026-11-27",
     "2026-11-28",
     "2026-11-29",
     "2026-11-30",
     "2026-12-01",
     "2026-12-02",
-    "2026-12-03"
+    "2026-12-03",
+    "2026-12-04"
   ],
   "blocked_dates": [],
   "matches": [
@@ -1281,6 +1281,90 @@
       "away": {
         "name": "Fulham",
         "logo": "https://media.api-sports.io/football/teams/36.png",
+        "goals": null
+      }
+    },
+    {
+      "id": 1575239,
+      "kickoff": "2026-12-04T19:30:00+00:00",
+      "status": "NS",
+      "elapsed": null,
+      "league": {
+        "id": 78,
+        "name": "Bundesliga",
+        "country": "Germany"
+      },
+      "home": {
+        "name": "Bayern München",
+        "logo": "https://media.api-sports.io/football/teams/157.png",
+        "goals": null
+      },
+      "away": {
+        "name": "SC Paderborn 07",
+        "logo": "https://media.api-sports.io/football/teams/185.png",
+        "goals": null
+      }
+    },
+    {
+      "id": 1550218,
+      "kickoff": "2026-12-04T19:45:00+00:00",
+      "status": "NS",
+      "elapsed": null,
+      "league": {
+        "id": 135,
+        "name": "Serie A",
+        "country": "Italy"
+      },
+      "home": {
+        "name": "Bologna",
+        "logo": "https://media.api-sports.io/football/teams/500.png",
+        "goals": null
+      },
+      "away": {
+        "name": "AS Roma",
+        "logo": "https://media.api-sports.io/football/teams/497.png",
+        "goals": null
+      }
+    },
+    {
+      "id": 1552844,
+      "kickoff": "2026-12-04T19:45:00+00:00",
+      "status": "NS",
+      "elapsed": null,
+      "league": {
+        "id": 61,
+        "name": "Ligue 1",
+        "country": "France"
+      },
+      "home": {
+        "name": "Toulouse",
+        "logo": "https://media.api-sports.io/football/teams/96.png",
+        "goals": null
+      },
+      "away": {
+        "name": "Paris Saint Germain",
+        "logo": "https://media.api-sports.io/football/teams/85.png",
+        "goals": null
+      }
+    },
+    {
+      "id": 1570473,
+      "kickoff": "2026-12-04T20:00:00+00:00",
+      "status": "NS",
+      "elapsed": null,
+      "league": {
+        "id": 140,
+        "name": "La Liga",
+        "country": "Spain"
+      },
+      "home": {
+        "name": "Alaves",
+        "logo": "https://media.api-sports.io/football/teams/542.png",
+        "goals": null
+      },
+      "away": {
+        "name": "Espanyol",
+        "logo": "https://media.api-sports.io/football/teams/540.png",
         "goals": null
       }
     }

@@ -1,5 +1,5 @@
 {
-  "created_at": "2026-11-26T08:38:01.755734+00:00",
+  "created_at": "2026-11-27T08:37:32.134631+00:00",
   "historical_by_competition": {
     "PD": 508,
     "FL1": 404,
@@ -8,12 +8,12 @@
     "SA": 499
   },
   "invalid_historical_rows": 0,
-  "fixture_count": 60,
-  "predictions_count": 39,
-  "excluded_count": 21,
+  "fixture_count": 64,
+  "predictions_count": 40,
+  "excluded_count": 24,
   "exclusion_reasons": {
     "unmatched_team": 20,
-    "outside_next_7_days": 1
+    "outside_next_7_days": 4
   },
   "exclusions": [
     {
@@ -157,11 +157,32 @@
       "away": "Atletico Madrid"
     },
     {
-      "match_id": 1557496,
+      "match_id": 1575239,
       "reason": "outside_next_7_days",
-      "league_id": 39,
-      "home": "Tottenham",
-      "away": "Fulham"
+      "league_id": 78,
+      "home": "Bayern München",
+      "away": "SC Paderborn 07"
+    },
+    {
+      "match_id": 1550218,
+      "reason": "outside_next_7_days",
+      "league_id": 135,
+      "home": "Bologna",
+      "away": "AS Roma"
+    },
+    {
+      "match_id": 1552844,
+      "reason": "outside_next_7_days",
+      "league_id": 61,
+      "home": "Toulouse",
+      "away": "Paris Saint Germain"
+    },
+    {
+      "match_id": 1570473,
+      "reason": "outside_next_7_days",
+      "league_id": 140,
+      "home": "Alaves",
+      "away": "Espanyol"
     }
   ]
 }

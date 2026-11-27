@@ -1,14 +1,14 @@
 {
   "source": "ZEROFOOT",
-  "created_at": "2026-11-26T08:38:01.755734+00:00",
+  "created_at": "2026-11-27T08:37:32.134631+00:00",
   "model": "poisson_v33_prototype",
   "warning": "Experimental forecasts based on available historical data, not validated for future betting or guaranteed returns.",
-  "input_matches": 60,
+  "input_matches": 64,
   "historical_matches": 2296,
-  "predictions_count": 39,
+  "predictions_count": 40,
   "skipped": {
     "unmatched_team": 20,
-    "outside_next_7_days": 1
+    "outside_next_7_days": 4
   },
   "predictions": [
     {
@@ -1877,6 +1877,54 @@
         ],
         "opinion_fr": "Notre avis : Newcastle. Cette orientation repose sur les buts attendus et les performances historiques domicile/exterieur. L'ecart entre les scenarios reste limite, et une surprise demeure possible.",
         "opinion_en": "Our view: Newcastle to win. This opinion uses expected goals and historical home/away performance. The gap between outcomes is narrow, and an upset remains possible.",
+        "limitations_fr": "Avis statistique, sans prise en compte confirmee des blessures, compositions ou informations de derniere minute. Aucun resultat garanti.",
+        "limitations_en": "Statistical opinion; injuries, lineups and late news have not been verified. No outcome is guaranteed."
+      },
+      "model": "poisson_v33_prototype",
+      "experimental": true
+    },
+    {
+      "match_id": 1557496,
+      "kickoff": "2026-12-03T20:00:00+00:00",
+      "competition": "PL",
+      "league": "Premier League",
+      "home": "Tottenham",
+      "away": "Fulham",
+      "probabilities_1x2": {
+        "home": 0.4007,
+        "draw": 0.2799,
+        "away": 0.3194
+      },
+      "expected_goals": {
+        "home": 1.25,
+        "away": 1.085
+      },
+      "historical_samples": {
+        "home": 25,
+        "away": 25
+      },
+      "analysis": {
+        "pick": "home",
+        "pick_label": "Tottenham",
+        "confidence": "prudente",
+        "reasons": [
+          {
+            "type": "expected_goals",
+            "home": 1.25,
+            "away": 1.085,
+            "text_fr": "Buts attendus selon le modele : 1.25 pour Tottenham, 1.08 pour Fulham.",
+            "text_en": "Model expected goals: Tottenham 1.25, Fulham 1.08."
+          },
+          {
+            "type": "historical_samples",
+            "home": 25,
+            "away": 25,
+            "text_fr": "Base statistique : 25 matchs a domicile de Tottenham et 25 matchs a l'exterieur de Fulham.",
+            "text_en": "Statistical sample: 25 home games for Tottenham and 25 away games for Fulham."
+          }
+        ],
+        "opinion_fr": "Notre avis : Tottenham. Cette orientation repose sur les buts attendus et les performances historiques domicile/exterieur. L'ecart entre les scenarios reste limite, et une surprise demeure possible.",
+        "opinion_en": "Our view: Tottenham to win. This opinion uses expected goals and historical home/away performance. The gap between outcomes is narrow, and an upset remains possible.",
         "limitations_fr": "Avis statistique, sans prise en compte confirmee des blessures, compositions ou informations de derniere minute. Aucun resultat garanti.",
         "limitations_en": "Statistical opinion; injuries, lineups and late news have not been verified. No outcome is guaranteed."
       },

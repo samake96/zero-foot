@@ -1066,5 +1066,19 @@
       "draw": 0.2299,
       "away": 0.3675
     }
+  },
+  {
+    "match_id": 1557496,
+    "kickoff": "2026-12-03T20:00:00+00:00",
+    "recorded_at": "2026-11-27T08:37:32.190693+00:00",
+    "competition": "PL",
+    "home": "Tottenham",
+    "away": "Fulham",
+    "model": "poisson_v33_prototype",
+    "probabilities_1x2": {
+      "home": 0.4007,
+      "draw": 0.2799,
+      "away": 0.3194
+    }
   }
 ]
