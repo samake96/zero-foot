@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-11-27T18:37:48.187317+00:00",
+  "updated_at": "2026-11-27T19:45:47.793305+00:00",
   "items": [
+    {
+      "id": "4e079c997559ae60",
+      "title": "Nottingham Forest v Chelsea: Premier League – live",
+      "url": "https://www.theguardian.com/football/live/2026/nov/27/nottingham-forest-v-chelsea-premier-league-live",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-27T19:32:13+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [
+        "Premier League"
+      ],
+      "priority": 12
+    },
     {
       "id": "630afe5a9efd721b",
       "title": "Emery praises Garnacho attitude after Villa selection snub",
@@ -224,17 +237,6 @@
       "priority": 0
     },
     {
-      "id": "2fb9b9414fd792fe",
-      "title": "'Massive for both' - Saints and Boro revisit Spygate rivalry",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckp809ledgpdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-27T10:11:58+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
       "id": "75d8763fc070a5f2",
       "title": "Can Borussia Dortmund finally end their title wait? Three big questions for Bundesliga leaders",
       "url": "https://www.theguardian.com/football/2026/nov/27/borussia-dortmund-bundesliga",
@@ -283,19 +285,6 @@
       "priority": 0
     },
     {
-      "id": "62a940e34b9898e4",
-      "title": "Liam Delap’s struggles are symbolic of damaging Chelsea churn",
-      "url": "https://www.theguardian.com/football/2026/nov/27/liam-delap-struggles-damaging-chelsea-churn",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-27T08:00:57+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [
-        "Premier League"
-      ],
-      "priority": 12
-    },
-    {
       "id": "851021047cb96dc1",
       "title": "What makes or breaks a high press?",
       "url": "https://www.bbc.co.uk/sport/football/articles/crgqxn1k283zo?at_medium=RSS&at_campaign=rss",
@@ -340,6 +329,17 @@
         "Premier League"
       ],
       "priority": 12
+    },
+    {
+      "id": "4647c3113125e1fa",
+      "title": "Haaland considers Man City exit - Friday's gossip",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9zr568gje67o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-26T21:25:06+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
     },
     {
       "id": "c077ca286d4fd63b",
@@ -520,15 +520,15 @@
   ],
   "source_errors": [],
   "search_trends_fr": [
-    "colomiers – nevers",
-    "valence-romans – aurillac",
-    "soyaux-angoulême – stade niçois rugby",
-    "vitinha",
-    "agen – béziers",
-    "boxing day",
-    "chimène badi",
-    "la guillotière",
-    "us dax – oyonnax",
-    "équipe d'italie de football"
+    "sylvie vartan",
+    "adele",
+    "narbonne – grenoble",
+    "fortune elon musk",
+    "billie a la croisée des mondes",
+    "action spacex",
+    "irlande – australie",
+    "provence rugby – montauban",
+    "creche perpignan",
+    "nottm forest – chelsea"
   ]
 }
