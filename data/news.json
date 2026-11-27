@@ -1,12 +1,34 @@
 {
-  "updated_at": "2026-11-27T11:12:12.851519+00:00",
+  "updated_at": "2026-11-27T12:17:31.376023+00:00",
   "items": [
+    {
+      "id": "a2b9baba789af351",
+      "title": "Ross County have 102 goals and British football’s best start but is it a fairytale?",
+      "url": "https://www.theguardian.com/football/2026/nov/27/ross-county-british-football-best-start-102-goals",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-27T12:00:10+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "4499c1dc625865fe",
+      "title": "McInnes tempers 'anxiety' as Rangers seek top spot",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm4gnqxvy34wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-27T11:57:24+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
     {
       "id": "60c818be70570529",
       "title": "Macron condemns Marseille violence; Olise adds to Bayern woes; Premier League latest – football live",
       "url": "https://www.theguardian.com/football/live/2026/nov/27/premier-league-news-levski-fans-marseille-violence-football",
       "source": "The Guardian Football",
-      "published_at": "2026-11-27T11:04:49+00:00",
+      "published_at": "2026-11-27T11:57:03+00:00",
       "category": "clubs",
       "language": "en",
       "topics": [
@@ -15,6 +37,28 @@
         "Ligue 1"
       ],
       "priority": 12
+    },
+    {
+      "id": "c371428f53e93d84",
+      "title": "CAN 2025: pour les Congolais, la décision du TAS réhabilite l’arbitre Jean-Jacques Ndala",
+      "url": "https://www.rfi.fr/fr/afrique-foot/20261127-can-2025-pour-les-congolais-la-d%C3%A9cision-du-tas-r%C3%A9habilite-l-arbitre-jean-jacques-ndala",
+      "source": "RFI Afrique Foot",
+      "published_at": "2026-11-27T11:26:14+00:00",
+      "category": "clubs",
+      "language": "fr",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "19101906d37d5bd2",
+      "title": "EFL preview: Happy Potters and the deathly Hammers",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cry49dpy9zdyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-27T11:03:43+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
     },
     {
       "id": "280d96232bd34aa3",
@@ -135,17 +179,6 @@
       "priority": 12
     },
     {
-      "id": "a043b6ffd9be0abb",
-      "title": "Who am I? Plus today's other quizzes",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwm251yne77ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-27T06:59:03+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
       "id": "9339eb8fc5fdd17b",
       "title": "Is it time to sell Haaland? - FPL gameweek 12 dilemmas",
       "url": "https://www.bbc.co.uk/sport/football/articles/cjvg2w35rn63o?at_medium=RSS&at_campaign=rss",
@@ -179,19 +212,6 @@
       "language": "en",
       "topics": [],
       "priority": 0
-    },
-    {
-      "id": "6d1b2db206406068",
-      "title": "Ligue Europa : Marseille reprend espoir, Lyon freiné et le Stade Rennais s'incline",
-      "url": "https://www.france24.com/fr/sports/20261127-ligue-europa-marseille-om-reprend-espoir-lyon-survit-stade-rennais-incline-lillestroem-bulgarie-nimegue-football",
-      "source": "France 24",
-      "published_at": "2026-11-27T01:21:11+00:00",
-      "category": "competitions",
-      "language": "fr",
-      "topics": [
-        "Ligue 1"
-      ],
-      "priority": 12
     },
     {
       "id": "47420a640b269b68",
@@ -273,33 +293,11 @@
       "priority": 0
     },
     {
-      "id": "2039e192cb88be5f",
-      "title": "Fifa staff asked to attend interviews as Infantino sell-off scheme investigated",
-      "url": "https://www.theguardian.com/football/2026/nov/26/fifa-gianni-infantino-sell-off-scheme-investigated",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-26T21:11:24+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
       "id": "c077ca286d4fd63b",
       "title": "Éric Cantona: ‘If I regret something about the kung fu kick, it’s that I would love to kick him in another place’",
       "url": "https://www.theguardian.com/football/2026/nov/26/eric-cantona-interview-new-documentary",
       "source": "The Guardian Football",
       "published_at": "2026-11-26T20:00:44+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
-      "id": "90cd186ca878e0ab",
-      "title": "Referee being 'drunk' claims are 'entirely unfounded'",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6x289w0vpr1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-26T19:19:49+00:00",
       "category": "clubs",
       "language": "en",
       "topics": [],
@@ -495,15 +493,15 @@
   ],
   "source_errors": [],
   "search_trends_fr": [
-    "justice mia mao",
-    "le verdon-sur-mer",
-    "burj khalifa",
-    "rugby championship",
-    "marc marquez",
-    "marquez",
-    "australia vs england",
-    "recession",
-    "viande",
-    "michel drucker"
+    "un si grand soleil",
+    "nikolai de monpezat",
+    "système de combat aérien du futur",
+    "patrick drahi",
+    "télévision payante",
+    "javier milei",
+    "états-unis",
+    "nova",
+    "castelbajac",
+    "kevin costner"
   ]
 }
