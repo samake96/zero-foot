@@ -1,8 +1,169 @@
 {
   "source": "ZEROFOOT",
-  "updated_at": "2026-11-26T20:29:33.571186+00:00",
-  "matches_updated_at": "2026-11-26T19:07:30.175352+00:00",
-  "standings_updated_at": "2026-11-26T19:19:37.331362+00:00",
+  "updated_at": "2026-11-27T08:47:53.066700+00:00",
+  "matches_updated_at": "2026-11-27T07:28:33.865700+00:00",
+  "standings_updated_at": "2026-11-27T07:40:14.005031+00:00",
   "method": "Descriptive standings comparison; no prediction model validated",
-  "previews": []
+  "previews": [
+    {
+      "match_id": 1575237,
+      "kickoff": "2026-11-27T19:30:00+00:00",
+      "league_id": 78,
+      "league": "Bundesliga",
+      "country": "Germany",
+      "home": {
+        "name": "Werder Bremen",
+        "logo": "https://media.api-sports.io/football/teams/162.png",
+        "stats": null
+      },
+      "away": {
+        "name": "Borussia Mönchengladbach",
+        "logo": "https://media.api-sports.io/football/teams/163.png",
+        "stats": {
+          "rank": 18,
+          "played": 10,
+          "points": 4,
+          "win": 1,
+          "draw": 1,
+          "lose": 8,
+          "goals_for": 12,
+          "goals_against": 26,
+          "goal_diff": -14
+        }
+      },
+      "analysis_status": "insufficient_data",
+      "probabilities": null,
+      "note": "Comparaison descriptive uniquement ; aucune probabilité validée."
+    },
+    {
+      "match_id": 1550216,
+      "kickoff": "2026-11-27T19:45:00+00:00",
+      "league_id": 135,
+      "league": "Serie A",
+      "country": "Italy",
+      "home": {
+        "name": "Venezia",
+        "logo": "https://media.api-sports.io/football/teams/517.png",
+        "stats": {
+          "rank": 20,
+          "played": 12,
+          "points": 6,
+          "win": 2,
+          "draw": 0,
+          "lose": 10,
+          "goals_for": 8,
+          "goals_against": 25,
+          "goal_diff": -17
+        }
+      },
+      "away": {
+        "name": "Bologna",
+        "logo": "https://media.api-sports.io/football/teams/500.png",
+        "stats": null
+      },
+      "analysis_status": "insufficient_data",
+      "probabilities": null,
+      "note": "Comparaison descriptive uniquement ; aucune probabilité validée."
+    },
+    {
+      "match_id": 1552830,
+      "kickoff": "2026-11-27T19:45:00+00:00",
+      "league_id": 61,
+      "league": "Ligue 1",
+      "country": "France",
+      "home": {
+        "name": "Stade Brestois 29",
+        "logo": "https://media.api-sports.io/football/teams/106.png",
+        "stats": {
+          "rank": 6,
+          "played": 11,
+          "points": 18,
+          "win": 5,
+          "draw": 3,
+          "lose": 3,
+          "goals_for": 19,
+          "goals_against": 12,
+          "goal_diff": 7
+        }
+      },
+      "away": {
+        "name": "Paris FC",
+        "logo": "https://media.api-sports.io/football/teams/114.png",
+        "stats": {
+          "rank": 2,
+          "played": 11,
+          "points": 23,
+          "win": 7,
+          "draw": 2,
+          "lose": 2,
+          "goals_for": 21,
+          "goals_against": 10,
+          "goal_diff": 11
+        }
+      },
+      "analysis_status": "standings_comparison",
+      "probabilities": null,
+      "note": "Comparaison descriptive uniquement ; aucune probabilité validée."
+    },
+    {
+      "match_id": 1557485,
+      "kickoff": "2026-11-27T20:00:00+00:00",
+      "league_id": 39,
+      "league": "Premier League",
+      "country": "England",
+      "home": {
+        "name": "Nottingham Forest",
+        "logo": "https://media.api-sports.io/football/teams/65.png",
+        "stats": {
+          "rank": 17,
+          "played": 11,
+          "points": 9,
+          "win": 2,
+          "draw": 3,
+          "lose": 6,
+          "goals_for": 9,
+          "goals_against": 15,
+          "goal_diff": -6
+        }
+      },
+      "away": {
+        "name": "Chelsea",
+        "logo": "https://media.api-sports.io/football/teams/49.png",
+        "stats": {
+          "rank": 8,
+          "played": 11,
+          "points": 16,
+          "win": 5,
+          "draw": 1,
+          "lose": 5,
+          "goals_for": 20,
+          "goals_against": 20,
+          "goal_diff": 0
+        }
+      },
+      "analysis_status": "standings_comparison",
+      "probabilities": null,
+      "note": "Comparaison descriptive uniquement ; aucune probabilité validée."
+    },
+    {
+      "match_id": 1570468,
+      "kickoff": "2026-11-27T20:00:00+00:00",
+      "league_id": 140,
+      "league": "La Liga",
+      "country": "Spain",
+      "home": {
+        "name": "Levante",
+        "logo": "https://media.api-sports.io/football/teams/539.png",
+        "stats": null
+      },
+      "away": {
+        "name": "Racing Santander",
+        "logo": "https://media.api-sports.io/football/teams/4665.png",
+        "stats": null
+      },
+      "analysis_status": "insufficient_data",
+      "probabilities": null,
+      "note": "Comparaison descriptive uniquement ; aucune probabilité validée."
+    }
+  ]
 }
