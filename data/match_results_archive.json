@@ -1,8 +1,71 @@
 {
   "source": "API-Football",
-  "updated_at": "2026-11-27T07:28:33.821869+00:00",
-  "total": 2589,
+  "updated_at": "2026-11-27T10:16:02.019413+00:00",
+  "total": 2592,
   "matches": [
+    {
+      "id": 1651502,
+      "kickoff": "2026-11-27T03:10:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 262,
+        "name": "Liga MX",
+        "country": "Mexico"
+      },
+      "home": {
+        "name": "Leon",
+        "logo": "https://media.api-sports.io/football/teams/2289.png",
+        "goals": 0
+      },
+      "away": {
+        "name": "Cruz Azul",
+        "logo": "https://media.api-sports.io/football/teams/2295.png",
+        "goals": 4
+      }
+    },
+    {
+      "id": 1651832,
+      "kickoff": "2026-11-27T02:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 1200,
+        "name": "Liga MX U21",
+        "country": "Mexico"
+      },
+      "home": {
+        "name": "Juarez U21",
+        "logo": "https://media.api-sports.io/football/teams/26834.png",
+        "goals": 0
+      },
+      "away": {
+        "name": "Guadalajara Chivas U21",
+        "logo": "https://media.api-sports.io/football/teams/26833.png",
+        "goals": 1
+      }
+    },
+    {
+      "id": 1651504,
+      "kickoff": "2026-11-27T01:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 262,
+        "name": "Liga MX",
+        "country": "Mexico"
+      },
+      "home": {
+        "name": "CF Pachuca",
+        "logo": "https://media.api-sports.io/football/teams/2292.png",
+        "goals": 2
+      },
+      "away": {
+        "name": "Guadalajara Chivas",
+        "logo": "https://media.api-sports.io/football/teams/2278.png",
+        "goals": 1
+      }
+    },
     {
       "id": 1649972,
       "kickoff": "2026-11-27T00:30:00+00:00",
