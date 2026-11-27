@@ -1,6 +1,30 @@
 {
-  "updated_at": "2026-11-27T07:59:06.111477+00:00",
+  "updated_at": "2026-11-27T09:04:53.585479+00:00",
   "items": [
+    {
+      "id": "0f888c94d597ee57",
+      "title": "Why Cambridgeshire derby could be season-defining",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cxlyl3v8p5e0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-27T08:25:44+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "62a940e34b9898e4",
+      "title": "Liam Delap’s struggles are symbolic of damaging Chelsea churn",
+      "url": "https://www.theguardian.com/football/2026/nov/27/liam-delap-struggles-damaging-chelsea-churn",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-27T08:00:57+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [
+        "Premier League"
+      ],
+      "priority": 12
+    },
     {
       "id": "851021047cb96dc1",
       "title": "What makes or breaks a high press?",
@@ -24,6 +48,17 @@
         "Ligue 1"
       ],
       "priority": 12
+    },
+    {
+      "id": "a043b6ffd9be0abb",
+      "title": "Who am I? Plus today's other quizzes",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwm251yne77ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-27T06:59:03+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
     },
     {
       "id": "8c8a34d39df020ad",
@@ -241,19 +276,6 @@
       "priority": 0
     },
     {
-      "id": "10fe760c47f2a03d",
-      "title": "Football Daily | Bayern Munich go from bad to worse with own goals on and off the pitch",
-      "url": "https://www.theguardian.com/football/2026/nov/26/football-daily-newsletter-bayern-munich",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-26T15:48:28+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [
-        "Bundesliga"
-      ],
-      "priority": 12
-    },
-    {
       "id": "d2c8cb2ae0b7d76c",
       "title": "Sutton's predictions v Kings of Leon drummer Nathan Followill",
       "url": "https://www.bbc.co.uk/sport/football/articles/c3n0l29lrr27o?at_medium=RSS&at_campaign=rss",
@@ -277,17 +299,6 @@
         "Ligue des champions"
       ],
       "priority": 12
-    },
-    {
-      "id": "ccbc9976489df227",
-      "title": "Lammens - the Man Utd goalkeeper under scrutiny like never before",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmn4k7v93gvzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-26T14:56:30+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
     },
     {
       "id": "8e007c9ed00935bf",
@@ -470,15 +481,15 @@
   ],
   "source_errors": [],
   "search_trends_fr": [
-    "aimé jacquet",
-    "importation",
-    "conseil européen",
-    "black friday apple iphone 17",
-    "the rolling stones foreign tongues, loose lips",
-    "procureur",
-    "saint-lô",
-    "sephora black friday",
-    "ken kutaragi",
-    "vieillissement"
+    "conforama",
+    "saint louis",
+    "blackfriday",
+    "gregory guillotin",
+    "caricaturiste",
+    "sortie pokemon 27 novembre",
+    "l'yonne républicaine",
+    "allemagne",
+    "mg4",
+    "taxe"
   ]
 }
