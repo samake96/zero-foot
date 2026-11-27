@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-11-27T03:21:28.613585+00:00",
+  "updated_at": "2026-11-27T04:31:37.953960+00:00",
   "items": [
+    {
+      "id": "6d1b2db206406068",
+      "title": "Ligue Europa : Marseille reprend espoir, Lyon freiné et le Stade Rennais s'incline",
+      "url": "https://www.france24.com/fr/sports/20261127-ligue-europa-marseille-om-reprend-espoir-lyon-survit-stade-rennais-incline-lillestroem-bulgarie-nimegue-football",
+      "source": "France 24",
+      "published_at": "2026-11-27T01:21:11+00:00",
+      "category": "competitions",
+      "language": "fr",
+      "topics": [
+        "Ligue 1"
+      ],
+      "priority": 12
+    },
     {
       "id": "47420a640b269b68",
       "title": "'Priceless' Duran proves 'the man' but is he papering over cracks at Celtic?",
@@ -442,15 +455,15 @@
   ],
   "source_errors": [],
   "search_trends_fr": [
+    "tesla",
+    "marc márquez",
+    "neige var",
+    "rockstar games gta vi",
+    "euromillions",
+    "romain sardou",
     "mère",
     "bills – chiefs",
     "revenu de solidarité active",
-    "philippe caverivière rtl",
-    "openai",
-    "tirage eurodreams",
-    "ahmed attaf",
-    "lego black friday",
-    "trump",
-    "darty black friday"
+    "nfl"
   ]
 }
