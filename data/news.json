@@ -1,12 +1,25 @@
 {
-  "updated_at": "2026-11-28T11:23:14.072448+00:00",
+  "updated_at": "2026-11-28T12:23:07.860086+00:00",
   "items": [
     {
       "id": "964b17a9429f971e",
       "title": "Manchester United v Brentford buildup, Premier League news and more – matchday live",
       "url": "https://www.theguardian.com/football/live/2026/nov/28/manchester-united-v-brentford-buildup-premier-league-news-and-more-matchday-live",
       "source": "The Guardian Football",
-      "published_at": "2026-11-28T10:38:47+00:00",
+      "published_at": "2026-11-28T12:11:36+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [
+        "Premier League"
+      ],
+      "priority": 12
+    },
+    {
+      "id": "98965d654c38ac01",
+      "title": "Will 2024 version of Palmer ever re-emerge for Chelsea?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwzd9yj44190o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-28T11:53:00+00:00",
       "category": "clubs",
       "language": "en",
       "topics": [
@@ -142,6 +155,19 @@
       "priority": 12
     },
     {
+      "id": "d87592b099d76ec6",
+      "title": "Chelsea must stick together in 'difficult moment' - Alonso",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cq3dgpj5xn0do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-27T22:45:22+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [
+        "Premier League"
+      ],
+      "priority": 12
+    },
+    {
       "id": "ca61bb0e18b24ffd",
       "title": "Gibbs-White scores twice as Forest beat struggling Chelsea",
       "url": "https://www.bbc.co.uk/sport/football/videos/cm5y10n8e737o?at_medium=RSS&at_campaign=rss",
@@ -197,19 +223,6 @@
       "url": "https://www.theguardian.com/football/2026/nov/27/nottingham-forest-chelsea-premier-league-match-report",
       "source": "The Guardian Football",
       "published_at": "2026-11-27T22:10:35+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [
-        "Premier League"
-      ],
-      "priority": 12
-    },
-    {
-      "id": "e0f10810509007a4",
-      "title": "Gibbs-White stars, Fofana struggles - player ratings for Forest v Chelsea",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmwy85xxjgxvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-27T21:59:48+00:00",
       "category": "clubs",
       "language": "en",
       "topics": [
@@ -292,6 +305,20 @@
       "priority": 0
     },
     {
+      "id": "f5a6a8eea052cfe8",
+      "title": "Head coach Slegers leaves Arsenal 18 months after Champions League win",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmy49d5kpw78o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-27T16:14:34+00:00",
+      "category": "competitions",
+      "language": "en",
+      "topics": [
+        "Premier League",
+        "Ligue des champions"
+      ],
+      "priority": 12
+    },
+    {
       "id": "e95885ee7359b1d7",
       "title": "Ligue des champions CAF: une course au titre ouverte en l’absence d’Al Ahly et de Sundowns",
       "url": "https://www.rfi.fr/fr/afrique-foot/20261127-ligue-des-champions-caf-une-course-au-titre-ouverte-en-l-absence-d-al-ahly-et-de-sundowns",
@@ -301,19 +328,6 @@
       "language": "fr",
       "topics": [
         "Ligue des champions"
-      ],
-      "priority": 12
-    },
-    {
-      "id": "3fb7841e2d2e0e85",
-      "title": "'I am not a magician' - what can Maresca's Man City learn from watertight Arsenal?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cknv47dee54zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-27T14:37:58+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [
-        "Premier League"
       ],
       "priority": 12
     },
@@ -393,17 +407,6 @@
       "published_at": "2026-11-27T09:02:48+00:00",
       "category": "clubs",
       "language": "fr",
-      "topics": [],
-      "priority": 0
-    },
-    {
-      "id": "d2c8cb2ae0b7d76c",
-      "title": "Sutton's predictions v Kings of Leon drummer Nathan Followill",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3n0l29lrr27o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-26T15:01:48+00:00",
-      "category": "clubs",
-      "language": "en",
       "topics": [],
       "priority": 0
     },
@@ -539,15 +542,15 @@
   ],
   "source_errors": [],
   "search_trends_fr": [
-    "couëron",
-    "luka doncic",
-    "andy farrell",
-    "château",
-    "véhicule électrique",
-    "carambolage",
-    "sigean",
-    "djamel belmadi",
-    "hermès international",
-    "rassemblement national"
+    "ilona smet",
+    "saint-lô",
+    "piscine marcel spilliaert",
+    "al hazm – al-nassr fc",
+    "voie ferrée",
+    "flers",
+    "siegfried mazet",
+    "assurance",
+    "dro fernandez",
+    "angleterre nouvelle zélande"
   ]
 }
