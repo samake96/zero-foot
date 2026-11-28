@@ -1,45 +1,7 @@
 {
-  "total_unmatched": 20,
+  "total_unmatched": 19,
   "potentially_resolved": 0,
   "diagnosis": [
-    {
-      "match_id": 1550216,
-      "competition": "SA",
-      "home": {
-        "fixture_name": "Venezia",
-        "exact_normalized_matches": [],
-        "model_identity_matches": [
-          "Venezia FC"
-        ],
-        "found_exact": false,
-        "found_by_model": true
-      },
-      "away": {
-        "fixture_name": "Bologna",
-        "exact_normalized_matches": [],
-        "model_identity_matches": [],
-        "found_exact": false,
-        "found_by_model": false
-      }
-    },
-    {
-      "match_id": 1570468,
-      "competition": "PD",
-      "home": {
-        "fixture_name": "Levante",
-        "exact_normalized_matches": [],
-        "model_identity_matches": [],
-        "found_exact": false,
-        "found_by_model": false
-      },
-      "away": {
-        "fixture_name": "Racing Santander",
-        "exact_normalized_matches": [],
-        "model_identity_matches": [],
-        "found_exact": false,
-        "found_by_model": false
-      }
-    },
     {
       "match_id": 1550210,
       "competition": "SA",
@@ -395,6 +357,28 @@
           "Club Atlético de Madrid"
         ],
         "found_exact": false,
+        "found_by_model": true
+      }
+    },
+    {
+      "match_id": 1550218,
+      "competition": "SA",
+      "home": {
+        "fixture_name": "Bologna",
+        "exact_normalized_matches": [],
+        "model_identity_matches": [],
+        "found_exact": false,
+        "found_by_model": false
+      },
+      "away": {
+        "fixture_name": "AS Roma",
+        "exact_normalized_matches": [
+          "AS Roma"
+        ],
+        "model_identity_matches": [
+          "AS Roma"
+        ],
+        "found_exact": true,
         "found_by_model": true
       }
     }

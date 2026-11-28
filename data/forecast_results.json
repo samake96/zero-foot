@@ -533,6 +533,12 @@
       "home": 0.4421,
       "draw": 0.2444,
       "away": 0.3135
+    },
+    "result": {
+      "status": "final",
+      "home_goals": 3,
+      "away_goals": 3,
+      "outcome_1x2": "draw"
     }
   },
   {
@@ -547,6 +553,12 @@
       "home": 0.4319,
       "draw": 0.2603,
       "away": 0.3078
+    },
+    "result": {
+      "status": "final",
+      "home_goals": 1,
+      "away_goals": 0,
+      "outcome_1x2": "home"
     }
   },
   {
@@ -561,6 +573,12 @@
       "home": 0.2848,
       "draw": 0.2671,
       "away": 0.4481
+    },
+    "result": {
+      "status": "final",
+      "home_goals": 3,
+      "away_goals": 2,
+      "outcome_1x2": "home"
     }
   },
   {
@@ -1079,6 +1097,48 @@
       "home": 0.4007,
       "draw": 0.2799,
       "away": 0.3194
+    }
+  },
+  {
+    "match_id": 1575239,
+    "kickoff": "2026-12-04T19:30:00+00:00",
+    "recorded_at": "2026-11-28T08:21:33.458732+00:00",
+    "competition": "BL1",
+    "home": "Bayern München",
+    "away": "SC Paderborn 07",
+    "model": "poisson_v33_prototype",
+    "probabilities_1x2": {
+      "home": 0.849,
+      "draw": 0.0955,
+      "away": 0.0555
+    }
+  },
+  {
+    "match_id": 1552844,
+    "kickoff": "2026-12-04T19:45:00+00:00",
+    "recorded_at": "2026-11-28T08:21:33.458732+00:00",
+    "competition": "FL1",
+    "home": "Toulouse",
+    "away": "Paris Saint Germain",
+    "model": "poisson_v33_prototype",
+    "probabilities_1x2": {
+      "home": 0.2027,
+      "draw": 0.2123,
+      "away": 0.585
+    }
+  },
+  {
+    "match_id": 1570473,
+    "kickoff": "2026-12-04T20:00:00+00:00",
+    "recorded_at": "2026-11-28T08:21:33.458732+00:00",
+    "competition": "PD",
+    "home": "Alaves",
+    "away": "Espanyol",
+    "model": "poisson_v33_prototype",
+    "probabilities_1x2": {
+      "home": 0.422,
+      "draw": 0.2597,
+      "away": 0.3184
     }
   }
 ]

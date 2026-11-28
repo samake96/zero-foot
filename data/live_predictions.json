@@ -1,160 +1,16 @@
 {
   "source": "ZEROFOOT",
-  "created_at": "2026-11-27T08:37:32.134631+00:00",
+  "created_at": "2026-11-28T08:21:33.366552+00:00",
   "model": "poisson_v33_prototype",
   "warning": "Experimental forecasts based on available historical data, not validated for future betting or guaranteed returns.",
-  "input_matches": 64,
+  "input_matches": 84,
   "historical_matches": 2296,
   "predictions_count": 40,
   "skipped": {
-    "unmatched_team": 20,
-    "outside_next_7_days": 4
+    "unmatched_team": 19,
+    "outside_next_7_days": 25
   },
   "predictions": [
-    {
-      "match_id": 1575237,
-      "kickoff": "2026-11-27T19:30:00+00:00",
-      "competition": "BL1",
-      "league": "Bundesliga",
-      "home": "Werder Bremen",
-      "away": "Borussia Mönchengladbach",
-      "probabilities_1x2": {
-        "home": 0.4728,
-        "draw": 0.239,
-        "away": 0.2883
-      },
-      "expected_goals": {
-        "home": 1.691,
-        "away": 1.271
-      },
-      "historical_samples": {
-        "home": 22,
-        "away": 22
-      },
-      "analysis": {
-        "pick": "home",
-        "pick_label": "Werder Bremen",
-        "confidence": "moderee",
-        "reasons": [
-          {
-            "type": "expected_goals",
-            "home": 1.691,
-            "away": 1.271,
-            "text_fr": "Buts attendus selon le modele : 1.69 pour Werder Bremen, 1.27 pour Borussia Mönchengladbach.",
-            "text_en": "Model expected goals: Werder Bremen 1.69, Borussia Mönchengladbach 1.27."
-          },
-          {
-            "type": "historical_samples",
-            "home": 22,
-            "away": 22,
-            "text_fr": "Base statistique : 22 matchs a domicile de Werder Bremen et 22 matchs a l'exterieur de Borussia Mönchengladbach.",
-            "text_en": "Statistical sample: 22 home games for Werder Bremen and 22 away games for Borussia Mönchengladbach."
-          }
-        ],
-        "opinion_fr": "Notre avis : Werder Bremen. Cette orientation repose sur les buts attendus et les performances historiques domicile/exterieur. L'ecart entre les scenarios reste notable, et une surprise demeure possible.",
-        "opinion_en": "Our view: Werder Bremen to win. This opinion uses expected goals and historical home/away performance. The gap between outcomes is meaningful, and an upset remains possible.",
-        "limitations_fr": "Avis statistique, sans prise en compte confirmee des blessures, compositions ou informations de derniere minute. Aucun resultat garanti.",
-        "limitations_en": "Statistical opinion; injuries, lineups and late news have not been verified. No outcome is guaranteed."
-      },
-      "model": "poisson_v33_prototype",
-      "experimental": true
-    },
-    {
-      "match_id": 1552830,
-      "kickoff": "2026-11-27T19:45:00+00:00",
-      "competition": "FL1",
-      "league": "Ligue 1",
-      "home": "Stade Brestois 29",
-      "away": "Paris FC",
-      "probabilities_1x2": {
-        "home": 0.4321,
-        "draw": 0.2603,
-        "away": 0.3076
-      },
-      "expected_goals": {
-        "home": 1.441,
-        "away": 1.173
-      },
-      "historical_samples": {
-        "home": 22,
-        "away": 22
-      },
-      "analysis": {
-        "pick": "home",
-        "pick_label": "Stade Brestois 29",
-        "confidence": "moderee",
-        "reasons": [
-          {
-            "type": "expected_goals",
-            "home": 1.441,
-            "away": 1.173,
-            "text_fr": "Buts attendus selon le modele : 1.44 pour Stade Brestois 29, 1.17 pour Paris FC.",
-            "text_en": "Model expected goals: Stade Brestois 29 1.44, Paris FC 1.17."
-          },
-          {
-            "type": "historical_samples",
-            "home": 22,
-            "away": 22,
-            "text_fr": "Base statistique : 22 matchs a domicile de Stade Brestois 29 et 22 matchs a l'exterieur de Paris FC.",
-            "text_en": "Statistical sample: 22 home games for Stade Brestois 29 and 22 away games for Paris FC."
-          }
-        ],
-        "opinion_fr": "Notre avis : Stade Brestois 29. Cette orientation repose sur les buts attendus et les performances historiques domicile/exterieur. L'ecart entre les scenarios reste notable, et une surprise demeure possible.",
-        "opinion_en": "Our view: Stade Brestois 29 to win. This opinion uses expected goals and historical home/away performance. The gap between outcomes is meaningful, and an upset remains possible.",
-        "limitations_fr": "Avis statistique, sans prise en compte confirmee des blessures, compositions ou informations de derniere minute. Aucun resultat garanti.",
-        "limitations_en": "Statistical opinion; injuries, lineups and late news have not been verified. No outcome is guaranteed."
-      },
-      "model": "poisson_v33_prototype",
-      "experimental": true
-    },
-    {
-      "match_id": 1557485,
-      "kickoff": "2026-11-27T20:00:00+00:00",
-      "competition": "PL",
-      "league": "Premier League",
-      "home": "Nottingham Forest",
-      "away": "Chelsea",
-      "probabilities_1x2": {
-        "home": 0.2838,
-        "draw": 0.2669,
-        "away": 0.4492
-      },
-      "expected_goals": {
-        "home": 1.062,
-        "away": 1.409
-      },
-      "historical_samples": {
-        "home": 24,
-        "away": 24
-      },
-      "analysis": {
-        "pick": "away",
-        "pick_label": "Chelsea",
-        "confidence": "moderee",
-        "reasons": [
-          {
-            "type": "expected_goals",
-            "home": 1.062,
-            "away": 1.409,
-            "text_fr": "Buts attendus selon le modele : 1.06 pour Nottingham Forest, 1.41 pour Chelsea.",
-            "text_en": "Model expected goals: Nottingham Forest 1.06, Chelsea 1.41."
-          },
-          {
-            "type": "historical_samples",
-            "home": 24,
-            "away": 24,
-            "text_fr": "Base statistique : 24 matchs a domicile de Nottingham Forest et 24 matchs a l'exterieur de Chelsea.",
-            "text_en": "Statistical sample: 24 home games for Nottingham Forest and 24 away games for Chelsea."
-          }
-        ],
-        "opinion_fr": "Notre avis : Chelsea. Cette orientation repose sur les buts attendus et les performances historiques domicile/exterieur. L'ecart entre les scenarios reste notable, et une surprise demeure possible.",
-        "opinion_en": "Our view: Chelsea to win. This opinion uses expected goals and historical home/away performance. The gap between outcomes is meaningful, and an upset remains possible.",
-        "limitations_fr": "Avis statistique, sans prise en compte confirmee des blessures, compositions ou informations de derniere minute. Aucun resultat garanti.",
-        "limitations_en": "Statistical opinion; injuries, lineups and late news have not been verified. No outcome is guaranteed."
-      },
-      "model": "poisson_v33_prototype",
-      "experimental": true
-    },
     {
       "match_id": 1570463,
       "kickoff": "2026-11-28T13:00:00+00:00",
@@ -1925,6 +1781,150 @@
         ],
         "opinion_fr": "Notre avis : Tottenham. Cette orientation repose sur les buts attendus et les performances historiques domicile/exterieur. L'ecart entre les scenarios reste limite, et une surprise demeure possible.",
         "opinion_en": "Our view: Tottenham to win. This opinion uses expected goals and historical home/away performance. The gap between outcomes is narrow, and an upset remains possible.",
+        "limitations_fr": "Avis statistique, sans prise en compte confirmee des blessures, compositions ou informations de derniere minute. Aucun resultat garanti.",
+        "limitations_en": "Statistical opinion; injuries, lineups and late news have not been verified. No outcome is guaranteed."
+      },
+      "model": "poisson_v33_prototype",
+      "experimental": true
+    },
+    {
+      "match_id": 1575239,
+      "kickoff": "2026-12-04T19:30:00+00:00",
+      "competition": "BL1",
+      "league": "Bundesliga",
+      "home": "Bayern München",
+      "away": "SC Paderborn 07",
+      "probabilities_1x2": {
+        "home": 0.849,
+        "draw": 0.0955,
+        "away": 0.0555
+      },
+      "expected_goals": {
+        "home": 3.427,
+        "away": 0.854
+      },
+      "historical_samples": {
+        "home": 22,
+        "away": 5
+      },
+      "analysis": {
+        "pick": "home",
+        "pick_label": "Bayern München",
+        "confidence": "moderee",
+        "reasons": [
+          {
+            "type": "expected_goals",
+            "home": 3.427,
+            "away": 0.854,
+            "text_fr": "Buts attendus selon le modele : 3.43 pour Bayern München, 0.85 pour SC Paderborn 07.",
+            "text_en": "Model expected goals: Bayern München 3.43, SC Paderborn 07 0.85."
+          },
+          {
+            "type": "historical_samples",
+            "home": 22,
+            "away": 5,
+            "text_fr": "Base statistique : 22 matchs a domicile de Bayern München et 5 matchs a l'exterieur de SC Paderborn 07.",
+            "text_en": "Statistical sample: 22 home games for Bayern München and 5 away games for SC Paderborn 07."
+          }
+        ],
+        "opinion_fr": "Notre avis : Bayern München. Cette orientation repose sur les buts attendus et les performances historiques domicile/exterieur. L'ecart entre les scenarios reste notable, et une surprise demeure possible.",
+        "opinion_en": "Our view: Bayern München to win. This opinion uses expected goals and historical home/away performance. The gap between outcomes is meaningful, and an upset remains possible.",
+        "limitations_fr": "Avis statistique, sans prise en compte confirmee des blessures, compositions ou informations de derniere minute. Aucun resultat garanti.",
+        "limitations_en": "Statistical opinion; injuries, lineups and late news have not been verified. No outcome is guaranteed."
+      },
+      "model": "poisson_v33_prototype",
+      "experimental": true
+    },
+    {
+      "match_id": 1552844,
+      "kickoff": "2026-12-04T19:45:00+00:00",
+      "competition": "FL1",
+      "league": "Ligue 1",
+      "home": "Toulouse",
+      "away": "Paris Saint Germain",
+      "probabilities_1x2": {
+        "home": 0.2027,
+        "draw": 0.2123,
+        "away": 0.585
+      },
+      "expected_goals": {
+        "home": 1.107,
+        "away": 2.022
+      },
+      "historical_samples": {
+        "home": 22,
+        "away": 24
+      },
+      "analysis": {
+        "pick": "away",
+        "pick_label": "Paris Saint Germain",
+        "confidence": "moderee",
+        "reasons": [
+          {
+            "type": "expected_goals",
+            "home": 1.107,
+            "away": 2.022,
+            "text_fr": "Buts attendus selon le modele : 1.11 pour Toulouse, 2.02 pour Paris Saint Germain.",
+            "text_en": "Model expected goals: Toulouse 1.11, Paris Saint Germain 2.02."
+          },
+          {
+            "type": "historical_samples",
+            "home": 22,
+            "away": 24,
+            "text_fr": "Base statistique : 22 matchs a domicile de Toulouse et 24 matchs a l'exterieur de Paris Saint Germain.",
+            "text_en": "Statistical sample: 22 home games for Toulouse and 24 away games for Paris Saint Germain."
+          }
+        ],
+        "opinion_fr": "Notre avis : Paris Saint Germain. Cette orientation repose sur les buts attendus et les performances historiques domicile/exterieur. L'ecart entre les scenarios reste notable, et une surprise demeure possible.",
+        "opinion_en": "Our view: Paris Saint Germain to win. This opinion uses expected goals and historical home/away performance. The gap between outcomes is meaningful, and an upset remains possible.",
+        "limitations_fr": "Avis statistique, sans prise en compte confirmee des blessures, compositions ou informations de derniere minute. Aucun resultat garanti.",
+        "limitations_en": "Statistical opinion; injuries, lineups and late news have not been verified. No outcome is guaranteed."
+      },
+      "model": "poisson_v33_prototype",
+      "experimental": true
+    },
+    {
+      "match_id": 1570473,
+      "kickoff": "2026-12-04T20:00:00+00:00",
+      "competition": "PD",
+      "league": "La Liga",
+      "home": "Alaves",
+      "away": "Espanyol",
+      "probabilities_1x2": {
+        "home": 0.422,
+        "draw": 0.2597,
+        "away": 0.3184
+      },
+      "expected_goals": {
+        "home": 1.431,
+        "away": 1.208
+      },
+      "historical_samples": {
+        "home": 26,
+        "away": 26
+      },
+      "analysis": {
+        "pick": "home",
+        "pick_label": "Alaves",
+        "confidence": "prudente",
+        "reasons": [
+          {
+            "type": "expected_goals",
+            "home": 1.431,
+            "away": 1.208,
+            "text_fr": "Buts attendus selon le modele : 1.43 pour Alaves, 1.21 pour Espanyol.",
+            "text_en": "Model expected goals: Alaves 1.43, Espanyol 1.21."
+          },
+          {
+            "type": "historical_samples",
+            "home": 26,
+            "away": 26,
+            "text_fr": "Base statistique : 26 matchs a domicile de Alaves et 26 matchs a l'exterieur de Espanyol.",
+            "text_en": "Statistical sample: 26 home games for Alaves and 26 away games for Espanyol."
+          }
+        ],
+        "opinion_fr": "Notre avis : Alaves. Cette orientation repose sur les buts attendus et les performances historiques domicile/exterieur. L'ecart entre les scenarios reste limite, et une surprise demeure possible.",
+        "opinion_en": "Our view: Alaves to win. This opinion uses expected goals and historical home/away performance. The gap between outcomes is narrow, and an upset remains possible.",
         "limitations_fr": "Avis statistique, sans prise en compte confirmee des blessures, compositions ou informations de derniere minute. Aucun resultat garanti.",
         "limitations_en": "Statistical opinion; injuries, lineups and late news have not been verified. No outcome is guaranteed."
       },

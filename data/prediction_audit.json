@@ -1,5 +1,5 @@
 {
-  "created_at": "2026-11-27T08:37:32.134631+00:00",
+  "created_at": "2026-11-28T08:21:33.366552+00:00",
   "historical_by_competition": {
     "PD": 508,
     "FL1": 404,
@@ -8,28 +8,14 @@
     "SA": 499
   },
   "invalid_historical_rows": 0,
-  "fixture_count": 64,
+  "fixture_count": 84,
   "predictions_count": 40,
-  "excluded_count": 24,
+  "excluded_count": 44,
   "exclusion_reasons": {
-    "unmatched_team": 20,
-    "outside_next_7_days": 4
+    "unmatched_team": 19,
+    "outside_next_7_days": 25
   },
   "exclusions": [
-    {
-      "match_id": 1550216,
-      "reason": "unmatched_team",
-      "league_id": 135,
-      "home": "Venezia",
-      "away": "Bologna"
-    },
-    {
-      "match_id": 1570468,
-      "reason": "unmatched_team",
-      "league_id": 140,
-      "home": "Levante",
-      "away": "Racing Santander"
-    },
     {
       "match_id": 1550210,
       "reason": "unmatched_team",
@@ -157,32 +143,186 @@
       "away": "Atletico Madrid"
     },
     {
-      "match_id": 1575239,
-      "reason": "outside_next_7_days",
-      "league_id": 78,
-      "home": "Bayern München",
-      "away": "SC Paderborn 07"
-    },
-    {
       "match_id": 1550218,
-      "reason": "outside_next_7_days",
+      "reason": "unmatched_team",
       "league_id": 135,
       "home": "Bologna",
       "away": "AS Roma"
     },
     {
-      "match_id": 1552844,
+      "match_id": 1557500,
       "reason": "outside_next_7_days",
-      "league_id": 61,
-      "home": "Toulouse",
-      "away": "Paris Saint Germain"
+      "league_id": 39,
+      "home": "Chelsea",
+      "away": "Liverpool"
     },
     {
-      "match_id": 1570473,
+      "match_id": 1570479,
       "reason": "outside_next_7_days",
       "league_id": 140,
-      "home": "Alaves",
-      "away": "Espanyol"
+      "home": "Racing Santander",
+      "away": "Deportivo La Coruna"
+    },
+    {
+      "match_id": 1550224,
+      "reason": "outside_next_7_days",
+      "league_id": 135,
+      "home": "Monza",
+      "away": "Como"
+    },
+    {
+      "match_id": 1575240,
+      "reason": "outside_next_7_days",
+      "league_id": 78,
+      "home": "RB Leipzig",
+      "away": "FSV Mainz 05"
+    },
+    {
+      "match_id": 1575241,
+      "reason": "outside_next_7_days",
+      "league_id": 78,
+      "home": "Bayer Leverkusen",
+      "away": "Borussia Mönchengladbach"
+    },
+    {
+      "match_id": 1575242,
+      "reason": "outside_next_7_days",
+      "league_id": 78,
+      "home": "SC Freiburg",
+      "away": "1899 Hoffenheim"
+    },
+    {
+      "match_id": 1575244,
+      "reason": "outside_next_7_days",
+      "league_id": 78,
+      "home": "FC Augsburg",
+      "away": "1. FC Köln"
+    },
+    {
+      "match_id": 1575245,
+      "reason": "outside_next_7_days",
+      "league_id": 78,
+      "home": "Union Berlin",
+      "away": "Hamburger SV"
+    },
+    {
+      "match_id": 1557497,
+      "reason": "outside_next_7_days",
+      "league_id": 39,
+      "home": "Aston Villa",
+      "away": "Crystal Palace"
+    },
+    {
+      "match_id": 1557498,
+      "reason": "outside_next_7_days",
+      "league_id": 39,
+      "home": "Bournemouth",
+      "away": "Hull City"
+    },
+    {
+      "match_id": 1557502,
+      "reason": "outside_next_7_days",
+      "league_id": 39,
+      "home": "Leeds",
+      "away": "Ipswich"
+    },
+    {
+      "match_id": 1557503,
+      "reason": "outside_next_7_days",
+      "league_id": 39,
+      "home": "Manchester United",
+      "away": "Coventry"
+    },
+    {
+      "match_id": 1570480,
+      "reason": "outside_next_7_days",
+      "league_id": 140,
+      "home": "Rayo Vallecano",
+      "away": "Levante"
+    },
+    {
+      "match_id": 1552838,
+      "reason": "outside_next_7_days",
+      "league_id": 61,
+      "home": "Lille",
+      "away": "Auxerre"
+    },
+    {
+      "match_id": 1550220,
+      "reason": "outside_next_7_days",
+      "league_id": 135,
+      "home": "Frosinone",
+      "away": "Inter"
+    },
+    {
+      "match_id": 1557505,
+      "reason": "outside_next_7_days",
+      "league_id": 39,
+      "home": "Nottingham Forest",
+      "away": "Brighton"
+    },
+    {
+      "match_id": 1570482,
+      "reason": "outside_next_7_days",
+      "league_id": 140,
+      "home": "Villarreal",
+      "away": "Real Sociedad"
+    },
+    {
+      "match_id": 1575243,
+      "reason": "outside_next_7_days",
+      "league_id": 78,
+      "home": "Eintracht Frankfurt",
+      "away": "Werder Bremen"
+    },
+    {
+      "match_id": 1550225,
+      "reason": "outside_next_7_days",
+      "league_id": 135,
+      "home": "Napoli",
+      "away": "Lecce"
+    },
+    {
+      "match_id": 1552837,
+      "reason": "outside_next_7_days",
+      "league_id": 61,
+      "home": "Lens",
+      "away": "Le Havre"
+    },
+    {
+      "match_id": 1552840,
+      "reason": "outside_next_7_days",
+      "league_id": 61,
+      "home": "Monaco",
+      "away": "Angers"
+    },
+    {
+      "match_id": 1552841,
+      "reason": "outside_next_7_days",
+      "league_id": 61,
+      "home": "Paris FC",
+      "away": "Le Mans"
+    },
+    {
+      "match_id": 1552843,
+      "reason": "outside_next_7_days",
+      "league_id": 61,
+      "home": "Strasbourg",
+      "away": "Lorient"
+    },
+    {
+      "match_id": 1557499,
+      "reason": "outside_next_7_days",
+      "league_id": 39,
+      "home": "Brentford",
+      "away": "Manchester City"
+    },
+    {
+      "match_id": 1570476,
+      "reason": "outside_next_7_days",
+      "league_id": 140,
+      "home": "Barcelona",
+      "away": "Celta Vigo"
     }
   ]
 }
