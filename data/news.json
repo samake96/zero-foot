@@ -1,18 +1,40 @@
 {
-  "updated_at": "2026-11-28T10:26:45.757135+00:00",
+  "updated_at": "2026-11-28T11:23:14.072448+00:00",
   "items": [
     {
       "id": "964b17a9429f971e",
       "title": "Manchester United v Brentford buildup, Premier League news and more – matchday live",
       "url": "https://www.theguardian.com/football/live/2026/nov/28/manchester-united-v-brentford-buildup-premier-league-news-and-more-matchday-live",
       "source": "The Guardian Football",
-      "published_at": "2026-11-28T09:44:37+00:00",
+      "published_at": "2026-11-28T10:38:47+00:00",
       "category": "clubs",
       "language": "en",
       "topics": [
         "Premier League"
       ],
       "priority": 12
+    },
+    {
+      "id": "d06752ca91bfaa91",
+      "title": "Man Utd trigger Fernandes' one-year contract extension",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6d91j5geepqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-28T10:28:36+00:00",
+      "category": "transfers",
+      "language": "en",
+      "topics": [],
+      "priority": 8
+    },
+    {
+      "id": "e7a664cd3e2cb4c3",
+      "title": "How Cardiff are changing Swansea derby narrative",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6174nyvq2evo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-28T10:07:52+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
     },
     {
       "id": "8d1af9e1011a7923",
@@ -270,20 +292,6 @@
       "priority": 0
     },
     {
-      "id": "f5a6a8eea052cfe8",
-      "title": "Head coach Slegers leaves Arsenal 18 months after Champions League win",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmy49d5kpw78o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-27T16:14:34+00:00",
-      "category": "competitions",
-      "language": "en",
-      "topics": [
-        "Premier League",
-        "Ligue des champions"
-      ],
-      "priority": 12
-    },
-    {
       "id": "e95885ee7359b1d7",
       "title": "Ligue des champions CAF: une course au titre ouverte en l’absence d’Al Ahly et de Sundowns",
       "url": "https://www.rfi.fr/fr/afrique-foot/20261127-ligue-des-champions-caf-une-course-au-titre-ouverte-en-l-absence-d-al-ahly-et-de-sundowns",
@@ -295,17 +303,6 @@
         "Ligue des champions"
       ],
       "priority": 12
-    },
-    {
-      "id": "d06752ca91bfaa91",
-      "title": "Man Utd trigger Fernandes' one-year contract extension",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6d91j5geepqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-27T15:08:41+00:00",
-      "category": "transfers",
-      "language": "en",
-      "topics": [],
-      "priority": 8
     },
     {
       "id": "3fb7841e2d2e0e85",
@@ -542,15 +539,15 @@
   ],
   "source_errors": [],
   "search_trends_fr": [
+    "couëron",
+    "luka doncic",
+    "andy farrell",
+    "château",
+    "véhicule électrique",
+    "carambolage",
+    "sigean",
     "djamel belmadi",
     "hermès international",
-    "vortex polaire",
-    "afghanistan",
-    "millionnaires patriotes",
-    "rougeole",
-    "grand port maritime de bordeaux",
-    "électricité",
-    "bronson reed mort",
-    "eric jean jean"
+    "rassemblement national"
   ]
 }
