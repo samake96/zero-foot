@@ -1,8 +1,2150 @@
 {
   "source": "API-Football",
-  "updated_at": "2026-11-28T09:57:53.357066+00:00",
-  "total": 2892,
+  "updated_at": "2026-11-28T13:07:09.949441+00:00",
+  "total": 2998,
   "matches": [
+    {
+      "id": 1551495,
+      "kickoff": "2026-11-28T11:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 371,
+        "name": "First League",
+        "country": "Macedonia"
+      },
+      "home": {
+        "name": "Aresimi",
+        "logo": "https://media.api-sports.io/football/teams/19753.png",
+        "goals": 0
+      },
+      "away": {
+        "name": "Vardar Skopje",
+        "logo": "https://media.api-sports.io/football/teams/574.png",
+        "goals": 1
+      }
+    },
+    {
+      "id": 1551498,
+      "kickoff": "2026-11-28T11:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 371,
+        "name": "First League",
+        "country": "Macedonia"
+      },
+      "home": {
+        "name": "Sileks",
+        "logo": "https://media.api-sports.io/football/teams/4331.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "Struga",
+        "logo": "https://media.api-sports.io/football/teams/4346.png",
+        "goals": 0
+      }
+    },
+    {
+      "id": 1561458,
+      "kickoff": "2026-11-28T11:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 235,
+        "name": "Premier League",
+        "country": "Russia"
+      },
+      "home": {
+        "name": "Rubin",
+        "logo": "https://media.api-sports.io/football/teams/1083.png",
+        "goals": 3
+      },
+      "away": {
+        "name": "Akron",
+        "logo": "https://media.api-sports.io/football/teams/6786.png",
+        "goals": 0
+      }
+    },
+    {
+      "id": 1561744,
+      "kickoff": "2026-11-28T11:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 109,
+        "name": "II Liga - East",
+        "country": "Poland"
+      },
+      "home": {
+        "name": "Górnik Łęczna",
+        "logo": "https://media.api-sports.io/football/teams/6941.png",
+        "goals": 3
+      },
+      "away": {
+        "name": "Świt Skolwin",
+        "logo": "https://media.api-sports.io/football/teams/12902.png",
+        "goals": 1
+      }
+    },
+    {
+      "id": 1565543,
+      "kickoff": "2026-11-28T11:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 333,
+        "name": "Premier League",
+        "country": "Ukraine"
+      },
+      "home": {
+        "name": "Obolon'-Brovar",
+        "logo": "https://media.api-sports.io/football/teams/3630.png",
+        "goals": 0
+      },
+      "away": {
+        "name": "Zorya Luhansk",
+        "logo": "https://media.api-sports.io/football/teams/599.png",
+        "goals": 0
+      }
+    },
+    {
+      "id": 1568253,
+      "kickoff": "2026-11-28T11:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 783,
+        "name": "III Liga - Group 4",
+        "country": "Poland"
+      },
+      "home": {
+        "name": "Czarni Połaniec",
+        "logo": "https://media.api-sports.io/football/teams/17403.png",
+        "goals": 0
+      },
+      "away": {
+        "name": "Siarka Tarnobrzeg",
+        "logo": "https://media.api-sports.io/football/teams/6955.png",
+        "goals": 2
+      }
+    },
+    {
+      "id": 1568883,
+      "kickoff": "2026-11-28T11:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 781,
+        "name": "III Liga - Group 2",
+        "country": "Poland"
+      },
+      "home": {
+        "name": "Bałtyk Koszalin",
+        "logo": "https://media.api-sports.io/football/teams/16245.png",
+        "goals": 0
+      },
+      "away": {
+        "name": "Luzino",
+        "logo": "https://media.api-sports.io/football/teams/19693.png",
+        "goals": 1
+      }
+    },
+    {
+      "id": 1568885,
+      "kickoff": "2026-11-28T11:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 781,
+        "name": "III Liga - Group 2",
+        "country": "Poland"
+      },
+      "home": {
+        "name": "Chemik Bydgoszcz",
+        "logo": "https://media.api-sports.io/football/teams/6934.png",
+        "goals": 2
+      },
+      "away": {
+        "name": "Lech Poznań II",
+        "logo": "https://media.api-sports.io/football/teams/9133.png",
+        "goals": 3
+      }
+    },
+    {
+      "id": 1568890,
+      "kickoff": "2026-11-28T11:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 781,
+        "name": "III Liga - Group 2",
+        "country": "Poland"
+      },
+      "home": {
+        "name": "Unia Swarzędz",
+        "logo": "https://media.api-sports.io/football/teams/16257.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "Kalisz",
+        "logo": "https://media.api-sports.io/football/teams/12801.png",
+        "goals": 1
+      }
+    },
+    {
+      "id": 1569190,
+      "kickoff": "2026-11-28T11:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 780,
+        "name": "III Liga - Group 1",
+        "country": "Poland"
+      },
+      "home": {
+        "name": "Mazovia Minsk Mazowiecki",
+        "logo": "https://media.api-sports.io/football/teams/27901.png",
+        "goals": 2
+      },
+      "away": {
+        "name": "Troszyn",
+        "logo": "https://media.api-sports.io/football/teams/26177.png",
+        "goals": 1
+      }
+    },
+    {
+      "id": 1572141,
+      "kickoff": "2026-11-28T11:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 875,
+        "name": "Segunda División RFEF - Group 1",
+        "country": "Spain"
+      },
+      "home": {
+        "name": "Basconia",
+        "logo": "https://media.api-sports.io/football/teams/9656.png",
+        "goals": 2
+      },
+      "away": {
+        "name": "Sestao River",
+        "logo": "https://media.api-sports.io/football/teams/9413.png",
+        "goals": 2
+      }
+    },
+    {
+      "id": 1576540,
+      "kickoff": "2026-11-28T11:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 95,
+        "name": "Segunda Liga",
+        "country": "Portugal"
+      },
+      "home": {
+        "name": "AVS",
+        "logo": "https://media.api-sports.io/football/teams/21595.png",
+        "goals": 3
+      },
+      "away": {
+        "name": "Leixoes",
+        "logo": "https://media.api-sports.io/football/teams/244.png",
+        "goals": 3
+      }
+    },
+    {
+      "id": 1592072,
+      "kickoff": "2026-11-28T11:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 1041,
+        "name": "Júniores U19",
+        "country": "Portugal"
+      },
+      "home": {
+        "name": "Sporting Braga U19",
+        "logo": "https://media.api-sports.io/football/teams/22375.png",
+        "goals": 3
+      },
+      "away": {
+        "name": "Vizela U19",
+        "logo": "https://media.api-sports.io/football/teams/22522.png",
+        "goals": 1
+      }
+    },
+    {
+      "id": 1592074,
+      "kickoff": "2026-11-28T11:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 1041,
+        "name": "Júniores U19",
+        "country": "Portugal"
+      },
+      "home": {
+        "name": "Porto U19",
+        "logo": "https://media.api-sports.io/football/teams/7922.png",
+        "goals": 2
+      },
+      "away": {
+        "name": "Vitoria Guimaraes U19",
+        "logo": "https://media.api-sports.io/football/teams/22520.png",
+        "goals": 1
+      }
+    },
+    {
+      "id": 1592078,
+      "kickoff": "2026-11-28T11:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 1041,
+        "name": "Júniores U19",
+        "country": "Portugal"
+      },
+      "home": {
+        "name": "Sporting CP U19",
+        "logo": "https://media.api-sports.io/football/teams/7997.png",
+        "goals": 4
+      },
+      "away": {
+        "name": "Torreense U19",
+        "logo": "https://media.api-sports.io/football/teams/22519.png",
+        "goals": 0
+      }
+    },
+    {
+      "id": 1598087,
+      "kickoff": "2026-11-28T11:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 296,
+        "name": "Thai League 1",
+        "country": "Thailand"
+      },
+      "home": {
+        "name": "Pattani",
+        "logo": "https://media.api-sports.io/football/teams/6582.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "Chiangrai United",
+        "logo": "https://media.api-sports.io/football/teams/2771.png",
+        "goals": 5
+      }
+    },
+    {
+      "id": 1599409,
+      "kickoff": "2026-11-28T11:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 676,
+        "name": "Central Youth League",
+        "country": "Poland"
+      },
+      "home": {
+        "name": "Talent Warszawa U19",
+        "logo": "https://media.api-sports.io/football/teams/28017.png",
+        "goals": 2
+      },
+      "away": {
+        "name": "Polonia Warszawa U19",
+        "logo": "https://media.api-sports.io/football/teams/20593.png",
+        "goals": 1
+      }
+    },
+    {
+      "id": 1602754,
+      "kickoff": "2026-11-28T11:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 297,
+        "name": "Thai League 2",
+        "country": "Thailand"
+      },
+      "home": {
+        "name": "Chainat",
+        "logo": "https://media.api-sports.io/football/teams/2781.png",
+        "goals": 0
+      },
+      "away": {
+        "name": "Chanthaburi",
+        "logo": "https://media.api-sports.io/football/teams/6557.png",
+        "goals": 2
+      }
+    },
+    {
+      "id": 1604167,
+      "kickoff": "2026-11-28T11:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 782,
+        "name": "III Liga - Group 3",
+        "country": "Poland"
+      },
+      "home": {
+        "name": "Odra Bytom Odrzański",
+        "logo": "https://media.api-sports.io/football/teams/21455.png",
+        "goals": 3
+      },
+      "away": {
+        "name": "Rakow II",
+        "logo": "https://media.api-sports.io/football/teams/27306.png",
+        "goals": 1
+      }
+    },
+    {
+      "id": 1610668,
+      "kickoff": "2026-11-28T11:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 410,
+        "name": "C-League",
+        "country": "Cambodia"
+      },
+      "home": {
+        "name": "Boeung Ket",
+        "logo": "https://media.api-sports.io/football/teams/5387.png",
+        "goals": 3
+      },
+      "away": {
+        "name": "National Defense",
+        "logo": "https://media.api-sports.io/football/teams/5391.png",
+        "goals": 1
+      }
+    },
+    {
+      "id": 1610669,
+      "kickoff": "2026-11-28T11:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 410,
+        "name": "C-League",
+        "country": "Cambodia"
+      },
+      "home": {
+        "name": "Dangkor Senchey",
+        "logo": "https://media.api-sports.io/football/teams/21735.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "Kompong Dewa",
+        "logo": "https://media.api-sports.io/football/teams/26303.png",
+        "goals": 2
+      }
+    },
+    {
+      "id": 1622011,
+      "kickoff": "2026-11-28T11:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 696,
+        "name": "U18 Premier League - South",
+        "country": "England"
+      },
+      "home": {
+        "name": "Crystal Palace U18",
+        "logo": "https://media.api-sports.io/football/teams/15392.png",
+        "goals": 0
+      },
+      "away": {
+        "name": "Chelsea U18",
+        "logo": "https://media.api-sports.io/football/teams/15391.png",
+        "goals": 1
+      }
+    },
+    {
+      "id": 1622012,
+      "kickoff": "2026-11-28T11:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 696,
+        "name": "U18 Premier League - South",
+        "country": "England"
+      },
+      "home": {
+        "name": "Fulham U18",
+        "logo": "https://media.api-sports.io/football/teams/15393.png",
+        "goals": 3
+      },
+      "away": {
+        "name": "Reading U18",
+        "logo": "https://media.api-sports.io/football/teams/15396.png",
+        "goals": 2
+      }
+    },
+    {
+      "id": 1622013,
+      "kickoff": "2026-11-28T11:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 696,
+        "name": "U18 Premier League - South",
+        "country": "England"
+      },
+      "home": {
+        "name": "Ipswich Town U18",
+        "logo": "https://media.api-sports.io/football/teams/23179.png",
+        "goals": 4
+      },
+      "away": {
+        "name": "Norwich City U18",
+        "logo": "https://media.api-sports.io/football/teams/15395.png",
+        "goals": 3
+      }
+    },
+    {
+      "id": 1622014,
+      "kickoff": "2026-11-28T11:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 696,
+        "name": "U18 Premier League - South",
+        "country": "England"
+      },
+      "home": {
+        "name": "West Bromwich Albion U18",
+        "logo": "https://media.api-sports.io/football/teams/15399.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "Brighton U18",
+        "logo": "https://media.api-sports.io/football/teams/15390.png",
+        "goals": 8
+      }
+    },
+    {
+      "id": 1622328,
+      "kickoff": "2026-11-28T11:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 695,
+        "name": "U18 Premier League - North",
+        "country": "England"
+      },
+      "home": {
+        "name": "Leeds United U18",
+        "logo": "https://media.api-sports.io/football/teams/15379.png",
+        "goals": 3
+      },
+      "away": {
+        "name": "Manchester United U18",
+        "logo": "https://media.api-sports.io/football/teams/15382.png",
+        "goals": 1
+      }
+    },
+    {
+      "id": 1622329,
+      "kickoff": "2026-11-28T11:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 695,
+        "name": "U18 Premier League - North",
+        "country": "England"
+      },
+      "home": {
+        "name": "Liverpool U18",
+        "logo": "https://media.api-sports.io/football/teams/15380.png",
+        "goals": 2
+      },
+      "away": {
+        "name": "Everton U18",
+        "logo": "https://media.api-sports.io/football/teams/15378.png",
+        "goals": 1
+      }
+    },
+    {
+      "id": 1622330,
+      "kickoff": "2026-11-28T11:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 695,
+        "name": "U18 Premier League - North",
+        "country": "England"
+      },
+      "home": {
+        "name": "Sunderland U18",
+        "logo": "https://media.api-sports.io/football/teams/15386.png",
+        "goals": 5
+      },
+      "away": {
+        "name": "Leicester City U18",
+        "logo": "https://media.api-sports.io/football/teams/15394.png",
+        "goals": 4
+      }
+    },
+    {
+      "id": 1622332,
+      "kickoff": "2026-11-28T11:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 695,
+        "name": "U18 Premier League - North",
+        "country": "England"
+      },
+      "home": {
+        "name": "Wolves U18",
+        "logo": "https://media.api-sports.io/football/teams/15387.png",
+        "goals": 4
+      },
+      "away": {
+        "name": "Stoke City U18",
+        "logo": "https://media.api-sports.io/football/teams/15385.png",
+        "goals": 2
+      }
+    },
+    {
+      "id": 1630267,
+      "kickoff": "2026-11-28T11:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 394,
+        "name": "Super Liga",
+        "country": "Moldova"
+      },
+      "home": {
+        "name": "Milsami Orhei",
+        "logo": "https://media.api-sports.io/football/teams/691.png",
+        "goals": 4
+      },
+      "away": {
+        "name": "Sireți",
+        "logo": "https://media.api-sports.io/football/teams/5379.png",
+        "goals": 0
+      }
+    },
+    {
+      "id": 1633944,
+      "kickoff": "2026-11-28T11:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 340,
+        "name": "V.League 1",
+        "country": "Vietnam"
+      },
+      "home": {
+        "name": "Bắc Ninh",
+        "logo": "https://media.api-sports.io/football/teams/26601.png",
+        "goals": 0
+      },
+      "away": {
+        "name": "Da Nang",
+        "logo": "https://media.api-sports.io/football/teams/3669.png",
+        "goals": 0
+      }
+    },
+    {
+      "id": 1633945,
+      "kickoff": "2026-11-28T11:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 340,
+        "name": "V.League 1",
+        "country": "Vietnam"
+      },
+      "home": {
+        "name": "Ho Chi Minh",
+        "logo": "https://media.api-sports.io/football/teams/3672.png",
+        "goals": 2
+      },
+      "away": {
+        "name": "Hoang Anh Gia Lai",
+        "logo": "https://media.api-sports.io/football/teams/3673.png",
+        "goals": 4
+      }
+    },
+    {
+      "id": 1635023,
+      "kickoff": "2026-11-28T11:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 637,
+        "name": "V.League 2",
+        "country": "Vietnam"
+      },
+      "home": {
+        "name": "Than Quang Ninh",
+        "logo": "https://media.api-sports.io/football/teams/3679.png",
+        "goals": 2
+      },
+      "away": {
+        "name": "Ho Chi Minh",
+        "logo": "https://media.api-sports.io/football/teams/3672.png",
+        "goals": 1
+      }
+    },
+    {
+      "id": 1635024,
+      "kickoff": "2026-11-28T11:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 637,
+        "name": "V.League 2",
+        "country": "Vietnam"
+      },
+      "home": {
+        "name": "Binh Dinh",
+        "logo": "https://media.api-sports.io/football/teams/9160.png",
+        "goals": 0
+      },
+      "away": {
+        "name": "Sanna Khanh Hoa",
+        "logo": "https://media.api-sports.io/football/teams/3677.png",
+        "goals": 0
+      }
+    },
+    {
+      "id": 1639117,
+      "kickoff": "2026-11-28T11:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 765,
+        "name": "PFL",
+        "country": "Philippines"
+      },
+      "home": {
+        "name": "Davao Aguilas",
+        "logo": "https://media.api-sports.io/football/teams/22754.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "Manila Digger",
+        "logo": "https://media.api-sports.io/football/teams/21576.png",
+        "goals": 2
+      }
+    },
+    {
+      "id": 1641699,
+      "kickoff": "2026-11-28T11:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 666,
+        "name": "Friendlies Women",
+        "country": "World"
+      },
+      "home": {
+        "name": "Latvia W",
+        "logo": "https://media.api-sports.io/football/teams/1754.png",
+        "goals": 0
+      },
+      "away": {
+        "name": "Lithuania W",
+        "logo": "https://media.api-sports.io/football/teams/1764.png",
+        "goals": 3
+      }
+    },
+    {
+      "id": 1551156,
+      "kickoff": "2026-11-28T10:45:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 172,
+        "name": "First League",
+        "country": "Bulgaria"
+      },
+      "home": {
+        "name": "Lokomotiv Plovdiv",
+        "logo": "https://media.api-sports.io/football/teams/858.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "Spartak Varna",
+        "logo": "https://media.api-sports.io/football/teams/4660.png",
+        "goals": 0
+      }
+    },
+    {
+      "id": 1581989,
+      "kickoff": "2026-11-28T10:30:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 334,
+        "name": "Persha Liga",
+        "country": "Ukraine"
+      },
+      "home": {
+        "name": "Prykarpattia",
+        "logo": "https://media.api-sports.io/football/teams/3631.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "Kulykiv",
+        "logo": "https://media.api-sports.io/football/teams/24566.png",
+        "goals": 0
+      }
+    },
+    {
+      "id": 1585840,
+      "kickoff": "2026-11-28T10:30:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 204,
+        "name": "1. Lig",
+        "country": "Turkey"
+      },
+      "home": {
+        "name": "Bandırmaspor",
+        "logo": "https://media.api-sports.io/football/teams/3584.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "Batman Petrolspor",
+        "logo": "https://media.api-sports.io/football/teams/7395.png",
+        "goals": 4
+      }
+    },
+    {
+      "id": 1585846,
+      "kickoff": "2026-11-28T10:30:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 204,
+        "name": "1. Lig",
+        "country": "Turkey"
+      },
+      "home": {
+        "name": "Sivasspor",
+        "logo": "https://media.api-sports.io/football/teams/1002.png",
+        "goals": 0
+      },
+      "away": {
+        "name": "Bodrum FK",
+        "logo": "https://media.api-sports.io/football/teams/3583.png",
+        "goals": 4
+      }
+    },
+    {
+      "id": 1623680,
+      "kickoff": "2026-11-28T10:30:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 706,
+        "name": "Campionato Primavera - 2",
+        "country": "Italy"
+      },
+      "home": {
+        "name": "Cosenza U19",
+        "logo": "https://media.api-sports.io/football/teams/15661.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "Ascoli U19",
+        "logo": "https://media.api-sports.io/football/teams/15654.png",
+        "goals": 1
+      }
+    },
+    {
+      "id": 1623683,
+      "kickoff": "2026-11-28T10:30:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 706,
+        "name": "Campionato Primavera - 2",
+        "country": "Italy"
+      },
+      "home": {
+        "name": "Lecco U19",
+        "logo": "https://media.api-sports.io/football/teams/26372.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "Udinese U19",
+        "logo": "https://media.api-sports.io/football/teams/15684.png",
+        "goals": 3
+      }
+    },
+    {
+      "id": 1623686,
+      "kickoff": "2026-11-28T10:30:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 706,
+        "name": "Campionato Primavera - 2",
+        "country": "Italy"
+      },
+      "home": {
+        "name": "Pisa U19",
+        "logo": "https://media.api-sports.io/football/teams/15674.png",
+        "goals": 6
+      },
+      "away": {
+        "name": "Pescara U19",
+        "logo": "https://media.api-sports.io/football/teams/15673.png",
+        "goals": 1
+      }
+    },
+    {
+      "id": 1649630,
+      "kickoff": "2026-11-28T10:30:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 329,
+        "name": "Meistriliiga",
+        "country": "Estonia"
+      },
+      "home": {
+        "name": "Kuressaare",
+        "logo": "https://media.api-sports.io/football/teams/3526.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "Viimsi",
+        "logo": "https://media.api-sports.io/football/teams/14340.png",
+        "goals": 0
+      }
+    },
+    {
+      "id": 1649808,
+      "kickoff": "2026-11-28T10:30:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 328,
+        "name": "Esiliiga A",
+        "country": "Estonia"
+      },
+      "home": {
+        "name": "FC Tallinn",
+        "logo": "https://media.api-sports.io/football/teams/14287.png",
+        "goals": 5
+      },
+      "away": {
+        "name": "Tulevik",
+        "logo": "https://media.api-sports.io/football/teams/3531.png",
+        "goals": 0
+      }
+    },
+    {
+      "id": 1526039,
+      "kickoff": "2026-11-28T10:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 116,
+        "name": "Premier League",
+        "country": "Belarus"
+      },
+      "home": {
+        "name": "Bate Borisov",
+        "logo": "https://media.api-sports.io/football/teams/388.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "FC Isloch Minsk R.",
+        "logo": "https://media.api-sports.io/football/teams/391.png",
+        "goals": 1
+      }
+    },
+    {
+      "id": 1526040,
+      "kickoff": "2026-11-28T10:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 116,
+        "name": "Premier League",
+        "country": "Belarus"
+      },
+      "home": {
+        "name": "Belshina",
+        "logo": "https://media.api-sports.io/football/teams/3384.png",
+        "goals": 0
+      },
+      "away": {
+        "name": "ML Vitebsk",
+        "logo": "https://media.api-sports.io/football/teams/7808.png",
+        "goals": 2
+      }
+    },
+    {
+      "id": 1526041,
+      "kickoff": "2026-11-28T10:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 116,
+        "name": "Premier League",
+        "country": "Belarus"
+      },
+      "home": {
+        "name": "FC Minsk",
+        "logo": "https://media.api-sports.io/football/teams/380.png",
+        "goals": 0
+      },
+      "away": {
+        "name": "FC Dnepr Mogilev",
+        "logo": "https://media.api-sports.io/football/teams/384.png",
+        "goals": 2
+      }
+    },
+    {
+      "id": 1526042,
+      "kickoff": "2026-11-28T10:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 116,
+        "name": "Premier League",
+        "country": "Belarus"
+      },
+      "home": {
+        "name": "Naftan",
+        "logo": "https://media.api-sports.io/football/teams/750.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "Dinamo Minsk",
+        "logo": "https://media.api-sports.io/football/teams/394.png",
+        "goals": 2
+      }
+    },
+    {
+      "id": 1526045,
+      "kickoff": "2026-11-28T10:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 116,
+        "name": "Premier League",
+        "country": "Belarus"
+      },
+      "home": {
+        "name": "FC Vitebsk",
+        "logo": "https://media.api-sports.io/football/teams/382.png",
+        "goals": 4
+      },
+      "away": {
+        "name": "Arsenal",
+        "logo": "https://media.api-sports.io/football/teams/9419.png",
+        "goals": 1
+      }
+    },
+    {
+      "id": 1569444,
+      "kickoff": "2026-11-28T10:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 705,
+        "name": "Campionato Primavera - 1",
+        "country": "Italy"
+      },
+      "home": {
+        "name": "Milan U20",
+        "logo": "https://media.api-sports.io/football/teams/24737.png",
+        "goals": 0
+      },
+      "away": {
+        "name": "Lecce U20",
+        "logo": "https://media.api-sports.io/football/teams/24736.png",
+        "goals": 1
+      }
+    },
+    {
+      "id": 1569448,
+      "kickoff": "2026-11-28T10:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 705,
+        "name": "Campionato Primavera - 1",
+        "country": "Italy"
+      },
+      "home": {
+        "name": "Cagliari U20",
+        "logo": "https://media.api-sports.io/football/teams/24727.png",
+        "goals": 2
+      },
+      "away": {
+        "name": "Torino U20",
+        "logo": "https://media.api-sports.io/football/teams/24742.png",
+        "goals": 2
+      }
+    },
+    {
+      "id": 1590486,
+      "kickoff": "2026-11-28T10:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 552,
+        "name": "3. Lig - Group 1",
+        "country": "Turkey"
+      },
+      "home": {
+        "name": "Amasyaspor 1968",
+        "logo": "https://media.api-sports.io/football/teams/19299.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "Küçükçekmece Sinopspor",
+        "logo": "https://media.api-sports.io/football/teams/21994.png",
+        "goals": 0
+      }
+    },
+    {
+      "id": 1590492,
+      "kickoff": "2026-11-28T10:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 552,
+        "name": "3. Lig - Group 1",
+        "country": "Turkey"
+      },
+      "home": {
+        "name": "Orduspor 1967",
+        "logo": "https://media.api-sports.io/football/teams/17261.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "İnkılapspor",
+        "logo": "https://media.api-sports.io/football/teams/26467.png",
+        "goals": 0
+      }
+    },
+    {
+      "id": 1590793,
+      "kickoff": "2026-11-28T10:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 553,
+        "name": "3. Lig - Group 2",
+        "country": "Turkey"
+      },
+      "home": {
+        "name": "Alanya 1221 FK",
+        "logo": "https://media.api-sports.io/football/teams/15361.png",
+        "goals": 2
+      },
+      "away": {
+        "name": "Nilüfer Belediye",
+        "logo": "https://media.api-sports.io/football/teams/24602.png",
+        "goals": 1
+      }
+    },
+    {
+      "id": 1591098,
+      "kickoff": "2026-11-28T10:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 554,
+        "name": "3. Lig - Group 3",
+        "country": "Turkey"
+      },
+      "home": {
+        "name": "Adanaspor",
+        "logo": "https://media.api-sports.io/football/teams/3564.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "Bitlis Özgüzelderespor",
+        "logo": "https://media.api-sports.io/football/teams/6513.png",
+        "goals": 6
+      }
+    },
+    {
+      "id": 1591101,
+      "kickoff": "2026-11-28T10:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 554,
+        "name": "3. Lig - Group 3",
+        "country": "Turkey"
+      },
+      "home": {
+        "name": "Kırıkkale Büyük Anadolu",
+        "logo": "https://media.api-sports.io/football/teams/6531.png",
+        "goals": 2
+      },
+      "away": {
+        "name": "Karaman FK",
+        "logo": "https://media.api-sports.io/football/teams/6526.png",
+        "goals": 1
+      }
+    },
+    {
+      "id": 1591410,
+      "kickoff": "2026-11-28T10:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 205,
+        "name": "2. Lig",
+        "country": "Turkey"
+      },
+      "home": {
+        "name": "Hatayspor",
+        "logo": "https://media.api-sports.io/football/teams/3575.png",
+        "goals": 0
+      },
+      "away": {
+        "name": "Ankaraspor",
+        "logo": "https://media.api-sports.io/football/teams/780.png",
+        "goals": 4
+      }
+    },
+    {
+      "id": 1591411,
+      "kickoff": "2026-11-28T10:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 205,
+        "name": "2. Lig",
+        "country": "Turkey"
+      },
+      "home": {
+        "name": "Isparta 32 Spor",
+        "logo": "https://media.api-sports.io/football/teams/6523.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "İnegöl Kafkas Gençlik",
+        "logo": "https://media.api-sports.io/football/teams/21996.png",
+        "goals": 1
+      }
+    },
+    {
+      "id": 1591412,
+      "kickoff": "2026-11-28T10:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 205,
+        "name": "2. Lig",
+        "country": "Turkey"
+      },
+      "home": {
+        "name": "Şanlıurfaspor",
+        "logo": "https://media.api-sports.io/football/teams/3613.png",
+        "goals": 3
+      },
+      "away": {
+        "name": "Somaspor",
+        "logo": "https://media.api-sports.io/football/teams/6538.png",
+        "goals": 2
+      }
+    },
+    {
+      "id": 1591701,
+      "kickoff": "2026-11-28T10:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 205,
+        "name": "2. Lig",
+        "country": "Turkey"
+      },
+      "home": {
+        "name": "İnegölspor",
+        "logo": "https://media.api-sports.io/football/teams/3612.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "24 Erzincanspor",
+        "logo": "https://media.api-sports.io/football/teams/7392.png",
+        "goals": 3
+      }
+    },
+    {
+      "id": 1591702,
+      "kickoff": "2026-11-28T10:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 205,
+        "name": "2. Lig",
+        "country": "Turkey"
+      },
+      "home": {
+        "name": "Karacabey Belediyespor",
+        "logo": "https://media.api-sports.io/football/teams/7407.png",
+        "goals": 2
+      },
+      "away": {
+        "name": "Sakaryaspor",
+        "logo": "https://media.api-sports.io/football/teams/3602.png",
+        "goals": 2
+      }
+    },
+    {
+      "id": 1591703,
+      "kickoff": "2026-11-28T10:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 205,
+        "name": "2. Lig",
+        "country": "Turkey"
+      },
+      "home": {
+        "name": "Serik Spor",
+        "logo": "https://media.api-sports.io/football/teams/7421.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "Yeni Orduspor",
+        "logo": "https://media.api-sports.io/football/teams/7426.png",
+        "goals": 3
+      }
+    },
+    {
+      "id": 1595844,
+      "kickoff": "2026-11-28T10:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 488,
+        "name": "U19 Bundesliga",
+        "country": "Germany"
+      },
+      "home": {
+        "name": "Freiburg U19",
+        "logo": "https://media.api-sports.io/football/teams/10255.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "Heidenheim U19",
+        "logo": "https://media.api-sports.io/football/teams/10259.png",
+        "goals": 1
+      }
+    },
+    {
+      "id": 1595848,
+      "kickoff": "2026-11-28T10:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 488,
+        "name": "U19 Bundesliga",
+        "country": "Germany"
+      },
+      "home": {
+        "name": "Hertha BSC U19",
+        "logo": "https://media.api-sports.io/football/teams/7954.png",
+        "goals": 4
+      },
+      "away": {
+        "name": "Babelsberg U19",
+        "logo": "https://media.api-sports.io/football/teams/19357.png",
+        "goals": 1
+      }
+    },
+    {
+      "id": 1599296,
+      "kickoff": "2026-11-28T10:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 676,
+        "name": "Central Youth League",
+        "country": "Poland"
+      },
+      "home": {
+        "name": "Górnik Zabrze U19",
+        "logo": "https://media.api-sports.io/football/teams/16391.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "Arkonia U19",
+        "logo": "https://media.api-sports.io/football/teams/26374.png",
+        "goals": 0
+      }
+    },
+    {
+      "id": 1602571,
+      "kickoff": "2026-11-28T10:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 284,
+        "name": "Liga II",
+        "country": "Romania"
+      },
+      "home": {
+        "name": "FC Politehnica Timisoara",
+        "logo": "https://media.api-sports.io/football/teams/2606.png",
+        "goals": 2
+      },
+      "away": {
+        "name": "Bihor Oradea",
+        "logo": "https://media.api-sports.io/football/teams/20033.png",
+        "goals": 0
+      }
+    },
+    {
+      "id": 1620434,
+      "kickoff": "2026-11-28T10:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 580,
+        "name": "Gamma Ethniki - Group 5",
+        "country": "Greece"
+      },
+      "home": {
+        "name": "Diagoras Agias",
+        "logo": "https://media.api-sports.io/football/teams/28160.png",
+        "goals": 0
+      },
+      "away": {
+        "name": "Lamia",
+        "logo": "https://media.api-sports.io/football/teams/956.png",
+        "goals": 2
+      }
+    },
+    {
+      "id": 1623682,
+      "kickoff": "2026-11-28T10:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 706,
+        "name": "Campionato Primavera - 2",
+        "country": "Italy"
+      },
+      "home": {
+        "name": "Virtus Entella U19",
+        "logo": "https://media.api-sports.io/football/teams/15688.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "Venezia U19",
+        "logo": "https://media.api-sports.io/football/teams/15685.png",
+        "goals": 1
+      }
+    },
+    {
+      "id": 1623685,
+      "kickoff": "2026-11-28T10:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 706,
+        "name": "Campionato Primavera - 2",
+        "country": "Italy"
+      },
+      "home": {
+        "name": "Palermo U19",
+        "logo": "https://media.api-sports.io/football/teams/22404.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "Latina U19",
+        "logo": "https://media.api-sports.io/football/teams/27997.png",
+        "goals": 0
+      }
+    },
+    {
+      "id": 1623690,
+      "kickoff": "2026-11-28T10:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 706,
+        "name": "Campionato Primavera - 2",
+        "country": "Italy"
+      },
+      "home": {
+        "name": "Spezia U19",
+        "logo": "https://media.api-sports.io/football/teams/15682.png",
+        "goals": 3
+      },
+      "away": {
+        "name": "Bari U19",
+        "logo": "https://media.api-sports.io/football/teams/22403.png",
+        "goals": 4
+      }
+    },
+    {
+      "id": 1629496,
+      "kickoff": "2026-11-28T10:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 1240,
+        "name": "U19 league",
+        "country": "Turkey"
+      },
+      "home": {
+        "name": "Gaziantep U19",
+        "logo": "https://media.api-sports.io/football/teams/28246.png",
+        "goals": 0
+      },
+      "away": {
+        "name": "Amedspor U19",
+        "logo": "https://media.api-sports.io/football/teams/28241.png",
+        "goals": 0
+      }
+    },
+    {
+      "id": 1629499,
+      "kickoff": "2026-11-28T10:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 1240,
+        "name": "U19 league",
+        "country": "Turkey"
+      },
+      "home": {
+        "name": "Samsunspor U19",
+        "logo": "https://media.api-sports.io/football/teams/28253.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "Genclerbirligi U19",
+        "logo": "https://media.api-sports.io/football/teams/28247.png",
+        "goals": 2
+      }
+    },
+    {
+      "id": 1635022,
+      "kickoff": "2026-11-28T10:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 637,
+        "name": "V.League 2",
+        "country": "Vietnam"
+      },
+      "home": {
+        "name": "Dong Thap",
+        "logo": "https://media.api-sports.io/football/teams/9164.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "Binh Duong",
+        "logo": "https://media.api-sports.io/football/teams/3668.png",
+        "goals": 1
+      }
+    },
+    {
+      "id": 1507503,
+      "kickoff": "2026-11-28T09:30:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 1104,
+        "name": "Liga 3",
+        "country": "Georgia"
+      },
+      "home": {
+        "name": "Kolkheti Khobi",
+        "logo": "https://media.api-sports.io/football/teams/13853.png",
+        "goals": 2
+      },
+      "away": {
+        "name": "FC Iberia 1999 II",
+        "logo": "https://media.api-sports.io/football/teams/14863.png",
+        "goals": 6
+      }
+    },
+    {
+      "id": 1599301,
+      "kickoff": "2026-11-28T09:30:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 676,
+        "name": "Central Youth League",
+        "country": "Poland"
+      },
+      "home": {
+        "name": "Stal Rzeszów U19",
+        "logo": "https://media.api-sports.io/football/teams/24519.png",
+        "goals": 3
+      },
+      "away": {
+        "name": "Escola Varsovia U19",
+        "logo": "https://media.api-sports.io/football/teams/20589.png",
+        "goals": 6
+      }
+    },
+    {
+      "id": 1562690,
+      "kickoff": "2026-11-28T09:15:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 348,
+        "name": "3. liga - CFL A",
+        "country": "Czech-Republic"
+      },
+      "home": {
+        "name": "Slavia III",
+        "logo": "https://media.api-sports.io/football/teams/26232.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "Sparta Praha II",
+        "logo": "https://media.api-sports.io/football/teams/8619.png",
+        "goals": 2
+      }
+    },
+    {
+      "id": 1581992,
+      "kickoff": "2026-11-28T09:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 334,
+        "name": "Persha Liga",
+        "country": "Ukraine"
+      },
+      "home": {
+        "name": "Viktoriya Mykolaivka",
+        "logo": "https://media.api-sports.io/football/teams/13223.png",
+        "goals": 0
+      },
+      "away": {
+        "name": "Lokomotiv Kyiv",
+        "logo": "https://media.api-sports.io/football/teams/21954.png",
+        "goals": 0
+      }
+    },
+    {
+      "id": 1593093,
+      "kickoff": "2026-11-28T09:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 336,
+        "name": "Druha Liga",
+        "country": "Ukraine"
+      },
+      "home": {
+        "name": "Rebel",
+        "logo": "https://media.api-sports.io/football/teams/26190.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "Trostianets",
+        "logo": "https://media.api-sports.io/football/teams/17167.png",
+        "goals": 2
+      }
+    },
+    {
+      "id": 1601160,
+      "kickoff": "2026-11-28T09:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 278,
+        "name": "Super League",
+        "country": "Malaysia"
+      },
+      "home": {
+        "name": "Sabah FA",
+        "logo": "https://media.api-sports.io/football/teams/2505.png",
+        "goals": 2
+      },
+      "away": {
+        "name": "Selangor",
+        "logo": "https://media.api-sports.io/football/teams/2526.png",
+        "goals": 4
+      }
+    },
+    {
+      "id": 1602563,
+      "kickoff": "2026-11-28T09:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 284,
+        "name": "Liga II",
+        "country": "Romania"
+      },
+      "home": {
+        "name": "CS Afumati",
+        "logo": "https://media.api-sports.io/football/teams/2608.png",
+        "goals": 2
+      },
+      "away": {
+        "name": "CSM Reşiţa",
+        "logo": "https://media.api-sports.io/football/teams/6229.png",
+        "goals": 2
+      }
+    },
+    {
+      "id": 1602565,
+      "kickoff": "2026-11-28T09:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 284,
+        "name": "Liga II",
+        "country": "Romania"
+      },
+      "home": {
+        "name": "Concordia",
+        "logo": "https://media.api-sports.io/football/teams/2580.png",
+        "goals": 4
+      },
+      "away": {
+        "name": "Ştefăneşti",
+        "logo": "https://media.api-sports.io/football/teams/21686.png",
+        "goals": 0
+      }
+    },
+    {
+      "id": 1602566,
+      "kickoff": "2026-11-28T09:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 284,
+        "name": "Liga II",
+        "country": "Romania"
+      },
+      "home": {
+        "name": "CS Dinamo București",
+        "logo": "https://media.api-sports.io/football/teams/19170.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "Dumbrăviţa",
+        "logo": "https://media.api-sports.io/football/teams/7469.png",
+        "goals": 1
+      }
+    },
+    {
+      "id": 1602570,
+      "kickoff": "2026-11-28T09:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 284,
+        "name": "Liga II",
+        "country": "Romania"
+      },
+      "home": {
+        "name": "Metalul Buzău",
+        "logo": "https://media.api-sports.io/football/teams/6875.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "FC Bacau",
+        "logo": "https://media.api-sports.io/football/teams/22000.png",
+        "goals": 4
+      }
+    },
+    {
+      "id": 1602572,
+      "kickoff": "2026-11-28T09:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 284,
+        "name": "Liga II",
+        "country": "Romania"
+      },
+      "home": {
+        "name": "Viitorul Şelimbăr",
+        "logo": "https://media.api-sports.io/football/teams/6927.png",
+        "goals": 0
+      },
+      "away": {
+        "name": "CSA Steaua Bucureşti",
+        "logo": "https://media.api-sports.io/football/teams/7466.png",
+        "goals": 4
+      }
+    },
+    {
+      "id": 1602573,
+      "kickoff": "2026-11-28T09:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 284,
+        "name": "Liga II",
+        "country": "Romania"
+      },
+      "home": {
+        "name": "Unirea Slobozia",
+        "logo": "https://media.api-sports.io/football/teams/6916.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "Popești-Leordeni",
+        "logo": "https://media.api-sports.io/football/teams/6891.png",
+        "goals": 2
+      }
+    },
+    {
+      "id": 1610575,
+      "kickoff": "2026-11-28T09:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 284,
+        "name": "Liga II",
+        "country": "Romania"
+      },
+      "home": {
+        "name": "ASA Targu Mures",
+        "logo": "https://media.api-sports.io/football/teams/2590.png",
+        "goals": 2
+      },
+      "away": {
+        "name": "CSM Satu Mare",
+        "logo": "https://media.api-sports.io/football/teams/16279.png",
+        "goals": 0
+      }
+    },
+    {
+      "id": 1634867,
+      "kickoff": "2026-11-28T09:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 588,
+        "name": "National League",
+        "country": "Myanmar"
+      },
+      "home": {
+        "name": "Ayeyawady United",
+        "logo": "https://media.api-sports.io/football/teams/12523.png",
+        "goals": 0
+      },
+      "away": {
+        "name": "Yangon Royals",
+        "logo": "https://media.api-sports.io/football/teams/28338.png",
+        "goals": 5
+      }
+    },
+    {
+      "id": 1649631,
+      "kickoff": "2026-11-28T09:00:00+00:00",
+      "status": "PEN",
+      "elapsed": 120,
+      "league": {
+        "id": 1075,
+        "name": "Pro League A",
+        "country": "Uzbekistan"
+      },
+      "home": {
+        "name": "Metalourg",
+        "logo": "https://media.api-sports.io/football/teams/4214.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "FarDu",
+        "logo": "https://media.api-sports.io/football/teams/25763.png",
+        "goals": 1
+      }
+    },
+    {
+      "id": 1601159,
+      "kickoff": "2026-11-28T08:45:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 278,
+        "name": "Super League",
+        "country": "Malaysia"
+      },
+      "home": {
+        "name": "Negeri Sembilan",
+        "logo": "https://media.api-sports.io/football/teams/2502.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "Terengganu",
+        "logo": "https://media.api-sports.io/football/teams/2518.png",
+        "goals": 2
+      }
+    },
+    {
+      "id": 1593710,
+      "kickoff": "2026-11-28T08:40:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 188,
+        "name": "A-League",
+        "country": "Australia"
+      },
+      "home": {
+        "name": "Central Coast Mariners",
+        "logo": "https://media.api-sports.io/football/teams/941.png",
+        "goals": 2
+      },
+      "away": {
+        "name": "Auckland",
+        "logo": "https://media.api-sports.io/football/teams/24608.png",
+        "goals": 3
+      }
+    },
+    {
+      "id": 1638588,
+      "kickoff": "2026-11-28T08:35:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 666,
+        "name": "Friendlies Women",
+        "country": "World"
+      },
+      "home": {
+        "name": "Australia W",
+        "logo": "https://media.api-sports.io/football/teams/1722.png",
+        "goals": 3
+      },
+      "away": {
+        "name": "Colombia W",
+        "logo": "https://media.api-sports.io/football/teams/1737.png",
+        "goals": 1
+      }
+    },
+    {
+      "id": 1622844,
+      "kickoff": "2026-11-28T08:30:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 274,
+        "name": "Liga 1",
+        "country": "Indonesia"
+      },
+      "home": {
+        "name": "Isenmulang Kalteng",
+        "logo": "https://media.api-sports.io/football/teams/24993.png",
+        "goals": 4
+      },
+      "away": {
+        "name": "PSS Sleman",
+        "logo": "https://media.api-sports.io/football/teams/3882.png",
+        "goals": 2
+      }
+    },
+    {
+      "id": 1622846,
+      "kickoff": "2026-11-28T08:30:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 274,
+        "name": "Liga 1",
+        "country": "Indonesia"
+      },
+      "home": {
+        "name": "Bali United",
+        "logo": "https://media.api-sports.io/football/teams/2448.png",
+        "goals": 4
+      },
+      "away": {
+        "name": "Bhayangkara FC",
+        "logo": "https://media.api-sports.io/football/teams/2443.png",
+        "goals": 0
+      }
+    },
+    {
+      "id": 1622847,
+      "kickoff": "2026-11-28T08:30:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 274,
+        "name": "Liga 1",
+        "country": "Indonesia"
+      },
+      "home": {
+        "name": "PSIM Yogyakarta",
+        "logo": "https://media.api-sports.io/football/teams/4235.png",
+        "goals": 2
+      },
+      "away": {
+        "name": "Persijap",
+        "logo": "https://media.api-sports.io/football/teams/11132.png",
+        "goals": 1
+      }
+    },
+    {
+      "id": 1622848,
+      "kickoff": "2026-11-28T08:30:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 274,
+        "name": "Liga 1",
+        "country": "Indonesia"
+      },
+      "home": {
+        "name": "PSM Makassar",
+        "logo": "https://media.api-sports.io/football/teams/2441.png",
+        "goals": 0
+      },
+      "away": {
+        "name": "Dewa United",
+        "logo": "https://media.api-sports.io/football/teams/17902.png",
+        "goals": 3
+      }
+    },
+    {
+      "id": 1634866,
+      "kickoff": "2026-11-28T08:30:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 588,
+        "name": "National League",
+        "country": "Myanmar"
+      },
+      "home": {
+        "name": "Shan United",
+        "logo": "https://media.api-sports.io/football/teams/8015.png",
+        "goals": 4
+      },
+      "away": {
+        "name": "Sagaing United",
+        "logo": "https://media.api-sports.io/football/teams/12528.png",
+        "goals": 0
+      }
+    },
+    {
+      "id": 1637722,
+      "kickoff": "2026-11-28T08:30:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 275,
+        "name": "Liga 2",
+        "country": "Indonesia"
+      },
+      "home": {
+        "name": "Barito Putera",
+        "logo": "https://media.api-sports.io/football/teams/2453.png",
+        "goals": 2
+      },
+      "away": {
+        "name": "Dejan",
+        "logo": "https://media.api-sports.io/football/teams/24994.png",
+        "goals": 0
+      }
+    },
+    {
+      "id": 1637725,
+      "kickoff": "2026-11-28T08:30:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 275,
+        "name": "Liga 2",
+        "country": "Indonesia"
+      },
+      "home": {
+        "name": "Persela Lamongan",
+        "logo": "https://media.api-sports.io/football/teams/2450.png",
+        "goals": 3
+      },
+      "away": {
+        "name": "RANS Nusantara",
+        "logo": "https://media.api-sports.io/football/teams/4229.png",
+        "goals": 1
+      }
+    },
+    {
+      "id": 1640129,
+      "kickoff": "2026-11-28T08:30:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 398,
+        "name": "Premier League",
+        "country": "Bangladesh"
+      },
+      "home": {
+        "name": "Chattogram",
+        "logo": "https://media.api-sports.io/football/teams/28428.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "Brothers Union",
+        "logo": "https://media.api-sports.io/football/teams/5013.png",
+        "goals": 3
+      }
+    },
+    {
+      "id": 1640130,
+      "kickoff": "2026-11-28T08:30:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 398,
+        "name": "Premier League",
+        "country": "Bangladesh"
+      },
+      "home": {
+        "name": "City Club",
+        "logo": "https://media.api-sports.io/football/teams/28429.png",
+        "goals": 3
+      },
+      "away": {
+        "name": "PWD Sports Club",
+        "logo": "https://media.api-sports.io/football/teams/26882.png",
+        "goals": 2
+      }
+    },
+    {
+      "id": 1651251,
+      "kickoff": "2026-11-28T08:30:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 1202,
+        "name": "Australian Championship",
+        "country": "Australia"
+      },
+      "home": {
+        "name": "Bayswater City",
+        "logo": "https://media.api-sports.io/football/teams/3814.png",
+        "goals": 0
+      },
+      "away": {
+        "name": "Sydney United",
+        "logo": "https://media.api-sports.io/football/teams/3776.png",
+        "goals": 3
+      }
+    },
     {
       "id": 1639116,
       "kickoff": "2026-11-28T08:00:00+00:00",
@@ -64,6 +2206,90 @@
         "name": "Viengchanh",
         "logo": "https://media.api-sports.io/football/teams/14096.png",
         "goals": 2
+      }
+    },
+    {
+      "id": 1640889,
+      "kickoff": "2026-11-28T08:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 734,
+        "name": "Diski Challenge",
+        "country": "South-Africa"
+      },
+      "home": {
+        "name": "AmaZulu U23",
+        "logo": "https://media.api-sports.io/football/teams/15985.png",
+        "goals": 2
+      },
+      "away": {
+        "name": "Sekhukhune United U23",
+        "logo": "https://media.api-sports.io/football/teams/17719.png",
+        "goals": 1
+      }
+    },
+    {
+      "id": 1641033,
+      "kickoff": "2026-11-28T08:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 734,
+        "name": "Diski Challenge",
+        "country": "South-Africa"
+      },
+      "home": {
+        "name": "Golden Arrows U23",
+        "logo": "https://media.api-sports.io/football/teams/15991.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "Kruger United U23",
+        "logo": "https://media.api-sports.io/football/teams/28443.png",
+        "goals": 3
+      }
+    },
+    {
+      "id": 1641943,
+      "kickoff": "2026-11-28T08:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 647,
+        "name": "Lao League",
+        "country": "Laos"
+      },
+      "home": {
+        "name": "Ezra",
+        "logo": "https://media.api-sports.io/football/teams/14094.png",
+        "goals": 2
+      },
+      "away": {
+        "name": "Namtha United",
+        "logo": "https://media.api-sports.io/football/teams/21016.png",
+        "goals": 0
+      }
+    },
+    {
+      "id": 1641945,
+      "kickoff": "2026-11-28T08:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 647,
+        "name": "Lao League",
+        "country": "Laos"
+      },
+      "home": {
+        "name": "Savannakhet",
+        "logo": "https://media.api-sports.io/football/teams/26368.png",
+        "goals": 3
+      },
+      "away": {
+        "name": "Oudomxay Entremets",
+        "logo": "https://media.api-sports.io/football/teams/28451.png",
+        "goals": 1
       }
     },
     {
