@@ -1,8 +1,218 @@
 {
   "source": "API-Football",
-  "updated_at": "2026-11-28T07:22:55.602990+00:00",
-  "total": 2881,
+  "updated_at": "2026-11-28T09:57:53.357066+00:00",
+  "total": 2892,
   "matches": [
+    {
+      "id": 1639116,
+      "kickoff": "2026-11-28T08:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 765,
+        "name": "PFL",
+        "country": "Philippines"
+      },
+      "home": {
+        "name": "Maharlika",
+        "logo": "https://media.api-sports.io/football/teams/16191.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "Kaya",
+        "logo": "https://media.api-sports.io/football/teams/8030.png",
+        "goals": 6
+      }
+    },
+    {
+      "id": 1640891,
+      "kickoff": "2026-11-28T08:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 734,
+        "name": "Diski Challenge",
+        "country": "South-Africa"
+      },
+      "home": {
+        "name": "Kaizer Chiefs U23",
+        "logo": "https://media.api-sports.io/football/teams/15992.png",
+        "goals": 4
+      },
+      "away": {
+        "name": "TS Galaxy U23",
+        "logo": "https://media.api-sports.io/football/teams/15999.png",
+        "goals": 2
+      }
+    },
+    {
+      "id": 1641944,
+      "kickoff": "2026-11-28T08:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 647,
+        "name": "Lao League",
+        "country": "Laos"
+      },
+      "home": {
+        "name": "Luangprabang FC",
+        "logo": "https://media.api-sports.io/football/teams/21015.png",
+        "goals": 0
+      },
+      "away": {
+        "name": "Viengchanh",
+        "logo": "https://media.api-sports.io/football/teams/14096.png",
+        "goals": 2
+      }
+    },
+    {
+      "id": 1647400,
+      "kickoff": "2026-11-28T07:30:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 292,
+        "name": "K League 1",
+        "country": "South-Korea"
+      },
+      "home": {
+        "name": "Bucheon FC 1995",
+        "logo": "https://media.api-sports.io/football/teams/2745.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "Gimcheon Sangmu FC",
+        "logo": "https://media.api-sports.io/football/teams/2768.png",
+        "goals": 2
+      }
+    },
+    {
+      "id": 1647401,
+      "kickoff": "2026-11-28T07:30:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 292,
+        "name": "K League 1",
+        "country": "South-Korea"
+      },
+      "home": {
+        "name": "Pohang Steelers",
+        "logo": "https://media.api-sports.io/football/teams/2764.png",
+        "goals": 2
+      },
+      "away": {
+        "name": "Gwangju FC",
+        "logo": "https://media.api-sports.io/football/teams/2759.png",
+        "goals": 4
+      }
+    },
+    {
+      "id": 1556162,
+      "kickoff": "2026-11-28T07:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 98,
+        "name": "J1 League",
+        "country": "Japan"
+      },
+      "home": {
+        "name": "Kashiwa Reysol",
+        "logo": "https://media.api-sports.io/football/teams/281.png",
+        "goals": 3
+      },
+      "away": {
+        "name": "Sanfrecce Hiroshima",
+        "logo": "https://media.api-sports.io/football/teams/282.png",
+        "goals": 1
+      }
+    },
+    {
+      "id": 1607346,
+      "kickoff": "2026-11-28T07:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 380,
+        "name": "Premier League",
+        "country": "Hong-Kong"
+      },
+      "home": {
+        "name": "North District",
+        "logo": "https://media.api-sports.io/football/teams/6401.png",
+        "goals": 2
+      },
+      "away": {
+        "name": "Southern District",
+        "logo": "https://media.api-sports.io/football/teams/4456.png",
+        "goals": 1
+      }
+    },
+    {
+      "id": 1650864,
+      "kickoff": "2026-11-28T07:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 666,
+        "name": "Friendlies Women",
+        "country": "World"
+      },
+      "home": {
+        "name": "Malawi W",
+        "logo": "https://media.api-sports.io/football/teams/22550.png",
+        "goals": 4
+      },
+      "away": {
+        "name": "Albania W",
+        "logo": "https://media.api-sports.io/football/teams/1751.png",
+        "goals": 3
+      }
+    },
+    {
+      "id": 1556161,
+      "kickoff": "2026-11-28T06:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 98,
+        "name": "J1 League",
+        "country": "Japan"
+      },
+      "home": {
+        "name": "Kashima",
+        "logo": "https://media.api-sports.io/football/teams/290.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "Fagiano Okayama",
+        "logo": "https://media.api-sports.io/football/teams/310.png",
+        "goals": 1
+      }
+    },
+    {
+      "id": 1556169,
+      "kickoff": "2026-11-28T06:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 98,
+        "name": "J1 League",
+        "country": "Japan"
+      },
+      "home": {
+        "name": "Vissel Kobe",
+        "logo": "https://media.api-sports.io/football/teams/289.png",
+        "goals": 3
+      },
+      "away": {
+        "name": "JEF United Chiba",
+        "logo": "https://media.api-sports.io/football/teams/301.png",
+        "goals": 1
+      }
+    },
     {
       "id": 1510509,
       "kickoff": "2026-11-28T05:00:00+00:00",
@@ -463,6 +673,27 @@
         "name": "Gimnasia Y Tiro",
         "logo": "https://media.api-sports.io/football/teams/1928.png",
         "goals": 1
+      }
+    },
+    {
+      "id": 1645550,
+      "kickoff": "2026-11-28T00:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 344,
+        "name": "Primera División",
+        "country": "Bolivia"
+      },
+      "home": {
+        "name": "ABB",
+        "logo": "https://media.api-sports.io/football/teams/17743.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "Real Tomayapo",
+        "logo": "https://media.api-sports.io/football/teams/15708.png",
+        "goals": 0
       }
     },
     {
