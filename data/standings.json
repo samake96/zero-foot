@@ -1,12 +1,12 @@
 {
   "source": "football-data.org",
-  "updated_at": "2026-11-27T19:16:29.642449+00:00",
+  "updated_at": "2026-11-28T07:34:07.998174+00:00",
   "leagues": [
     {
       "id": 39,
       "name": "Premier League",
       "season": 2026,
-      "updated_at": "2026-11-27T19:16:29.642449+00:00",
+      "updated_at": "2026-11-28T07:34:07.998174+00:00",
       "teams": [
         {
           "rank": 1,
@@ -110,13 +110,13 @@
           "rank": 8,
           "name": "Chelsea FC",
           "logo": "https://crests.football-data.org/61.png",
-          "played": 11,
+          "played": 12,
           "win": 5,
           "draw": 1,
-          "lose": 5,
-          "goals_for": 20,
-          "goals_against": 20,
-          "goal_diff": 0,
+          "lose": 6,
+          "goals_for": 22,
+          "goals_against": 23,
+          "goal_diff": -1,
           "points": 16,
           "form": null
         },
@@ -192,6 +192,20 @@
         },
         {
           "rank": 14,
+          "name": "Nottingham Forest FC",
+          "logo": "https://crests.football-data.org/351.png",
+          "played": 12,
+          "win": 3,
+          "draw": 3,
+          "lose": 6,
+          "goals_for": 12,
+          "goals_against": 17,
+          "goal_diff": -5,
+          "points": 12,
+          "form": null
+        },
+        {
+          "rank": 15,
           "name": "Coventry City FC",
           "logo": "https://crests.football-data.org/1076.png",
           "played": 11,
@@ -205,7 +219,7 @@
           "form": null
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "Fulham FC",
           "logo": "https://crests.football-data.org/63.png",
           "played": 11,
@@ -219,7 +233,7 @@
           "form": null
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Ipswich Town FC",
           "logo": "https://crests.football-data.org/349.png",
           "played": 11,
@@ -230,20 +244,6 @@
           "goals_against": 22,
           "goal_diff": -7,
           "points": 11,
-          "form": null
-        },
-        {
-          "rank": 17,
-          "name": "Nottingham Forest FC",
-          "logo": "https://crests.football-data.org/351.png",
-          "played": 11,
-          "win": 2,
-          "draw": 3,
-          "lose": 6,
-          "goals_for": 9,
-          "goals_against": 15,
-          "goal_diff": -6,
-          "points": 9,
           "form": null
         },
         {
@@ -294,7 +294,7 @@
       "id": 140,
       "name": "La Liga",
       "season": 2026,
-      "updated_at": "2026-11-27T19:16:29.642449+00:00",
+      "updated_at": "2026-11-28T07:34:07.998174+00:00",
       "teams": [
         {
           "rank": 1,
@@ -368,6 +368,20 @@
         },
         {
           "rank": 6,
+          "name": "Real Racing Club de Santander",
+          "logo": "https://crests.football-data.org/5335.png",
+          "played": 14,
+          "win": 6,
+          "draw": 2,
+          "lose": 6,
+          "goals_for": 23,
+          "goals_against": 33,
+          "goal_diff": -10,
+          "points": 20,
+          "form": null
+        },
+        {
+          "rank": 7,
           "name": "Sevilla FC",
           "logo": "https://crests.football-data.org/559.png",
           "played": 13,
@@ -378,20 +392,6 @@
           "goals_against": 20,
           "goal_diff": -2,
           "points": 19,
-          "form": null
-        },
-        {
-          "rank": 7,
-          "name": "Real Racing Club de Santander",
-          "logo": "https://crests.football-data.org/5335.png",
-          "played": 13,
-          "win": 5,
-          "draw": 2,
-          "lose": 6,
-          "goals_for": 20,
-          "goals_against": 32,
-          "goal_diff": -12,
-          "points": 17,
           "form": null
         },
         {
@@ -496,13 +496,13 @@
           "rank": 15,
           "name": "Levante UD",
           "logo": "https://crests.football-data.org/88.png",
-          "played": 13,
+          "played": 14,
           "win": 2,
           "draw": 6,
-          "lose": 5,
-          "goals_for": 17,
-          "goals_against": 22,
-          "goal_diff": -5,
+          "lose": 6,
+          "goals_for": 18,
+          "goals_against": 25,
+          "goal_diff": -7,
           "points": 12,
           "form": null
         },
@@ -582,7 +582,7 @@
       "id": 78,
       "name": "Bundesliga",
       "season": 2026,
-      "updated_at": "2026-11-27T19:16:29.642449+00:00",
+      "updated_at": "2026-11-28T07:34:07.998174+00:00",
       "teams": [
         {
           "rank": 1,
@@ -658,14 +658,14 @@
           "rank": 6,
           "name": "SV Werder Bremen",
           "logo": "https://crests.football-data.org/12.png",
-          "played": 10,
+          "played": 11,
           "win": 5,
-          "draw": 3,
+          "draw": 4,
           "lose": 2,
-          "goals_for": 21,
-          "goals_against": 15,
+          "goals_for": 24,
+          "goals_against": 18,
           "goal_diff": 6,
-          "points": 18,
+          "points": 19,
           "form": null
         },
         {
@@ -826,14 +826,14 @@
           "rank": 18,
           "name": "Borussia Mönchengladbach",
           "logo": "https://crests.football-data.org/18.png",
-          "played": 10,
+          "played": 11,
           "win": 1,
-          "draw": 1,
+          "draw": 2,
           "lose": 8,
-          "goals_for": 12,
-          "goals_against": 26,
+          "goals_for": 15,
+          "goals_against": 29,
           "goal_diff": -14,
-          "points": 4,
+          "points": 5,
           "form": null
         }
       ]
@@ -842,7 +842,7 @@
       "id": 135,
       "name": "Serie A",
       "season": 2026,
-      "updated_at": "2026-11-27T19:16:29.642449+00:00",
+      "updated_at": "2026-11-28T07:34:07.998174+00:00",
       "teams": [
         {
           "rank": 1,
@@ -944,6 +944,20 @@
         },
         {
           "rank": 8,
+          "name": "Bologna FC 1909",
+          "logo": "https://crests.football-data.org/103.png",
+          "played": 13,
+          "win": 5,
+          "draw": 4,
+          "lose": 4,
+          "goals_for": 17,
+          "goals_against": 15,
+          "goal_diff": 2,
+          "points": 19,
+          "form": null
+        },
+        {
+          "rank": 9,
           "name": "SSC Napoli",
           "logo": "https://crests.football-data.org/113.png",
           "played": 12,
@@ -953,20 +967,6 @@
           "goals_for": 19,
           "goals_against": 14,
           "goal_diff": 5,
-          "points": 18,
-          "form": null
-        },
-        {
-          "rank": 9,
-          "name": "Bologna FC 1909",
-          "logo": "https://crests.football-data.org/103.png",
-          "played": 12,
-          "win": 5,
-          "draw": 3,
-          "lose": 4,
-          "goals_for": 17,
-          "goals_against": 15,
-          "goal_diff": 2,
           "points": 18,
           "form": null
         },
@@ -1098,6 +1098,20 @@
         },
         {
           "rank": 19,
+          "name": "Venezia FC",
+          "logo": "https://crests.football-data.org/454.png",
+          "played": 13,
+          "win": 2,
+          "draw": 1,
+          "lose": 10,
+          "goals_for": 8,
+          "goals_against": 25,
+          "goal_diff": -17,
+          "points": 7,
+          "form": null
+        },
+        {
+          "rank": 20,
           "name": "Udinese Calcio",
           "logo": "https://crests.football-data.org/115.png",
           "played": 12,
@@ -1109,20 +1123,6 @@
           "goal_diff": -13,
           "points": 6,
           "form": null
-        },
-        {
-          "rank": 20,
-          "name": "Venezia FC",
-          "logo": "https://crests.football-data.org/454.png",
-          "played": 12,
-          "win": 2,
-          "draw": 0,
-          "lose": 10,
-          "goals_for": 8,
-          "goals_against": 25,
-          "goal_diff": -17,
-          "points": 6,
-          "form": null
         }
       ]
     },
@@ -1130,7 +1130,7 @@
       "id": 61,
       "name": "Ligue 1",
       "season": 2026,
-      "updated_at": "2026-11-27T19:16:29.642449+00:00",
+      "updated_at": "2026-11-28T07:34:07.998174+00:00",
       "teams": [
         {
           "rank": 1,
@@ -1150,18 +1150,32 @@
           "rank": 2,
           "name": "Paris FC",
           "logo": "https://crests.football-data.org/1045.png",
-          "played": 11,
+          "played": 12,
           "win": 7,
           "draw": 2,
-          "lose": 2,
+          "lose": 3,
           "goals_for": 21,
-          "goals_against": 10,
-          "goal_diff": 11,
+          "goals_against": 11,
+          "goal_diff": 10,
           "points": 23,
           "form": null
         },
         {
           "rank": 3,
+          "name": "Stade Brestois 29",
+          "logo": "https://crests.football-data.org/512.png",
+          "played": 12,
+          "win": 6,
+          "draw": 3,
+          "lose": 3,
+          "goals_for": 20,
+          "goals_against": 12,
+          "goal_diff": 8,
+          "points": 21,
+          "form": null
+        },
+        {
+          "rank": 4,
           "name": "Lille OSC",
           "logo": "https://crests.football-data.org/521.png",
           "played": 11,
@@ -1175,7 +1189,7 @@
           "form": null
         },
         {
-          "rank": 4,
+          "rank": 5,
           "name": "Olympique Lyonnais",
           "logo": "https://crests.football-data.org/523.png",
           "played": 11,
@@ -1189,7 +1203,7 @@
           "form": null
         },
         {
-          "rank": 5,
+          "rank": 6,
           "name": "Olympique de Marseille",
           "logo": "https://crests.football-data.org/516.png",
           "played": 11,
@@ -1198,20 +1212,6 @@
           "lose": 5,
           "goals_for": 24,
           "goals_against": 17,
-          "goal_diff": 7,
-          "points": 18,
-          "form": null
-        },
-        {
-          "rank": 6,
-          "name": "Stade Brestois 29",
-          "logo": "https://crests.football-data.org/512.png",
-          "played": 11,
-          "win": 5,
-          "draw": 3,
-          "lose": 3,
-          "goals_for": 19,
-          "goals_against": 12,
           "goal_diff": 7,
           "points": 18,
           "form": null
