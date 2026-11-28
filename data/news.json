@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-11-28T08:24:29.728398+00:00",
+  "updated_at": "2026-11-28T09:23:43.011096+00:00",
   "items": [
+    {
+      "id": "964b17a9429f971e",
+      "title": "Manchester United v Brentford buildup, Premier League news and more – matchday live",
+      "url": "https://www.theguardian.com/football/live/2026/nov/28/manchester-united-v-brentford-buildup-premier-league-news-and-more-matchday-live",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-28T09:04:08+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [
+        "Premier League"
+      ],
+      "priority": 12
+    },
     {
       "id": "8d1af9e1011a7923",
       "title": "Ranking the Premier League's ultimate free-kick specialists",
@@ -220,6 +233,19 @@
       "priority": 12
     },
     {
+      "id": "f00075ce628a5051",
+      "title": "Ligue 1 : Haise, première victime de la sempiternelle crise rennaise",
+      "url": "https://www.rfi.fr/fr/sports/20261127-ligue-1-haise-premi%C3%A8re-victime-de-la-sempiternelle-crise-rennaise",
+      "source": "RFI Sports",
+      "published_at": "2026-11-27T20:07:38+00:00",
+      "category": "clubs",
+      "language": "fr",
+      "topics": [
+        "Ligue 1"
+      ],
+      "priority": 12
+    },
+    {
       "id": "215ece3b97f58918",
       "title": "Why have things started to go wrong for Manchester City under Enzo Maresca?",
       "url": "https://www.theguardian.com/football/2026/nov/27/why-things-started-go-wrong-manchester-city-under-enzo-maresca",
@@ -269,19 +295,6 @@
         "Ligue des champions"
       ],
       "priority": 12
-    },
-    {
-      "id": "987ed2d82489227d",
-      "title": "Manchester United extend Fernandes contract until 2028 to stop free transfer",
-      "url": "https://www.theguardian.com/football/2026/nov/27/manchester-united-bruno-fernandes-contract-2028-activate-option-mauricio-pochettino",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-27T15:29:41+00:00",
-      "category": "transfers",
-      "language": "en",
-      "topics": [
-        "Premier League"
-      ],
-      "priority": 20
     },
     {
       "id": "d06752ca91bfaa91",
@@ -492,20 +505,6 @@
       "priority": 0
     },
     {
-      "id": "3ab857961868442b",
-      "title": "Ligue des champions: le PSG veut poursuivre son parcours sans faute, Lens et Lille aux abois",
-      "url": "https://www.rfi.fr/fr/sports/20261123-ligue-des-champions-le-psg-veut-poursuivre-son-parcours-sans-faute-lens-et-lille-aux-abois",
-      "source": "RFI Sports",
-      "published_at": "2026-11-23T16:07:42+00:00",
-      "category": "competitions",
-      "language": "fr",
-      "topics": [
-        "Ligue 1",
-        "Ligue des champions"
-      ],
-      "priority": 12
-    },
-    {
       "id": "c3d037a8f557bf57",
       "title": "Logo, villes hôtes et nouveau sponsor, les avancées de la CAN 2027",
       "url": "https://www.rfi.fr/fr/afrique-foot/20261123-logo-villes-h%C3%B4tes-et-nouveau-sponsor-les-avanc%C3%A9es-de-la-can-2027",
@@ -543,15 +542,15 @@
   ],
   "source_errors": [],
   "search_trends_fr": [
-    "tgs",
-    "résultat coupe de france",
-    "finances publiques",
-    "mathilde panot",
-    "panne free yvelines",
-    "meteo brest",
-    "pengo bossio wangi",
-    "forces aérospatiales russes",
-    "nespresso black friday",
-    "deux-sèvres"
+    "eric jean jean",
+    "ridley scott",
+    "eugénie bastié",
+    "lalla salma",
+    "jerome guedj",
+    "landerneau",
+    "lamour est dans le pré",
+    "notation dette française",
+    "blocus maritime",
+    "psg lorient"
   ]
 }
