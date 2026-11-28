@@ -1,18 +1,29 @@
 {
-  "updated_at": "2026-11-28T18:49:27.073026+00:00",
+  "updated_at": "2026-11-28T19:38:58.699591+00:00",
   "items": [
     {
       "id": "ac5c17476a4e96e9",
       "title": "Ipswich Town v Aston Villa: Premier League – live",
       "url": "https://www.theguardian.com/football/live/2026/nov/28/ipswich-town-v-aston-villa-premier-league-live",
       "source": "The Guardian Football",
-      "published_at": "2026-11-28T18:34:32+00:00",
+      "published_at": "2026-11-28T19:22:27+00:00",
       "category": "clubs",
       "language": "en",
       "topics": [
         "Premier League"
       ],
       "priority": 12
+    },
+    {
+      "id": "3cb182ff06139520",
+      "title": "From jeers to European dreams - how Farke transformed Leeds",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c60rk07wp22vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-28T18:51:44+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
     },
     {
       "id": "2d4a844954847425",
@@ -216,17 +227,6 @@
       "priority": 12
     },
     {
-      "id": "d06752ca91bfaa91",
-      "title": "Man Utd trigger Fernandes' one-year contract extension",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6d91j5geepqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-28T10:28:36+00:00",
-      "category": "transfers",
-      "language": "en",
-      "topics": [],
-      "priority": 8
-    },
-    {
       "id": "8d1af9e1011a7923",
       "title": "Ranking the Premier League's ultimate free-kick specialists",
       "url": "https://www.bbc.co.uk/sport/football/articles/cjzx97dz149qo?at_medium=RSS&at_campaign=rss",
@@ -308,19 +308,6 @@
       "language": "en",
       "topics": [
         "Premier League"
-      ],
-      "priority": 12
-    },
-    {
-      "id": "022c8c2be9b14ccb",
-      "title": "Champions League to be a factor in Paz move - Saturday's gossip",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqvg23jg6x78o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-27T21:19:27+00:00",
-      "category": "competitions",
-      "language": "en",
-      "topics": [
-        "Ligue des champions"
       ],
       "priority": 12
     },
@@ -428,6 +415,17 @@
       "published_at": "2026-11-27T09:02:48+00:00",
       "category": "clubs",
       "language": "fr",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "d2c8cb2ae0b7d76c",
+      "title": "Sutton's predictions v Kings of Leon drummer Nathan Followill",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3n0l29lrr27o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-26T15:01:48+00:00",
+      "category": "clubs",
+      "language": "en",
       "topics": [],
       "priority": 0
     },
@@ -563,15 +561,15 @@
   ],
   "source_errors": [],
   "search_trends_fr": [
-    "macao",
-    "lannion laval",
-    "léa salamé",
-    "fabio quartararo",
-    "atletico madrid",
-    "francetv",
-    "nimes olympique",
-    "mhsc",
-    "warren buffett",
-    "pont-saint-esprit"
+    "françois hollande",
+    "classement torino football club – lazio",
+    "super g copper mountain",
+    "le mans lille",
+    "los angeles",
+    "real madrid – deportivo alavés",
+    "lyon – toulouse",
+    "fabien roussel",
+    "résultats coupe de france",
+    "le havre – strasbourg"
   ]
 }
