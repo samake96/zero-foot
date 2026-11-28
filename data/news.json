@@ -1,6 +1,39 @@
 {
-  "updated_at": "2026-11-28T05:58:24.674732+00:00",
+  "updated_at": "2026-11-28T07:10:44.721833+00:00",
   "items": [
+    {
+      "id": "a043b6ffd9be0abb",
+      "title": "Who am I? Plus today's other quizzes",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c35y1kgn2l90o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-28T07:04:56+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "a9de4be01a503cd3",
+      "title": "'It doesn't come from me' - Eckert irked by Southampton's jibes at Boro",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq8e0xrk2gwno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-28T06:54:09+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "785e901d97700dd3",
+      "title": "How a football team rebuilt after 19 players died in plane crash",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck0ev91zlwgpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-28T06:30:34+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
     {
       "id": "c807c57654cb731f",
       "title": "USWNT seal Women’s World Cup qualification with 8-0 win over El Salvador",
@@ -201,17 +234,6 @@
       "priority": 12
     },
     {
-      "id": "b44305824e13985b",
-      "title": "Spurs' Savio to miss festive fixtures after injury setback",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cw4gnm4p3zxlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-27T16:05:30+00:00",
-      "category": "injuries",
-      "language": "en",
-      "topics": [],
-      "priority": 8
-    },
-    {
       "id": "e95885ee7359b1d7",
       "title": "Ligue des champions CAF: une course au titre ouverte en l’absence d’Al Ahly et de Sundowns",
       "url": "https://www.rfi.fr/fr/afrique-foot/20261127-ligue-des-champions-caf-une-course-au-titre-ouverte-en-l-absence-d-al-ahly-et-de-sundowns",
@@ -286,17 +308,6 @@
         "Premier League"
       ],
       "priority": 12
-    },
-    {
-      "id": "52ed93f1f8bada70",
-      "title": "Falkirk chase seven in a row at Rangers & Celtic visit Hearts",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6x2wx4e90jeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-27T14:37:51+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
     },
     {
       "id": "a68afff53135570f",
@@ -374,17 +385,6 @@
       "published_at": "2026-11-27T09:02:48+00:00",
       "category": "clubs",
       "language": "fr",
-      "topics": [],
-      "priority": 0
-    },
-    {
-      "id": "6d6bf77191cf6a99",
-      "title": "Man City owners should be forced to sell, say clubs",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwp809d7yp4go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-27T06:38:14+00:00",
-      "category": "clubs",
-      "language": "en",
       "topics": [],
       "priority": 0
     },
@@ -545,15 +545,15 @@
   ],
   "source_errors": [],
   "search_trends_fr": [
-    "kalash interpellation",
-    "la depeche du midi",
-    "coupe de france",
-    "agriculteur",
-    "hôpital",
-    "catherine, princesse de galles",
-    "jazz – nuggets",
-    "loire",
-    "actualites",
-    "suns – mavericks"
+    "rockstar games gta vi pc",
+    "médecins sans frontières",
+    "inondation",
+    "inflation",
+    "saintelyon",
+    "mort",
+    "quelle époque! quelle époque !",
+    "remboursement",
+    "thierry cotillard",
+    "ferrari"
   ]
 }
