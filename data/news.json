@@ -1,18 +1,41 @@
 {
-  "updated_at": "2026-11-28T15:21:16.035994+00:00",
+  "updated_at": "2026-11-28T16:11:58.449766+00:00",
   "items": [
     {
       "id": "e153a62092516add",
       "title": "Manchester United v Brentford, Leeds v Coventry and more: Saturday football clockwatch – live",
       "url": "https://www.theguardian.com/football/live/2026/nov/28/manchester-united-v-brentford-leeds-v-coventry-and-more-saturday-football-clockwatch-live",
       "source": "The Guardian Football",
-      "published_at": "2026-11-28T15:04:53+00:00",
+      "published_at": "2026-11-28T16:04:59+00:00",
       "category": "clubs",
       "language": "en",
       "topics": [
         "Premier League"
       ],
-      "priority": 12
+      "search_trend_fr": "manchester united",
+      "priority": 36
+    },
+    {
+      "id": "0aec984e1495518e",
+      "title": "Ashley Cole holds talks with Bristol Rovers for first management job in England",
+      "url": "https://www.theguardian.com/football/2026/nov/28/ashley-cole-bristol-rovers-manager-steve-evans-league-two",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-28T15:29:35+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "9d33a1ef146ba951",
+      "title": "Championship roundup: Norwich’s Clement sent off in bad-tempered Preston draw",
+      "url": "https://www.theguardian.com/football/2026/nov/28/championship-roundup-norwichs-clement-sent-off-in-bad-tempered-preston-draw",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-28T15:02:37+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
     },
     {
       "id": "27b8fad11eb72ff8",
@@ -172,17 +195,6 @@
       "priority": 0
     },
     {
-      "id": "c4589c97ba9b5266",
-      "title": "Columbus Crew eliminate Messi and Inter Miami from MLS playoffs with stoppage-time strike",
-      "url": "https://www.theguardian.com/football/2026/nov/27/inter-miami-columbus-crew-mls-playoffs-lionel-messi",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-28T03:53:14+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
       "id": "38b516cfc351b52c",
       "title": "Wilshere v Ramsey - Arsenal legends treading similar managerial paths",
       "url": "https://www.bbc.co.uk/sport/football/articles/cm1dvn9w1px4o?at_medium=RSS&at_campaign=rss",
@@ -272,17 +284,6 @@
       "priority": 12
     },
     {
-      "id": "5911d19b76fb4613",
-      "title": "Spygate tensions erupt at Southampton after Finn Azaz’s cry-baby celebration riles Boro",
-      "url": "https://www.theguardian.com/football/2026/nov/27/southampton-middlesbrough-championship-match-report-spygate-finn-azaz",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-27T22:11:28+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
       "id": "ca2bbadca247825a",
       "title": "Gibbs-White and Igor Jesus fire Nottingham Forest past shaky Chelsea",
       "url": "https://www.theguardian.com/football/2026/nov/27/nottingham-forest-chelsea-premier-league-match-report",
@@ -332,7 +333,8 @@
       "topics": [
         "Premier League"
       ],
-      "priority": 12
+      "search_trend_fr": "enzo maresca",
+      "priority": 36
     },
     {
       "id": "d879a91da4992bc9",
@@ -558,15 +560,15 @@
   ],
   "source_errors": [],
   "search_trends_fr": [
-    "xbox",
-    "dune, troisième partie",
-    "racing 92 – pau",
-    "bayonne – castres",
-    "ukraine russie guerre",
-    "julia simon",
-    "duchesse",
-    "la rochelle – perpignan",
-    "stade français – vannes",
-    "noah codjo-evora"
+    "sondages élections espagne",
+    "club africain",
+    "manchester united",
+    "man united",
+    "jamel debbouze",
+    "équipe du maroc de football",
+    "enzo maresca",
+    "gaziantep – amed sk",
+    "manchester united - brentford",
+    "chiara mastroianni"
   ]
 }
