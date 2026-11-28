@@ -1,18 +1,55 @@
 {
-  "updated_at": "2026-11-28T12:23:07.860086+00:00",
+  "updated_at": "2026-11-28T13:39:09.292462+00:00",
   "items": [
     {
-      "id": "964b17a9429f971e",
-      "title": "Manchester United v Brentford buildup, Premier League news and more – matchday live",
-      "url": "https://www.theguardian.com/football/live/2026/nov/28/manchester-united-v-brentford-buildup-premier-league-news-and-more-matchday-live",
+      "id": "e153a62092516add",
+      "title": "Manchester United v Brentford, Leeds v Coventry and more: Saturday football clockwatch – live",
+      "url": "https://www.theguardian.com/football/live/2026/nov/28/manchester-united-v-brentford-leeds-v-coventry-and-more-saturday-football-clockwatch-live",
       "source": "The Guardian Football",
-      "published_at": "2026-11-28T12:11:36+00:00",
+      "published_at": "2026-11-28T13:31:53+00:00",
       "category": "clubs",
       "language": "en",
       "topics": [
         "Premier League"
       ],
       "priority": 12
+    },
+    {
+      "id": "424c66daa9a87227",
+      "title": "Work in progress but Liverpool find belief again with Iraola",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmn4k7vdqx4vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-28T12:36:26+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [
+        "Premier League"
+      ],
+      "priority": 12
+    },
+    {
+      "id": "17e32b6c1a59c469",
+      "title": "Ligue 1 : Brest bat le Paris FC et grimpe sur le podium",
+      "url": "https://www.france24.com/fr/%C3%A9missions/sports/20261128-ligue-1-brest-bat-le-paris-fc-et-grimpe-sur-le-podium",
+      "source": "France 24",
+      "published_at": "2026-11-28T12:30:24+00:00",
+      "category": "clubs",
+      "language": "fr",
+      "topics": [
+        "Ligue 1"
+      ],
+      "priority": 12
+    },
+    {
+      "id": "e1eed35fa67c5cb2",
+      "title": "Jørgen Strand Larsen: ‘Dad and I have been best mates since I was a kid – that’s not going to change’",
+      "url": "https://www.theguardian.com/football/2026/nov/28/jorgen-strand-larsen-cancer-crystal-place-father-norway",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-28T12:15:28+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
     },
     {
       "id": "98965d654c38ac01",
@@ -305,20 +342,6 @@
       "priority": 0
     },
     {
-      "id": "f5a6a8eea052cfe8",
-      "title": "Head coach Slegers leaves Arsenal 18 months after Champions League win",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmy49d5kpw78o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-27T16:14:34+00:00",
-      "category": "competitions",
-      "language": "en",
-      "topics": [
-        "Premier League",
-        "Ligue des champions"
-      ],
-      "priority": 12
-    },
-    {
       "id": "e95885ee7359b1d7",
       "title": "Ligue des champions CAF: une course au titre ouverte en l’absence d’Al Ahly et de Sundowns",
       "url": "https://www.rfi.fr/fr/afrique-foot/20261127-ligue-des-champions-caf-une-course-au-titre-ouverte-en-l-absence-d-al-ahly-et-de-sundowns",
@@ -350,17 +373,6 @@
       "published_at": "2026-11-27T12:47:51+00:00",
       "category": "clubs",
       "language": "fr",
-      "topics": [],
-      "priority": 0
-    },
-    {
-      "id": "a2b9baba789af351",
-      "title": "Ross County have 102 goals and British football’s best start but is it a fairytale?",
-      "url": "https://www.theguardian.com/football/2026/nov/27/ross-county-british-football-best-start-102-goals",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-27T12:00:10+00:00",
-      "category": "clubs",
-      "language": "en",
       "topics": [],
       "priority": 0
     },
@@ -542,15 +554,15 @@
   ],
   "source_errors": [],
   "search_trends_fr": [
-    "ilona smet",
-    "saint-lô",
-    "piscine marcel spilliaert",
-    "al hazm – al-nassr fc",
-    "voie ferrée",
-    "flers",
-    "siegfried mazet",
-    "assurance",
-    "dro fernandez",
-    "angleterre nouvelle zélande"
+    "abonnement",
+    "frosinone – parme",
+    "doubs",
+    "sorgues",
+    "daniel pedrosa",
+    "bordeaux-bègles – montpellier",
+    "a432",
+    "a85",
+    "khvicha kvaratskhelia",
+    "betis – rayo"
   ]
 }
