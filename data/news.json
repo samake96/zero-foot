@@ -1,16 +1,40 @@
 {
-  "updated_at": "2026-11-28T13:39:09.292462+00:00",
+  "updated_at": "2026-11-28T14:30:08.661678+00:00",
   "items": [
     {
       "id": "e153a62092516add",
       "title": "Manchester United v Brentford, Leeds v Coventry and more: Saturday football clockwatch – live",
       "url": "https://www.theguardian.com/football/live/2026/nov/28/manchester-united-v-brentford-leeds-v-coventry-and-more-saturday-football-clockwatch-live",
       "source": "The Guardian Football",
-      "published_at": "2026-11-28T13:31:53+00:00",
+      "published_at": "2026-11-28T14:14:28+00:00",
       "category": "clubs",
       "language": "en",
       "topics": [
         "Premier League"
+      ],
+      "priority": 12
+    },
+    {
+      "id": "27b8fad11eb72ff8",
+      "title": "Swansea close in on Alexandersson as next boss",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwj0579d8jvpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-28T13:56:02+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "bd7d1661a205cc08",
+      "title": "England call up Wubben-Moy for World Cup play-off",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwe9krv444mjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-28T13:41:04+00:00",
+      "category": "competitions",
+      "language": "en",
+      "topics": [
+        "Sélections"
       ],
       "priority": 12
     },
@@ -65,41 +89,6 @@
       "priority": 12
     },
     {
-      "id": "d06752ca91bfaa91",
-      "title": "Man Utd trigger Fernandes' one-year contract extension",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6d91j5geepqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-28T10:28:36+00:00",
-      "category": "transfers",
-      "language": "en",
-      "topics": [],
-      "priority": 8
-    },
-    {
-      "id": "e7a664cd3e2cb4c3",
-      "title": "How Cardiff are changing Swansea derby narrative",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6174nyvq2evo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-28T10:07:52+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
-      "id": "8d1af9e1011a7923",
-      "title": "Ranking the Premier League's ultimate free-kick specialists",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cjzx97dz149qo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-28T08:14:24+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [
-        "Premier League"
-      ],
-      "priority": 12
-    },
-    {
       "id": "f993640e178b057a",
       "title": "Basque to the future: Andoni Iraola fired up for first Merseyside derby",
       "url": "https://www.theguardian.com/football/2026/nov/28/andoni-iraola-first-merseyside-derby-liverpool-everton-premier-league",
@@ -124,15 +113,17 @@
       "priority": 12
     },
     {
-      "id": "8e6652adb683ec31",
-      "title": "How dad's embarrassment was making of Gross at Brighton",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm3egnw0y0d0o?at_medium=RSS&at_campaign=rss",
+      "id": "9ff047f46b7d1008",
+      "title": "I watched every Brighton game at Dortmund - Gross",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cw5y1e747375o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
-      "published_at": "2026-11-28T07:25:04+00:00",
+      "published_at": "2026-11-28T07:29:50+00:00",
       "category": "clubs",
       "language": "en",
-      "topics": [],
-      "priority": 0
+      "topics": [
+        "Bundesliga"
+      ],
+      "priority": 12
     },
     {
       "id": "a043b6ffd9be0abb",
@@ -192,6 +183,19 @@
       "priority": 12
     },
     {
+      "id": "976ede1d5338c46d",
+      "title": "Glasner praises 'smart' Igor Jesus after Chelsea win",
+      "url": "https://www.bbc.co.uk/sport/football/videos/ck7v2lpe2rpgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-27T22:47:57+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [
+        "Premier League"
+      ],
+      "priority": 12
+    },
+    {
       "id": "d87592b099d76ec6",
       "title": "Chelsea must stick together in 'difficult moment' - Alonso",
       "url": "https://www.bbc.co.uk/sport/football/videos/cq3dgpj5xn0do?at_medium=RSS&at_campaign=rss",
@@ -203,6 +207,17 @@
         "Premier League"
       ],
       "priority": 12
+    },
+    {
+      "id": "207e76ae31823d99",
+      "title": "Bremen fight back to earn draw in six-goal thriller",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm0qjlq19qw3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-27T22:37:16+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
     },
     {
       "id": "ca61bb0e18b24ffd",
@@ -288,19 +303,6 @@
       "language": "en",
       "topics": [
         "Premier League"
-      ],
-      "priority": 12
-    },
-    {
-      "id": "022c8c2be9b14ccb",
-      "title": "Champions League to be a factor in Paz move - Saturday's gossip",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqvg23jg6x78o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-27T21:19:27+00:00",
-      "category": "competitions",
-      "language": "en",
-      "topics": [
-        "Ligue des champions"
       ],
       "priority": 12
     },
@@ -554,15 +556,15 @@
   ],
   "source_errors": [],
   "search_trends_fr": [
-    "abonnement",
-    "frosinone – parme",
-    "doubs",
-    "sorgues",
-    "daniel pedrosa",
-    "bordeaux-bègles – montpellier",
-    "a432",
-    "a85",
-    "khvicha kvaratskhelia",
-    "betis – rayo"
+    "hamburg vs bayern",
+    "al-ettifaq – al-hilal",
+    "championnat d'arabie saoudite",
+    "man utd – brentford",
+    "hong kong",
+    "cannes",
+    "mainz 05 – union berlin",
+    "fbi",
+    "retraite en france",
+    "braquage"
   ]
 }
