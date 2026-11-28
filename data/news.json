@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-11-28T18:00:40.379360+00:00",
+  "updated_at": "2026-11-28T18:49:27.073026+00:00",
   "items": [
+    {
+      "id": "ac5c17476a4e96e9",
+      "title": "Ipswich Town v Aston Villa: Premier League – live",
+      "url": "https://www.theguardian.com/football/live/2026/nov/28/ipswich-town-v-aston-villa-premier-league-live",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-28T18:34:32+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [
+        "Premier League"
+      ],
+      "priority": 12
+    },
     {
       "id": "2d4a844954847425",
       "title": "4-0 win over Man Utd a 'surreal' feeling - Andrews",
@@ -11,19 +24,6 @@
       "language": "en",
       "topics": [],
       "priority": 0
-    },
-    {
-      "id": "ac5c17476a4e96e9",
-      "title": "Ipswich Town v Aston Villa: Premier League – live",
-      "url": "https://www.theguardian.com/football/live/2026/nov/28/ipswich-town-v-aston-villa-premier-league-live",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-28T17:49:34+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [
-        "Premier League"
-      ],
-      "priority": 12
     },
     {
       "id": "14e42e13adc46fb6",
@@ -563,15 +563,15 @@
   ],
   "source_errors": [],
   "search_trends_fr": [
-    "david lisnard",
-    "sanglier",
-    "omar sy",
-    "elche vs atlético",
-    "novo",
-    "abdallah sima",
-    "nathalie arthaud",
-    "al-ahli saudi – al taawon",
-    "emilien jacquelin",
-    "sabotage"
+    "macao",
+    "lannion laval",
+    "léa salamé",
+    "fabio quartararo",
+    "atletico madrid",
+    "francetv",
+    "nimes olympique",
+    "mhsc",
+    "warren buffett",
+    "pont-saint-esprit"
   ]
 }
