@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-28T14:30:08.661678+00:00",
+  "updated_at": "2026-11-28T15:21:16.035994+00:00",
   "items": [
     {
       "id": "e153a62092516add",
       "title": "Manchester United v Brentford, Leeds v Coventry and more: Saturday football clockwatch – live",
       "url": "https://www.theguardian.com/football/live/2026/nov/28/manchester-united-v-brentford-leeds-v-coventry-and-more-saturday-football-clockwatch-live",
       "source": "The Guardian Football",
-      "published_at": "2026-11-28T14:14:28+00:00",
+      "published_at": "2026-11-28T15:04:53+00:00",
       "category": "clubs",
       "language": "en",
       "topics": [
@@ -81,6 +81,19 @@
       "url": "https://www.bbc.co.uk/sport/football/articles/cwzd9yj44190o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
       "published_at": "2026-11-28T11:53:00+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [
+        "Premier League"
+      ],
+      "priority": 12
+    },
+    {
+      "id": "8d1af9e1011a7923",
+      "title": "Ranking the Premier League's ultimate free-kick specialists",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cjzx97dz149qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-28T08:14:24+00:00",
       "category": "clubs",
       "language": "en",
       "topics": [
@@ -281,17 +294,6 @@
         "Premier League"
       ],
       "priority": 12
-    },
-    {
-      "id": "18ca2f1058a6c633",
-      "title": "Celtic defend head of security amid Green Brigade row",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck1ewjw1qqn7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-27T21:50:01+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
     },
     {
       "id": "2213ea8a478237c1",
@@ -556,15 +558,15 @@
   ],
   "source_errors": [],
   "search_trends_fr": [
-    "hamburg vs bayern",
-    "al-ettifaq – al-hilal",
-    "championnat d'arabie saoudite",
-    "man utd – brentford",
-    "hong kong",
-    "cannes",
-    "mainz 05 – union berlin",
-    "fbi",
-    "retraite en france",
-    "braquage"
+    "xbox",
+    "dune, troisième partie",
+    "racing 92 – pau",
+    "bayonne – castres",
+    "ukraine russie guerre",
+    "julia simon",
+    "duchesse",
+    "la rochelle – perpignan",
+    "stade français – vannes",
+    "noah codjo-evora"
   ]
 }
