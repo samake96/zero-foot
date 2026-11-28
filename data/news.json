@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-11-28T07:10:44.721833+00:00",
+  "updated_at": "2026-11-28T08:24:29.728398+00:00",
   "items": [
+    {
+      "id": "8d1af9e1011a7923",
+      "title": "Ranking the Premier League's ultimate free-kick specialists",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cjzx97dz149qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-28T08:14:24+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [
+        "Premier League"
+      ],
+      "priority": 12
+    },
+    {
+      "id": "f993640e178b057a",
+      "title": "Basque to the future: Andoni Iraola fired up for first Merseyside derby",
+      "url": "https://www.theguardian.com/football/2026/nov/28/andoni-iraola-first-merseyside-derby-liverpool-everton-premier-league",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-28T08:00:34+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "a3b98150f402d11e",
+      "title": "The Renéessance is over but Arsenal’s chaotic cycle will go on without further change | Suzanne Wrack",
+      "url": "https://www.theguardian.com/football/2026/nov/28/renee-slegers-arsenal-womens-super-league",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-28T08:00:33+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [
+        "Premier League"
+      ],
+      "priority": 12
+    },
+    {
+      "id": "8e6652adb683ec31",
+      "title": "How dad's embarrassment was making of Gross at Brighton",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm3egnw0y0d0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-28T07:25:04+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
     {
       "id": "a043b6ffd9be0abb",
       "title": "Who am I? Plus today's other quizzes",
@@ -33,19 +81,6 @@
       "language": "en",
       "topics": [],
       "priority": 0
-    },
-    {
-      "id": "c807c57654cb731f",
-      "title": "USWNT seal Women’s World Cup qualification with 8-0 win over El Salvador",
-      "url": "https://www.theguardian.com/football/2026/nov/27/uswnt-el-salvador-womens-world-cup-qualifier",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-28T04:14:42+00:00",
-      "category": "competitions",
-      "language": "en",
-      "topics": [
-        "Sélections"
-      ],
-      "priority": 12
     },
     {
       "id": "c4589c97ba9b5266",
@@ -159,8 +194,8 @@
       "priority": 0
     },
     {
-      "id": "34a9fa33f7e2dcec",
-      "title": "'You're not welcome here' - Chelsea fans turn on Fofana",
+      "id": "2213ea8a478237c1",
+      "title": "'You're not welcome here' - fans turn on Fofana as Chelsea lose again",
       "url": "https://www.bbc.co.uk/sport/football/articles/cmqlqeqd4wg5o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
       "published_at": "2026-11-27T21:31:54+00:00",
@@ -196,17 +231,6 @@
         "Premier League"
       ],
       "priority": 12
-    },
-    {
-      "id": "630afe5a9efd721b",
-      "title": "Emery praises Garnacho attitude after Villa selection snub",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwp9d4eg4n2xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-27T17:42:00+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
     },
     {
       "id": "d879a91da4992bc9",
@@ -260,19 +284,6 @@
       "priority": 20
     },
     {
-      "id": "f893c755ce6c3dea",
-      "title": "Renée Slegers leaves job as Arsenal Women’s coach after dismal run of results",
-      "url": "https://www.theguardian.com/football/2026/nov/27/renee-slegers-leaves-arsenal-women-head-coach",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-27T15:11:25+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [
-        "Premier League"
-      ],
-      "priority": 12
-    },
-    {
       "id": "d06752ca91bfaa91",
       "title": "Man Utd trigger Fernandes' one-year contract extension",
       "url": "https://www.bbc.co.uk/sport/football/articles/c6d91j5geepqo?at_medium=RSS&at_campaign=rss",
@@ -282,19 +293,6 @@
       "language": "en",
       "topics": [],
       "priority": 8
-    },
-    {
-      "id": "de9c898972c5b1a8",
-      "title": "What happens now for Bayern Munich and Musiala?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmly5j49ypzqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-27T15:03:12+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [
-        "Bundesliga"
-      ],
-      "priority": 12
     },
     {
       "id": "3fb7841e2d2e0e85",
@@ -545,15 +543,15 @@
   ],
   "source_errors": [],
   "search_trends_fr": [
-    "rockstar games gta vi pc",
-    "médecins sans frontières",
-    "inondation",
-    "inflation",
-    "saintelyon",
-    "mort",
-    "quelle époque! quelle époque !",
-    "remboursement",
-    "thierry cotillard",
-    "ferrari"
+    "tgs",
+    "résultat coupe de france",
+    "finances publiques",
+    "mathilde panot",
+    "panne free yvelines",
+    "meteo brest",
+    "pengo bossio wangi",
+    "forces aérospatiales russes",
+    "nespresso black friday",
+    "deux-sèvres"
   ]
 }
