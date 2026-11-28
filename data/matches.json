@@ -1,13 +1,13 @@
 {
   "source": "API-Football",
-  "updated_at": "2026-11-28T01:23:04.740341+00:00",
+  "updated_at": "2026-11-28T04:02:25.634889+00:00",
   "date_utc": "2026-11-28",
   "matches": [
     {
       "id": 1650245,
       "kickoff": "2026-11-28T00:00:00+00:00",
-      "status": "2H",
-      "elapsed": 58,
+      "status": "FT",
+      "elapsed": 90,
       "league": {
         "id": 129,
         "name": "Primera Nacional",
@@ -27,8 +27,8 @@
     {
       "id": 1650246,
       "kickoff": "2026-11-28T00:00:00+00:00",
-      "status": "2H",
-      "elapsed": 58,
+      "status": "FT",
+      "elapsed": 90,
       "league": {
         "id": 129,
         "name": "Primera Nacional",
@@ -37,7 +37,7 @@
       "home": {
         "name": "Tristan Suarez",
         "logo": "https://media.api-sports.io/football/teams/1965.png",
-        "goals": 0
+        "goals": 1
       },
       "away": {
         "name": "Gimnasia Y Tiro",
@@ -48,8 +48,8 @@
     {
       "id": 1647133,
       "kickoff": "2026-11-28T00:30:00+00:00",
-      "status": "NS",
-      "elapsed": null,
+      "status": "FT",
+      "elapsed": 90,
       "league": {
         "id": 421,
         "name": "Division di Honor",
@@ -58,19 +58,19 @@
       "home": {
         "name": "RCA",
         "logo": "https://media.api-sports.io/football/teams/8240.png",
-        "goals": null
+        "goals": 1
       },
       "away": {
         "name": "Caiquetio",
         "logo": "https://media.api-sports.io/football/teams/8243.png",
-        "goals": null
+        "goals": 1
       }
     },
     {
       "id": 1631825,
       "kickoff": "2026-11-28T01:00:00+00:00",
-      "status": "1H",
-      "elapsed": 14,
+      "status": "FT",
+      "elapsed": 90,
       "league": {
         "id": 722,
         "name": "Liga Premier Serie A",
@@ -90,8 +90,8 @@
     {
       "id": 1631826,
       "kickoff": "2026-11-28T01:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
+      "status": "FT",
+      "elapsed": 90,
       "league": {
         "id": 722,
         "name": "Liga Premier Serie A",
@@ -100,19 +100,19 @@
       "home": {
         "name": "Acatlan",
         "logo": "https://media.api-sports.io/football/teams/24949.png",
-        "goals": null
+        "goals": 1
       },
       "away": {
         "name": "Vaqueros Reynosa",
         "logo": "https://media.api-sports.io/football/teams/28308.png",
-        "goals": null
+        "goals": 0
       }
     },
     {
       "id": 1639061,
       "kickoff": "2026-11-28T01:00:00+00:00",
-      "status": "1H",
-      "elapsed": 23,
+      "status": "FT",
+      "elapsed": 90,
       "league": {
         "id": 955,
         "name": "National League - National",
@@ -132,8 +132,8 @@
     {
       "id": 1649500,
       "kickoff": "2026-11-28T01:00:00+00:00",
-      "status": "1H",
-      "elapsed": 6,
+      "status": "FT",
+      "elapsed": 90,
       "league": {
         "id": 253,
         "name": "Major League Soccer",
@@ -142,7 +142,7 @@
       "home": {
         "name": "Columbus Crew",
         "logo": "https://media.api-sports.io/football/teams/1613.png",
-        "goals": 0
+        "goals": 1
       },
       "away": {
         "name": "Inter Miami",
@@ -153,8 +153,8 @@
     {
       "id": 1550711,
       "kickoff": "2026-11-28T01:30:00+00:00",
-      "status": "NS",
-      "elapsed": null,
+      "status": "FT",
+      "elapsed": 90,
       "league": {
         "id": 927,
         "name": "World Cup - Women - Qualification Concacaf",
@@ -163,19 +163,19 @@
       "home": {
         "name": "USA W",
         "logo": "https://media.api-sports.io/football/teams/1718.png",
-        "goals": null
+        "goals": 8
       },
       "away": {
         "name": "El Salvador W",
         "logo": "https://media.api-sports.io/football/teams/16927.png",
-        "goals": null
+        "goals": 0
       }
     },
     {
       "id": 1651111,
       "kickoff": "2026-11-28T01:30:00+00:00",
-      "status": "NS",
-      "elapsed": null,
+      "status": "ET",
+      "elapsed": 110,
       "league": {
         "id": 304,
         "name": "Liga Panameña de Fútbol",
@@ -184,19 +184,19 @@
       "home": {
         "name": "San Francisco FC",
         "logo": "https://media.api-sports.io/football/teams/2887.png",
-        "goals": null
+        "goals": 1
       },
       "away": {
         "name": "CD Arabe Unido",
         "logo": "https://media.api-sports.io/football/teams/2882.png",
-        "goals": null
+        "goals": 0
       }
     },
     {
       "id": 1651152,
       "kickoff": "2026-11-28T01:40:00+00:00",
-      "status": "NS",
-      "elapsed": null,
+      "status": "FT",
+      "elapsed": 90,
       "league": {
         "id": 239,
         "name": "Primera A",
@@ -205,19 +205,19 @@
       "home": {
         "name": "Millonarios",
         "logo": "https://media.api-sports.io/football/teams/1125.png",
-        "goals": null
+        "goals": 0
       },
       "away": {
         "name": "America de Cali",
         "logo": "https://media.api-sports.io/football/teams/1138.png",
-        "goals": null
+        "goals": 0
       }
     },
     {
       "id": 1598823,
       "kickoff": "2026-11-28T02:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
+      "status": "FT",
+      "elapsed": 90,
       "league": {
         "id": 162,
         "name": "Primera División",
@@ -226,19 +226,19 @@
       "home": {
         "name": "CS Herediano",
         "logo": "https://media.api-sports.io/football/teams/815.png",
-        "goals": null
+        "goals": 2
       },
       "away": {
         "name": "Escorpiones Belén",
         "logo": "https://media.api-sports.io/football/teams/17377.png",
-        "goals": null
+        "goals": 1
       }
     },
     {
       "id": 1636050,
       "kickoff": "2026-11-28T02:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
+      "status": "2H",
+      "elapsed": 90,
       "league": {
         "id": 1242,
         "name": "Primera Premier",
@@ -247,19 +247,19 @@
       "home": {
         "name": "Reboceros La Piedad",
         "logo": "https://media.api-sports.io/football/teams/15937.png",
-        "goals": null
+        "goals": 0
       },
       "away": {
         "name": "Lobos ULMX",
         "logo": "https://media.api-sports.io/football/teams/17787.png",
-        "goals": null
+        "goals": 1
       }
     },
     {
       "id": 1651121,
       "kickoff": "2026-11-28T03:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
+      "status": "1H",
+      "elapsed": 33,
       "league": {
         "id": 253,
         "name": "Major League Soccer",
@@ -268,12 +268,12 @@
       "home": {
         "name": "Real Salt Lake",
         "logo": "https://media.api-sports.io/football/teams/1606.png",
-        "goals": null
+        "goals": 0
       },
       "away": {
         "name": "Vancouver Whitecaps",
         "logo": "https://media.api-sports.io/football/teams/1603.png",
-        "goals": null
+        "goals": 0
       }
     },
     {
@@ -2440,27 +2440,6 @@
       }
     },
     {
-      "id": 1568258,
-      "kickoff": "2026-11-28T11:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
-      "league": {
-        "id": 783,
-        "name": "III Liga - Group 4",
-        "country": "Poland"
-      },
-      "home": {
-        "name": "Naprzód",
-        "logo": "https://media.api-sports.io/football/teams/26184.png",
-        "goals": null
-      },
-      "away": {
-        "name": "Wiślanie Jaśkowice",
-        "logo": "https://media.api-sports.io/football/teams/19728.png",
-        "goals": null
-      }
-    },
-    {
       "id": 1568883,
       "kickoff": "2026-11-28T11:00:00+00:00",
       "status": "NS",
@@ -4053,27 +4032,6 @@
       "away": {
         "name": "Mornar",
         "logo": "https://media.api-sports.io/football/teams/3740.png",
-        "goals": null
-      }
-    },
-    {
-      "id": 1568256,
-      "kickoff": "2026-11-28T12:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
-      "league": {
-        "id": 783,
-        "name": "III Liga - Group 4",
-        "country": "Poland"
-      },
-      "home": {
-        "name": "Sokół Kolb.",
-        "logo": "https://media.api-sports.io/football/teams/26185.png",
-        "goals": null
-      },
-      "away": {
-        "name": "Chełmianka Chełm",
-        "logo": "https://media.api-sports.io/football/teams/6936.png",
         "goals": null
       }
     },
@@ -5985,48 +5943,6 @@
       "away": {
         "name": "Sogndal",
         "logo": "https://media.api-sports.io/football/teams/758.png",
-        "goals": null
-      }
-    },
-    {
-      "id": 1650509,
-      "kickoff": "2026-11-28T12:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
-      "league": {
-        "id": 664,
-        "name": "Superliga",
-        "country": "Kosovo"
-      },
-      "home": {
-        "name": "Drenica Skënderaj",
-        "logo": "https://media.api-sports.io/football/teams/14392.png",
-        "goals": null
-      },
-      "away": {
-        "name": "Vushtrria",
-        "logo": "https://media.api-sports.io/football/teams/14396.png",
-        "goals": null
-      }
-    },
-    {
-      "id": 1650510,
-      "kickoff": "2026-11-28T12:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
-      "league": {
-        "id": 664,
-        "name": "Superliga",
-        "country": "Kosovo"
-      },
-      "home": {
-        "name": "Dukagjini",
-        "logo": "https://media.api-sports.io/football/teams/14393.png",
-        "goals": null
-      },
-      "away": {
-        "name": "Ballkani",
-        "logo": "https://media.api-sports.io/football/teams/12733.png",
         "goals": null
       }
     },
@@ -9811,48 +9727,6 @@
       }
     },
     {
-      "id": 1630655,
-      "kickoff": "2026-11-28T13:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
-      "league": {
-        "id": 400,
-        "name": "Super League",
-        "country": "Zambia"
-      },
-      "home": {
-        "name": "Green Eagles",
-        "logo": "https://media.api-sports.io/football/teams/5200.png",
-        "goals": null
-      },
-      "away": {
-        "name": "Mufulira Wanderers",
-        "logo": "https://media.api-sports.io/football/teams/5206.png",
-        "goals": null
-      }
-    },
-    {
-      "id": 1630656,
-      "kickoff": "2026-11-28T13:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
-      "league": {
-        "id": 400,
-        "name": "Super League",
-        "country": "Zambia"
-      },
-      "home": {
-        "name": "Kansanshi Dynamos",
-        "logo": "https://media.api-sports.io/football/teams/7455.png",
-        "goals": null
-      },
-      "away": {
-        "name": "Makeni All Stars",
-        "logo": "https://media.api-sports.io/football/teams/28279.png",
-        "goals": null
-      }
-    },
-    {
       "id": 1630657,
       "kickoff": "2026-11-28T13:00:00+00:00",
       "status": "NS",
@@ -9895,27 +9769,6 @@
       }
     },
     {
-      "id": 1630659,
-      "kickoff": "2026-11-28T13:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
-      "league": {
-        "id": 400,
-        "name": "Super League",
-        "country": "Zambia"
-      },
-      "home": {
-        "name": "Red Arrows",
-        "logo": "https://media.api-sports.io/football/teams/5213.png",
-        "goals": null
-      },
-      "away": {
-        "name": "Mutondo Stars",
-        "logo": "https://media.api-sports.io/football/teams/21875.png",
-        "goals": null
-      }
-    },
-    {
       "id": 1630660,
       "kickoff": "2026-11-28T13:00:00+00:00",
       "status": "NS",
@@ -9933,48 +9786,6 @@
       "away": {
         "name": "Nkwazi",
         "logo": "https://media.api-sports.io/football/teams/5210.png",
-        "goals": null
-      }
-    },
-    {
-      "id": 1630661,
-      "kickoff": "2026-11-28T13:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
-      "league": {
-        "id": 400,
-        "name": "Super League",
-        "country": "Zambia"
-      },
-      "home": {
-        "name": "Zanaco",
-        "logo": "https://media.api-sports.io/football/teams/5215.png",
-        "goals": null
-      },
-      "away": {
-        "name": "Nchanga Rangers",
-        "logo": "https://media.api-sports.io/football/teams/5511.png",
-        "goals": null
-      }
-    },
-    {
-      "id": 1630662,
-      "kickoff": "2026-11-28T13:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
-      "league": {
-        "id": 400,
-        "name": "Super League",
-        "country": "Zambia"
-      },
-      "home": {
-        "name": "ZESCO United",
-        "logo": "https://media.api-sports.io/football/teams/5214.png",
-        "goals": null
-      },
-      "away": {
-        "name": "Kabwe Warriors",
-        "logo": "https://media.api-sports.io/football/teams/5201.png",
         "goals": null
       }
     },
@@ -10773,27 +10584,6 @@
       "away": {
         "name": "Kerkennah",
         "logo": "https://media.api-sports.io/football/teams/10616.png",
-        "goals": null
-      }
-    },
-    {
-      "id": 1651520,
-      "kickoff": "2026-11-28T13:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
-      "league": {
-        "id": 828,
-        "name": "Ligue 2",
-        "country": "Tunisia"
-      },
-      "home": {
-        "name": "Mégrine",
-        "logo": "https://media.api-sports.io/football/teams/20846.png",
-        "goals": null
-      },
-      "away": {
-        "name": "BS Bouhajla",
-        "logo": "https://media.api-sports.io/football/teams/10599.png",
         "goals": null
       }
     },
@@ -13192,27 +12982,6 @@
       }
     },
     {
-      "id": 1649659,
-      "kickoff": "2026-11-28T14:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
-      "league": {
-        "id": 1197,
-        "name": "FA Cup",
-        "country": "Oman"
-      },
-      "home": {
-        "name": "Fanja",
-        "logo": "https://media.api-sports.io/football/teams/7506.png",
-        "goals": null
-      },
-      "away": {
-        "name": "Smail",
-        "logo": "https://media.api-sports.io/football/teams/15962.png",
-        "goals": null
-      }
-    },
-    {
       "id": 1650268,
       "kickoff": "2026-11-28T14:00:00+00:00",
       "status": "NS",
@@ -13251,27 +13020,6 @@
       "away": {
         "name": "Siroco Les Abymes",
         "logo": "https://media.api-sports.io/football/teams/4397.png",
-        "goals": null
-      }
-    },
-    {
-      "id": 1649660,
-      "kickoff": "2026-11-28T14:05:00+00:00",
-      "status": "NS",
-      "elapsed": null,
-      "league": {
-        "id": 1197,
-        "name": "FA Cup",
-        "country": "Oman"
-      },
-      "home": {
-        "name": "Bahla",
-        "logo": "https://media.api-sports.io/football/teams/7505.png",
-        "goals": null
-      },
-      "away": {
-        "name": "Oman Club",
-        "logo": "https://media.api-sports.io/football/teams/5334.png",
         "goals": null
       }
     },
@@ -14070,27 +13818,6 @@
       "away": {
         "name": "FAP",
         "logo": "https://media.api-sports.io/football/teams/16525.png",
-        "goals": null
-      }
-    },
-    {
-      "id": 1649661,
-      "kickoff": "2026-11-28T14:30:00+00:00",
-      "status": "NS",
-      "elapsed": null,
-      "league": {
-        "id": 1197,
-        "name": "FA Cup",
-        "country": "Oman"
-      },
-      "home": {
-        "name": "Al Nasr",
-        "logo": "https://media.api-sports.io/football/teams/2878.png",
-        "goals": null
-      },
-      "away": {
-        "name": "Sur",
-        "logo": "https://media.api-sports.io/football/teams/5337.png",
         "goals": null
       }
     },
@@ -23982,48 +23709,6 @@
       "away": {
         "name": "Lynx",
         "logo": "https://media.api-sports.io/football/teams/16134.png",
-        "goals": null
-      }
-    },
-    {
-      "id": 1650569,
-      "kickoff": "2026-11-28T18:30:00+00:00",
-      "status": "NS",
-      "elapsed": null,
-      "league": {
-        "id": 132,
-        "name": "Primera C",
-        "country": "Argentina"
-      },
-      "home": {
-        "name": "Berazategui",
-        "logo": "https://media.api-sports.io/football/teams/8382.png",
-        "goals": null
-      },
-      "away": {
-        "name": "Sportivo Barracas",
-        "logo": "https://media.api-sports.io/football/teams/1931.png",
-        "goals": null
-      }
-    },
-    {
-      "id": 1650570,
-      "kickoff": "2026-11-28T18:30:00+00:00",
-      "status": "NS",
-      "elapsed": null,
-      "league": {
-        "id": 132,
-        "name": "Primera C",
-        "country": "Argentina"
-      },
-      "home": {
-        "name": "Canuelas",
-        "logo": "https://media.api-sports.io/football/teams/1947.png",
-        "goals": null
-      },
-      "away": {
-        "name": "Estrella Del Sur",
-        "logo": "https://media.api-sports.io/football/teams/23099.png",
         "goals": null
       }
     },
