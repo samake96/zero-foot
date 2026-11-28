@@ -1,6 +1,30 @@
 {
-  "updated_at": "2026-11-28T04:59:48.941717+00:00",
+  "updated_at": "2026-11-28T05:58:24.674732+00:00",
   "items": [
+    {
+      "id": "c807c57654cb731f",
+      "title": "USWNT seal Women’s World Cup qualification with 8-0 win over El Salvador",
+      "url": "https://www.theguardian.com/football/2026/nov/27/uswnt-el-salvador-womens-world-cup-qualifier",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-28T04:14:42+00:00",
+      "category": "competitions",
+      "language": "en",
+      "topics": [
+        "Sélections"
+      ],
+      "priority": 12
+    },
+    {
+      "id": "c4589c97ba9b5266",
+      "title": "Columbus Crew eliminate Messi and Inter Miami from MLS playoffs with stoppage-time strike",
+      "url": "https://www.theguardian.com/football/2026/nov/27/inter-miami-columbus-crew-mls-playoffs-lionel-messi",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-28T03:53:14+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
     {
       "id": "38b516cfc351b52c",
       "title": "Wilshere v Ramsey - Arsenal legends treading similar managerial paths",
@@ -152,17 +176,6 @@
       "priority": 0
     },
     {
-      "id": "643ad8516bf9320e",
-      "title": "Football Daily | Watford, the Pozzos and the hottest managerial seat in the game",
-      "url": "https://www.theguardian.com/football/2026/nov/27/watford-hottest-managerial-seat-pozzos-football-daily-newsletter",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-27T16:36:35+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [],
-      "priority": 0
-    },
-    {
       "id": "d879a91da4992bc9",
       "title": "Nations Championship finale, Merseyside derby and Qatar GP – follow with us",
       "url": "https://www.theguardian.com/sport/2026/nov/27/nations-championship-finale-merseyside-derby-and-qatar-gp-follow-with-us",
@@ -295,19 +308,6 @@
       "language": "fr",
       "topics": [],
       "priority": 0
-    },
-    {
-      "id": "a5c0956134df9889",
-      "title": "French and Bulgarian presidents condemn violence at Marseille v Levski Europa League game",
-      "url": "https://www.theguardian.com/football/2026/nov/27/french-bulgarian-presidents-emmanuel-macron-iliana-iotova-condemn-violence-marseille-levski-sofia-europa-league",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-27T13:58:00+00:00",
-      "category": "competitions",
-      "language": "en",
-      "topics": [
-        "Ligue 1"
-      ],
-      "priority": 12
     },
     {
       "id": "f3d04487d63a8c79",
@@ -545,15 +545,15 @@
   ],
   "source_errors": [],
   "search_trends_fr": [
-    "suns – mavericks",
-    "père",
-    "trail blazers – warriors",
-    "nba",
-    "excès de vitesse",
-    "nba cup",
-    "tirage euromillions my million",
-    "raptors – nets",
-    "timberwolves – grizzlies",
-    "celtics – hawks"
+    "kalash interpellation",
+    "la depeche du midi",
+    "coupe de france",
+    "agriculteur",
+    "hôpital",
+    "catherine, princesse de galles",
+    "jazz – nuggets",
+    "loire",
+    "actualites",
+    "suns – mavericks"
   ]
 }
