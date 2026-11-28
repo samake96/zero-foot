@@ -1,6 +1,6 @@
 {
   "source": "API-Football",
-  "updated_at": "2026-11-28T04:02:25.634889+00:00",
+  "updated_at": "2026-11-28T07:22:55.636575+00:00",
   "date_utc": "2026-11-28",
   "matches": [
     {
@@ -174,8 +174,8 @@
     {
       "id": 1651111,
       "kickoff": "2026-11-28T01:30:00+00:00",
-      "status": "ET",
-      "elapsed": 110,
+      "status": "PEN",
+      "elapsed": 120,
       "league": {
         "id": 304,
         "name": "Liga Panameña de Fútbol",
@@ -237,7 +237,7 @@
     {
       "id": 1636050,
       "kickoff": "2026-11-28T02:00:00+00:00",
-      "status": "2H",
+      "status": "FT",
       "elapsed": 90,
       "league": {
         "id": 1242,
@@ -258,8 +258,8 @@
     {
       "id": 1651121,
       "kickoff": "2026-11-28T03:00:00+00:00",
-      "status": "1H",
-      "elapsed": 33,
+      "status": "FT",
+      "elapsed": 90,
       "league": {
         "id": 253,
         "name": "Major League Soccer",
@@ -273,14 +273,14 @@
       "away": {
         "name": "Vancouver Whitecaps",
         "logo": "https://media.api-sports.io/football/teams/1603.png",
-        "goals": 0
+        "goals": 1
       }
     },
     {
       "id": 1651253,
       "kickoff": "2026-11-28T04:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
+      "status": "FT",
+      "elapsed": 90,
       "league": {
         "id": 1202,
         "name": "Australian Championship",
@@ -289,19 +289,19 @@
       "home": {
         "name": "Preston Lions",
         "logo": "https://media.api-sports.io/football/teams/19705.png",
-        "goals": null
+        "goals": 2
       },
       "away": {
         "name": "Wests APIA",
         "logo": "https://media.api-sports.io/football/teams/26874.png",
-        "goals": null
+        "goals": 1
       }
     },
     {
       "id": 1510509,
       "kickoff": "2026-11-28T05:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
+      "status": "FT",
+      "elapsed": 90,
       "league": {
         "id": 293,
         "name": "K League 2",
@@ -310,19 +310,19 @@
       "home": {
         "name": "Gimhae City",
         "logo": "https://media.api-sports.io/football/teams/7076.png",
-        "goals": null
+        "goals": 0
       },
       "away": {
         "name": "Seongnam FC",
         "logo": "https://media.api-sports.io/football/teams/2757.png",
-        "goals": null
+        "goals": 2
       }
     },
     {
       "id": 1510514,
       "kickoff": "2026-11-28T05:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
+      "status": "FT",
+      "elapsed": 90,
       "league": {
         "id": 293,
         "name": "K League 2",
@@ -331,19 +331,19 @@
       "home": {
         "name": "Yongin City",
         "logo": "https://media.api-sports.io/football/teams/9171.png",
-        "goals": null
+        "goals": 1
       },
       "away": {
         "name": "Paju Citizen",
         "logo": "https://media.api-sports.io/football/teams/7098.png",
-        "goals": null
+        "goals": 2
       }
     },
     {
       "id": 1555834,
       "kickoff": "2026-11-28T05:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
+      "status": "FT",
+      "elapsed": 90,
       "league": {
         "id": 100,
         "name": "J3 League",
@@ -352,19 +352,19 @@
       "home": {
         "name": "Kochi United",
         "logo": "https://media.api-sports.io/football/teams/7129.png",
-        "goals": null
+        "goals": 1
       },
       "away": {
         "name": "Nara Club",
         "logo": "https://media.api-sports.io/football/teams/7135.png",
-        "goals": null
+        "goals": 0
       }
     },
     {
       "id": 1556164,
       "kickoff": "2026-11-28T05:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
+      "status": "FT",
+      "elapsed": 90,
       "league": {
         "id": 98,
         "name": "J1 League",
@@ -373,19 +373,19 @@
       "home": {
         "name": "Kyoto Sanga",
         "logo": "https://media.api-sports.io/football/teams/302.png",
-        "goals": null
+        "goals": 4
       },
       "away": {
         "name": "Cerezo Osaka",
         "logo": "https://media.api-sports.io/football/teams/291.png",
-        "goals": null
+        "goals": 1
       }
     },
     {
       "id": 1556168,
       "kickoff": "2026-11-28T05:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
+      "status": "FT",
+      "elapsed": 90,
       "league": {
         "id": 98,
         "name": "J1 League",
@@ -394,19 +394,19 @@
       "home": {
         "name": "Shimizu S-pulse",
         "logo": "https://media.api-sports.io/football/teams/283.png",
-        "goals": null
+        "goals": 1
       },
       "away": {
         "name": "Urawa",
         "logo": "https://media.api-sports.io/football/teams/287.png",
-        "goals": null
+        "goals": 0
       }
     },
     {
       "id": 1606786,
       "kickoff": "2026-11-28T05:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
+      "status": "FT",
+      "elapsed": 90,
       "league": {
         "id": 99,
         "name": "J2 League",
@@ -415,19 +415,19 @@
       "home": {
         "name": "Omiya Ardija",
         "logo": "https://media.api-sports.io/football/teams/313.png",
-        "goals": null
+        "goals": 3
       },
       "away": {
         "name": "Imabari",
         "logo": "https://media.api-sports.io/football/teams/10075.png",
-        "goals": null
+        "goals": 2
       }
     },
     {
       "id": 1647384,
       "kickoff": "2026-11-28T05:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
+      "status": "FT",
+      "elapsed": 90,
       "league": {
         "id": 292,
         "name": "K League 1",
@@ -436,19 +436,19 @@
       "home": {
         "name": "FC Seoul",
         "logo": "https://media.api-sports.io/football/teams/2766.png",
-        "goals": null
+        "goals": 4
       },
       "away": {
         "name": "Daejeon Citizen",
         "logo": "https://media.api-sports.io/football/teams/2750.png",
-        "goals": null
+        "goals": 1
       }
     },
     {
       "id": 1647399,
       "kickoff": "2026-11-28T05:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
+      "status": "FT",
+      "elapsed": 90,
       "league": {
         "id": 292,
         "name": "K League 1",
@@ -457,19 +457,19 @@
       "home": {
         "name": "FC Anyang",
         "logo": "https://media.api-sports.io/football/teams/2748.png",
-        "goals": null
+        "goals": 1
       },
       "away": {
         "name": "Jeju United FC",
         "logo": "https://media.api-sports.io/football/teams/2761.png",
-        "goals": null
+        "goals": 0
       }
     },
     {
       "id": 1556161,
       "kickoff": "2026-11-28T06:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
+      "status": "2H",
+      "elapsed": 61,
       "league": {
         "id": 98,
         "name": "J1 League",
@@ -478,19 +478,19 @@
       "home": {
         "name": "Kashima",
         "logo": "https://media.api-sports.io/football/teams/290.png",
-        "goals": null
+        "goals": 0
       },
       "away": {
         "name": "Fagiano Okayama",
         "logo": "https://media.api-sports.io/football/teams/310.png",
-        "goals": null
+        "goals": 0
       }
     },
     {
       "id": 1556169,
       "kickoff": "2026-11-28T06:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
+      "status": "2H",
+      "elapsed": 64,
       "league": {
         "id": 98,
         "name": "J1 League",
@@ -499,19 +499,19 @@
       "home": {
         "name": "Vissel Kobe",
         "logo": "https://media.api-sports.io/football/teams/289.png",
-        "goals": null
+        "goals": 1
       },
       "away": {
         "name": "JEF United Chiba",
         "logo": "https://media.api-sports.io/football/teams/301.png",
-        "goals": null
+        "goals": 1
       }
     },
     {
       "id": 1556162,
       "kickoff": "2026-11-28T07:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
+      "status": "1H",
+      "elapsed": 20,
       "league": {
         "id": 98,
         "name": "J1 League",
@@ -520,19 +520,19 @@
       "home": {
         "name": "Kashiwa Reysol",
         "logo": "https://media.api-sports.io/football/teams/281.png",
-        "goals": null
+        "goals": 0
       },
       "away": {
         "name": "Sanfrecce Hiroshima",
         "logo": "https://media.api-sports.io/football/teams/282.png",
-        "goals": null
+        "goals": 1
       }
     },
     {
       "id": 1607346,
       "kickoff": "2026-11-28T07:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
+      "status": "1H",
+      "elapsed": 22,
       "league": {
         "id": 380,
         "name": "Premier League",
@@ -541,19 +541,19 @@
       "home": {
         "name": "North District",
         "logo": "https://media.api-sports.io/football/teams/6401.png",
-        "goals": null
+        "goals": 1
       },
       "away": {
         "name": "Southern District",
         "logo": "https://media.api-sports.io/football/teams/4456.png",
-        "goals": null
+        "goals": 1
       }
     },
     {
       "id": 1650864,
       "kickoff": "2026-11-28T07:00:00+00:00",
-      "status": "NS",
-      "elapsed": null,
+      "status": "1H",
+      "elapsed": 22,
       "league": {
         "id": 666,
         "name": "Friendlies Women",
@@ -562,12 +562,12 @@
       "home": {
         "name": "Malawi W",
         "logo": "https://media.api-sports.io/football/teams/22550.png",
-        "goals": null
+        "goals": 1
       },
       "away": {
         "name": "Albania W",
         "logo": "https://media.api-sports.io/football/teams/1751.png",
-        "goals": null
+        "goals": 2
       }
     },
     {
@@ -4479,7 +4479,7 @@
     {
       "id": 1586947,
       "kickoff": "2026-11-28T12:00:00+00:00",
-      "status": "NS",
+      "status": "PST",
       "elapsed": null,
       "league": {
         "id": 85,
@@ -8259,7 +8259,7 @@
     {
       "id": 1586320,
       "kickoff": "2026-11-28T13:00:00+00:00",
-      "status": "NS",
+      "status": "PST",
       "elapsed": null,
       "league": {
         "id": 83,
@@ -8280,7 +8280,7 @@
     {
       "id": 1586323,
       "kickoff": "2026-11-28T13:00:00+00:00",
-      "status": "NS",
+      "status": "PST",
       "elapsed": null,
       "league": {
         "id": 83,
@@ -8364,7 +8364,7 @@
     {
       "id": 1586327,
       "kickoff": "2026-11-28T13:00:00+00:00",
-      "status": "NS",
+      "status": "PST",
       "elapsed": null,
       "league": {
         "id": 83,
@@ -8385,7 +8385,7 @@
     {
       "id": 1586656,
       "kickoff": "2026-11-28T13:00:00+00:00",
-      "status": "NS",
+      "status": "PST",
       "elapsed": null,
       "league": {
         "id": 84,
@@ -8406,7 +8406,7 @@
     {
       "id": 1586658,
       "kickoff": "2026-11-28T13:00:00+00:00",
-      "status": "NS",
+      "status": "PST",
       "elapsed": null,
       "league": {
         "id": 84,
@@ -8427,7 +8427,7 @@
     {
       "id": 1586659,
       "kickoff": "2026-11-28T13:00:00+00:00",
-      "status": "NS",
+      "status": "PST",
       "elapsed": null,
       "league": {
         "id": 84,
@@ -8448,7 +8448,7 @@
     {
       "id": 1586661,
       "kickoff": "2026-11-28T13:00:00+00:00",
-      "status": "NS",
+      "status": "PST",
       "elapsed": null,
       "league": {
         "id": 84,
@@ -8574,7 +8574,7 @@
     {
       "id": 1587251,
       "kickoff": "2026-11-28T13:00:00+00:00",
-      "status": "NS",
+      "status": "PST",
       "elapsed": null,
       "league": {
         "id": 86,
@@ -8700,7 +8700,7 @@
     {
       "id": 1587557,
       "kickoff": "2026-11-28T13:00:00+00:00",
-      "status": "NS",
+      "status": "PST",
       "elapsed": null,
       "league": {
         "id": 87,
@@ -8721,7 +8721,7 @@
     {
       "id": 1587558,
       "kickoff": "2026-11-28T13:00:00+00:00",
-      "status": "NS",
+      "status": "PST",
       "elapsed": null,
       "league": {
         "id": 87,
@@ -8763,7 +8763,7 @@
     {
       "id": 1587560,
       "kickoff": "2026-11-28T13:00:00+00:00",
-      "status": "NS",
+      "status": "PST",
       "elapsed": null,
       "league": {
         "id": 87,
@@ -12375,7 +12375,7 @@
     {
       "id": 1586654,
       "kickoff": "2026-11-28T14:00:00+00:00",
-      "status": "NS",
+      "status": "PST",
       "elapsed": null,
       "league": {
         "id": 84,

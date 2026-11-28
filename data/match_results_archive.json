@@ -1,8 +1,218 @@
 {
   "source": "API-Football",
-  "updated_at": "2026-11-28T04:02:25.605818+00:00",
-  "total": 2869,
+  "updated_at": "2026-11-28T07:22:55.602990+00:00",
+  "total": 2881,
   "matches": [
+    {
+      "id": 1510509,
+      "kickoff": "2026-11-28T05:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 293,
+        "name": "K League 2",
+        "country": "South-Korea"
+      },
+      "home": {
+        "name": "Gimhae City",
+        "logo": "https://media.api-sports.io/football/teams/7076.png",
+        "goals": 0
+      },
+      "away": {
+        "name": "Seongnam FC",
+        "logo": "https://media.api-sports.io/football/teams/2757.png",
+        "goals": 2
+      }
+    },
+    {
+      "id": 1510514,
+      "kickoff": "2026-11-28T05:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 293,
+        "name": "K League 2",
+        "country": "South-Korea"
+      },
+      "home": {
+        "name": "Yongin City",
+        "logo": "https://media.api-sports.io/football/teams/9171.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "Paju Citizen",
+        "logo": "https://media.api-sports.io/football/teams/7098.png",
+        "goals": 2
+      }
+    },
+    {
+      "id": 1555834,
+      "kickoff": "2026-11-28T05:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 100,
+        "name": "J3 League",
+        "country": "Japan"
+      },
+      "home": {
+        "name": "Kochi United",
+        "logo": "https://media.api-sports.io/football/teams/7129.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "Nara Club",
+        "logo": "https://media.api-sports.io/football/teams/7135.png",
+        "goals": 0
+      }
+    },
+    {
+      "id": 1556164,
+      "kickoff": "2026-11-28T05:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 98,
+        "name": "J1 League",
+        "country": "Japan"
+      },
+      "home": {
+        "name": "Kyoto Sanga",
+        "logo": "https://media.api-sports.io/football/teams/302.png",
+        "goals": 4
+      },
+      "away": {
+        "name": "Cerezo Osaka",
+        "logo": "https://media.api-sports.io/football/teams/291.png",
+        "goals": 1
+      }
+    },
+    {
+      "id": 1556168,
+      "kickoff": "2026-11-28T05:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 98,
+        "name": "J1 League",
+        "country": "Japan"
+      },
+      "home": {
+        "name": "Shimizu S-pulse",
+        "logo": "https://media.api-sports.io/football/teams/283.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "Urawa",
+        "logo": "https://media.api-sports.io/football/teams/287.png",
+        "goals": 0
+      }
+    },
+    {
+      "id": 1606786,
+      "kickoff": "2026-11-28T05:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 99,
+        "name": "J2 League",
+        "country": "Japan"
+      },
+      "home": {
+        "name": "Omiya Ardija",
+        "logo": "https://media.api-sports.io/football/teams/313.png",
+        "goals": 3
+      },
+      "away": {
+        "name": "Imabari",
+        "logo": "https://media.api-sports.io/football/teams/10075.png",
+        "goals": 2
+      }
+    },
+    {
+      "id": 1647384,
+      "kickoff": "2026-11-28T05:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 292,
+        "name": "K League 1",
+        "country": "South-Korea"
+      },
+      "home": {
+        "name": "FC Seoul",
+        "logo": "https://media.api-sports.io/football/teams/2766.png",
+        "goals": 4
+      },
+      "away": {
+        "name": "Daejeon Citizen",
+        "logo": "https://media.api-sports.io/football/teams/2750.png",
+        "goals": 1
+      }
+    },
+    {
+      "id": 1647399,
+      "kickoff": "2026-11-28T05:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 292,
+        "name": "K League 1",
+        "country": "South-Korea"
+      },
+      "home": {
+        "name": "FC Anyang",
+        "logo": "https://media.api-sports.io/football/teams/2748.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "Jeju United FC",
+        "logo": "https://media.api-sports.io/football/teams/2761.png",
+        "goals": 0
+      }
+    },
+    {
+      "id": 1651253,
+      "kickoff": "2026-11-28T04:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 1202,
+        "name": "Australian Championship",
+        "country": "Australia"
+      },
+      "home": {
+        "name": "Preston Lions",
+        "logo": "https://media.api-sports.io/football/teams/19705.png",
+        "goals": 2
+      },
+      "away": {
+        "name": "Wests APIA",
+        "logo": "https://media.api-sports.io/football/teams/26874.png",
+        "goals": 1
+      }
+    },
+    {
+      "id": 1651121,
+      "kickoff": "2026-11-28T03:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 253,
+        "name": "Major League Soccer",
+        "country": "USA"
+      },
+      "home": {
+        "name": "Real Salt Lake",
+        "logo": "https://media.api-sports.io/football/teams/1606.png",
+        "goals": 0
+      },
+      "away": {
+        "name": "Vancouver Whitecaps",
+        "logo": "https://media.api-sports.io/football/teams/1603.png",
+        "goals": 1
+      }
+    },
     {
       "id": 1598823,
       "kickoff": "2026-11-28T02:00:00+00:00",
@@ -21,6 +231,27 @@
       "away": {
         "name": "Escorpiones Belén",
         "logo": "https://media.api-sports.io/football/teams/17377.png",
+        "goals": 1
+      }
+    },
+    {
+      "id": 1636050,
+      "kickoff": "2026-11-28T02:00:00+00:00",
+      "status": "FT",
+      "elapsed": 90,
+      "league": {
+        "id": 1242,
+        "name": "Primera Premier",
+        "country": "Mexico"
+      },
+      "home": {
+        "name": "Reboceros La Piedad",
+        "logo": "https://media.api-sports.io/football/teams/15937.png",
+        "goals": 0
+      },
+      "away": {
+        "name": "Lobos ULMX",
+        "logo": "https://media.api-sports.io/football/teams/17787.png",
         "goals": 1
       }
     },
@@ -63,6 +294,27 @@
       "away": {
         "name": "El Salvador W",
         "logo": "https://media.api-sports.io/football/teams/16927.png",
+        "goals": 0
+      }
+    },
+    {
+      "id": 1651111,
+      "kickoff": "2026-11-28T01:30:00+00:00",
+      "status": "PEN",
+      "elapsed": 120,
+      "league": {
+        "id": 304,
+        "name": "Liga Panameña de Fútbol",
+        "country": "Panama"
+      },
+      "home": {
+        "name": "San Francisco FC",
+        "logo": "https://media.api-sports.io/football/teams/2887.png",
+        "goals": 1
+      },
+      "away": {
+        "name": "CD Arabe Unido",
+        "logo": "https://media.api-sports.io/football/teams/2882.png",
         "goals": 0
       }
     },
