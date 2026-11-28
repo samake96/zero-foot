@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-11-28T20:32:32.530873+00:00",
+  "updated_at": "2026-11-28T21:23:07.282559+00:00",
   "items": [
+    {
+      "id": "2a181fb67c1a22ac",
+      "title": "Ligue des champions CAF: l’Espérance de Tunis en patron, le Pyramids FC et Zamalek assurent",
+      "url": "https://www.rfi.fr/fr/afrique-foot/20261128-ligue-des-champions-caf-l-esp%C3%A9rance-de-tunis-en-patron-le-pyramids-fc-et-zamalek-assurent",
+      "source": "RFI Afrique Foot",
+      "published_at": "2026-11-28T21:14:04+00:00",
+      "category": "competitions",
+      "language": "fr",
+      "topics": [
+        "Ligue des champions"
+      ],
+      "priority": 12
+    },
     {
       "id": "9ef595d4038b2521",
       "title": "City and co all huffing and puffing to keep pace with the Arsenal title juggernaut | Jonathan Wilson",
@@ -116,6 +129,41 @@
       "priority": 0
     },
     {
+      "id": "4ff3219f1d53a16d",
+      "title": "Manchester United need it to be their darkest hour to avoid the unthinkable | Jonathan Wilson",
+      "url": "https://www.theguardian.com/football/2026/nov/28/manchester-united-mauricio-pochettino-brentford-relegation-threat",
+      "source": "The Guardian Football",
+      "published_at": "2026-11-28T18:44:38+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [
+        "Premier League"
+      ],
+      "priority": 12
+    },
+    {
+      "id": "2d4a844954847425",
+      "title": "4-0 win over Man Utd a 'surreal' feeling - Andrews",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cq36gj9x0kn9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-28T17:49:50+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
+      "id": "14e42e13adc46fb6",
+      "title": "Lampard credits high-flying Leeds after 3-0 loss",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm36gj95y3kgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-28T17:45:10+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [],
+      "priority": 0
+    },
+    {
       "id": "4fb3ef7d9e64aa07",
       "title": "Difficult to be positive after Brentford loss - Pochettino",
       "url": "https://www.bbc.co.uk/sport/football/videos/cmlyd70nd775o?at_medium=RSS&at_campaign=rss",
@@ -162,8 +210,8 @@
       "priority": 0
     },
     {
-      "id": "ada78c2a775cd140",
-      "title": "Whose Man Utd days look numbered? Player ratings",
+      "id": "52ccc1e06b1558ea",
+      "title": "Whose Man Utd days look numbered? Player ratings v Brentford",
       "url": "https://www.bbc.co.uk/sport/football/articles/c6x2wjegj9nko?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
       "published_at": "2026-11-28T17:04:43+00:00",
@@ -171,19 +219,6 @@
       "language": "en",
       "topics": [],
       "priority": 0
-    },
-    {
-      "id": "abc6a28dd6b91027",
-      "title": "Manchester United mauled by Brentford in Pochettino’s ugly Old Trafford debut",
-      "url": "https://www.theguardian.com/football/2026/nov/28/manchester-united-brentford-premier-league-match-report",
-      "source": "The Guardian Football",
-      "published_at": "2026-11-28T17:03:40+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [
-        "Premier League"
-      ],
-      "priority": 12
     },
     {
       "id": "ff4c14055444c009",
@@ -206,32 +241,6 @@
       "language": "en",
       "topics": [],
       "priority": 0
-    },
-    {
-      "id": "bd7d1661a205cc08",
-      "title": "England call up Wubben-Moy for World Cup play-off",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwe9krv444mjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-28T13:41:04+00:00",
-      "category": "competitions",
-      "language": "en",
-      "topics": [
-        "Sélections"
-      ],
-      "priority": 12
-    },
-    {
-      "id": "424c66daa9a87227",
-      "title": "Work in progress but Liverpool find belief again with Iraola",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmn4k7vdqx4vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-28T12:36:26+00:00",
-      "category": "clubs",
-      "language": "en",
-      "topics": [
-        "Premier League"
-      ],
-      "priority": 12
     },
     {
       "id": "e1eed35fa67c5cb2",
@@ -291,6 +300,19 @@
       "language": "en",
       "topics": [],
       "priority": 0
+    },
+    {
+      "id": "ca61bb0e18b24ffd",
+      "title": "Gibbs-White scores twice as Forest beat struggling Chelsea",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm5y10n8e737o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published_at": "2026-11-27T22:30:22+00:00",
+      "category": "clubs",
+      "language": "en",
+      "topics": [
+        "Premier League"
+      ],
+      "priority": 12
     },
     {
       "id": "f00075ce628a5051",
@@ -396,17 +418,6 @@
       "published_at": "2026-11-27T09:02:48+00:00",
       "category": "clubs",
       "language": "fr",
-      "topics": [],
-      "priority": 0
-    },
-    {
-      "id": "d2c8cb2ae0b7d76c",
-      "title": "Sutton's predictions v Kings of Leon drummer Nathan Followill",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3n0l29lrr27o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published_at": "2026-11-26T15:01:48+00:00",
-      "category": "clubs",
-      "language": "en",
       "topics": [],
       "priority": 0
     },
@@ -542,15 +553,15 @@
   ],
   "source_errors": [],
   "search_trends_fr": [
-    "senny mayulu",
-    "mayulu",
-    "juary",
-    "classement al-ahli saudi – al taawon",
-    "gadi eisenkot",
-    "loto du 28 novembre 2026",
-    "classement vfb stuttgart – eintracht frankfurt",
-    "palmeiras – estudiantes",
-    "dazn",
-    "palmeiras"
+    "christophe willem couple",
+    "christophe willem chirurgie esthetique",
+    "golden week fortnite",
+    "willem",
+    "golden knights – canadiens",
+    "leeloo star academy",
+    "magnificat",
+    "real madrid",
+    "saint-vivien-de-médoc",
+    "sophie jovillard"
   ]
 }
